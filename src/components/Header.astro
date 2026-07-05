@@ -21,13 +21,16 @@ const path = Astro.url.pathname;
 
 <header class="bg-white border-b border-slate-200 sticky top-0 z-30">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-end justify-between gap-6">
-    <a href="/" class="cursor-pointer group" aria-label="Campiva Intelligence — inicio">
-      <p class="text-[1.55rem] leading-none font-extrabold tracking-tight">
-        <span class="text-navy-950">CAMPIVA</span><span class="text-amber-deep group-hover:text-amber-brand transition-colors duration-200"> INTELLIGENCE</span>
-      </p>
-      <p class="text-[0.62rem] font-semibold uppercase tracking-[0.32em] text-slate-500 mt-1">
-        Desk de mercados agro · LATAM
-      </p>
+    <a href="/" class="cursor-pointer group flex items-center gap-3" aria-label="Campiva Intelligence — inicio">
+      <img src="/isotipo.png" alt="" width="46" height="27" class="h-[27px] w-auto" />
+      <span>
+        <span class="block text-[1.5rem] leading-none tracking-tight text-navy-950">
+          <span class="font-extrabold">campiva</span><span class="font-light"> intelligence</span><span class="font-extrabold text-leaf-500">.</span>
+        </span>
+        <span class="block text-[0.6rem] font-semibold uppercase tracking-[0.3em] text-slate-500 mt-1">
+          Desk de mercados agro · LATAM
+        </span>
+      </span>
     </a>
     <nav aria-label="Principal" class="flex items-center gap-1">
       {

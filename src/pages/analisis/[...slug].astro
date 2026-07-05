@@ -62,7 +62,7 @@ const relacionados = (await getCollection('analisis'))
           <div class="grid sm:grid-cols-3 gap-4">
             {d.cifras.slice(0, 3).map((c) => (
               <div class="rounded-xl bg-navy-900 ring-1 ring-white/10 p-5">
-                <p class="text-[0.66rem] font-bold uppercase tracking-[0.16em] text-green-brand">{c.label}</p>
+                <p class="text-[0.66rem] font-bold uppercase tracking-[0.16em] text-leaf-300">{c.label}</p>
                 <p class="text-white text-[1.9rem] font-bold tabular-nums leading-tight mt-1.5 tracking-tight">{c.valor}</p>
                 {c.nota && <p class="text-slate-400 text-[0.8rem] leading-snug mt-1.5">{c.nota}</p>}
               </div>

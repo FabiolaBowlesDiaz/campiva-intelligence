@@ -20,12 +20,17 @@
   --color-navy-900: #0b1a2e;
   --color-navy-950: #060f1c;
 
-  /* Acentos de marca (visuales LinkedIn ya aprobadas) */
+  /* Verde Campiva — paleta corporativa oficial (campivacorp.com) */
+  --color-leaf-300: #cbdc53;
+  --color-leaf-500: #95b444;
+  --color-leaf-600: #78903c;
+  --color-leaf-700: #5d6f31;
+
+  /* Acentos del desk (visuales LinkedIn ya aprobadas) */
   --color-amber-brand: #e8b54a;
   --color-amber-soft: #f4ce7e;
   --color-amber-deep: #a87b24;
-  --color-green-brand: #4ade80;
-  --color-green-deep: #15803d;
+  --color-green-brand: #4ade80; /* solo semántica de datos positivos sobre navy */
 
   /* Semánticos de mercado (superficie clara) */
   --color-up: #15803d;
