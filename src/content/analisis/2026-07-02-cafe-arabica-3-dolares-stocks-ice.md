@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: cafe
 pais: GLOBAL
 score: 8.6
-destacado: true
+destacado: false
 lectura: "Cuando Brasil acelere —julio viene seco—, la corrección puede ser tan rápida como la subida. Los récords no se celebran: se aseguran en contratos."
 cifras:
   - label: "Arábica ICE"
