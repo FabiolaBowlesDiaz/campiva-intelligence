@@ -42,6 +42,6 @@ Para los orígenes de la región, la pregunta no es si la demanda de feedstocks 
 
 ## La lectura para LATAM
 
-El desk ve tres implicancias operativas. Primero, los aceites vegetales de la región ganan un comprador estructural nuevo que compite con la demanda alimentaria tradicional — soporte de precios de largo plazo. Segundo, la certificación (ISCC y equivalentes) deja de ser un diferencial de marketing y pasa a ser la llave de acceso al mercado. Tercero, los países con biodiésel y capacidad de molienda instalada tienen una base industrial adaptable — pero la ventana para posicionarse la van a aprovechar los que empiecen antes de que la brecha se cierre con inversión de otros orígenes.
+La mesa ve tres implicancias operativas. Primero, los aceites vegetales de la región ganan un comprador estructural nuevo que compite con la demanda alimentaria tradicional — soporte de precios de largo plazo. Segundo, la certificación (ISCC y equivalentes) deja de ser un diferencial de marketing y pasa a ser la llave de acceso al mercado. Tercero, los países con biodiésel y capacidad de molienda instalada tienen una base industrial adaptable — pero la ventana para posicionarse la van a aprovechar los que empiecen antes de que la brecha se cierre con inversión de otros orígenes.
 
 Seguiremos esta serie con los datos de capacidad anunciada en la región y los mandatos que la definen.

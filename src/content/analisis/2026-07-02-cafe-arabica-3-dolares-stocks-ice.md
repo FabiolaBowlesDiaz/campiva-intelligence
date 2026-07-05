@@ -57,6 +57,6 @@ El caso de Perú resume lo que está en juego para los orígenes de la región. 
 
 Ese récord lo hizo el precio, no el campo. Y lo que hace el precio, lo puede deshacer. Un productor o exportador que planifica 2026 asumiendo los ingresos de 2025 está construyendo sobre la parte más volátil de la ecuación.
 
-## Qué haría el desk
+## Qué haría la mesa
 
 Para quien tiene café físico o compromisos de compra, este es un mercado para gestionar, no para adivinar: fijaciones parciales en los picos, cobertura del descalce entre compra al productor y venta al destino, y mucha atención al ritmo de certificación de stocks en ICE durante julio. La pregunta operativa de la semana es una sola: ¿qué porcentaje de tu posición estás dispuesto a dejar expuesto a la normalización brasileña?
