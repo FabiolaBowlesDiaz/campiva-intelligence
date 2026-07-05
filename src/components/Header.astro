@@ -21,7 +21,7 @@ const path = Astro.url.pathname;
 </div>
 
 <header class="bg-white border-b border-slate-200 sticky top-0 z-30">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-end justify-between gap-6">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex flex-col gap-3 md:flex-row md:items-end md:justify-between md:gap-6">
     <a href="/" class="cursor-pointer group flex items-center gap-3" aria-label="Campiva Intelligence — inicio">
       <img src="/isotipo.png" alt="" width="46" height="27" class="h-[27px] w-auto" />
       <span>
@@ -33,7 +33,7 @@ const path = Astro.url.pathname;
         </span>
       </span>
     </a>
-    <nav aria-label="Principal" class="flex items-center gap-1">
+    <nav aria-label="Principal" class="flex items-center gap-1 overflow-x-auto -mx-1 px-1">
       {
         nav.map((n) => {
           const activo = n.href === '/' ? path === '/' : path.startsWith(n.href);
