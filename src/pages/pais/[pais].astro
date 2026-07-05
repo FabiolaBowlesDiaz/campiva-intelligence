@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import PaginaListado from '../../components/PaginaListado.astro';
+import { labelPais } from '../../lib/format';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('analisis');
+  const paises = [...new Set(entries.map((e) => e.data.pais.toLowerCase()))];
+  return paises.map((pais) => ({ params: { pais } }));
+}
+
+const { pais } = Astro.params;
+const entries = (await getCollection('analisis'))
+  .filter((e) => e.data.pais.toLowerCase() === pais)
+  .sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime());
+const nombre = labelPais(pais!.toUpperCase());
+---
+
+<PaginaListado
+  kicker="País / región"
+  titulo={nombre}
+  descripcion={`Análisis de mercados agroindustriales con foco en ${nombre}: regulación, exportaciones, precios y logística, verificados por el Campiva Intelligence Desk.`}
+  entries={entries}
+/>

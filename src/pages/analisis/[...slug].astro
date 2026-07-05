@@ -25,10 +25,35 @@ const relacionados = (await getCollection('analisis'))
   .filter((e) => e.id !== entry.id && e.data.vertical === d.vertical)
   .sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime())
   .slice(0, 2);
+
+const ogImage = new URL(`/og/${entry.id}.png`, Astro.site).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: d.title,
+  description: d.bajada,
+  datePublished: d.fecha.toISOString(),
+  dateModified: d.fecha.toISOString(),
+  inLanguage: 'es',
+  image: [ogImage],
+  mainEntityOfPage: new URL(`/analisis/${entry.id}/`, Astro.site).href,
+  articleSection: labelVertical(d.vertical),
+  author: {
+    '@type': 'Organization',
+    name: 'Campiva Intelligence Desk',
+    url: new URL('/', Astro.site).href,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Campivacorp',
+    logo: { '@type': 'ImageObject', url: new URL('/isotipo.png', Astro.site).href },
+  },
+};
 ---
 
-<Base title={`${d.title} — Campiva Intelligence`} description={d.bajada}>
-  <article class="max-w-6xl mx-auto px-4 sm:px-6 pt-10">
+<Base title={`${d.title} — Campiva Intelligence`} description={d.bajada} image={ogImage} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <article class="max-w-6xl mx-auto px-4 sm:px-6 pt-10" data-pagefind-body>
     <div class="max-w-3xl mx-auto">
       <p class="flex flex-wrap items-center gap-2.5 text-[0.72rem] font-bold uppercase tracking-[0.14em] text-amber-deep">
         {labelTipo(d.tipo)}
@@ -50,8 +75,8 @@ const relacionados = (await getCollection('analisis'))
           <p>{fmtFecha(d.fecha)} · {minutos} min de lectura</p>
         </div>
         <div class="flex gap-2 ml-auto">
-          <Badge kind="vertical" label={labelVertical(d.vertical)} />
-          <Badge kind="pais" label={labelPais(d.pais)} />
+          <Badge kind="vertical" label={labelVertical(d.vertical)} href={`/vertical/${d.vertical}/`} />
+          <Badge kind="pais" label={labelPais(d.pais)} href={`/pais/${d.pais.toLowerCase()}/`} />
         </div>
       </div>
     </div>

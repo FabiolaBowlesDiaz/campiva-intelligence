@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import PaginaListado from '../../components/PaginaListado.astro';
+import { labelVertical } from '../../lib/format';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('analisis');
+  const verticales = [...new Set(entries.map((e) => e.data.vertical))];
+  return verticales.map((vertical) => ({ params: { vertical } }));
+}
+
+const { vertical } = Astro.params;
+const entries = (await getCollection('analisis'))
+  .filter((e) => e.data.vertical === vertical)
+  .sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime());
+const nombre = labelVertical(vertical!);
+---
+
+<PaginaListado
+  kicker="Vertical"
+  titulo={nombre}
+  descripcion={`Todos los análisis del Campiva Intelligence Desk sobre ${nombre.toLowerCase()}: cifras verificadas, fuentes fechadas y la lectura de la casa para Bolivia y LATAM.`}
+  entries={entries}
+  rssHref={`/rss/${vertical}.xml`}
+/>

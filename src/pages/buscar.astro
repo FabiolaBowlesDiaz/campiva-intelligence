@@ -1,0 +1,73 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Buscar — Campiva Intelligence"
+  description="Buscá en todos los análisis del Campiva Intelligence Desk: soya, café, cacao, cereales, biocombustibles, logística y más.">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pt-10 pb-8 min-h-[50vh]">
+    <h1 class="font-serif text-[2.3rem] leading-tight font-semibold text-navy-950">Buscar</h1>
+    <p class="text-slate-600 text-[1.02rem] leading-relaxed mt-3">
+      Todo el archivo de análisis del desk, al alcance de una palabra: un commodity, un país,
+      una empresa, una política.
+    </p>
+    <div id="search" class="mt-8"></div>
+    <noscript>
+      <p class="mt-6 rounded-xl bg-slate-50 ring-1 ring-slate-200 px-5 py-4 text-slate-600 text-[0.9rem]">
+        La búsqueda necesita JavaScript. Podés navegar el archivo desde
+        <a href="/analisis/" class="underline">Análisis</a>.
+      </p>
+    </noscript>
+  </div>
+</Base>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    const el = document.getElementById('search');
+    if (window.PagefindUI) {
+      new window.PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        translations: {
+          placeholder: 'Buscar en los análisis…',
+          zero_results: 'Sin resultados para «[SEARCH_TERM]»',
+          clear_search: 'Limpiar',
+          load_more: 'Cargar más resultados',
+          many_results: '[COUNT] resultados para «[SEARCH_TERM]»',
+          one_result: '1 resultado para «[SEARCH_TERM]»',
+          searching: 'Buscando «[SEARCH_TERM]»…',
+        },
+      });
+    } else if (el) {
+      el.innerHTML =
+        '<p style="padding:1rem 1.25rem;background:#f8fafc;border:1px solid #e2e8f0;border-radius:0.75rem;color:#475569;font-size:0.9rem">El índice de búsqueda se genera con el build de producción — está disponible en el sitio publicado.</p>';
+    }
+  });
+</script>
+
+<style is:global>
+  #search {
+    --pagefind-ui-primary: #0b1a2e;
+    --pagefind-ui-text: #0f172a;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #e2e8f0;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.65rem;
+    --pagefind-ui-font: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+  }
+  #search .pagefind-ui__result-title {
+    font-family: 'Newsreader Variable', Georgia, serif;
+    font-weight: 600;
+  }
+  #search .pagefind-ui__result-link {
+    color: #0b1a2e;
+  }
+  #search .pagefind-ui__button {
+    background: #0b1a2e;
+    color: #fff;
+    border: none;
+  }
+</style>

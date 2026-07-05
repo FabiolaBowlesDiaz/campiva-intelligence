@@ -54,8 +54,8 @@ const impactoCls =
       <span class:list={['font-bold uppercase tracking-wide', impactoCls]}>
         ● impacto {item.impacto}
       </span>
-      <Badge kind="vertical" label={labelVertical(item.vertical)} />
-      <Badge kind="pais" label={labelPais(item.pais)} />
+      <Badge kind="vertical" label={labelVertical(item.vertical)} href={`/vertical/${item.vertical}/`} />
+      <Badge kind="pais" label={labelPais(item.pais)} href={`/pais/${item.pais.toLowerCase()}/`} />
     </div>
   </div>
 </li>

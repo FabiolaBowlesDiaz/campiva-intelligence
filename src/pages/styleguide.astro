@@ -1,0 +1,126 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Badge from '../components/Badge.astro';
+import ScoreChip from '../components/ScoreChip.astro';
+import IndicadorCard from '../components/IndicadorCard.astro';
+import RadarItem from '../components/RadarItem.astro';
+import CardAnalisis from '../components/CardAnalisis.astro';
+import NewsletterBlock from '../components/NewsletterBlock.astro';
+
+const entry = (await getCollection('analisis'))[0];
+
+const tokens = [
+  { n: 'navy-900 (firma)', c: 'bg-navy-900', hex: '#0B1A2E' },
+  { n: 'navy-950', c: 'bg-navy-950', hex: '#060F1C' },
+  { n: 'navy-600', c: 'bg-navy-600', hex: '#27456B' },
+  { n: 'leaf-300 (accent)', c: 'bg-leaf-300', hex: '#CBDC53' },
+  { n: 'leaf-500 (primary)', c: 'bg-leaf-500', hex: '#95B444' },
+  { n: 'leaf-700 (secondary)', c: 'bg-leaf-700', hex: '#5D6F31' },
+  { n: 'amber-brand (desk)', c: 'bg-amber-brand', hex: '#E8B54A' },
+  { n: 'green-brand (datos +)', c: 'bg-green-brand', hex: '#4ADE80' },
+];
+
+const indicadorDemo = {
+  nombre: 'Soya CBOT',
+  valor: '11,32',
+  unidad: 'US$/bu',
+  cambio: 7.4,
+  cambioLabel: 'interanual',
+  fuente: 'CBOT vía TradingEconomics',
+  asOf: '2026-07-02',
+  verificado: true,
+  serie: [10.55, 10.6, 10.52, 10.65, 10.7, 10.78, 10.72, 10.85, 10.9, 10.98, 11.05, 10.95, 11.1, 11.18, 11.12, 11.2, 11.25, 11.19, 11.28, 11.32],
+};
+const radarDemo = {
+  titular: 'Titular de ejemplo del radar con link a la fuente original',
+  resumen: 'Resumen de dos líneas con la cifra clave verificada y su contexto inmediato.',
+  fuente: 'Fuente oficial',
+  url: 'https://example.com',
+  vertical: 'soya',
+  pais: 'BO',
+  impacto: 'alto',
+  score: 8.2,
+};
+---
+
+<Base
+  title="Styleguide — Campiva Intelligence"
+  description="Design system interno de Campiva Intelligence."
+  noindex>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-10 pb-8 space-y-12">
+    <header>
+      <h1 class="font-serif text-[2.3rem] leading-tight font-semibold text-navy-950">Styleguide</h1>
+      <p class="text-slate-600 mt-2">Design system de Campiva Intelligence — página interna (noindex).</p>
+    </header>
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Paleta</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+        {
+          tokens.map((t) => (
+            <div class="rounded-xl ring-1 ring-slate-200 overflow-hidden">
+              <div class:list={['h-16', t.c]} />
+              <div class="px-3 py-2 text-[0.74rem]">
+                <p class="font-semibold text-navy-900">{t.n}</p>
+                <p class="text-slate-500 tabular-nums">{t.hex}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Tipografía</h2>
+      <p class="font-serif text-[2.2rem] font-semibold text-navy-950 leading-tight">Newsreader — titulares y lectura editorial</p>
+      <p class="font-sans text-[1rem] text-slate-700 mt-3">Inter — interfaz, metadatos, datos de mercado. <span class="font-semibold">Semibold para énfasis.</span> <span class="tabular-nums">0123456789 tabular</span></p>
+    </section>
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Badges y scores</h2>
+      <div class="flex flex-wrap items-center gap-3">
+        <Badge kind="vertical" label="Soya y girasol" href="/vertical/soya/" />
+        <Badge kind="pais" label="Bolivia" href="/pais/bo/" />
+        <Badge kind="tipo" label="Análisis ejecutivo" />
+        <Badge kind="impacto" label="Impacto alto" />
+        <ScoreChip score={8.6} />
+        <ScoreChip score={7.7} />
+        <ScoreChip score={6.4} />
+        <ScoreChip score={8.6} size="md" />
+      </div>
+      <p class="text-[0.78rem] text-slate-500 mt-3">Score: ámbar ≥ 8,5 (top del día) · verde oliva ≥ 7,5 (umbral de redacción) · gris &lt; 7,5.</p>
+    </section>
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Card de indicador</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <IndicadorCard item={indicadorDemo} />
+        <IndicadorCard item={{ ...indicadorDemo, nombre: 'Ejemplo a la baja', cambio: -2.3, cambioLabel: 'semanal', serie: [...indicadorDemo.serie].reverse(), verificado: false }} />
+      </div>
+    </section>
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Fila de radar</h2>
+      <ul class="list-none max-w-xl rounded-2xl ring-1 ring-slate-200 bg-slate-50/70 px-5 py-2">
+        <RadarItem item={radarDemo} />
+      </ul>
+    </section>
+
+    {
+      entry && (
+        <section>
+          <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Cards de análisis</h2>
+          <div class="grid sm:grid-cols-2 gap-8 max-w-3xl">
+            <CardAnalisis entry={entry} />
+          </div>
+        </section>
+      )
+    }
+
+    <section>
+      <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2 mb-5">Newsletter</h2>
+      <NewsletterBlock />
+    </section>
+  </div>
+</Base>

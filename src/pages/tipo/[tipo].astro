@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import PaginaListado from '../../components/PaginaListado.astro';
+import { labelTipo } from '../../lib/format';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('analisis');
+  const tipos = [...new Set(entries.map((e) => e.data.tipo))];
+  return tipos.map((tipo) => ({ params: { tipo } }));
+}
+
+const { tipo } = Astro.params;
+const entries = (await getCollection('analisis'))
+  .filter((e) => e.data.tipo === tipo)
+  .sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime());
+const nombre = labelTipo(tipo!);
+---
+
+<PaginaListado
+  kicker="Tipo de publicación"
+  titulo={nombre}
+  descripcion={`Publicaciones del tipo "${nombre.toLowerCase()}" del Campiva Intelligence Desk, con su score de relevancia y fuentes verificadas.`}
+  entries={entries}
+/>

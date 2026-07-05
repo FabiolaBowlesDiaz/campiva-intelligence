@@ -1,11 +1,13 @@
 ---
-/** Badge de taxonomía: vertical, país, tipo o impacto */
+/** Badge de taxonomía: vertical, país, tipo o impacto. Con href se vuelve link a la taxonomía. */
 interface Props {
   kind: 'vertical' | 'pais' | 'tipo' | 'impacto';
   label: string;
   dark?: boolean;
+  href?: string;
 }
-const { kind, label, dark = false } = Astro.props;
+const { kind, label, dark = false, href } = Astro.props;
+const Tag = href ? 'a' : 'span';
 
 const styles: Record<string, string> = {
   vertical: dark
@@ -23,8 +25,10 @@ const styles: Record<string, string> = {
 };
 ---
 
-<span
+<Tag
+  href={href}
   class:list={[
     'inline-flex items-center rounded-full px-2.5 py-0.5 text-[0.68rem] font-semibold uppercase tracking-[0.08em] ring-1 ring-inset whitespace-nowrap',
     styles[kind],
-  ]}>{label}</span>
+    href && 'cursor-pointer hover:ring-2 transition-shadow duration-200',
+  ]}>{label}</Tag>
