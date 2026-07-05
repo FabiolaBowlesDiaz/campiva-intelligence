@@ -1,0 +1,109 @@
+---
+import Base from '../layouts/Base.astro';
+
+const criterios = [
+  ['Impacto económico', '20%'],
+  ['Relevancia para los verticales de Campiva', '20%'],
+  ['Relevancia para LATAM', '15%'],
+  ['Potencial estratégico', '10%'],
+  ['Valor educativo', '10%'],
+  ['Potencial de difusión', '10%'],
+  ['Interés de la audiencia', '10%'],
+  ['Nivel de innovación', '5%'],
+];
+---
+
+<Base
+  title="Sobre Campiva Intelligence — quiénes somos y cómo trabajamos"
+  description="Campiva Intelligence es la casa de análisis de mercados agroindustriales de Campivacorp: metodología de verificación, matriz de relevancia y reglas editoriales.">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pt-10 pb-8">
+    <p class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-amber-deep">Sobre nosotros</p>
+    <h1 class="font-serif text-[2.3rem] leading-tight font-semibold text-navy-950 mt-2">
+      Inteligencia de mercados agro, desde Bolivia para LATAM
+    </h1>
+
+    <div class="prose-desk mt-8">
+      <p>
+        <strong>Campiva Intelligence</strong> es la casa de análisis de
+        <a href="https://campivacorp.com/" target="_blank" rel="noopener noreferrer">Campivacorp</a>,
+        una empresa de comercio internacional de productos agroindustriales que opera en
+        América Latina. Publicamos lo que nuestra mesa de análisis produce cada día para
+        operar: los precios que importan, las noticias que mueven decisiones y la lectura
+        propia de los mercados donde trabajamos.
+      </p>
+      <p>
+        No somos un medio de noticias tradicional. Somos una mesa de mercados que decidió
+        publicar su trabajo — y esa diferencia define nuestras reglas.
+      </p>
+
+      <h2>Cómo trabajamos</h2>
+      <p>
+        Cada pieza pasa por el mismo proceso: <strong>descubrir</strong> lo relevante en
+        fuentes oficiales y de mercado, <strong>verificar</strong> cada cifra contra su
+        fuente primaria, <strong>puntuar</strong> la relevancia con una matriz explícita y
+        recién entonces <strong>publicar</strong>. Lo que no se puede verificar, se
+        descarta — aunque sea un buen titular.
+      </p>
+    </div>
+
+    <div class="rounded-xl bg-navy-50 ring-1 ring-navy-100 px-5 py-4 mt-6 text-[0.9rem] text-navy-800">
+      <p class="font-bold text-[0.7rem] uppercase tracking-[0.16em] text-navy-600 mb-2.5">
+        Nuestras tres reglas innegociables
+      </p>
+      <ol class="list-decimal list-inside space-y-1.5">
+        <li><strong>Ninguna cifra sin fuente verificada y fechada.</strong> Cada análisis publica su tabla de fuentes.</li>
+        <li><strong>Fechas absolutas, siempre.</strong> "Recientemente" no es un dato.</li>
+        <li><strong>La lectura es nuestra y está señalada.</strong> El hecho y la opinión nunca se mezclan sin aviso.</li>
+      </ol>
+    </div>
+
+    <div class="prose-desk mt-8">
+      <h2>El score de relevancia</h2>
+      <p>
+        Cada historia del radar lleva un puntaje de 0 a 10. No es decorativo: es la matriz
+        con la que nuestra mesa decide qué merece análisis propio. Sobre 7,5, escribimos.
+      </p>
+    </div>
+
+    <div class="overflow-x-auto mt-4">
+      <table class="w-full text-[0.86rem]">
+        <thead>
+          <tr class="text-left text-slate-500 uppercase text-[0.66rem] tracking-wider border-b-2 border-navy-900">
+            <th class="py-2 pr-4 font-bold">Criterio</th>
+            <th class="py-2 font-bold">Peso</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-100">
+          {
+            criterios.map(([c, p]) => (
+              <tr>
+                <td class="py-2 pr-4 text-slate-700">{c}</td>
+                <td class="py-2 font-semibold text-navy-900 tabular-nums">{p}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <div class="prose-desk mt-8">
+      <h2>Lo que no somos</h2>
+      <p>
+        No somos asesores de inversión y nada de lo publicado constituye una recomendación
+        de compra o venta de instrumentos financieros. Analizamos mercados para que cada
+        lector decida con mejor información. En temas regulatorios y políticos describimos
+        medidas y efectos económicos con datos — las valoraciones partidarias no son
+        nuestro negocio.
+      </p>
+
+      <h2>Contacto</h2>
+      <p>
+        Para consultas comerciales sobre Campivacorp, visitá
+        <a href="https://campivacorp.com/" target="_blank" rel="noopener noreferrer">campivacorp.com</a>.
+        Para seguir la conversación diaria, encontranos en
+        <a href="https://www.linkedin.com/company/campivacorp/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        o suscribite al boletín desde la portada.
+      </p>
+    </div>
+  </div>
+</Base>

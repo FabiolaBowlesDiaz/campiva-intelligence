@@ -1,12 +1,15 @@
 ---
 import Base from '../layouts/Base.astro';
 import RadarItem from '../components/RadarItem.astro';
-import { fmtFecha } from '../lib/format';
+import { fmtFecha, labelPais, labelVertical } from '../lib/format';
 
 const radarFiles = import.meta.glob<{ fecha: string; items: any[] }>('../data/radar/*.json', {
   eager: true,
 });
 const radares = Object.values(radarFiles).sort((a, b) => b.fecha.localeCompare(a.fecha));
+
+const verticalesUsados = [...new Set(radares.flatMap((r) => r.items.map((i) => i.vertical)))].sort();
+const paisesUsados = [...new Set(radares.flatMap((r) => r.items.map((i) => i.pais)))].sort();
 ---
 
 <Base
@@ -27,11 +30,51 @@ const radares = Object.values(radarFiles).sort((a, b) => b.fecha.localeCompare(a
       económico, relevancia para los verticales de Campiva, relevancia LATAM, potencial
       estratégico, educativo, viralidad, interés de la audiencia e innovación.
       <span class="font-semibold">Sobre 7,5</span>, publicamos además análisis propio.
+      <a href="/sobre/" class="font-semibold underline decoration-amber-brand decoration-2 underline-offset-2 hover:text-navy-950 cursor-pointer ml-1">Conocé la metodología completa →</a>
+    </div>
+
+    <div class="mt-8 space-y-3" id="radar-filtros">
+      <div class="flex flex-wrap items-center gap-2" role="group" aria-label="Filtrar por vertical">
+        <span class="text-[0.68rem] font-bold uppercase tracking-[0.14em] text-slate-500 mr-1">Vertical</span>
+        {
+          verticalesUsados.map((v) => (
+            <button
+              type="button"
+              data-filtro="vertical"
+              data-valor={v}
+              aria-pressed="false"
+              class="rounded-full px-3 py-1 text-[0.74rem] font-semibold ring-1 ring-inset ring-slate-300 text-slate-600 hover:ring-navy-600 hover:text-navy-900 transition-colors duration-200 cursor-pointer aria-pressed:bg-navy-900 aria-pressed:text-white aria-pressed:ring-navy-900">
+              {labelVertical(v)}
+            </button>
+          ))
+        }
+      </div>
+      <div class="flex flex-wrap items-center gap-2" role="group" aria-label="Filtrar por país">
+        <span class="text-[0.68rem] font-bold uppercase tracking-[0.14em] text-slate-500 mr-1">País</span>
+        {
+          paisesUsados.map((p) => (
+            <button
+              type="button"
+              data-filtro="pais"
+              data-valor={p}
+              aria-pressed="false"
+              class="rounded-full px-3 py-1 text-[0.74rem] font-semibold ring-1 ring-inset ring-slate-300 text-slate-600 hover:ring-navy-600 hover:text-navy-900 transition-colors duration-200 cursor-pointer aria-pressed:bg-navy-900 aria-pressed:text-white aria-pressed:ring-navy-900">
+              {labelPais(p)}
+            </button>
+          ))
+        }
+        <button
+          type="button"
+          id="radar-filtro-reset"
+          class="rounded-full px-3 py-1 text-[0.74rem] font-semibold text-amber-deep hover:text-navy-900 transition-colors duration-200 cursor-pointer hidden">
+          Limpiar filtros ✕
+        </button>
+      </div>
     </div>
 
     {
       radares.map((r) => (
-        <section aria-label={`Radar del ${fmtFecha(new Date(r.fecha))}`} class="mt-10">
+        <section aria-label={`Radar del ${fmtFecha(new Date(r.fecha))}`} class="mt-10" data-radar-dia>
           <div class="flex items-baseline justify-between border-b-2 border-navy-900 pb-2.5">
             <h2 class="text-[0.82rem] font-bold uppercase tracking-[0.18em] text-navy-950">
               {fmtFecha(new Date(r.fecha))}
@@ -46,5 +89,55 @@ const radares = Object.values(radarFiles).sort((a, b) => b.fecha.localeCompare(a
         </section>
       ))
     }
+
+    <p id="radar-sin-resultados" class="hidden mt-10 rounded-xl bg-slate-50 ring-1 ring-slate-200 px-5 py-6 text-slate-600 text-[0.95rem]">
+      Ninguna historia del radar coincide con ese filtro. Probá con otra combinación o limpiá los filtros.
+    </p>
   </div>
+
+  <script is:inline>
+    (() => {
+      const estado = { vertical: null, pais: null };
+      const botones = document.querySelectorAll('[data-filtro]');
+      const reset = document.getElementById('radar-filtro-reset');
+      const sinResultados = document.getElementById('radar-sin-resultados');
+
+      function aplicar() {
+        let visibles = 0;
+        document.querySelectorAll('[data-radar-item]').forEach((li) => {
+          const ok =
+            (!estado.vertical || li.dataset.vertical === estado.vertical) &&
+            (!estado.pais || li.dataset.pais === estado.pais);
+          li.style.display = ok ? '' : 'none';
+          if (ok) visibles++;
+        });
+        document.querySelectorAll('[data-radar-dia]').forEach((sec) => {
+          const tieneVisibles = [...sec.querySelectorAll('[data-radar-item]')].some(
+            (li) => li.style.display !== 'none',
+          );
+          sec.style.display = tieneVisibles ? '' : 'none';
+        });
+        const hayFiltro = estado.vertical || estado.pais;
+        reset.classList.toggle('hidden', !hayFiltro);
+        sinResultados.classList.toggle('hidden', visibles > 0);
+        botones.forEach((b) => {
+          const activo = estado[b.dataset.filtro] === b.dataset.valor;
+          b.setAttribute('aria-pressed', String(activo));
+        });
+      }
+
+      botones.forEach((b) => {
+        b.addEventListener('click', () => {
+          const tipo = b.dataset.filtro;
+          estado[tipo] = estado[tipo] === b.dataset.valor ? null : b.dataset.valor;
+          aplicar();
+        });
+      });
+      reset.addEventListener('click', () => {
+        estado.vertical = null;
+        estado.pais = null;
+        aplicar();
+      });
+    })();
+  </script>
 </Base>
