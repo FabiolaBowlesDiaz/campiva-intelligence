@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-07-05",
+  "items": [
+    {
+      "titular": "El Niño ya está activo y NOAA le da 63% de probabilidad de volverse muy fuerte hacia fin de año",
+      "resumen": "El advisory del 11 de junio confirma condiciones de El Niño con fortalecimiento esperado hacia noviembre-enero — entre los eventos más intensos desde 1950 si se confirma. Sudamérica siembra su campaña de verano en plena definición.",
+      "fuente": "NOAA / CPC",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.5
+    },
+    {
+      "titular": "Fletes: el Drewry WCI saltó 9% en una semana, a US$ 4.530 por contenedor",
+      "resumen": "El índice global de contenedores subió con fuerza por las rutas Transpacífico y Asia-Europa (dato al 2 de julio). Costo directo para exportadores de valor agregado agro de LATAM.",
+      "fuente": "Drewry",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El aceite refinado de soya boliviano crece a triple dígito: +116% en volumen y +129% en valor en el primer trimestre",
+      "resumen": "Los datos presentados por Campivacorp en Valor Agregado muestran que el valor agregado del complejo soyero acelera, con Colombia, Perú, Ecuador y Chile como destinos principales.",
+      "fuente": "Valor Agregado / Campivacorp",
+      "url": "https://valoragregado.net/oleaginosas-en-bolivia-factor-esperanza/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Cacao: +26,5% en un mes hasta US$ 5.017 la tonelada",
+      "resumen": "El rally mensual más fuerte del tablero agro, con el mercado atento al clima de África Occidental. La semana cerró apenas -1,5%: consolidación, no reversión.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El café suma +10,6% en la semana y ya acumula +22% en el mes",
+      "resumen": "La tensión de stocks certificados en mínimos que analizamos el 2 de julio sigue vigente: el arábica sostiene los US$ 3,02/lb al cierre del viernes.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Torta de soya boliviana: US$ 486 millones en 2025, un 11% menos que el año anterior",
+      "resumen": "El dato del IBCE recuerda que el grueso del complejo exportador sigue siendo el subproducto — y que la recuperación de 2026 se juega en precio internacional y logística.",
+      "fuente": "IBCE vía Valor Agregado",
+      "url": "https://valoragregado.net/oleaginosas-en-bolivia-factor-esperanza/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Baltic Dry en 2.717 puntos: -10,5% en el mes pero +89% interanual",
+      "resumen": "El índice de graneles secos cerró el viernes en su mejor nivel desde mediados de junio, empujado por los capesize (+4,6%). Referencia clave para el costo del grano a granel.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.2
+    },
+    {
+      "titular": "Soya CBOT estable en US$ 11,32/bu a la espera del WASDE de julio",
+      "resumen": "La semana cerró +0,4% con el mercado en compás de espera por el próximo informe de oferta y demanda del USDA, que definirá el tono del segundo semestre.",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.0
+    }
+  ]
+}
