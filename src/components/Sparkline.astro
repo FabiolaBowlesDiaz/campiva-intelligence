@@ -1,0 +1,48 @@
+---
+/** Sparkline SVG estático (cero JS) — color según dirección del cambio */
+interface Props {
+  serie: number[];
+  positivo: boolean;
+  w?: number;
+  h?: number;
+}
+const { serie, positivo, w = 120, h = 34 } = Astro.props;
+
+const min = Math.min(...serie);
+const max = Math.max(...serie);
+const range = max - min || 1;
+const pad = 2;
+
+const pts = serie.map((v, i) => {
+  const x = pad + (i / (serie.length - 1)) * (w - pad * 2);
+  const y = pad + (1 - (v - min) / range) * (h - pad * 2);
+  return [Number(x.toFixed(1)), Number(y.toFixed(1))];
+});
+const line = pts.map((p) => p.join(',')).join(' ');
+const area = `${pad},${h} ${line} ${w - pad},${h}`;
+const color = positivo ? '#4ade80' : '#f87171';
+const gid = `g${Math.abs(serie.reduce((a, b) => a + b, 0)).toFixed(0)}${serie.length}`;
+---
+
+<svg
+  width={w}
+  height={h}
+  viewBox={`0 0 ${w} ${h}`}
+  fill="none"
+  role="img"
+  aria-label={`Tendencia ${positivo ? 'al alza' : 'a la baja'}`}
+  class="shrink-0">
+  <defs>
+    <linearGradient id={gid} x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color={color} stop-opacity="0.25"></stop>
+      <stop offset="100%" stop-color={color} stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <polygon points={area} fill={`url(#${gid})`}></polygon>
+  <polyline
+    points={line}
+    stroke={color}
+    stroke-width="1.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"></polyline>
+</svg>

@@ -1,0 +1,126 @@
+{
+  "_nota": "SEED de desarrollo. Los items con verificado=false son datos de demostración para diseño y se reemplazan por el pipeline v2 antes del go-live (PER-28).",
+  "actualizado": "2026-07-02",
+  "items": [
+    {
+      "id": "soya-cbot",
+      "nombre": "Soya CBOT",
+      "valor": "11,32",
+      "unidad": "US$/bu",
+      "cambio": 7.4,
+      "cambioLabel": "interanual",
+      "fuente": "CBOT vía TradingEconomics",
+      "asOf": "2026-07-02",
+      "verificado": true,
+      "serie": [10.55, 10.6, 10.52, 10.65, 10.7, 10.78, 10.72, 10.85, 10.9, 10.98, 11.05, 10.95, 11.1, 11.18, 11.12, 11.2, 11.25, 11.19, 11.28, 11.32]
+    },
+    {
+      "id": "cafe-arabica",
+      "nombre": "Café arábica ICE",
+      "valor": "3,02",
+      "unidad": "US$/lb",
+      "cambio": 19.4,
+      "cambioLabel": "mensual",
+      "fuente": "ICE vía TradingEconomics",
+      "asOf": "2026-07-02",
+      "verificado": true,
+      "serie": [2.53, 2.55, 2.6, 2.58, 2.66, 2.72, 2.7, 2.78, 2.85, 2.8, 2.88, 2.95, 2.9, 2.98, 3.05, 3.0, 2.96, 3.04, 3.08, 3.02]
+    },
+    {
+      "id": "azucar-11",
+      "nombre": "Azúcar #11",
+      "valor": "16,48",
+      "unidad": "¢/lb",
+      "cambio": -2.1,
+      "cambioLabel": "semanal",
+      "fuente": "ICE (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [17.2, 17.1, 17.15, 16.98, 17.02, 16.9, 16.85, 16.92, 16.78, 16.8, 16.7, 16.74, 16.62, 16.68, 16.55, 16.6, 16.52, 16.5, 16.44, 16.48]
+    },
+    {
+      "id": "cacao-ny",
+      "nombre": "Cacao NY",
+      "valor": "9.410",
+      "unidad": "US$/t",
+      "cambio": 3.2,
+      "cambioLabel": "semanal",
+      "fuente": "ICE (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [8900, 8960, 8920, 9050, 9010, 9120, 9080, 9150, 9210, 9180, 9260, 9220, 9300, 9280, 9350, 9320, 9390, 9360, 9430, 9410]
+    },
+    {
+      "id": "maiz-cbot",
+      "nombre": "Maíz CBOT",
+      "valor": "4,21",
+      "unidad": "US$/bu",
+      "cambio": -1.4,
+      "cambioLabel": "semanal",
+      "fuente": "CBOT (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [4.35, 4.33, 4.36, 4.3, 4.32, 4.28, 4.29, 4.26, 4.3, 4.27, 4.24, 4.26, 4.22, 4.25, 4.2, 4.23, 4.19, 4.22, 4.18, 4.21]
+    },
+    {
+      "id": "trigo-cbot",
+      "nombre": "Trigo CBOT",
+      "valor": "5,46",
+      "unidad": "US$/bu",
+      "cambio": -0.8,
+      "cambioLabel": "semanal",
+      "fuente": "CBOT (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [5.6, 5.58, 5.62, 5.55, 5.57, 5.52, 5.54, 5.5, 5.53, 5.48, 5.51, 5.47, 5.5, 5.45, 5.48, 5.44, 5.47, 5.43, 5.45, 5.46]
+    },
+    {
+      "id": "brent",
+      "nombre": "Brent",
+      "valor": "68,40",
+      "unidad": "US$/bbl",
+      "cambio": 2.6,
+      "cambioLabel": "semanal",
+      "fuente": "EIA (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [66.1, 66.4, 66.0, 66.8, 66.5, 67.1, 66.9, 67.4, 67.2, 67.8, 67.5, 68.0, 67.7, 68.2, 67.9, 68.5, 68.1, 68.6, 68.2, 68.4]
+    },
+    {
+      "id": "drewry-wci",
+      "nombre": "Drewry WCI",
+      "valor": "2.410",
+      "unidad": "US$/FEU",
+      "cambio": -4.9,
+      "cambioLabel": "semanal",
+      "fuente": "Drewry (demo)",
+      "asOf": "2026-07-01",
+      "verificado": false,
+      "serie": [2600, 2585, 2610, 2560, 2570, 2530, 2545, 2500, 2515, 2480, 2495, 2460, 2470, 2445, 2455, 2430, 2440, 2420, 2405, 2410]
+    },
+    {
+      "id": "baltic-dry",
+      "nombre": "Baltic Dry",
+      "valor": "1.980",
+      "unidad": "pts",
+      "cambio": 5.7,
+      "cambioLabel": "semanal",
+      "fuente": "Baltic Exchange (demo)",
+      "asOf": "2026-07-02",
+      "verificado": false,
+      "serie": [1750, 1770, 1745, 1800, 1785, 1830, 1815, 1860, 1845, 1880, 1870, 1905, 1890, 1925, 1910, 1945, 1930, 1965, 1950, 1980]
+    },
+    {
+      "id": "enso",
+      "nombre": "ENSO",
+      "valor": "Neutral",
+      "unidad": "",
+      "cambio": 0,
+      "cambioLabel": "estado",
+      "fuente": "NOAA/CPC (demo)",
+      "asOf": "2026-06-12",
+      "verificado": false,
+      "serie": []
+    }
+  ]
+}

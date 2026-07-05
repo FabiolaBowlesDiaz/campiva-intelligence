@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-07-02",
+  "items": [
+    {
+      "titular": "Arábica sobre US$ 3/lb: stocks certificados de ICE en su mínimo desde marzo de 2024",
+      "resumen": "El café tocó US$ 3,02/lb (+19,4% en el mes) con inventarios ICE en 377.465 bolsas y cosecha de Brasil retrasada (44% vs 47% promedio).",
+      "fuente": "TradingEconomics / ICE",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.6
+    },
+    {
+      "titular": "Bolivia, a 5 meses del fin del certificado soyero: 880.000 t vigentes hasta diciembre",
+      "resumen": "Tras eliminar cupos y bandas en enero, el complejo soyero opera con certificado único de exportación. El sector pide apertura total.",
+      "fuente": "Ministerio de Desarrollo Productivo / ANAPO",
+      "url": "https://anapobolivia.org/gobierno-libera-880-mil-toneladas-de-grano-de-soya-para-exportacion-pero-productores-esperan-una-apertura-total/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "SAF: la producción global 2026 apenas cubriría 0,8% del combustible de aviación",
+      "resumen": "IATA estima ~2,4 Mt de SAF en 2026; la demanda proyectada a 2030 es de 12,8 Mt — brecha estructural que favorece feedstocks agro de LATAM.",
+      "fuente": "IATA / RMI",
+      "url": "https://www.iata.org/en/pressroom/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.7
+    },
+    {
+      "titular": "Brasil apunta a ~186 Mt de soya en 2026/27, +8 Mt interanual",
+      "resumen": "Las proyecciones de USDA consolidan otra cosecha récord; presión estructural sobre precios y competencia directa para el grano boliviano.",
+      "fuente": "USDA WASDE/FAS",
+      "url": "https://www.usda.gov/oce/commodity/wasde/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Perú cerró 2025 con récord cafetero: US$ 1.901 millones exportados",
+      "resumen": "+68% en valor con volumen casi plano (251.963 t, +0,9%): el récord lo hizo el precio internacional, no la producción.",
+      "fuente": "FreshFruit / Midagri",
+      "url": "https://freshfruit.pe/2026/01/21/exportacion-de-cafe-peruano-2025-supera-los-us-1900-millones-por-efecto-precio/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Cacao lateral: presión por pronóstico seco en África Occidental",
+      "resumen": "El mercado opera sin dirección clara a la espera de confirmación del clima en Costa de Marfil y Ghana.",
+      "fuente": "ICE",
+      "url": "https://www.ice.com/products/7924/Cocoa-Futures",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.0
+    }
+  ]
+}

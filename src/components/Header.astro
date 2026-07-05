@@ -1,0 +1,53 @@
+---
+import { fmtFecha } from '../lib/format';
+
+const hoy = fmtFecha(new Date());
+const nav = [
+  { href: '/', label: 'Inicio' },
+  { href: '/analisis/', label: 'Análisis' },
+  { href: '/radar/', label: 'Radar del día' },
+];
+const path = Astro.url.pathname;
+---
+
+<div class="bg-navy-950 text-slate-400 text-[0.72rem]">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-1.5 flex items-center justify-between gap-4">
+    <p class="capitalize-first whitespace-nowrap">{hoy}</p>
+    <p class="hidden sm:block tracking-wide">
+      Inteligencia de mercados agroindustriales · Bolivia y LATAM
+    </p>
+  </div>
+</div>
+
+<header class="bg-white border-b border-slate-200 sticky top-0 z-30">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-end justify-between gap-6">
+    <a href="/" class="cursor-pointer group" aria-label="Campiva Intelligence — inicio">
+      <p class="text-[1.55rem] leading-none font-extrabold tracking-tight">
+        <span class="text-navy-950">CAMPIVA</span><span class="text-amber-deep group-hover:text-amber-brand transition-colors duration-200"> INTELLIGENCE</span>
+      </p>
+      <p class="text-[0.62rem] font-semibold uppercase tracking-[0.32em] text-slate-500 mt-1">
+        Desk de mercados agro · LATAM
+      </p>
+    </a>
+    <nav aria-label="Principal" class="flex items-center gap-1">
+      {
+        nav.map((n) => {
+          const activo = n.href === '/' ? path === '/' : path.startsWith(n.href);
+          return (
+            <a
+              href={n.href}
+              aria-current={activo ? 'page' : undefined}
+              class:list={[
+                'px-3 py-2 rounded-md text-[0.86rem] font-semibold transition-colors duration-200 cursor-pointer whitespace-nowrap',
+                activo
+                  ? 'text-navy-950 bg-navy-50'
+                  : 'text-slate-600 hover:text-navy-950 hover:bg-slate-50',
+              ]}>
+              {n.label}
+            </a>
+          );
+        })
+      }
+    </nav>
+  </div>
+</header>

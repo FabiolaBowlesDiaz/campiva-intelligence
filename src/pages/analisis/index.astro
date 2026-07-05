@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import CardAnalisis from '../../components/CardAnalisis.astro';
+
+const analisis = (await getCollection('analisis')).sort(
+  (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
+);
+---
+
+<Base
+  title="Análisis del desk — Campiva Intelligence"
+  description="Todos los análisis de mercados agroindustriales del Campiva Intelligence Desk: cifras verificadas, fuentes fechadas y la lectura de la casa.">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-10">
+    <h1 class="font-serif text-[2.3rem] leading-tight font-semibold text-navy-950">
+      Análisis del desk
+    </h1>
+    <p class="text-slate-600 text-[1.02rem] leading-relaxed mt-3 max-w-[62ch]">
+      La producción editorial completa del Campiva Intelligence Desk. Cada pieza publica sus
+      fuentes con fecha y su score de la matriz de priorización.
+    </p>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12 mt-10">
+      {analisis.map((e) => <CardAnalisis entry={e} />)}
+    </div>
+  </div>
+</Base>

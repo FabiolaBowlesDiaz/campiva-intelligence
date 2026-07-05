@@ -1,0 +1,79 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Badge from './Badge.astro';
+import ScoreChip from './ScoreChip.astro';
+import { fmtFecha, labelPais, labelTipo, labelVertical, tiempoLectura } from '../lib/format';
+
+interface Props {
+  entry: CollectionEntry<'analisis'>;
+  variant?: 'hero' | 'standard';
+}
+const { entry, variant = 'standard' } = Astro.props;
+const d = entry.data;
+const href = `/analisis/${entry.id}/`;
+const minutos = tiempoLectura(entry.body ?? '');
+const cifraHero = d.cifras[0];
+---
+
+{
+  variant === 'hero' ? (
+    <article class="group grid lg:grid-cols-[1.5fr_1fr] gap-0 rounded-2xl overflow-hidden ring-1 ring-slate-200 bg-white shadow-[0_1px_2px_rgb(2_6_23/0.06)]">
+      <div class="p-7 sm:p-10 flex flex-col">
+        <p class="flex items-center gap-2.5 text-[0.7rem] font-bold uppercase tracking-[0.14em] text-amber-deep">
+          {labelTipo(d.tipo)}
+          <span class="text-slate-300">/</span>
+          <span class="text-navy-600">{labelVertical(d.vertical)}</span>
+          <span class="text-slate-300">/</span>
+          <span class="text-slate-500">{labelPais(d.pais)}</span>
+        </p>
+        <h2 class="font-serif text-[1.9rem] sm:text-[2.5rem] leading-[1.12] font-semibold text-navy-950 mt-3 [text-wrap:balance]">
+          <a href={href} class="cursor-pointer group-hover:underline decoration-amber-brand decoration-[3px] underline-offset-4">
+            {d.title}
+          </a>
+        </h2>
+        <p class="text-slate-600 text-[1.02rem] leading-relaxed mt-4 max-w-[46ch]">{d.bajada}</p>
+        <div class="border-l-[3px] border-amber-brand bg-amber-brand/[0.07] rounded-r-lg px-4 py-3 mt-6">
+          <p class="text-[0.7rem] font-bold uppercase tracking-[0.14em] text-amber-deep">Nuestra lectura</p>
+          <p class="font-serif text-[1.05rem] text-navy-900 leading-snug mt-1">{d.lectura}</p>
+        </div>
+        <div class="flex items-center gap-3 mt-auto pt-6 text-[0.78rem] text-slate-500">
+          <ScoreChip score={d.score} />
+          <span>{fmtFecha(d.fecha)}</span>
+          <span aria-hidden="true">·</span>
+          <span>{minutos} min de lectura</span>
+        </div>
+      </div>
+      {cifraHero && (
+        <div class="bg-navy-900 p-7 sm:p-10 flex flex-col justify-center gap-2 border-t lg:border-t-0 lg:border-l border-navy-800 bg-[radial-gradient(ellipse_at_top_right,rgb(28_52_82/0.9),transparent_60%)]">
+          <p class="text-[0.7rem] font-bold uppercase tracking-[0.18em] text-green-brand">{cifraHero.label}</p>
+          <p class="text-white font-bold tabular-nums text-[3rem] sm:text-[3.6rem] leading-none tracking-tight">
+            {cifraHero.valor}
+          </p>
+          {cifraHero.nota && <p class="text-slate-400 text-[0.9rem] leading-snug max-w-[26ch]">{cifraHero.nota}</p>}
+          <p class="text-[0.68rem] text-slate-500 uppercase tracking-[0.14em] mt-5">
+            Verificado por el desk · {fmtFecha(d.fecha)}
+          </p>
+        </div>
+      )}
+    </article>
+  ) : (
+    <article class="group border-t-2 border-navy-900 pt-4 flex flex-col h-full">
+      <p class="flex items-center gap-2 text-[0.66rem] font-bold uppercase tracking-[0.14em] text-amber-deep">
+        {labelTipo(d.tipo)}
+        <span class="text-slate-300">/</span>
+        <span class="text-navy-600">{labelVertical(d.vertical)}</span>
+      </p>
+      <h3 class="font-serif text-[1.35rem] leading-snug font-semibold text-navy-950 mt-2 [text-wrap:balance]">
+        <a href={href} class="cursor-pointer group-hover:underline decoration-amber-brand decoration-2 underline-offset-2">
+          {d.title}
+        </a>
+      </h3>
+      <p class="text-slate-600 text-[0.9rem] leading-relaxed mt-2 line-clamp-3">{d.bajada}</p>
+      <div class="flex items-center gap-2.5 mt-auto pt-4 text-[0.74rem] text-slate-500">
+        <ScoreChip score={d.score} />
+        <span>{fmtFecha(d.fecha)}</span>
+        <Badge kind="pais" label={labelPais(d.pais)} />
+      </div>
+    </article>
+  )
+}

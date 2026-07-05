@@ -1,0 +1,27 @@
+---
+/** Score de relevancia del desk (matriz de 8 criterios, 0-10) — la firma del producto */
+interface Props {
+  score: number;
+  size?: 'sm' | 'md';
+}
+const { score, size = 'sm' } = Astro.props;
+
+const nivel = score >= 8.5 ? 'top' : score >= 7.5 ? 'alto' : 'base';
+const cls = {
+  top: 'bg-amber-brand text-navy-950 ring-amber-deep/40',
+  alto: 'bg-green-deep text-white ring-green-deep/40',
+  base: 'bg-slate-200 text-slate-700 ring-slate-300',
+}[nivel];
+const dims = size === 'md' ? 'h-10 w-10 text-[0.95rem]' : 'h-8 w-8 text-[0.78rem]';
+---
+
+<span
+  class:list={[
+    'inline-flex items-center justify-center rounded-full font-bold tabular-nums ring-2 ring-inset shrink-0',
+    cls,
+    dims,
+  ]}
+  title={`Score de relevancia del desk: ${score.toFixed(1).replace('.', ',')} / 10`}
+  aria-label={`Score de relevancia ${score.toFixed(1).replace('.', ',')} de 10`}>
+  {score.toFixed(1).replace('.', ',')}
+</span>

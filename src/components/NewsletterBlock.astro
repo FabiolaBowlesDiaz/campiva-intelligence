@@ -1,0 +1,43 @@
+---
+/** Captura de newsletter — la conexión con Brevo llega en PER-26; por ahora demo visual */
+---
+
+<section
+  aria-labelledby="nl-title"
+  class="rounded-2xl bg-navy-900 ring-1 ring-navy-800 px-7 py-9 sm:px-12 sm:py-11 bg-[radial-gradient(ellipse_at_bottom_left,rgb(28_52_82/0.8),transparent_55%)]">
+  <div class="grid md:grid-cols-2 gap-7 items-center">
+    <div>
+      <p class="text-[0.7rem] font-bold uppercase tracking-[0.18em] text-amber-brand">Boletín ejecutivo</p>
+      <h2 id="nl-title" class="font-serif text-[1.75rem] leading-tight font-semibold text-white mt-2 [text-wrap:balance]">
+        La lectura del desk, en tu correo
+      </h2>
+      <p class="text-slate-400 text-[0.94rem] leading-relaxed mt-3 max-w-[44ch]">
+        Lo que movió los mercados agro de Bolivia y LATAM, con cifras verificadas y la
+        opinión de la casa. Sin ruido.
+      </p>
+    </div>
+    <form class="flex flex-col gap-3" method="post" action="#">
+      <label for="nl-email" class="sr-only">Correo electrónico</label>
+      <div class="flex flex-col sm:flex-row gap-3">
+        <input
+          id="nl-email"
+          type="email"
+          name="email"
+          required
+          placeholder="tu@empresa.com"
+          autocomplete="email"
+          class="flex-1 rounded-lg bg-white/[0.06] ring-1 ring-white/15 px-4 py-3 text-white placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-amber-brand text-[0.95rem]"
+        />
+        <button
+          type="submit"
+          class="rounded-lg bg-amber-brand text-navy-950 font-bold px-6 py-3 text-[0.9rem] hover:bg-amber-soft transition-colors duration-200 cursor-pointer whitespace-nowrap">
+          Suscribirme
+        </button>
+      </div>
+      <p class="text-[0.72rem] text-slate-500">
+        Confirmación en dos pasos. Sin spam, baja en un clic. El boletín se activa con el
+        lanzamiento del sitio.
+      </p>
+    </form>
+  </div>
+</section>

@@ -1,0 +1,30 @@
+---
+/** Badge de taxonomía: vertical, país, tipo o impacto */
+interface Props {
+  kind: 'vertical' | 'pais' | 'tipo' | 'impacto';
+  label: string;
+  dark?: boolean;
+}
+const { kind, label, dark = false } = Astro.props;
+
+const styles: Record<string, string> = {
+  vertical: dark
+    ? 'bg-green-brand/10 text-green-brand ring-green-brand/30'
+    : 'bg-green-deep/5 text-green-deep ring-green-deep/25',
+  pais: dark
+    ? 'bg-amber-brand/10 text-amber-soft ring-amber-brand/30'
+    : 'bg-amber-brand/10 text-amber-deep ring-amber-deep/25',
+  tipo: dark
+    ? 'bg-white/5 text-slate-300 ring-white/15'
+    : 'bg-navy-50 text-navy-600 ring-navy-200',
+  impacto: dark
+    ? 'bg-white/5 text-slate-300 ring-white/15'
+    : 'bg-slate-100 text-slate-600 ring-slate-200',
+};
+---
+
+<span
+  class:list={[
+    'inline-flex items-center rounded-full px-2.5 py-0.5 text-[0.68rem] font-semibold uppercase tracking-[0.08em] ring-1 ring-inset whitespace-nowrap',
+    styles[kind],
+  ]}>{label}</span>

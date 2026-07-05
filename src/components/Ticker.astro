@@ -1,0 +1,46 @@
+---
+import indicadores from '../data/indicadores.json';
+import { fmtFechaCorta } from '../lib/format';
+
+const items = indicadores.items.filter((i) => i.serie.length > 0 || i.valor);
+const actualizado = fmtFechaCorta(new Date(indicadores.actualizado));
+---
+
+<div
+  class="ticker-viewport bg-navy-950 border-b border-white/10 text-[0.8rem]"
+  role="region"
+  aria-label="Indicadores de mercado de referencia">
+  <div class="ticker-track">
+    {
+      [0, 1].map((copy) => (
+        <div class="flex items-center py-2" aria-hidden={copy === 1 ? 'true' : undefined}>
+          <span class="px-5 font-bold uppercase tracking-[0.18em] text-amber-brand whitespace-nowrap">
+            Mercados
+          </span>
+          {items.map((it) => {
+            const pos = it.cambio >= 0;
+            const esEstado = it.cambioLabel === 'estado';
+            return (
+              <span class="flex items-baseline gap-1.5 px-5 border-l border-white/10 whitespace-nowrap">
+                <span class="text-slate-400 font-medium">{it.nombre}</span>
+                <span class="text-white font-semibold tabular-nums">
+                  {it.valor}
+                  {it.unidad && <span class="text-slate-500 font-normal text-[0.7rem]"> {it.unidad}</span>}
+                </span>
+                {!esEstado && (
+                  <span
+                    class:list={['font-semibold tabular-nums', pos ? 'text-green-brand' : 'text-red-400']}>
+                    {pos ? '▲' : '▼'} {Math.abs(it.cambio).toFixed(1).replace('.', ',')}%
+                  </span>
+                )}
+              </span>
+            );
+          })}
+          <span class="px-5 border-l border-white/10 text-slate-500 whitespace-nowrap">
+            Referencia al cierre · {actualizado}
+          </span>
+        </div>
+      ))
+    }
+  </div>
+</div>

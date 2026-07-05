@@ -1,0 +1,49 @@
+---
+import Sparkline from './Sparkline.astro';
+
+interface Props {
+  item: {
+    nombre: string;
+    valor: string;
+    unidad: string;
+    cambio: number;
+    cambioLabel: string;
+    fuente: string;
+    asOf: string;
+    verificado: boolean;
+    serie: number[];
+  };
+}
+const { item } = Astro.props;
+const pos = item.cambio >= 0;
+const esEstado = item.cambioLabel === 'estado';
+---
+
+<article
+  class="rounded-xl bg-navy-900 ring-1 ring-white/10 p-4 flex flex-col gap-2 hover:ring-amber-brand/40 transition-shadow duration-200">
+  <h3 class="text-[0.7rem] font-bold uppercase tracking-[0.14em] text-slate-400">
+    {item.nombre}
+  </h3>
+  <div class="flex items-end justify-between gap-2">
+    <p class="text-white">
+      <span class="text-2xl font-bold tabular-nums leading-none">{item.valor}</span>
+      {item.unidad && <span class="text-[0.72rem] text-slate-400 font-medium ml-1">{item.unidad}</span>}
+    </p>
+    {
+      !esEstado && (
+        <p
+          class:list={[
+            'text-[0.78rem] font-semibold tabular-nums leading-none pb-0.5',
+            pos ? 'text-green-brand' : 'text-red-400',
+          ]}>
+          {pos ? '▲' : '▼'} {Math.abs(item.cambio).toFixed(1).replace('.', ',')}%
+          <span class="text-slate-500 font-normal"> {item.cambioLabel}</span>
+        </p>
+      )
+    }
+  </div>
+  {item.serie.length > 1 && <Sparkline serie={item.serie} positivo={pos} w={200} h={36} />}
+  <p class="text-[0.66rem] text-slate-500 mt-auto">
+    {item.fuente} · {item.asOf}{!item.verificado && ' · demo'}
+  </p>
+</article>

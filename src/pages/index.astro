@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import CardAnalisis from '../components/CardAnalisis.astro';
+import RadarItem from '../components/RadarItem.astro';
+import IndicadorCard from '../components/IndicadorCard.astro';
+import NewsletterBlock from '../components/NewsletterBlock.astro';
+import indicadores from '../data/indicadores.json';
+import { fmtFecha } from '../lib/format';
+
+const analisis = (await getCollection('analisis')).sort(
+  (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
+);
+const hero = analisis.find((e) => e.data.destacado) ?? analisis[0];
+const resto = analisis.filter((e) => e.id !== hero.id).slice(0, 4);
+
+// Radar más reciente
+const radarFiles = import.meta.glob<{ fecha: string; items: any[] }>('../data/radar/*.json', {
+  eager: true,
+});
+const radares = Object.values(radarFiles).sort((a, b) => b.fecha.localeCompare(a.fecha));
+const radar = radares[0];
+const radarFecha = fmtFecha(new Date(radar.fecha));
+---
+
+<Base
+  title="Campiva Intelligence — Mercados agroindustriales de Bolivia y LATAM"
+  description="Análisis diario de mercados agro con cifras verificadas: soya, café, cacao, cereales, biocombustibles y logística. La lectura del desk de Campivacorp para ejecutivos de LATAM.">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-8 pb-4">
+    <div class="grid lg:grid-cols-[1fr_350px] gap-10">
+      <!-- Columna editorial -->
+      <div>
+        <CardAnalisis entry={hero} variant="hero" />
+
+        <div class="flex items-center gap-4 mt-12 mb-6">
+          <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 whitespace-nowrap">
+            Últimos análisis
+          </h2>
+          <div class="flex-1 border-t border-slate-200"></div>
+          <a
+            href="/analisis/"
+            class="text-[0.78rem] font-semibold text-navy-600 hover:text-navy-950 transition-colors duration-200 cursor-pointer whitespace-nowrap">
+            Ver todos →
+          </a>
+        </div>
+        <div class="grid sm:grid-cols-2 gap-x-8 gap-y-10">
+          {resto.map((e) => <CardAnalisis entry={e} />)}
+        </div>
+      </div>
+
+      <!-- Radar del día -->
+      <aside aria-labelledby="radar-title">
+        <div class="lg:sticky lg:top-20">
+          <div class="rounded-2xl ring-1 ring-slate-200 bg-slate-50/70 px-5 py-5">
+            <div class="flex items-baseline justify-between gap-3 border-b-2 border-navy-900 pb-3">
+              <h2 id="radar-title" class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950">
+                Radar del día
+              </h2>
+              <p class="text-[0.72rem] text-slate-500">{radarFecha}</p>
+            </div>
+            <ul class="list-none">
+              {radar.items.slice(0, 5).map((item) => <RadarItem item={item} />)}
+            </ul>
+            <a
+              href="/radar/"
+              class="block text-center rounded-lg bg-navy-900 text-white text-[0.82rem] font-semibold py-2.5 mt-4 hover:bg-navy-800 transition-colors duration-200 cursor-pointer">
+              Ver radar completo
+            </a>
+          </div>
+          <p class="text-[0.7rem] text-slate-500 leading-relaxed px-2 mt-3">
+            Titulares curados y puntuados por el desk con su matriz de 8 criterios.
+            El score indica relevancia para decisiones agro en LATAM.
+          </p>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- Indicadores -->
+  <section id="indicadores" aria-labelledby="ind-title" class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <div class="flex items-center gap-4 mb-2">
+      <h2 id="ind-title" class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 whitespace-nowrap">
+        Indicadores de mercado
+      </h2>
+      <div class="flex-1 border-t border-slate-200"></div>
+    </div>
+    <p class="text-[0.78rem] text-slate-500 mb-6">
+      Precios de referencia al cierre, con fuente y fecha — no cotización en tiempo real.
+    </p>
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+      {indicadores.items.map((item) => <IndicadorCard item={item} />)}
+    </div>
+  </section>
+
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-6">
+    <NewsletterBlock />
+  </div>
+</Base>

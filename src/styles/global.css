@@ -1,0 +1,88 @@
+@import "tailwindcss";
+@import "@fontsource-variable/newsreader";
+@import "@fontsource-variable/inter";
+
+@theme {
+  /* Tipografía — Newsreader (editorial) + Inter (UI) */
+  --font-serif: "Newsreader Variable", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  /* Navy — color firma del Intelligence Desk (#0B1A2E) */
+  --color-navy-50: #f0f4f9;
+  --color-navy-100: #dce5f0;
+  --color-navy-200: #b9cbe0;
+  --color-navy-300: #8fa9c8;
+  --color-navy-400: #5f80a6;
+  --color-navy-500: #3d5e85;
+  --color-navy-600: #27456b;
+  --color-navy-700: #1c3452;
+  --color-navy-800: #13263f;
+  --color-navy-900: #0b1a2e;
+  --color-navy-950: #060f1c;
+
+  /* Acentos de marca (visuales LinkedIn ya aprobadas) */
+  --color-amber-brand: #e8b54a;
+  --color-amber-soft: #f4ce7e;
+  --color-amber-deep: #a87b24;
+  --color-green-brand: #4ade80;
+  --color-green-deep: #15803d;
+
+  /* Semánticos de mercado (superficie clara) */
+  --color-up: #15803d;
+  --color-down: #dc2626;
+}
+
+/* ===== Base ===== */
+html {
+  scroll-behavior: smooth;
+}
+body {
+  @apply font-sans text-slate-900 bg-white antialiased;
+}
+
+/* ===== Ticker (marquee continuo, accesible) ===== */
+.ticker-viewport {
+  overflow: hidden;
+}
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 55s linear infinite;
+}
+.ticker-viewport:hover .ticker-track,
+.ticker-viewport:focus-within .ticker-track {
+  animation-play-state: paused;
+}
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track {
+    animation: none;
+    width: auto;
+  }
+  .ticker-viewport {
+    overflow-x: auto;
+  }
+}
+
+/* ===== Cuerpo de artículo (lectura editorial) ===== */
+.prose-desk {
+  @apply font-serif text-[1.185rem] leading-[1.75] text-slate-800;
+}
+.prose-desk p {
+  @apply mb-5;
+}
+.prose-desk p:first-of-type::first-letter {
+  @apply font-serif text-navy-900 float-left text-[3.4rem] leading-[0.85] pr-2 pt-1 font-medium;
+}
+.prose-desk h2 {
+  @apply font-sans text-[0.8rem] font-bold uppercase tracking-[0.14em] text-navy-600 mt-9 mb-3;
+}
+.prose-desk a {
+  @apply text-navy-700 underline decoration-amber-brand decoration-2 underline-offset-2 hover:text-navy-900 transition-colors duration-200;
+}
+.prose-desk strong {
+  @apply font-semibold text-navy-900;
+}

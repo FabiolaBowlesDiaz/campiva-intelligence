@@ -1,0 +1,154 @@
+---
+import { getCollection, render } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Badge from '../../components/Badge.astro';
+import ScoreChip from '../../components/ScoreChip.astro';
+import CardAnalisis from '../../components/CardAnalisis.astro';
+import NewsletterBlock from '../../components/NewsletterBlock.astro';
+import { fmtFecha, labelPais, labelTipo, labelVertical, tiempoLectura } from '../../lib/format';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('analisis');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+interface Props {
+  entry: CollectionEntry<'analisis'>;
+}
+const { entry } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+const minutos = tiempoLectura(entry.body ?? '');
+
+const relacionados = (await getCollection('analisis'))
+  .filter((e) => e.id !== entry.id && e.data.vertical === d.vertical)
+  .sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime())
+  .slice(0, 2);
+---
+
+<Base title={`${d.title} — Campiva Intelligence`} description={d.bajada}>
+  <article class="max-w-6xl mx-auto px-4 sm:px-6 pt-10">
+    <div class="max-w-3xl mx-auto">
+      <p class="flex flex-wrap items-center gap-2.5 text-[0.72rem] font-bold uppercase tracking-[0.14em] text-amber-deep">
+        {labelTipo(d.tipo)}
+        <span class="text-slate-300">/</span>
+        <span class="text-navy-600">{labelVertical(d.vertical)}</span>
+        <span class="text-slate-300">/</span>
+        <span class="text-slate-500">{labelPais(d.pais)}</span>
+      </p>
+
+      <h1 class="font-serif text-[2.1rem] sm:text-[3rem] leading-[1.1] font-semibold text-navy-950 mt-4 [text-wrap:balance]">
+        {d.title}
+      </h1>
+      <p class="text-slate-600 text-[1.15rem] leading-relaxed mt-5">{d.bajada}</p>
+
+      <div class="flex flex-wrap items-center gap-x-4 gap-y-2 mt-6 pb-6 border-b border-slate-200 text-[0.82rem] text-slate-500">
+        <ScoreChip score={d.score} size="md" />
+        <div>
+          <p class="font-semibold text-navy-900">Campiva Intelligence Desk</p>
+          <p>{fmtFecha(d.fecha)} · {minutos} min de lectura</p>
+        </div>
+        <div class="flex gap-2 ml-auto">
+          <Badge kind="vertical" label={labelVertical(d.vertical)} />
+          <Badge kind="pais" label={labelPais(d.pais)} />
+        </div>
+      </div>
+    </div>
+
+    {
+      d.cifras.length > 0 && (
+        <div class="max-w-4xl mx-auto mt-9">
+          <div class="grid sm:grid-cols-3 gap-4">
+            {d.cifras.slice(0, 3).map((c) => (
+              <div class="rounded-xl bg-navy-900 ring-1 ring-white/10 p-5">
+                <p class="text-[0.66rem] font-bold uppercase tracking-[0.16em] text-green-brand">{c.label}</p>
+                <p class="text-white text-[1.9rem] font-bold tabular-nums leading-tight mt-1.5 tracking-tight">{c.valor}</p>
+                {c.nota && <p class="text-slate-400 text-[0.8rem] leading-snug mt-1.5">{c.nota}</p>}
+              </div>
+            ))}
+          </div>
+          <p class="text-[0.68rem] text-slate-400 uppercase tracking-[0.14em] mt-2 text-right">
+            Cifras verificadas por el desk — fuentes al pie
+          </p>
+        </div>
+      )
+    }
+
+    <div class="max-w-3xl mx-auto mt-9">
+      <div class="border-l-[3px] border-amber-brand bg-amber-brand/[0.07] rounded-r-lg px-5 py-4">
+        <p class="text-[0.7rem] font-bold uppercase tracking-[0.14em] text-amber-deep">Nuestra lectura</p>
+        <p class="font-serif text-[1.25rem] text-navy-900 leading-snug mt-1.5">{d.lectura}</p>
+      </div>
+
+      <div class="prose-desk mt-9">
+        <Content />
+      </div>
+
+      {
+        d.fuentes.length > 0 && (
+          <section aria-labelledby="fuentes-title" class="mt-12">
+            <h2 id="fuentes-title" class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 border-b-2 border-navy-900 pb-2">
+              Fuentes verificadas
+            </h2>
+            <div class="overflow-x-auto">
+              <table class="w-full text-[0.82rem] mt-1">
+                <thead>
+                  <tr class="text-left text-slate-500 uppercase text-[0.66rem] tracking-wider">
+                    <th class="py-2.5 pr-4 font-bold">Dato</th>
+                    <th class="py-2.5 pr-4 font-bold">Fuente</th>
+                    <th class="py-2.5 font-bold whitespace-nowrap">Fecha del dato</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {d.fuentes.map((f) => (
+                    <tr class="align-top">
+                      <td class="py-2.5 pr-4 text-slate-700">{f.dato}</td>
+                      <td class="py-2.5 pr-4 font-semibold text-navy-800 whitespace-nowrap">
+                        {f.url ? (
+                          <a href={f.url} target="_blank" rel="noopener noreferrer" class="underline decoration-amber-brand decoration-2 underline-offset-2 hover:text-navy-950 cursor-pointer">
+                            {f.fuente}
+                          </a>
+                        ) : (
+                          f.fuente
+                        )}
+                      </td>
+                      <td class="py-2.5 text-slate-500 whitespace-nowrap">{f.fecha}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        )
+      }
+
+      <p class="text-[0.76rem] text-slate-500 leading-relaxed bg-slate-50 rounded-lg px-4 py-3 mt-8">
+        Este contenido es análisis de mercados con fines informativos. No constituye asesoría
+        de inversión ni recomendación de compra o venta de instrumentos financieros.
+      </p>
+    </div>
+
+    {
+      relacionados.length > 0 && (
+        <div class="max-w-3xl mx-auto mt-14">
+          <div class="flex items-center gap-4 mb-6">
+            <h2 class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-navy-950 whitespace-nowrap">
+              Más sobre {labelVertical(d.vertical).toLowerCase()}
+            </h2>
+            <div class="flex-1 border-t border-slate-200" />
+          </div>
+          <div class="grid sm:grid-cols-2 gap-x-8 gap-y-10">
+            {relacionados.map((e) => (
+              <CardAnalisis entry={e} />
+            ))}
+          </div>
+        </div>
+      )
+    }
+
+    <div class="max-w-3xl mx-auto mt-14 pb-4">
+      <NewsletterBlock />
+    </div>
+  </article>
+</Base>
