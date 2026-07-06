@@ -40,6 +40,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="alternate" type="application/rss+xml" title="Campiva Intelligence" href={new URL('/rss.xml', Astro.site)} />
     <meta name="generator" content={Astro.generator} />
+    <meta name="google-site-verification" content="atv9HbaK0vBBek0bj1VpRCd5d_vlB7_-nZh2L2HCC-c" />
     {
       import.meta.env.PROD && (
         <script
