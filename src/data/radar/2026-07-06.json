@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-07-06",
+  "items": [
+    {
+      "titular": "Diésel: YPFB y el agro cruceño acuerdan 72 millones de litros para julio — sin fecha de normalización",
+      "resumen": "El acuerdo del 1 de julio garantiza 3 millones de litros diarios para la cosecha, con cisternas para pequeños productores y entrega directa a grandes. El Gobierno evitó comprometer cuándo se normaliza el país.",
+      "fuente": "El Diario / El Deber",
+      "url": "https://www.eldiario.net/portal/2026/07/02/ypfb-asegura-72-millones-de-litros-de-diesel-a-productores-crucenos/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Lunes de rally: el cacao salta 12%, el café 8% y la soya 3,5% en el arranque de la semana",
+      "resumen": "Las lluvias que inundaron caminos y puertos en Costa de Marfil y Ghana disparan al cacao (+20% en dos semanas); la soya suma demanda de molienda y prima climática en EE.UU. Datos intradía del 6 de julio.",
+      "fuente": "TradingEconomics / Barchart",
+      "url": "https://tradingeconomics.com/commodities",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "ANAPO había puesto la cuenta: 950.000 hectáreas en riesgo y 90-100 millones de litros para completar la campaña",
+      "resumen": "El 30 de junio, tras más de tres semanas de déficit de combustible, el gremio cuantificó el riesgo sobre la cosecha del este cruceño y las 400.000 hectáreas de la siembra de invierno.",
+      "fuente": "ANAPO vía Magazine Management",
+      "url": "https://www.magazinemanagement.gm-bolivia.com/anapo-advierte-que-la-falta-de-diesel-pone-en-riesgo-la-seguridad-alimentaria-del-pais/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "La escasez de diésel ya deja pérdidas millonarias en toda la cadena productiva",
+      "resumen": "El recuento del 1 de julio: transporte encarecido, maquinaria parada y cosecha demorada — el costo de la crisis se acumula aunque el acuerdo estabilice julio.",
+      "fuente": "Economy Bolivia",
+      "url": "https://www.economy.com.bo/articulo/economia/escasez-diesel-deja-perdidas-millonarias-amenaza-toda-cadena-productiva/20260701112313023102.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Perú: las agroexportaciones suman US$ 2.421 millones en cuatro meses, +17,3%",
+      "resumen": "Midagri proyecta cerrar 2026 en torno a US$ 16.000 millones, con frutas y café como motores. Perú consolida su lugar como primer exportador mundial de uvas y arándanos.",
+      "fuente": "Midagri vía TVPerú",
+      "url": "https://tvperu.gob.pe/noticias/economia/agroexportaciones-suman-2421-millones-en-primeros-cuatro-meses-de-2026",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El trigo de invierno de EE.UU., camino a su cosecha más baja desde 1965",
+      "resumen": "El WASDE de junio recortó la estimación a 28 millones de toneladas (-27% interanual) — el dato estructural que sostiene al trigo en la semana en que el mercado espera el informe de julio.",
+      "fuente": "USDA vía Agrolatam",
+      "url": "https://www.agrolatam.com/mercados-latam/usda-wasde-caida-precios-granos-junio-2026/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.2
+    }
+  ]
+}
