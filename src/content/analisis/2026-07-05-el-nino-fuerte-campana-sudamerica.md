@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: clima
 pais: LATAM
 score: 8.5
-destacado: true
+destacado: false
 lectura: "Un Niño muy fuerte no es un pronóstico de catástrofe: es un cambio de distribución de riesgos. La región tiene tres meses para decidir siembra, seguros y cobertura con esa información — el que espere la confirmación va a decidir tarde."
 cifras:
   - label: "Probabilidad NOAA"
