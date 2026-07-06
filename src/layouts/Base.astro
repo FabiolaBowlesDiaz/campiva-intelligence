@@ -40,6 +40,15 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="alternate" type="application/rss+xml" title="Campiva Intelligence" href={new URL('/rss.xml', Astro.site)} />
     <meta name="generator" content={Astro.generator} />
+    {
+      import.meta.env.PROD && (
+        <script
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "1d693525efda4f4f81626aac6d1fc73a"}'
+        />
+      )
+    }
   </head>
   <body class="min-h-screen flex flex-col">
     <Ticker />
