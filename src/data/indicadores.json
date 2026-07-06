@@ -87,6 +87,30 @@
       "serie": [72.1]
     },
     {
+      "id": "soja-matba",
+      "nombre": "Soja Matba (Arg.)",
+      "valor": "322,40",
+      "unidad": "US$/t",
+      "cambio": -0.2,
+      "cambioLabel": "diaria",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "asOf": "2026-07-03",
+      "verificado": true,
+      "serie": [322.4]
+    },
+    {
+      "id": "maiz-matba",
+      "nombre": "Maíz Matba (Arg.)",
+      "valor": "178,20",
+      "unidad": "US$/t",
+      "cambio": 0.4,
+      "cambioLabel": "diaria",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "asOf": "2026-07-03",
+      "verificado": true,
+      "serie": [178.2]
+    },
+    {
       "id": "drewry-wci",
       "nombre": "Drewry WCI",
       "valor": "4.530",
