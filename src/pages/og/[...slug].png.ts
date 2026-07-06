@@ -69,9 +69,9 @@ export const GET: APIRoute = async ({ props }) => {
             type: 'img',
             props: {
               src: `data:image/png;base64,${isotipo.toString('base64')}`,
-              width: 61,
+              width: 48,
               height: 36,
-              style: { width: '61px', height: '36px' },
+              style: { width: '48px', height: '36px' },
             },
           },
           h(
