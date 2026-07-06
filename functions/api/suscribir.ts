@@ -45,14 +45,16 @@ export async function onRequestPost(context: {
     return irA('/suscripcion/error/');
   }
 
+  const apiKey = env.BREVO_API_KEY.trim();
+  const doiSecret = env.DOI_SECRET.trim();
   const exp = Date.now() + VIGENCIA_HORAS * 3600 * 1000;
-  const firma = await hmacHex(`${email}|${exp}`, env.DOI_SECRET);
+  const firma = await hmacHex(`${email}|${exp}`, doiSecret);
   const token = `${btoa(email)}.${exp}.${firma}`;
   const confirmUrl = `${url.origin}/api/confirmar?t=${encodeURIComponent(token)}`;
 
   const r = await fetch('https://api.brevo.com/v3/smtp/email', {
     method: 'POST',
-    headers: { 'api-key': env.BREVO_API_KEY, 'content-type': 'application/json' },
+    headers: { 'api-key': apiKey, 'content-type': 'application/json' },
     body: JSON.stringify({
       to: [{ email }],
       templateId: TEMPLATE_ID,

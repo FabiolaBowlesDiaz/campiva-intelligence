@@ -36,12 +36,12 @@ export async function onRequestGet(context: {
   const exp = Number(partes[1]);
   if (!exp || Date.now() > exp) return irA('/suscripcion/error/');
 
-  const esperada = await hmacHex(`${email}|${exp}`, env.DOI_SECRET);
+  const esperada = await hmacHex(`${email}|${exp}`, env.DOI_SECRET.trim());
   if (esperada !== partes[2]) return irA('/suscripcion/error/');
 
   const r = await fetch('https://api.brevo.com/v3/contacts', {
     method: 'POST',
-    headers: { 'api-key': env.BREVO_API_KEY, 'content-type': 'application/json' },
+    headers: { 'api-key': env.BREVO_API_KEY.trim(), 'content-type': 'application/json' },
     body: JSON.stringify({
       email,
       listIds: [LISTA_BOLETIN_WEB],
