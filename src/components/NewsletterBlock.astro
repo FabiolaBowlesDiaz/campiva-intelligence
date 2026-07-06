@@ -16,8 +16,12 @@
         opinión de la casa. Sin ruido.
       </p>
     </div>
-    <form class="flex flex-col gap-3" method="post" action="#">
+    <form class="flex flex-col gap-3" method="post" action="/api/suscribir">
       <label for="nl-email" class="sr-only">Correo electrónico</label>
+      <div class="absolute -left-[9999px]" aria-hidden="true">
+        <label for="nl-website">No completar este campo</label>
+        <input id="nl-website" type="text" name="website" tabindex="-1" autocomplete="off" />
+      </div>
       <div class="flex flex-col sm:flex-row gap-3">
         <input
           id="nl-email"
@@ -35,8 +39,8 @@
         </button>
       </div>
       <p class="text-[0.72rem] text-slate-500">
-        Confirmación en dos pasos. Sin spam, baja en un clic. El boletín se activa con el
-        lanzamiento del sitio.
+        Confirmación en dos pasos. Sin spam, baja en un clic.
+        <a href="/privacidad/" class="underline hover:text-slate-300 transition-colors duration-200 cursor-pointer">Política de privacidad</a>.
       </p>
     </form>
   </div>

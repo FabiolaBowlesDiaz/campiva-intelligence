@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  title="Algo no salió bien — Campiva Intelligence"
+  description="No pudimos procesar tu suscripción."
+  noindex>
+  <div class="max-w-xl mx-auto px-4 sm:px-6 pt-16 pb-10 text-center min-h-[45vh]">
+    <p class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-amber-deep">Ups</p>
+    <h1 class="font-serif text-[2.1rem] leading-tight font-semibold text-navy-950 mt-2">
+      Algo no salió bien
+    </h1>
+    <p class="text-slate-600 text-[1.02rem] leading-relaxed mt-4">
+      No pudimos procesar la suscripción: el correo puede tener un error de tipeo o el
+      enlace de confirmación venció (dura 48 horas). Probá de nuevo desde la portada —
+      toma diez segundos.
+    </p>
+    <a
+      href="/#nl-title"
+      class="inline-block rounded-lg bg-navy-900 text-white text-[0.9rem] font-semibold px-6 py-3 mt-8 hover:bg-navy-800 transition-colors duration-200 cursor-pointer">
+      Intentar de nuevo
+    </a>
+  </div>
+</Base>
