@@ -1,11 +1,13 @@
 ---
-/** Captura de newsletter — la conexión con Brevo llega en PER-26; por ahora demo visual */
+/** Captura de newsletter (double opt-in vía Brevo). El layout usa container
+    queries: se adapta al ancho del bloque, no de la ventana — así funciona igual
+    en la portada (ancha) y en una página de análisis (columna angosta). */
 ---
 
 <section
   aria-labelledby="nl-title"
-  class="rounded-2xl bg-navy-900 ring-1 ring-navy-800 px-7 py-9 sm:px-12 sm:py-11 bg-[radial-gradient(ellipse_at_bottom_left,rgb(28_52_82/0.8),transparent_55%)]">
-  <div class="grid md:grid-cols-2 gap-7 items-center">
+  class="@container rounded-2xl bg-navy-900 ring-1 ring-navy-800 px-7 py-9 @2xl:px-12 @2xl:py-11 bg-[radial-gradient(ellipse_at_bottom_left,rgb(28_52_82/0.8),transparent_55%)]">
+  <div class="grid @3xl:grid-cols-2 gap-7 items-center">
     <div>
       <p class="text-[0.7rem] font-bold uppercase tracking-[0.18em] text-amber-brand">Boletín ejecutivo</p>
       <h2 id="nl-title" class="font-serif text-[1.75rem] leading-tight font-semibold text-white mt-2 [text-wrap:balance]">
@@ -22,7 +24,7 @@
         <label for="nl-website">No completar este campo</label>
         <input id="nl-website" type="text" name="website" tabindex="-1" autocomplete="off" />
       </div>
-      <div class="flex flex-col sm:flex-row gap-3">
+      <div class="flex flex-col @sm:flex-row gap-3">
         <input
           id="nl-email"
           type="email"
