@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: macro
 pais: BO
 score: 8.0
-destacado: true
+destacado: false
 lectura: "El acuerdo estabiliza julio, pero la variable que mueve inversión no es el litro de hoy: es la certidumbre de octubre. La siembra de verano se decidirá con dos incógnitas sobre la mesa — diésel y El Niño — y cada semana sin plan definido se paga en hectáreas."
 cifras:
   - label: "Acuerdo YPFB-CAO"

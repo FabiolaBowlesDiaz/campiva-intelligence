@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-07-07",
+  "items": [
+    {
+      "titular": "Cacao de vuelta sobre US$ 5.700/t (+13% en la semana): Costa de Marfil apunta a una cosecha 2026/27 mucho menor",
+      "resumen": "Analistas proyectan que el mayor productor caiga a 1,7-1,8 millones de toneladas en 2026/27, desde ~2,2 millones, tras lluvias que inundaron plantaciones y caminos. Los arribos a puerto sumaban 1,910 millones de t al 28 de junio, +18,4% interanual.",
+      "fuente": "ICE / Reuters vía TradingEconomics",
+      "url": "https://es.tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Café arábica salta a US$ 3,40/lb, +14,6% en una semana — el mercado sigue pagando la incertidumbre de Brasil",
+      "resumen": "El arábica escaló un nuevo tramo con los inventarios certificados de ICE en mínimos y una cosecha brasileña que avanzó más lenta que su promedio. El lunes tocó máximos; el martes corrigió cerca de 3%. Cierre al 7 de julio.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "La soya cierra la semana en US$ 11,84/bu, +6%: prima climática en EE.UU. y demanda de molienda empujan el complejo",
+      "resumen": "El poroto de Chicago acumula la mejor semana del último mes en pleno arranque del verano boreal, con el mercado atento al clima de la principal región productora. Cierre al 7 de julio.",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "Granos gruesos en bloque: maíz +6,6% (US$ 4,40/bu) y trigo +3,7% (US$ 6,02/bu) suben con la soya",
+      "resumen": "El tablero de Chicago cerró la semana al alza en todo el complejo de granos. El trigo carga además el dato estructural de una cosecha de invierno estadounidense en mínimos de varias décadas. Cierre al 7 de julio.",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodities",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Argentina: la soja Matba cerró en US$ 328,00/t (+5,60) y el maíz en US$ 181,10/t (+2,90) el 6 de julio",
+      "resumen": "El físico y los futuros locales acompañaron la suba de Chicago. El dato sale del Informe Diario del Mercado de Granos de la SAGyP, la referencia de precios FOB y Matba-Rofex de la plaza argentina.",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Fletes al alza: el Drewry WCI subió 9% a US$ 4.530/FEU por el Transpacífico y Asia-Europa; el Baltic Dry recuperó a 2.797 puntos",
+      "resumen": "El índice de contenedores de Drewry (evaluación del 2 de julio) encadena subas por aumentos de tarifa en las rutas del Pacífico y hacia Europa. El Baltic Dry, de graneles, rebotó 2,94% el 6 de julio pese a un mes aún negativo.",
+      "fuente": "Drewry / Baltic Exchange vía TradingEconomics",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Clima: el Niño 3.4 escaló a +1,7 °C y la NOAA proyecta un El Niño muy fuerte para el trimestre septiembre-noviembre",
+      "resumen": "La discusión diagnóstica más reciente del CPC ubica el índice en +1,7 °C (semana centrada en el 17 de junio) y 13 de 24 modelos ven un evento muy fuerte (≥ +2,0 °C) en SON 2026 — el pico previsto, justo sobre la siembra de verano sudamericana.",
+      "fuente": "NOAA / CPC",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El reverso del ciclo: las exportaciones de cacao de Ecuador cayeron 63,5% en el primer trimestre de 2026",
+      "resumen": "El tercer productor mundial facturó US$ 441 millones en el trimestre, frente a US$ 1.208 millones un año antes — una caída que Anecacao atribuye a la normalización de precios tras el pico de 2024, no a un debilitamiento estructural.",
+      "fuente": "Anecacao vía El Universo",
+      "url": "https://www.eluniverso.com/noticias/economia/exportaciones-cacao-desplome-caida-635-explicacion-anecacao-merlyn-casanova-ecuador-2026-nota/",
+      "vertical": "cacao",
+      "pais": "EC",
+      "impacto": "bajo",
+      "score": 6.0
+    }
+  ]
+}
