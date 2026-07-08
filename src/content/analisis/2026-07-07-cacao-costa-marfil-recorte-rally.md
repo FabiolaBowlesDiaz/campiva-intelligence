@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cacao
 pais: GLOBAL
 score: 8.0
-destacado: true
+destacado: false
 lectura: "El cacao no está caro por especulación: descuenta una oferta africana que podría achicarse un 20%. Para el origen latinoamericano —Ecuador a la cabeza— cada semana de precio alto es una ventana, no una garantía. El ciclo 2024 mostró lo rápido que el péndulo vuelve."
 cifras:
   - label: "Cacao NY"

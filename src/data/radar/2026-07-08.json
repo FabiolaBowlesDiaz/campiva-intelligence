@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-07-08",
+  "items": [
+    {
+      "titular": "Bolivia abre la importación privada de combustibles a precio de mercado: el Decreto 5644 rompe el monopolio de YPFB hasta 2030",
+      "resumen": "El Decreto Supremo 5644, promulgado el 1 de julio de 2026, autoriza a privados y entidades públicas a importar y vender diésel, gasolina y derivados; fija el IEHD en Bs 0 por litro hasta el 31 de diciembre de 2030 y prohíbe mezclar el combustible importado con el subsidiado de YPFB. Rige una vez que la ANH publique su reglamentación.",
+      "fuente": "Gaceta Oficial / ABI",
+      "url": "https://abi.bo/decreto-5644-autoriza-a-publicos-y-privados-la-importacion-de-derivados-del-petroleo-para-venta-o-consumo-propio/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Los fletes de contenedores vuelven a modo súper-ciclo: el Drewry WCI cierra en US$ 4.530/FEU, un 61% arriba que hace un año",
+      "resumen": "En la evaluación del 2 de julio de 2026 el índice subió 8,7% semanal, con el Shanghái-Nueva York a US$ 7.902/FEU (+11%) y el Shanghái-Génova a US$ 6.360 (+10%). Drewry atribuye la escalada a la temporada alta, la capacidad recortada con blank sailings y disrupciones geopolíticas, y anticipa nuevas subas.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El Brent salta a US$ 78,32/bbl, +5,6% en un solo día, por la escalada en Medio Oriente",
+      "resumen": "El crudo de referencia sumó US$ 4,29 el 8 de julio ante nuevas tensiones en el Golfo Pérsico, tras haber tocado un máximo de una semana el martes. Para el agro es un doble golpe de costos: encarece el flete marítimo y presiona el precio del diésel de la próxima campaña.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El cacao NY vuelve sobre US$ 5.900/t: +16,8% en la semana y el rally africano no cede",
+      "resumen": "El grano cerró el 8 de julio en US$ 5.947/t, prolongando la suba que descuenta una cosecha 2026/27 más chica en Costa de Marfil. Es la continuación del movimiento que ya venía tensando el mercado la semana pasada.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "La soya de Chicago cierra en US$ 12,05/bu, +7% en la semana: prima climática y molienda firme",
+      "resumen": "El poroto sostiene la mejor racha de las últimas semanas en pleno verano boreal, con el mercado pendiente del clima en la principal región productora de EE.UU. Cierre al 8 de julio.",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El café arábica se acomoda en US$ 3,17/lb tras corregir desde el pico de US$ 3,40",
+      "resumen": "El arábica cedió parte del salto de la semana anterior y operó casi plano el 8 de julio (-0,1% diario), aunque acumula un alza mensual cercana al 32%. El mercado sigue caro por los bajos inventarios certificados de ICE.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Argentina: la soja Matba cerró en US$ 327,70/t y el maíz en US$ 182,20/t el 7 de julio",
+      "resumen": "La soja retrocedió apenas US$ 0,30 mientras el maíz sumó US$ 1,10, según el Informe Diario del Mercado de Granos de la SAGyP, la referencia de precios Matba-Rofex y FOB de la plaza argentina.",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Perú sostiene su motor agroexportador: +6,7% en el primer bimestre de 2026 (US$ 2.220 millones), con el café +71,9%",
+      "resumen": "El Midagri reportó que los envíos agrarios sumaron US$ 2.220 millones entre enero y febrero de 2026; el café sin tostar lideró las exportaciones tradicionales con US$ 131 millones y el arándano fresco aportó US$ 265 millones. Datos del primer bimestre, no de la última semana.",
+      "fuente": "Midagri vía Gestión",
+      "url": "https://gestion.pe/economia/agroexportaciones-peruanas-superan-los-us-2200-millones-en-el-primer-bimestre-noticia/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 6.0
+    },
+    {
+      "titular": "El Baltic Dry rebota a 2.875 puntos (+2,79% el 7 de julio), pero el mes sigue en terreno negativo",
+      "resumen": "El índice de graneles secos —el que realmente importa para el embarque de granos a granel— recuperó 78 puntos en la jornada aunque acumula -1,4% en el mes, en contraste con el fuerte encarecimiento de los contenedores.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.7
+    }
+  ]
+}
