@@ -1,90 +1,90 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-07-08",
+  "actualizado": "2026-07-09",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "12,05",
+      "valor": "11,88",
       "unidad": "US$/bu",
-      "cambio": 7.0,
+      "cambio": 4.9,
       "cambioLabel": "semanal",
       "fuente": "CBOT vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [11.32, 11.84, 12.05]
+      "serie": [11.32, 11.84, 12.05, 11.88]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "3,17",
+      "valor": "3,19",
       "unidad": "US$/lb",
-      "cambio": 2.3,
+      "cambio": 5.6,
       "cambioLabel": "semanal",
       "fuente": "ICE vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [3.02, 3.40, 3.17]
+      "serie": [3.02, 3.40, 3.17, 3.19]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "15,27",
+      "valor": "14,92",
       "unidad": "¢/lb",
-      "cambio": 1.9,
+      "cambio": 0.7,
       "cambioLabel": "semanal",
       "fuente": "ICE vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [14.81, 15.09, 15.27]
+      "serie": [14.81, 15.09, 15.27, 14.92]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.947",
+      "valor": "6.238",
       "unidad": "US$/t",
-      "cambio": 16.8,
+      "cambio": 24.3,
       "cambioLabel": "semanal",
       "fuente": "ICE vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [5017, 5730, 5947]
+      "serie": [5017, 5730, 5947, 6238]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,40",
+      "valor": "4,30",
       "unidad": "US$/bu",
-      "cambio": 4.4,
+      "cambio": 1.2,
       "cambioLabel": "semanal",
       "fuente": "CBOT vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [4.25, 4.40, 4.40]
+      "serie": [4.25, 4.40, 4.40, 4.30]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "6,12",
+      "valor": "5,99",
       "unidad": "US$/bu",
-      "cambio": 3.4,
+      "cambio": 1.4,
       "cambioLabel": "semanal",
       "fuente": "CBOT vía TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [5.91, 6.02, 6.12]
+      "serie": [5.91, 6.02, 6.12, 5.99]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "78,32",
+      "valor": "78,65",
       "unidad": "US$/bbl",
-      "cambio": 9.3,
+      "cambio": 9.1,
       "cambioLabel": "semanal",
       "fuente": "TradingEconomics",
-      "asOf": "2026-07-08",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [72.1, 72.70, 78.32]
+      "serie": [72.1, 72.70, 78.32, 78.65]
     },
     {
       "id": "soja-matba",
@@ -125,26 +125,26 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.875",
+      "valor": "2.871",
       "unidad": "pts",
-      "cambio": -1.4,
+      "cambio": 1.9,
       "cambioLabel": "mensual",
       "fuente": "Baltic Exchange vía TradingEconomics",
-      "asOf": "2026-07-07",
+      "asOf": "2026-07-08",
       "verificado": true,
-      "serie": [2717, 2797, 2875]
+      "serie": [2717, 2797, 2875, 2871]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "100,91",
+      "valor": "101,01",
       "unidad": "pts",
-      "cambio": 0.9,
+      "cambio": 0.1,
       "cambioLabel": "mensual",
       "fuente": "TradingEconomics",
-      "asOf": "2026-07-07",
+      "asOf": "2026-07-09",
       "verificado": true,
-      "serie": [100.86, 100.91]
+      "serie": [100.86, 100.91, 101.01]
     },
     {
       "id": "enso",

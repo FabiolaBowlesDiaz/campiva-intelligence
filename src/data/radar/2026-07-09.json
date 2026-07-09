@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-07-09",
+  "items": [
+    {
+      "titular": "Brasil cierra el mejor semestre de pollo de su historia: 2,94 millones de toneladas exportadas (+12,9%) y US$ 5.700 millones de ingresos",
+      "resumen": "Según la ABPA, los embarques de carne de pollo de enero a junio de 2026 sumaron 2,94 M t (+12,9% interanual) y US$ 5.700 M (+17%). Solo en junio salieron 482.800 t (+40,6%), con China (50.100 t), Japón (46.600 t) y Emiratos (46.200 t) como principales destinos.",
+      "fuente": "ABPA vía The Poultry Site",
+      "url": "https://www.thepoultrysite.com/news/2026/07/brazil-chicken-exports-hit-record-high-in-first-half-of-2026",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "La carne de cerdo brasileña acompaña el récord: 794.200 toneladas en el semestre (+10%) y US$ 1.859 millones de ingresos",
+      "resumen": "La ABPA reportó que los embarques de carne suína de enero a junio de 2026 crecieron 10% en volumen (794.200 t) y 7,9% en ingresos (US$ 1.859 M). Filipinas se mantiene como principal comprador y Santa Catarina como principal polo exportador; Japón saltó 33,8% en el período.",
+      "fuente": "ABPA vía CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/carne-suina-tem-primeiro-semestre-recorde-de-exportacoes-e-receita/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Bolivia arranca la cosecha de invierno con el diésel todavía racionado: ANAPO cifra el requerimiento en 90 millones de litros y una cobertura del 40-50%",
+      "resumen": "ANAPO informó que la campaña de invierno —unas 950.000 ha en el este de Santa Cruz en cosecha y 400.000 ha en siembra en el norte integrado— avanza con abastecimiento de combustible cubierto solo en 40-50% de los 90 millones de litros requeridos, y acordó con el Gobierno y YPFB un plan de suministro. Datos al 1 de julio de 2026.",
+      "fuente": "ANAPO vía eju.tv",
+      "url": "https://eju.tv/2026/07/comienza-la-cosecha-de-invierno-anapo-traza-plan-con-el-gobierno-para-garantizar-el-abastecimiento-de-diesel/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El cacao NY vuelve sobre US$ 6.200/t: +3,1% en el día y +62% en el mes, sin señales de techo",
+      "resumen": "El grano cerró el 9 de julio de 2026 en US$ 6.238/t, prolongando un rally mensual del 62% que descuenta una cosecha 2026/27 más chica en África Occidental. La suba encarece la materia prima de toda la cadena del chocolate.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "Perú suma US$ 5.400 millones de agroexportación en el primer semestre (+5%), con el arándano temprano +50%",
+      "resumen": "Los envíos agrarios peruanos crecieron 5% interanual entre enero y junio de 2026 hasta US$ 5.400 M, casi 30% por encima de 2024. El arándano temprano subió 50% en el semestre y el café sin tostar lideró las exportaciones tradicionales. Dato semestral, no de la última semana.",
+      "fuente": "FreshFruit / AGAP",
+      "url": "https://freshfruit.pe/2026/07/07/agroexportaciones-peruanas-superan-los-us-5400-millones-en-el-primer-semestre/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El café arábica rebota a US$ 3,19/lb: +3,1% en el día y cerca de +30% en el mes por inventarios ajustados",
+      "resumen": "El arábica cerró el 9 de julio de 2026 en US$ 3,19/lb, recuperando el terreno perdido tras la corrección de días previos. El mercado sostiene precios altos por los bajos inventarios certificados de ICE.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "La soya de Chicago afloja a US$ 11,88/bu (-0,6% en el día) pero sostiene la ganancia mensual del verano boreal",
+      "resumen": "El poroto cedió levemente el 9 de julio de 2026 hasta US$ 11,88/bu, con el mercado pendiente del clima en el Medio Oeste de EE.UU. Acumula cerca de +6% en el mes pese al retroceso de la jornada.",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Argentina: la soja Matba en US$ 327,70/t y el maíz en US$ 182,20/t según el último informe disponible de la SAGyP",
+      "resumen": "El Informe Diario del Mercado de Granos de la SAGyP mantiene su última publicación fechada el 7 de julio de 2026, con la soja Matba en US$ 327,70/t (-0,30) y el maíz en US$ 182,20/t (+1,10). Referencia Matba-Rofex de la plaza argentina.",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 5.9
+    },
+    {
+      "titular": "El Brent se sostiene en US$ 78,65/bbl (+0,8% en el día): el costo energético sigue como piso del flete y del diésel de campaña",
+      "resumen": "El crudo de referencia cerró el 9 de julio de 2026 en US$ 78,65/bbl, en zona de máximos de las últimas semanas por las tensiones en Medio Oriente. Para el agro, un Brent firme presiona los costos logísticos y de combustible de la próxima siembra.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "El Baltic Dry se estabiliza en 2.871 puntos: el granel seco sigue sin acompañar el súper-ciclo del contenedor",
+      "resumen": "El índice de graneles secos —el termómetro del embarque de granos a granel— cerró el 8 de julio de 2026 en 2.871 puntos (-0,14% en el día, +1,9% en el mes). Sigue muy por debajo de la escalada que vive el flete de contenedores.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}

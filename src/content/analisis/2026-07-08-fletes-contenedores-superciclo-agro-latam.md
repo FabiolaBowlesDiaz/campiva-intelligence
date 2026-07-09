@@ -6,7 +6,7 @@ tipo: logistica
 vertical: logistica
 pais: LATAM
 score: 7.6
-destacado: true
+destacado: false
 lectura: "El encarecimiento de fletes no es un titular único: son dos mercados que se mueven en direcciones opuestas. El contenedor está en súper-ciclo (+61% interanual) y castiga al agro de valor agregado y a la fruta fresca; el granel seco, en cambio, sigue flojo y protege por ahora al exportador de poroto y grano. Saber en cuál de los dos viaja tu carga es la diferencia entre absorber el golpe o esquivarlo."
 cifras:
   - label: "Drewry WCI"
