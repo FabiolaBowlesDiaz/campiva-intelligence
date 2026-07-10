@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-10",
+  "items": [
+    {
+      "titular": "El WASDE de julio aprieta el maíz de EE.UU.: los stocks finales 2026/27 caen a 1.790 millones de bushels, 170 millones menos que en junio",
+      "resumen": "El USDA recortó el stock final de maíz 2026/27 a 1.790 M bu (desde 1.960 M) por mayor uso forrajero y exportaciones más firmes (+50 M bu). El rendimiento queda en 183 bu/acre y el precio de finca en US$ 4,40/bu. El maíz de Chicago cerró en US$ 4,36/bu, +1,93% en la jornada.",
+      "fuente": "USDA WASDE vía ADM Investor Services / RFD-TV",
+      "url": "https://www.admis.com/usda-july-10-wasde-supportive-corn-beans-neutral-wheat/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Trigo de EE.UU. a su cosecha más chica desde 1970: el WASDE fija la producción 2026/27 en 1.536 millones de bushels",
+      "resumen": "El USDA cifró la producción de trigo estadounidense 2026/27 en 1.536 M bu, el menor volumen en más de cinco décadas, con el trigo de invierno en 990 M bu y los stocks finales en 722 M bu. El precio promedio de finca sube a US$ 6,00/bu. El trigo de Chicago saltó +3,07% en el día hasta US$ 6,30/bu.",
+      "fuente": "USDA WASDE vía RFD-TV / TradingEconomics",
+      "url": "https://www.rfdtv.com/july-wasde-report-signals-historic-wheat-decline-stronger-corn-demand-higher-cattle-prices",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El WASDE deja la soya cómoda: producción 2026/27 en 4.475 millones de bushels y stock final sin cambios en 310 millones",
+      "resumen": "El USDA elevó la producción de soya estadounidense en 40 M bu hasta 4.475 M bu y subió las exportaciones en 30 M bu, dejando el stock final en 310 M bu (sin cambios) y el precio de finca en US$ 11,40/bu. El poroto de Chicago cerró en US$ 11,95/bu, +1,27% en la jornada.",
+      "fuente": "USDA WASDE vía ADM Investor Services / TradingEconomics",
+      "url": "https://www.admis.com/usda-july-10-wasde-supportive-corn-beans-neutral-wheat/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El trigo sube por partida doble: al recorte del USDA se suma el riesgo de que hasta 20 millones de toneladas queden retenidas en el mar de Azov",
+      "resumen": "Además del WASDE, el trigo cotizó al alza el 10 de julio de 2026 por versiones de un posible cierre del canal del Don y del estrecho de Kerch tras ataques a buques en el mar de Azov, con hasta 20 M t de trigo potencialmente bloqueadas. Efecto de mercado sobre la oferta exportable del mar Negro.",
+      "fuente": "Total Farm Marketing (Stewart-Peterson)",
+      "url": "https://www.totalfarmmarketing.com/tfm-daily-market-summary-07-10-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Perú se ratifica como primer exportador mundial de quinua: 54,7 mil toneladas y más de US$ 152 millones en 2025",
+      "resumen": "En el marco del Día Nacional de los Granos Andinos, el MIDAGRI destacó que Perú lidera la producción y exportación mundial de quinua, con 54,7 mil t exportadas por US$ 152 M en 2025 (+13% interanual) y el sustento de más de 120 mil familias. Cifra anual 2025, no de la última semana.",
+      "fuente": "MIDAGRI (Perú)",
+      "url": "https://www.gob.pe/institucion/midagri/noticias/1412707-dia-nacional-de-los-granos-andinos-2026-el-peru-lidera-la-produccion-y-exportacion-mundial-de-quinua",
+      "vertical": "granos-andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El cacao NY se desploma 7,5% en una sola jornada hasta US$ 5.973/t, aunque conserva casi 20% de ganancia semanal",
+      "resumen": "El grano cerró el 10 de julio de 2026 en US$ 5.973/t, con una caída diaria del 7,47% que corrige el rally reciente, pero mantiene +19% en la semana y +57% en lo que va del mes por la expectativa de una cosecha 2026/27 más chica en Costa de Marfil (1,7-1,8 M t).",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El café arábica cede 2,9% en el día a US$ 3,38/lb, pero acumula casi 12% en la semana y 35% en el mes",
+      "resumen": "El arábica cerró el 10 de julio de 2026 en US$ 3,38/lb, con una baja diaria del 2,92% que no borra la escalada mensual (+34,97%). El mercado sigue tensionado por el clima en Brasil durante la cosecha y por inventarios globales ajustados.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Bolivia refuerza el Programa Etanol de cara a la zafra: el sector cañero de Santa Cruz y el Gobierno acuerdan una alianza para asegurar el biocombustible",
+      "resumen": "El sector agroindustrial cañero de Santa Cruz y el Gobierno acordaron fortalecer el Programa Etanol para garantizar el abastecimiento de biocombustible y la sustitución de importaciones de combustible. La zafra cruceña proyecta unos 300 millones de litros de etanol en 2026. Acuerdo del 24 de junio de 2026.",
+      "fuente": "Sector cañero / Gobierno vía La Razón",
+      "url": "https://larazon.bo/economia-y-empresa/2026/06/24/sector-canero-y-el-gobierno-acuerdan-alianza-para-fortalecer-el-programa-etanol/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El flete de contenedores sigue en ascenso: el Drewry WCI sube a US$ 4.639/FEU, su nivel más alto desde septiembre de 2024",
+      "resumen": "El índice compuesto de Drewry subió 2% en la evaluación del 9 de julio de 2026 hasta US$ 4.639 por contenedor de 40 pies, empujado por las tarifas Asia-Europa. El costo del contenedor sigue castigando al agro de valor agregado frente al granel seco.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El azúcar #11 afloja a 14,86 ¢/lb (-1,7% en el día): el petróleo más barato quita incentivo para desviar caña a etanol",
+      "resumen": "El azúcar crudo cerró el 10 de julio de 2026 en 14,86 ¢/lb, con una baja diaria del 1,72% asociada a un Brent más débil que reduce el atractivo de producir etanol frente a azúcar. En la semana el contrato apenas se movió (+0,34%).",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.7
+    },
+    {
+      "titular": "El Baltic Dry trepa a 2.944 puntos, su mayor nivel desde el 5 de junio: el granel seco recupera pulso",
+      "resumen": "El índice de graneles secos —termómetro del embarque de granos a granel— cerró el 10 de julio de 2026 en 2.944 puntos, +1,17% en el día y +7,88% en el mes. Sigue como la vía logística que más protege al exportador de grano frente al contenedor.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "El Brent retrocede a US$ 75,98/bbl pese a sostener +5,4% en la semana: alivio parcial para el costo del flete y del diésel",
+      "resumen": "El crudo de referencia cerró el 10 de julio de 2026 en US$ 75,98/bbl, cediendo respecto de los máximos recientes aunque con ganancia semanal del 5,38% por las tensiones en Medio Oriente. Un Brent más contenido descomprime algo los costos logísticos y de combustible del agro.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.4
+    }
+  ]
+}

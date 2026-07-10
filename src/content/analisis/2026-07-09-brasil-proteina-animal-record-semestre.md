@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: proteina-animal
 pais: BR
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Un récord de proteína animal brasileña es, antes que nada, un récord de consumo de alimento balanceado. Cada tonelada de pollo y de cerdo que sale de Brasil es harina de soya y maíz convertidos en músculo. Para la región productora de soya, la señal relevante no es el precio de la jornada, sino la demanda estructural de proteína vegetal que estos volúmenes garantizan."
 cifras:
   - label: "Pollo — semestre I 2026"
