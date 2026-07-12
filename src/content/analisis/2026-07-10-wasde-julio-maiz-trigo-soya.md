@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El WASDE de julio no dibujó un mercado alcista de manzana: apretó el maíz por demanda, dejó al trigo estadounidense en un mínimo histórico de área y producción, y mantuvo a la soya con oferta suficiente. Para el exportador sudamericano —Argentina, Brasil, Bolivia— la señal no está en el titular de cada grano sino en la brecha: EE.UU. adelgaza en maíz y trigo justo cuando la demanda global no afloja, y esa es la ventana por la que se cuela el grano del sur."
 cifras:
   - label: "Maíz EE.UU. — stock final 2026/27"
