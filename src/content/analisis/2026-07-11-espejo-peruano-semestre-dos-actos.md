@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: soya
 pais: BO
 score: 8.5
-destacado: true
+destacado: false
 lectura: "El espejo deja dos verdades incómodas de ignorar: la demanda regional por el refinado boliviano es real y profunda — y la logística es su único techo. El mismo dato que valida la apuesta industrial cuantifica lo que cuesta cada día de carretera cerrada."
 cifras:
   - label: "Semestre completo"

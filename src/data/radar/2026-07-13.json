@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-07-13",
+  "items": [
+    {
+      "titular": "La soya cruza los US$ 12 al abrir la semana: China vuelve a comprar y el poroto toca casi su máximo de ocho semanas",
+      "resumen": "En la sesión del 13 de julio de 2026 la soya de Chicago superó los US$ 12/bu (+0,49% en la jornada), cerca de un máximo de ocho semanas, tras confirmar el USDA una venta de 264.000 t a China para 2026/27 y reforzar COFCO sus compras. El impulso es de demanda: la cosecha estadounidense sigue proyectada en un récord de 4.475 M bu. Último cierre verificado: US$ 11,95/bu el 10/07.",
+      "fuente": "CBOT / USDA vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Brasil rumbo a un área récord de soya 2026/27, pero con la expansión más lenta en dos décadas: 49,006 millones de hectáreas",
+      "resumen": "La consultora AgRural proyectó el área de soya 2026/27 de Brasil en 49,006 millones de hectáreas (+443 mil ha, +0,9%), vigésimo aumento anual consecutivo aunque el más bajo de todo ese período. Cita márgenes ajustados, crédito más caro y el riesgo de El Niño sobre el arranque de la siembra como frenos a una mayor expansión. Proyección de julio de 2026.",
+      "fuente": "AgRural vía CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/agrural-estima-aumento-de/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Bolivia asegura el diésel de la campaña: YPFB se compromete a 3 millones de litros diarios para Santa Cruz",
+      "resumen": "El 1 de julio de 2026, el Gobierno y YPFB firmaron con el sector agropecuario de Santa Cruz un acuerdo para garantizar 3 millones de litros diarios de diésel al departamento y evitar una crisis en la cosecha de invierno y la siembra. El complejo oleaginoso boliviano generó US$ 1.145 millones en exportaciones en 2025, por encima de los hidrocarburos.",
+      "fuente": "Sector agropecuario / YPFB vía La Patria",
+      "url": "https://lapatria.bo/enfoque-nacional/gestion/acuerdo-ypfb-agropecuarios-garantiza-diesel-diario/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Perú suma US$ 3.899 millones en agroexportaciones en el primer cuatrimestre de 2026, un 6,9% más que un año atrás",
+      "resumen": "Entre enero y abril de 2026, las agroexportaciones peruanas alcanzaron US$ 3.899 millones (+6,9% interanual), lideradas por uvas frescas (US$ 772 M), paltas (US$ 463 M) y arándanos (US$ 340 M); el café sin tostar aportó US$ 170 M. El MIDAGRI proyecta un cierre de año en torno a US$ 16.000 millones. Cifra acumulada enero-abril 2026.",
+      "fuente": "MIDAGRI vía La República",
+      "url": "https://larepublica.pe/economia/2026/06/22/midagri-peru-elevo-sus-agroexportaciones-a-us3899-millones-hasta-abril-con-un-crecimiento-de-69-frutas-frescas-cafe-hnews-799172",
+      "vertical": "granos-andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El Niño Advisory sigue vigente: la NOAA proyecta un fortalecimiento hacia fin de año con 97% de persistencia hasta inicios de 2027",
+      "resumen": "En su discusión diagnóstica de julio de 2026, la NOAA/CPC mantiene el El Niño Advisory y anticipa que el evento se fortalecerá hacia el cierre del año, con un 97% de probabilidad de persistir hasta inicios de la primavera boreal de 2027. El calendario coincide con el arranque de la siembra sudamericana 2026/27, una prima de riesgo climático que no se disipa.",
+      "fuente": "NOAA/CPC (ENSO Diagnostic Discussion)",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "LATAM",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El maíz de Chicago cierra la semana al alza por calor en el Midwest y versiones de compras chinas, con stocks estadounidenses más ajustados",
+      "resumen": "El maíz cerró el 10 de julio de 2026 en US$ 4,36/bu (+1,93% en la jornada), sostenido por pronósticos de calor potencialmente estresante hacia mediados de julio en la etapa de polinización y por rumores de que China buscaría maíz estadounidense. El WASDE de julio ya había recortado el stock final 2026/27 a 1.790 M bu (−170 M).",
+      "fuente": "SAGyP (Informe Diario) / USDA WASDE vía ADM Investor Services",
+      "url": "https://www.admis.com/usda-july-10-wasde-supportive-corn-beans-neutral-wheat/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El complejo de girasol se debilita: la mayor oferta de canola y aceite de soya limita el potencial alcista de la semilla",
+      "resumen": "Los precios de la semilla y las pepitas de girasol ceden en julio de 2026 por el aumento de la oferta mundial de aceites vegetales y buenas cosechas en la UE y el mar Negro, mientras el aceite físico se mantiene históricamente firme. La Comisión Europea proyecta una cosecha de girasol en torno a 9,6 millones de toneladas, máximo de tres años.",
+      "fuente": "Commodity Board (CMB News)",
+      "url": "https://commodity-board.com/el-mercado-de-girasol-se-debilita-mientras-los-aceites-competidores-limitan-el-potencial-alcista",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.0
+    },
+    {
+      "titular": "El aceite de palma pierde impulso mientras Indonesia demora la definición de su programa de biodiésel B50",
+      "resumen": "El contrato de referencia de aceite de palma en Bursa Malaysia cerró el 9 de julio de 2026 en 4.594 ringgit (US$ 1.127,6) por tonelada (−0,33%), presionado por un aceite de soya de Chicago más débil. El salto de la mezcla obligatoria a B50 desde B40 podría elevar el consumo interno de palma de Indonesia a 16,3-17,0 M t desde 15,2 M t, pero la incertidumbre sobre su implementación pesa sobre el precio.",
+      "fuente": "Bursa Malaysia Derivatives vía Business Recorder",
+      "url": "https://www.brecorder.com/news/40429595/malaysian-palm-oil-drifts-lower",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "El Brent sostiene US$ 75,98/bbl con una ganancia semanal del 5,4% por las tensiones en el estrecho de Ormuz",
+      "resumen": "El crudo de referencia cerró el 10 de julio de 2026 en US$ 75,98/bbl, con un alza semanal del 5,38% asociada a las tensiones en torno al estrecho de Ormuz. Un Brent más firme sube el costo del flete y del diésel del agro, pero también refuerza el atractivo del aceite vegetal como feedstock de biocombustible.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.5
+    }
+  ]
+}
