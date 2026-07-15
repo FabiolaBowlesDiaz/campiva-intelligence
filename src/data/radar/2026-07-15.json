@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-07-15",
+  "items": [
+    {
+      "titular": "Indonesia enciende el B50: el mandato de biodiésel más agresivo del mundo ya está en marcha y le pone piso a toda la demanda de aceite de palma",
+      "resumen": "Desde el 1 de julio de 2026, Indonesia elevó su mezcla obligatoria de biodiésel de B40 a B50 (50% de éster metílico de palma en el diésel). El Gobierno asignó 3,5 millones de toneladas de aceite crudo de palma al programa y proyecta un ahorro de IDR 157,28 billones (US$ 8.890 millones) en importaciones de combustible en 2026. El consumo de biodiésel previsto llega a 17,6 millones de kilolitros.",
+      "fuente": "Ministerio de Energía / Ministerio de Agricultura de Indonesia vía The Jakarta Post e Indonesia Investments",
+      "url": "http://www.thejakartapost.com/business/2026/07/10/indonesia-rolls-out-b50-biodiesel-mandate-lifting-palm-oil-demand",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El aceite de palma avanza en Bursa Malaysia empujado por el B50 y el rally del crudo: la referencia cerró el 14/07 cerca de 4.574 ringgit",
+      "resumen": "El contrato de referencia de aceite de palma en Bursa Malaysia subió hasta 1% el 14 de julio de 2026, cerrando en torno a 4.574 ringgit por tonelada, y el 15/07 cotizaba cerca de 4.552 ringgit (US$ 4.552/t es MYR). El impulso combina el arranque del B50 indonesio, la mezcla B15 de Malasia y un crudo Brent que trepó por encima de US$ 85. Las exportaciones malayas del 1 al 10 de julio subieron entre 1,6% y 5,1% frente a junio.",
+      "fuente": "Bursa Malaysia Derivatives vía Reuters / The Star y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/palm-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El aceite de soja de Chicago cotiza en su mayor nivel en más de cuatro años: la demanda de biodiésel arrastra al complejo de aceites vegetales",
+      "resumen": "El aceite de soja de Chicago cerró el 14 de julio de 2026 en 1.610,24 US$/t (unos 73 ¢/lb), su nivel más alto en más de cuatro años, con una curva en backwardation que refleja un mercado físico ajustado. El motor es la demanda de biodiésel: las metas de mezcla del Renewable Fuel Standard 2026-2027 en EE.UU. y los mandatos asiáticos elevan el consumo de aceites vegetales como feedstock energético.",
+      "fuente": "CBOT vía Informe Diario SAGyP; contexto RFS vía BioEnergy Times",
+      "url": "https://bioenergytimes.com/biodiesel-demand-pushes-soybean-oil-prices-to-four-year-high-lifts-farm-markets/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent supera los US$ 85 con una ganancia semanal del 9,7% por las tensiones en el estrecho de Ormuz",
+      "resumen": "El crudo Brent cerró el 14 de julio de 2026 en US$ 85,56/bbl (+0,98% en la jornada, +9,7% en la semana), su nivel más alto en meses, tras la reactivación de las hostilidades en torno al estrecho de Ormuz. Un Brent más firme encarece el flete y el diésel del agro, pero también refuerza el atractivo económico de los aceites vegetales como feedstock de biocombustible.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "La soya de Chicago sostiene US$ 11,97/bu cerca de su máximo de ocho semanas, apoyada en el aceite y en mejores condiciones de cultivo",
+      "resumen": "La soya cerró el 14 de julio de 2026 en US$ 11,97/bu (+0,35% en la jornada), cerca de su mayor nivel en ocho semanas. El USDA reportó 65% del cultivo en condición buena o excelente; el mercado sigue el calor del Medio Oeste en llenado de vaina y la firmeza del aceite de soja, que arrastra al complejo por la vía del biocombustible.",
+      "fuente": "CBOT / USDA vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El trigo de Chicago salta 11% en la semana: el rally más fuerte del panel de granos por recorte de oferta estadounidense",
+      "resumen": "El trigo de Chicago cerró el 14 de julio de 2026 en US$ 6,66/bu (+3,22% en la jornada, +11,06% en la semana), el mayor avance semanal del panel de granos. El impulso llega tras un WASDE de julio que dejó el stock final estadounidense en su mínimo desde 1970 (1.536 M bu). El maíz acompañó a US$ 4,43/bu (+2,0% semanal).",
+      "fuente": "CBOT vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/wheat",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Perú suma US$ 4.518,6 millones en agroexportaciones a mayo (+4,8%), pero El Niño le resta volumen: los envíos caen 1%",
+      "resumen": "Entre enero y mayo de 2026 las agroexportaciones peruanas alcanzaron US$ 4.518,6 millones (+4,8% frente a US$ 4.308,3 M de 2025), lideradas por uvas (US$ 783,3 M), paltas (US$ 704,8 M) y arándanos (US$ 359,2 M). El volumen exportado, en cambio, cayó 1%: ADEX lo atribuye directamente al efecto de El Niño sobre los ciclos productivos.",
+      "fuente": "ADEX vía Agencia Peruana de Noticias",
+      "url": "https://prensaperu.pe/2026/07/14/agroexportaciones-crecen-48-pero-el-nino-reduce-volumenes-enviados-al-exterior-mas-ingresos-menos-volumen-conoce-el-nuevo-panorama-de-las-ventas-agricolas-peruanas-al-exterior/",
+      "vertical": "granos-andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Bolivia: el sector agropecuario y el Gobierno sostienen el acuerdo por 72 millones de litros de diésel mientras la zafra cañera —origen del 100% del etanol nacional— avanza",
+      "resumen": "El acuerdo firmado entre la Cámara Agropecuaria del Oriente (CAO) y el Gobierno compromete el abastecimiento de 72 millones de litros de diésel para el sector productivo de Santa Cruz. La zafra cañera del norte cruceño abarca unas 200.000 hectáreas y provee entre el 95% y 96% del azúcar y el 100% del etanol que consume el país, cultivos cuyos ciclos dependen del suministro continuo de combustible.",
+      "fuente": "CAO / sector agropecuario vía Los Tiempos y El Día",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260701/productores-soya-advierten-que-falta-diesel-pone-riesgo-cosecha-siembra",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "La NOAA sostiene el El Niño Advisory y eleva a 81% la probabilidad de un evento muy fuerte en octubre-diciembre",
+      "resumen": "En su discusión diagnóstica del 9 de julio de 2026, la NOAA/CPC mantiene el El Niño Advisory y anticipa que el fenómeno se fortalecerá hacia fin de año, con un 81% de probabilidad de un El Niño muy fuerte en octubre-diciembre —que podría figurar entre los mayores registrados— y un 97% de persistencia hasta inicios de la primavera boreal de 2027. La próxima discusión es el 13 de agosto.",
+      "fuente": "NOAA/CPC (ENSO Diagnostic Discussion)",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "LATAM",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El cacao de Nueva York corrige 5,9% en la semana y el azúcar cede 2,4%: los dos dulces del panel aflojan tras meses de tensión",
+      "resumen": "El cacao de Nueva York cerró el 14 de julio de 2026 en US$ 5.697/t (-1,88% en la jornada, -5,87% en la semana), lejos de los máximos recientes, mientras el azúcar #11 retrocedió a 14,74 ¢/lb (-2,42% semanal). El café arábica, en cambio, sumó 4,0% en la semana hasta US$ 3,22/lb. El panel de blandos muestra señales mixtas de alivio en la oferta.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.7
+    }
+  ]
+}

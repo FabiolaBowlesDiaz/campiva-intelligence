@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El WASDE de julio dejó a la soya con una cosecha estadounidense récord (4.475 millones de bushels) y sin un motor alcista propio del lado de la oferta. Tres días después, el precio cruzó los US$ 12 igual —pero por la otra puerta: la demanda. China volvió a comprar poroto estadounidense, el aceite de soya sostiene la molienda por su uso como feedstock de biodiésel, y el clima del Medio Oeste entra en la etapa de llenado de vaina. Para la cuenca sudamericana —y para Bolivia en particular— la señal es que el valor del complejo está migrando del grano crudo hacia la molienda y el aceite. Es exactamente el terreno donde el valor agregado paga."
 cifras:
   - label: "Soya CBOT"
