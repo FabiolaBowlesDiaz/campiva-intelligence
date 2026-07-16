@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import NewsletterBlock from '../components/NewsletterBlock.astro';
 import RadarItem from '../components/RadarItem.astro';
 import { fmtFecha, labelPais, labelVertical } from '../lib/format';
 
@@ -93,6 +94,10 @@ const paisesUsados = [...new Set(radares.flatMap((r) => r.items.map((i) => i.pai
     <p id="radar-sin-resultados" class="hidden mt-10 rounded-xl bg-slate-50 ring-1 ring-slate-200 px-5 py-6 text-slate-600 text-[0.95rem]">
       Ninguna historia del radar coincide con ese filtro. Probá con otra combinación o limpiá los filtros.
     </p>
+
+    <div class="mt-14">
+      <NewsletterBlock />
+    </div>
   </div>
 
   <script is:inline>

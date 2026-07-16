@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import NewsletterBlock from '../components/NewsletterBlock.astro';
+
+const beneficios = [
+  {
+    titulo: 'El resumen de la semana, cada viernes',
+    detalle:
+      'Lo que movió los mercados agro de Bolivia y LATAM: los análisis de la casa y lo mejor del radar, en un solo correo que se lee en cinco minutos.',
+  },
+  {
+    titulo: 'Cifras verificadas, siempre',
+    detalle:
+      'La regla de la casa aplica también al correo: ninguna cifra sin fuente verificada y fechada. Lo que no se puede verificar, no se envía.',
+  },
+  {
+    titulo: 'Datos que no vas a encontrar en otro lado',
+    detalle:
+      'Análisis con registros aduaneros procesados por nuestra mesa — como el espejo peruano del aceite boliviano — que ningún otro medio del rubro publica.',
+  },
+  {
+    titulo: 'Sin spam, sin ruido',
+    detalle:
+      'Un correo por semana más tu bienvenida con lo último publicado. Baja en un clic desde cualquier envío, sin preguntas.',
+  },
+];
+---
+
+<Base
+  title="Boletín ejecutivo — Campiva Intelligence"
+  description="Recibí cada viernes el resumen de la semana en los mercados agro de Bolivia y LATAM: análisis con cifras verificadas y la lectura de la casa, en tu correo.">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 pt-12 pb-6">
+    <p class="text-[0.78rem] font-bold uppercase tracking-[0.18em] text-amber-deep text-center">
+      Boletín ejecutivo · gratis
+    </p>
+    <h1 class="font-serif text-[2.3rem] sm:text-[2.9rem] leading-[1.12] font-semibold text-navy-950 mt-3 text-center [text-wrap:balance]">
+      La lectura de la casa, en tu correo
+    </h1>
+    <p class="text-slate-600 text-[1.08rem] leading-relaxed mt-4 max-w-[56ch] mx-auto text-center">
+      Para ejecutivos del agro que necesitan saber qué pasó en sus mercados — y por qué
+      importa — sin perseguir diez portales.
+    </p>
+
+    <div class="mt-10">
+      <NewsletterBlock />
+    </div>
+
+    <div class="grid sm:grid-cols-2 gap-x-10 gap-y-8 mt-12">
+      {
+        beneficios.map((b) => (
+          <div class="border-t-2 border-leaf-500 pt-4">
+            <h2 class="font-serif text-[1.2rem] leading-snug font-semibold text-navy-950">{b.titulo}</h2>
+            <p class="text-slate-600 text-[0.94rem] leading-relaxed mt-2">{b.detalle}</p>
+          </div>
+        ))
+      }
+    </div>
+
+    <p class="text-[0.82rem] text-slate-500 leading-relaxed mt-12 text-center max-w-[58ch] mx-auto">
+      Al suscribirte recibís un correo para confirmar tu dirección (así nadie puede anotarte
+      sin tu permiso). Tus datos se usan solo para el boletín —
+      <a href="/privacidad/" class="underline hover:text-navy-900 transition-colors duration-200 cursor-pointer">política de privacidad</a>.
+    </p>
+  </div>
+</Base>
