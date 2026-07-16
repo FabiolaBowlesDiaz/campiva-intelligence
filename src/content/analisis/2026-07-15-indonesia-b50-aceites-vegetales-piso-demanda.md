@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: energia
 pais: GLOBAL
 score: 7.7
-destacado: true
+destacado: false
 lectura: "El B50 indonesio no es una noticia de energía asiática: es una noticia de márgenes para cualquiera que produzca aceite vegetal en el mundo. Al forzar 50% de biodiésel de palma, Indonesia retira oferta de aceite del mercado alimentario y la manda al tanque de combustible —3,5 millones de toneladas de CPO asignadas al programa solo para arrancar—. Ese vacío lo tienen que llenar los aceites sustitutos, y el primero de la fila es el de soja, que ya cotiza en su mayor nivel en más de cuatro años. Para Bolivia, que este año viró de exportar poroto crudo a exportar aceite refinado, la señal es inequívoca: el valor del complejo soyero está migrando del grano hacia el aceite, y la demanda de biocombustible —de Yakarta a Washington— es el motor que le pone piso. La casa lee el B50 no como un dato lejano, sino como la validación de mercado de la apuesta por el valor agregado."
 cifras:
   - label: "Mezcla obligatoria de Indonesia"

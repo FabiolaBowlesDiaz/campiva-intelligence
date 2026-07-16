@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-07-16",
+  "items": [
+    {
+      "titular": "Perú declara emergencia sanitaria nacional por 90 días tras confirmar gripe aviar H5N1 en granjas de Lima",
+      "resumen": "Senasa declaró el 13 de julio de 2026 la emergencia sanitaria en todo el país por 90 días calendario (Resolución Jefatural D000104-2026-MIDAGRI-SENASA-JN), tras el diagnóstico positivo de H5N1 del 6 de julio en aves de corral de Cañete y Carabayllo (Lima). Dispuso cuarentena, sacrificio sanitario y prohibición de movilizar aves sin certificación. El pollo y el huevo son el 70% de la proteína animal que consume el Perú; Senasa afirma que la zonificación mantiene las exportaciones sin alteración.",
+      "fuente": "Senasa / MIDAGRI vía La República y RPP",
+      "url": "https://larepublica.pe/sociedad/2026/07/13/alerta-senasa-declara-emergencia-sanitaria-en-todo-el-pais-por-influenza-aviar-en-aves-de-corral-y-dispone-prohibiciones-1103661",
+      "vertical": "proteina-animal",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Brasil cierra el mejor primer semestre de su historia en carne de pollo: 2,94 millones de toneladas exportadas, con ingresos por US$ 5.700 millones",
+      "resumen": "Las exportaciones brasileñas de carne de pollo sumaron 2,94 millones de toneladas entre enero y junio de 2026, un 12,9% más que un año atrás, con ingresos de US$ 5.700 millones (+17% interanual), según ABPA. Solo en junio los envíos saltaron 40,6% hasta 482.800 toneladas y la facturación subió 54,7% a US$ 985,5 millones. Un récord de exportación de proteína animal es, aguas arriba, un récord de consumo de harina de soya y maíz.",
+      "fuente": "ABPA vía The Poultry Site",
+      "url": "https://www.thepoultrysite.com/news/2026/07/brazil-chicken-exports-hit-record-high-in-first-half-of-2026",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El cerdo brasileño también firma su mejor semestre histórico —794.200 toneladas, +10%— pese a que junio corrigió 8,4% interanual",
+      "resumen": "Las exportaciones brasileñas de carne de cerdo alcanzaron 794.200 toneladas entre enero y junio de 2026, un 10% por encima del mismo período de 2025 y el mejor resultado de la historia del sector, según ABPA. En junio, en cambio, los envíos fueron de 132.400 toneladas con ingresos de US$ 312,8 millones, un 8,4% menos que en junio de 2025. La proteína animal sudamericana sostiene el piso de demanda del complejo oleaginoso.",
+      "fuente": "ABPA vía 3tres3 LATAM",
+      "url": "https://www.3tres3.com/latam/ultima-hora/record-semestral-de-las-exportaciones-brasilenas-de-porcino_19377/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El mapa avícola regional se reacomoda por sanidad: Argentina recuperó los mercados de Chile y Perú en junio tras un brote que le costó US$ 160 millones",
+      "resumen": "En febrero de 2026 Argentina suspendió sus exportaciones avícolas tras un brote de H5N1 en Buenos Aires, con una pérdida estimada en US$ 160 millones. Recuperó los mercados de Chile y Perú en junio de 2026 tras autodeclararse país libre de influenza aviar de alta patogenicidad ante la OMSA. La secuencia —Argentina en febrero, Perú ahora— muestra que la gripe aviar se volvió un factor recurrente que redistribuye cuotas de carne según el estatus sanitario de cada país.",
+      "fuente": "SAGyP Argentina vía Infobae",
+      "url": "https://www.infobae.com/economia/2026/06/12/gripe-aviar-la-argentina-vuelve-a-exportar-carne-de-pollo-a-chile-y-peru-tras-superar-los-controles-sanitarios/",
+      "vertical": "proteina-animal",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "La soya de Chicago cierra el 15/07 en US$ 12,02/bu, sostenida por la firmeza del aceite y la demanda de biodiésel",
+      "resumen": "La soya de Chicago cerró el 15 de julio de 2026 en US$ 12,02/bu según el Informe Diario de la SAGyP argentina (441,75 US$/t en el contrato de referencia), consolidándose por encima de US$ 12 tras semanas de impulso del aceite de soja y la demanda de biocombustible. El mercado sigue el ritmo de compras de China y las condiciones de cultivo del Medio Oeste estadounidense en llenado de vaina.",
+      "fuente": "CBOT vía Informe Diario SAGyP y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El trigo de Chicago cierra en US$ 6,77/bu y el maíz en US$ 4,48/bu: el panel de granos extiende la firmeza tras el WASDE de julio",
+      "resumen": "El trigo de Chicago cerró el 15 de julio de 2026 en US$ 6,77/bu y el maíz en US$ 4,48/bu, según el Informe Diario de la SAGyP. El trigo prolonga el rally de la semana previa, apoyado en un stock final estadounidense en mínimos multidécada, mientras el maíz se sostiene por demanda. En Matba, la soja argentina cerró en 335,00 US$/t y el maíz en 186,00 US$/t (+1,9% en la jornada).",
+      "fuente": "CBOT / Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Bolivia: cerca del 60% de los camiones de comercio exterior sigue paralizado por la falta de diésel",
+      "resumen": "Alrededor del 60% de los camiones destinados al transporte de carga de exportación e importación permanece paralizado por la escasez de diésel, según reportes del sector el 14 de julio de 2026. La restricción golpea la logística agroexportadora en plena campaña; ANAPO estima que cada campaña agrícola requiere entre 90 y 100 millones de litros de diésel, mientras el suministro cubriría cerca del 60% de la demanda en Santa Cruz.",
+      "fuente": "Sector transporte / ANAPO vía Economy.com.bo",
+      "url": "https://www.economy.com.bo/articulo/business/60-camiones-comercio-exterior-sigue-paralizado-falta-diesel/20260714074004023262.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Perú y Guatemala eliminan aranceles desde el 1 de julio: la agroindustria lidera una oportunidad exportadora estimada en US$ 104 millones",
+      "resumen": "El nuevo acuerdo comercial entre Perú y Guatemala elimina aranceles desde el 1 de julio de 2026, con la agroindustria a la cabeza de las oportunidades y un potencial exportador estimado por encima de US$ 104 millones. La apertura llega mientras los agroexportadores peruanos gestionan el arancel global del 10% impuesto por Estados Unidos, hoy en disputa judicial tras un fallo de la Corte Suprema estadounidense.",
+      "fuente": "Mincetur vía Agrolatam",
+      "url": "https://www.agrolatam.com/actualidad-3923/tlc-peru-guatemala-agroindustria-sin-aranceles-exportaciones/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Los fletes de contenedores ceden por segunda semana: el Drewry WCI baja 2% hasta US$ 4.547 por contenedor de 40 pies",
+      "resumen": "El World Container Index de Drewry cayó 2% en la semana hasta US$ 4.547 por contenedor de 40 pies, según la lectura del 16 de julio de 2026. El índice se aleja de los máximos recientes del súper-ciclo de fletes, un alivio marginal para el exportador de agro de valor agregado y de fruta fresca que paga tarifa de contenedor, aunque los niveles siguen muy por encima del promedio histórico.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "El Brent retrocede levemente a US$ 84,95 el 15/07 tras el salto semanal del 10% por las tensiones en Ormuz",
+      "resumen": "El crudo Brent cerró el 15 de julio de 2026 en torno a US$ 84,95/bbl, cediendo apenas frente al cierre previo tras haber saltado cerca de 10% en la semana por las tensiones alrededor del estrecho de Ormuz. Un Brent firme encarece el diésel y el flete del agro, pero refuerza la economía del biocombustible al mejorar la competitividad de los aceites vegetales como feedstock energético.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}
