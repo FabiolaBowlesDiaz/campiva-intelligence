@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: proteina-animal
 pais: PE
 score: 7.6
-destacado: true
+destacado: false
 lectura: "La gripe aviar dejó de ser un evento aislado para volverse un factor recurrente del mapa proteico de la región: Argentina suspendió exportaciones en febrero, las recuperó en junio, y ahora es Perú el que entra en emergencia. Para esta casa, el ángulo que nadie conecta es el de la demanda de insumos. La avicultura peruana —837 millones de aves de engorde al año, el 70% de la proteína animal del país— se alimenta con una ración que es maíz importado y torta de soya importada en una proporción cercana al total. Cuando la sanidad aviar tiembla, tiembla el mayor comprador de harina de soya del continente. Por ahora Senasa sostiene que la zonificación mantiene las exportaciones y el consumo interno abiertos, y ese es el dato tranquilizador. Pero la mesa lee la tendencia estructural: para el complejo soyero de la cuenca sudamericana —Bolivia incluida—, la salud del gallinero andino es una variable de demanda tan real como el crush de biodiésel. La sanidad animal es, indirectamente, un driver del precio de la soya."
 cifras:
   - label: "Emergencia sanitaria"

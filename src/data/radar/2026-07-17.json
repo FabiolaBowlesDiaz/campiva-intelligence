@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-07-17",
+  "items": [
+    {
+      "titular": "El azúcar crudo rebota a 14,70 ¢/lb pero sigue 12,6% por debajo de hace un año: el mercado global convive con exceso de dulce",
+      "resumen": "El azúcar #11 cerró el 17 de julio de 2026 en 14,70 centavos de dólar por libra, con un alza de 1,8% en la jornada y de 4,1% en el mes, aunque acumula una caída de 12,6% interanual. La presión bajista responde a una oferta abundante: la cosecha brasileña avanza rápido por el clima seco y el monzón de la India mejoró pese a seguir bajo su promedio. El petróleo elevado sostiene la competitividad del etanol frente al azúcar.",
+      "fuente": "ICE #11 vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "Brasil desvía caña al etanol en el arranque de la zafra 2026/27: el biocombustible sube 31,6% mientras el azúcar cae 2%",
+      "resumen": "Según UNICA, en el acumulado de la zafra 2026/27 del Centro-Sur hasta el 1 de junio de 2026, la molienda de caña creció 15,8% interanual a 144,71 millones de toneladas, pero la producción de azúcar retrocedió 2% (6,84 M t) mientras la de etanol saltó 31,6% (7,54 mil millones de litros). Los ingenios asignan más materia prima al biocombustible por su mejor rentabilidad relativa, con el mundo del azúcar en sobreoferta.",
+      "fuente": "UNICA vía NovaCana",
+      "url": "https://www.novacana.com/noticias/unica-atualizacao-safra-cana-de-acucar-2026-27-2-quinzena-maio-220626",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "La zafra cañera de Bolivia apunta a superar por primera vez las 200.000 hectáreas y compromete 264 millones de litros de etanol a YPFB",
+      "resumen": "El sector cañero cruceño proyecta para 2026 superar por primera vez las 200.000 hectáreas de caña —desde unas 180.000 en 2025—, sobre una producción nacional que en 2025 pasó los 15 millones de quintales de azúcar. Para 2026 acordó con YPFB la provisión de 264 millones de litros de etanol anhidro a Bs 6,04 por litro. En un mercado azucarero global saturado, el eslabón energético es el de mayor valor estratégico (datos a marzo de 2026).",
+      "fuente": "Sector cañero de Santa Cruz vía eju.tv",
+      "url": "https://eju.tv/2026/03/caneros-alistan-siembra-y-apuntan-a-superar-las-200-000-hectareas/",
+      "vertical": "azucar",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El trigo de Chicago cierra en US$ 6,75/bu y el maíz en US$ 4,42/bu el 16/07: el panel de granos corrige tras el rally del trigo",
+      "resumen": "Según el Informe Diario de la SAGyP argentina, el trigo de Chicago cerró el 16 de julio de 2026 en US$ 6,75/bu (−0,4%) y el maíz en US$ 4,42/bu (−1,3%), en una jornada de toma de ganancias tras la firmeza previa apoyada en stocks estadounidenses ajustados. En Matba, el maíz argentino cerró en 185,00 US$/t (−1,1%) y la soja en 341,00 US$/t (+0,4%).",
+      "fuente": "CBOT / Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "La soja de Chicago cede a US$ 11,95/bu el 16/07 y devuelve parte del cruce sobre los US$ 12",
+      "resumen": "La soja de Chicago cerró el 16 de julio de 2026 en torno a US$ 11,95/bu (−0,6%), según el Informe Diario de la SAGyP (439,09 US$/t en el contrato de referencia), retrocediendo levemente tras haber superado los US$ 12 impulsada por la demanda de aceite y biodiésel. El mercado sigue el ritmo de compras de China y las condiciones del cultivo estadounidense en llenado de grano.",
+      "fuente": "CBOT vía Informe Diario SAGyP y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "El cacao de Nueva York repunta 3,7% a US$ 5.560/t: el mercado sigue tensionado por la oferta de África Occidental",
+      "resumen": "El cacao de Nueva York cerró el 17 de julio de 2026 en US$ 5.560/t, un alza de 3,7% en la jornada, sosteniendo la volatilidad de un mercado que descuenta una campaña 2026/27 ajustada en Costa de Marfil y Ghana. Los precios se mantienen en niveles históricamente altos pese a la corrección desde los máximos de meses previos.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Perú lidera la quinua mundial con US$ 140 millones exportados en 2024 mientras la brecha de precio con Bolivia se amplía",
+      "resumen": "Perú consolidó su liderazgo como primer exportador mundial de quinua con envíos por US$ 140 millones en 2024 (+40% interanual), con Estados Unidos como principal destino (43%). La brecha de precio con Bolivia —donde el quintal se paga muy por debajo del nivel peruano— sigue drenando grano boliviano hacia el mercado del vecino, un desafío estructural para el grano andino que Bolivia ayudó a globalizar.",
+      "fuente": "PromPerú / Infobae",
+      "url": "https://www.infobae.com/peru/2025/06/05/peru-es-el-rey-de-la-quinua-en-el-mundo-asi-desplazo-a-bolivia-y-hoy-su-exportacion-llega-a-los-usd-140-millones/",
+      "vertical": "andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Las agroexportaciones de Perú suman US$ 3.055 millones en el primer trimestre (+6,9%), con la uva a la cabeza y el café en recuperación",
+      "resumen": "Según Midagri, las agroexportaciones peruanas alcanzaron US$ 3.055 millones entre enero y marzo de 2026, un 6,9% más que un año atrás. La uva fresca lideró con US$ 745 millones (25,8% del total), seguida por arándanos (US$ 321 millones) y mangos (US$ 256 millones); el café sin tostar sumó US$ 147 millones y los productos tradicionales crecieron 43%. La balanza agraria dejó un superávit de US$ 1.368 millones.",
+      "fuente": "Midagri vía Gestión",
+      "url": "https://gestion.pe/economia/frutas-y-cafe-impulsan-las-agroexportaciones-peruanas-en-el-arranque-del-2026-noticia/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El café arábica retrocede a US$ 3,14/lb tras semanas en zona alta por los ajustados stocks certificados",
+      "resumen": "El café arábica cerró el 17 de julio de 2026 en US$ 3,14/lb, con un leve avance de 0,5% en la jornada pero por debajo de los niveles de la semana previa. El mercado sigue sostenido por inventarios certificados en la ICE en zona baja y por la incertidumbre sobre la oferta de Brasil, el mayor productor mundial.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.7
+    },
+    {
+      "titular": "El Brent salta 2,9% a US$ 86,70 el 17/07 y encarece el flete del agro, pero refuerza la economía del biocombustible",
+      "resumen": "El crudo Brent cerró el 17 de julio de 2026 en torno a US$ 86,70/bbl, un alza de 2,9% en la jornada por tensiones geopolíticas. Un Brent firme encarece el diésel y el transporte del agro —crítico en plena zafra y campaña boliviana—, pero al mismo tiempo mejora la competitividad de los aceites vegetales y el etanol como feedstock energético frente a los combustibles fósiles.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}
