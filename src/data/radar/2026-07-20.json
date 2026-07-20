@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-07-20",
+  "items": [
+    {
+      "titular": "La soja sube por el aceite, no por el poroto: el aceite de soja de Chicago salta a ~74,8 ¢/lb (+3,3%) el 17/07 mientras la harina cae",
+      "resumen": "Según el Informe Diario de la SAGyP argentina, al cierre del 17 de julio de 2026 el aceite de soja de Chicago avanzó 52,47 US$/t hasta 1.649,26 US$/t (unos 74,8 centavos por libra, en zona de máximos de varios años), mientras la harina retrocedió a 352,96 US$/t (−2,98). El poroto cerró en torno a US$ 12,05/bu (+0,8%): el motor del complejo está en el eslabón aceite/biodiésel, no en la proteína.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El USDA proyecta una cosecha mundial récord de girasol 2026/27: +13,4% a 62,66 millones de toneladas, con Argentina creciendo 8,1% a 8,0 M t",
+      "resumen": "El informe de julio del USDA (10 de julio de 2026) proyecta una producción mundial de girasol de 62,66 millones de toneladas para 2026/27, un 13,4% por encima del ciclo previo y en niveles récord, con más triturado en la UE, Ucrania, Rusia y EE.UU. Argentina aportaría 8,0 M t (+8,1%). El aceite de girasol FOB local se ubica en torno a US$ 1.314/t para julio: la oferta récord de oleaginosas le pone un techo al complejo de aceites vegetales.",
+      "fuente": "USDA (WASDE julio) vía Agrositio",
+      "url": "https://www.agrositio.com.ar/noticia/247267-girasol-argentino-crece-81-a-80-mt-en-202627-y-aceite-local-cotiza-hasta-us-1430-fob.html",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "La soja de Chicago corrige desde su máximo de dos meses: el buen clima del Medio Oeste pesa más que la fuerte demanda china",
+      "resumen": "Tras tocar un máximo de dos meses el 15 de julio, la soja de Chicago retrocedió por debajo de US$ 12 a media semana ante pronósticos de clima favorable en el Medio Oeste estadounidense, antes de recuperarse el 17/07 de la mano del aceite. La demanda china sigue firme: el USDA reportó ventas netas de nueva campaña por 1,769 millones de toneladas en la semana al 9 de julio —más de 1 millón a China— y la estatal COFCO compró al menos cinco cargamentos.",
+      "fuente": "USDA / Reuters vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El cultivo de soja de EE.UU. mejora a 65% bueno-a-excelente al 12/07, pero una ola de calor amenaza el llenado de grano",
+      "resumen": "El reporte de progreso de cultivos del USDA calificó la soja estadounidense en 65% de condición buena-a-excelente al 12 de julio de 2026, una leve mejora frente al 64% de la semana previa. El maíz quedó en 68%. Los pronósticos anticipan una ola de calor sobre el norte del país que podría estresar los cultivos en pleno desarrollo, con un frente de alivio parcial a mitad de semana.",
+      "fuente": "USDA NASS Crop Progress vía DTN",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/07/13/usda-crop-progress-corn-rated-68-65",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El dólar cierra una semana en baja cerca de 100,7: una inflación estadounidense más suave enfría las expectativas de suba de tasas de la Fed",
+      "resumen": "El índice dólar (DXY) se movió en torno a 100,7 puntos hacia el 20 de julio de 2026, encaminado a una caída semanal luego de datos de inflación más blandos en EE.UU. que llevaron a los operadores a recortar apuestas de suba de tasas cercana. La Fed llegaría a su reunión de julio sin cambios, con el mercado asignando cerca de 53% de probabilidad a un alza en septiembre. Las tensiones EE.UU.–Irán mantienen viva la inquietud inflacionaria.",
+      "fuente": "TradingEconomics / FXStreet",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El maíz de Chicago cierra en US$ 4,45/bu y el trigo en US$ 6,83/bu el 17/07: el panel de granos acompaña la firmeza de la oleaginosa",
+      "resumen": "Según el Informe Diario de la SAGyP, el maíz de Chicago cerró el 17 de julio de 2026 en torno a US$ 4,45/bu (+0,7%) y el trigo en US$ 6,83/bu (+1,2%), en una jornada de subas generalizadas en el complejo de granos. En Matba, el maíz argentino cerró en 186,00 US$/t (+0,5%) y la soja en 341,50 US$/t. El panel se sostiene sobre la demanda y condiciones de oferta ajustadas en EE.UU.",
+      "fuente": "CBOT / Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "El Brent firme en torno a US$ 86,70 sostiene la economía del biocombustible pese a encarecer el flete del agro",
+      "resumen": "El crudo Brent cerró la semana en torno a US$ 86,70/bbl (cierre del 17 de julio de 2026), en niveles elevados por tensiones geopolíticas. Un petróleo caro encarece el diésel y el transporte del agro —crítico en plena zafra y campaña sudamericana—, pero al mismo tiempo mejora la competitividad relativa de los aceites vegetales y el etanol como feedstock energético, reforzando la demanda estructural del complejo oleaginoso.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "El café arábica se mantiene en US$ 3,14/lb y el cacao de Nueva York en US$ 5.560/t: los tropicales siguen en zona alta",
+      "resumen": "Al cierre del 17 de julio de 2026, el café arábica de la ICE cotizaba en US$ 3,14/lb y el cacao de Nueva York en US$ 5.560/t, ambos en niveles históricamente elevados. El café sigue sostenido por inventarios certificados ajustados y la incertidumbre sobre la oferta brasileña; el cacao, por una campaña 2026/27 apretada en África Occidental. El azúcar crudo #11 permanece en 14,70 ¢/lb, presionado por la sobreoferta.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}

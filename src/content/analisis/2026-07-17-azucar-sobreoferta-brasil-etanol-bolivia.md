@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: GLOBAL
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Para esta casa, el precio del azúcar dejó de ser la variable que manda en la caña. Con el crudo #11 a 14,70 centavos —un 12,6% abajo interanual pese al rebote del día— el mercado internacional está diciendo que sobra dulce: la cosecha brasileña avanza rápido con clima seco y el monzón indio mejoró. En ese escenario, el ingenio racional no pelea por vender azúcar barato: reasigna la caña al etanol, que con el Brent firme en US$ 86,70 y el petróleo caro rinde más. Los números de UNICA lo confirman sin ambigüedad: en el arranque de la zafra 2026/27 del Centro-Sur, la producción de azúcar cae 2% mientras la de etanol salta 31,6%. La mesa lee esto como una señal para Bolivia, que apunta a superar por primera vez las 200.000 hectáreas de caña. El valor no está en sumar quintales de azúcar para colocarlos en un mercado global saturado —donde compite contra Brasil e India con costos y logística en contra—, sino en el eslabón energético: el programa de etanol que sustituye gasolina importada y alivia la factura de combustibles. La caña boliviana vale más por lo que le ahorra al país en importación de energía que por lo que le pueda sacar a un mercado de azúcar en sobreoferta. Brasil ya tomó esa decisión; Bolivia la tiene sobre la mesa."
 cifras:
   - label: "Azúcar crudo #11"
