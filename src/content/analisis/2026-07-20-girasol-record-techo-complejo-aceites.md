@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: soya
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "Para esta casa, el dato de la semana no es que la soja siga arriba de US$ 12, sino cómo llegó ahí: el 17 de julio el aceite de soja de Chicago subió 52 dólares por tonelada hasta 1.649 —unos 74,8 centavos por libra, máximos de varios años— mientras la harina retrocedió. Cuando el aceite sube y la harina baja, el mercado está diciendo que el motor del complejo es el eslabón energético —biodiésel, aceites vegetales— y no la alimentación animal. Esa lectura valida, una vez más, la apuesta boliviana por el aceite refinado y por su programa de biodiésel. Pero la mesa agrega el contrapeso que casi nadie está mirando: el informe de julio del USDA proyecta una cosecha mundial de girasol récord, un 13,4% mayor, en 62,66 millones de toneladas, con Argentina sumando 8,0 millones (+8,1%). Más girasol es más aceite vegetal disponible, y por eso el aceite de girasol FOB ya cotiza blando, cerca de US$ 1.314 por tonelada. La conclusión es incómoda para el entusiasmo fácil: la demanda de aceite empuja hacia arriba, pero una oferta de oleaginosas récord empuja hacia abajo, y el resultado no es un precio a la luna sino un mercado donde la rentabilidad se juega en el margen de molienda, no en la cotización de tapa. Para Bolivia, que produce aceite de soja para exportar y girasol de invierno en Santa Cruz, el mensaje llega en dos idiomas a la vez: la demanda le da viento de cola al aceite, pero el techo de oferta le recuerda que su ventaja está en refinar y en sustituir energía importada, no en apostar a un precio internacional que ya tiene quien lo frene."
 cifras:
   - label: "Aceite de soja Chicago"

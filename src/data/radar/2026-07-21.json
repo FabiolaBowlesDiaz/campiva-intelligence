@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-21",
+  "items": [
+    {
+      "titular": "El café arábica cierra en 324,55 ¢/lb (+3,4%) y acumula +24,8% en un mes: el mercado paga el atraso de la cosecha brasileña, no su tamaño",
+      "resumen": "El arábica de ICE cerró el 20 de julio de 2026 en 324,55 centavos por libra, un 3,4% arriba del cierre del 17 de julio y un 24,82% por encima de hace un mes (+12,46% interanual). El impulso llega de Brasil: la cosecha avanza más lento que el año pasado justo cuando la zafra exportadora recién terminada dejó los embarques flojos.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "La cosecha brasileña de café va 64% al 15 de julio contra 77% del año pasado: el arábica es el que más atrasa (42% vs 50%)",
+      "resumen": "Según Safras & Mercado, la zafra 2026/27 de Brasil alcanzó el 64% de avance al 15 de julio de 2026, por debajo del 77% de igual fecha del año anterior y del promedio de cinco años (70%). El arábica está en 42% (contra 50% el año pasado) y el conilon en 72%: el grano existe, pero todavía no está en condiciones de embarcarse.",
+      "fuente": "Safras & Mercado",
+      "url": "https://safras.com.br/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Cecafé cierra la zafra 2025/26 con 38,46 millones de sacos exportados (−15,7%) pero US$ 14.595 millones de ingreso (−1%): menos volumen, casi los mismos dólares",
+      "resumen": "Brasil exportó 38,462 millones de sacos de 60 kg a 125 países en la zafra julio 2025-junio 2026, un 15,7% menos que el ciclo previo, informó el Consejo de Exportadores de Café (Cecafé) el 15 de julio de 2026. El ingreso divisas fue de US$ 14.595 millones, apenas 1% abajo y el segundo mayor de la serie histórica: el precio compensó casi todo el volumen perdido.",
+      "fuente": "Cecafé (Consejo de Exportadores de Café de Brasil)",
+      "url": "https://www.cecafe.com.br/publicacoes/noticias/brasil-exporta-38-5-mi-sacas-cafe-safra-25-26-20260715/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La molienda europea de cacao cae a 316.366 toneladas en el segundo trimestre, la menor desde 2020, mientras Asia salta 25,1%",
+      "resumen": "La European Cocoa Association reportó una molienda de 316.366 toneladas en el segundo trimestre de 2026, un 4,64% menos que las 331.762 t de igual trimestre de 2025. En el mismo período, la Cocoa Association of Asia informó 224.646 t (+25,07%) y la NCA de Norteamérica 109.659 t (+7,65%): el consumo industrial no cae, se muda de continente.",
+      "fuente": "ECA / CAA / NCA vía CocoaIntel",
+      "url": "https://www.cocoaintel.com/cocoa-sell-off-deepens-as-supply-improves-and-demand-growth-remains-limited-16-july-2026/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Costa de Marfil ya no solo exporta grano: su molienda doméstica sube 28,8% a 161.000 toneladas en el segundo trimestre",
+      "resumen": "La molienda interna de Costa de Marfil alcanzó 161.000 toneladas entre abril y junio de 2026, un 28,80% más que las 125.000 t de igual período de 2025. El primer productor mundial está capturando en origen una parte creciente del valor que antes se procesaba en Europa, en el mismo trimestre en que la molienda europea tocó su piso desde 2020.",
+      "fuente": "CocoaIntel (datos de molienda por región)",
+      "url": "https://www.cocoaintel.com/cocoa-sell-off-deepens-as-supply-improves-and-demand-growth-remains-limited-16-july-2026/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "La soja de Chicago sube 1,5% y vuelve sobre US$ 12,26/bu: sequía en el Medio Oeste y nuevas compras chinas",
+      "resumen": "El contrato agosto 2026 cerró el 20 de julio de 2026 en 450,48 US$/t (unos US$ 12,26 por bushel), 7,90 dólares arriba del cierre previo. Según el Informe Diario de la SAGyP argentina, el alza responde a la preocupación por condiciones secas en el Medio Oeste estadounidense y a nuevas compras chinas de poroto, con el crudo aportando soporte adicional.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent cierra en US$ 89,22 (+2,9%) tras diez días consecutivos de ataques en Medio Oriente",
+      "resumen": "El crudo Brent cerró el 20 de julio de 2026 en 89,22 dólares por barril, un 2,9% por encima del cierre del 17 de julio. El mercado descuenta el riesgo de suministro por la escalada en Medio Oriente y la amenaza hutí sobre el tráfico marítimo saudí en el Mar Rojo, compensado en parte por versiones de mediación y un posible alto el fuego de diez días.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Bolivia: la prensa reporta 800.000 toneladas de soya en riesgo por la falta de diésel en plena siembra de invierno",
+      "resumen": "El Diario informó el 20 de julio de 2026 que la escasez de diésel en Santa Cruz, que se extiende por más de un mes, mantiene prácticamente paralizada la siembra de soya de invierno y pone en riesgo unas 800.000 toneladas de grano. Los productores del norte cruceño señalan además el pronóstico de El Niño como factor de riesgo adicional para la campaña.",
+      "fuente": "El Diario (Bolivia)",
+      "url": "https://www.eldiario.net/portal/2026/07/20/falta-de-diesel-pone-en-riesgo-800-000-toneladas-de-soya/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El Baltic Dry cae 2,9% a 2.671 puntos por el Capesize, pero el Supramax toca su nivel más alto desde agosto de 2022",
+      "resumen": "El índice de fletes de granel seco cerró el 20 de julio de 2026 en 2.671 puntos, 81 abajo del cierre previo. El Capesize retrocedió 5,1% a 3.889 puntos —mínimo de más de dos semanas— y el Panamax 0,9% a 2.227, mientras el Supramax subió a 1.738 puntos, su máximo desde agosto de 2022: el segmento que más mueve granos es el único que sigue firme.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El maíz sube 1% por sequía y licitaciones coreanas mientras el trigo cae 1,5% con los ataques del Mar Negro perdiendo intensidad",
+      "resumen": "Al cierre del 20 de julio de 2026, el maíz de Chicago avanzó a 176,96 US$/t (unos US$ 4,50 por bushel) impulsado por el clima seco del Medio Oeste y dos licitaciones de compra de importadores surcoreanos. El trigo retrocedió a 247,65 US$/t (unos US$ 6,74 por bushel) porque los ataques sobre terminales y buques graneros del Mar Negro resultaron menos intensos que la semana previa.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El complejo soyero rota: la harina sube 1% a 356,59 US$/t mientras el aceite cede levemente a 1.646,40 US$/t",
+      "resumen": "El 20 de julio de 2026 la harina de soja de Chicago cerró en 356,59 US$/t, 3,64 dólares arriba, y el aceite retrocedió 2,87 dólares hasta 1.646,40 US$/t (unos 74,7 centavos por libra), según el Informe Diario de la SAGyP. Tras semanas en que el aceite lideró el complejo, la proteína recupera terreno relativo: un movimiento a vigilar para el margen de molienda.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El azúcar #11 cierra en 14,82 ¢/lb: el clima seco acelera la cosecha brasileña y el monzón indio mejora, con el crudo como único soporte",
+      "resumen": "El azúcar crudo cerró el 20 de julio de 2026 en 14,82 centavos por libra, 0,8% arriba del cierre del 17 de julio pero todavía en zona de sobreoferta. El tiempo más seco en Brasil permitió acelerar la molienda tras las lluvias de junio y la mejora del monzón en India alivió las preocupaciones de oferta; el crudo firme sostiene el desvío de caña hacia etanol.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    }
+  ]
+}
