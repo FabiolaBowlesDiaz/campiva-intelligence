@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-22",
+  "items": [
+    {
+      "titular": "El Brent cierra en US$ 91,10, máximo de siete semanas: acumula +17% en un mes y +32,8% interanual",
+      "resumen": "El crudo Brent cerró el 21 de julio de 2026 en 91,10 dólares por barril, un 2,11% arriba del cierre previo. En treinta días acumula un alza de 16,95% y frente a un año atrás de 32,82%: el mercado descuenta riesgo de suministro por los eventos en el estrecho de Ormuz, los ataques sobre la terminal del Caspian Pipeline Consortium en el Mar Negro y las amenazas al tráfico marítimo en el Mar Rojo.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El AMIS pone número al canal fertilizante: los cereales podrían cotizar 4,5% más caros en 2026 y 8,3% en 2027 si el crudo se sostiene alto",
+      "resumen": "Un ejercicio conjunto de la OCDE y el Sistema de Información sobre los Mercados Agrícolas (AMIS), difundido el 7 de julio de 2026, modela un escenario con el crudo en US$ 115 por barril: los precios de los cereales subirían 4,5% en 2026 y 8,3% en 2027 sobre la línea base. El canal dominante es el costo de los fertilizantes; la demanda de biocombustibles aporta apenas 1,6 puntos porcentuales del efecto en 2026.",
+      "fuente": "OCDE y AMIS vía Agrodigital",
+      "url": "https://www.agrodigital.com/2026/07/07/crisis-ormuz-precios-fertilizantes/",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Bolivia siembra 57.000 hectáreas de trigo, la superficie más baja en tres décadas: la producción nacional cubre 11% de lo que el país come",
+      "resumen": "Anapo informó que la campaña de invierno 2026 alcanzó apenas 57.210 hectáreas sembradas de trigo, una de las superficies más reducidas de los últimos 30 años en Santa Cruz, departamento que concentra el 69% de la producción nacional. La cosecha de 2025 fue de 92.010 toneladas frente a un consumo aproximado de 850.000 toneladas anuales; las importaciones de trigo y harina sumaron US$ 79,3 millones, con 92% de origen argentino.",
+      "fuente": "Anapo (33º Día Nacional del Trigo) vía Visión 360 y Unitel",
+      "url": "https://www.vision360.bo/noticias/2026/07/14/58111-anapo-alerta-que-bolivia-solo-produce-el-11por_ciento-del-trigo-que-consume-y-busca-impulsar-el-cultivo-con-una-jornada-tecnologica",
+      "vertical": "cereales",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Brasil sube el corte de etanol en la gasolina de 30% a 32% por 180 días y cierra la mezcla obligatoria de biodiésel al producto importado",
+      "resumen": "El Consejo Nacional de Política Energética aprobó el 14 de julio de 2026 elevar temporalmente a 32% el contenido de etanol anhidro en la gasolina, medida que según UNICA agrega cerca de 1.000 millones de litros de demanda anual y que el Ministerio de Minas y Energía estima que desplazará unos 900 millones de litros de nafta importada. En la misma sesión resolvió que el biodiésel de la mezcla obligatoria debe provenir exclusivamente de plantas autorizadas por la ANP.",
+      "fuente": "CNPE vía Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/conselho-eleva-de-30-para-32-teor-de-etanol-na-gasolina-por-180-dias",
+      "vertical": "energia",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "Santa Cruz: la siembra de invierno sigue frenada por falta de diésel y el gremio estima entre 600.000 y 800.000 toneladas de grano en riesgo",
+      "resumen": "Demetrio Pérez, expresidente de Anapo, declaró el 21 de julio de 2026 que la ventana óptima de siembra se cerró el 15 de julio y que a partir de esa fecha el productor siembra asumiendo riesgo. Estimó la pérdida potencial en un rango de 600.000 a 800.000 toneladas de grano y señaló además que la zafra de caña avanza 12% cuando en esta altura del año debería estar cerca del 30%.",
+      "fuente": "Anapo vía Los Tiempos",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260721/falta-diesel-pone-riesgo-800000-toneladas-soya-paraliza-siembra-santa",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "La soja de Chicago corta la racha y cierra en 448,09 US$/t: el USDA reporta una condición de cultivo mejor que la esperada",
+      "resumen": "El contrato agosto 2026 cerró el 21 de julio de 2026 en 448,09 dólares por tonelada (unos US$ 12,19 por bushel), 2,39 dólares abajo tras haber tocado un máximo de varios meses en la rueda previa. Según el Informe Diario de la SAGyP, pesaron la toma de ganancias y una condición del cultivo estadounidense superior a las expectativas del mercado; la demanda china y la incertidumbre geopolítica limitaron la caída.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El aceite de soja cede a 1.638,02 US$/t mientras la harina sube a 360,12: el complejo rota hacia la proteína pese al petróleo caro",
+      "resumen": "El 21 de julio de 2026 el aceite de soja de Chicago retrocedió 8,38 dólares hasta 1.638,02 US$/t (unos 74,3 centavos por libra) y la harina avanzó 3,53 dólares hasta 360,12 US$/t, según el Informe Diario de la SAGyP. Es la segunda jornada en que el aceite pierde terreno relativo justo cuando el crudo sube: la correlación biodiésel-petróleo no está operando en esta rueda.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El trigo de Chicago sube a 249,12 US$/t: una consultora rusa recorta su estimación de cosecha y el Mar Negro sigue complicado",
+      "resumen": "El trigo cerró el 21 de julio de 2026 en 249,12 dólares por tonelada (unos US$ 6,78 por bushel), 1,47 dólares arriba. El Informe Diario de la SAGyP atribuye el alza al recorte de una consultora rusa en su estimación de cosecha —por perspectivas más débiles en el sur y menor superficie de trigo de primavera— y a las dificultades logísticas y los ataques sobre buques y puertos graneros del Mar Negro.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El maíz avanza a 178,24 US$/t por el calor europeo, pero la buena condición del cultivo estadounidense le pone techo",
+      "resumen": "El maíz de Chicago cerró el 21 de julio de 2026 en 178,24 dólares por tonelada (unos US$ 4,53 por bushel), 1,28 dólares arriba. Las altas temperaturas en países de la Unión Europea —Francia en particular— llegan en un período clave del crecimiento del cultivo y sostienen las cotizaciones, mientras el USDA informó una condición del maíz estadounidense superior a la esperada por los analistas, acotando el impulso alcista.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry se planta en 2.670 puntos y el Capesize sube por primera vez desde el 14 de julio",
+      "resumen": "El índice de fletes de granel seco cerró el 21 de julio de 2026 sin cambios, en 2.670 puntos, tras acumular una caída de 0,52% en el mes; frente a un año atrás sigue 31,2% arriba. El Capesize ganó 1,1% hasta 3.930 puntos —su primera suba desde el 14 de julio—, el Panamax cedió 2,1% a 2.181 y el Supramax bajó 0,5% a 1.730, su primer retroceso desde comienzos de julio.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "Drewry proyecta 39 salidas canceladas en las grandes rutas Este-Oeste entre el 20 de julio y el 23 de agosto",
+      "resumen": "En su lectura del 16 de julio de 2026, en la que el World Container Index cayó 2% hasta US$ 4.547 por contenedor de 40 pies, Drewry anticipa 39 blank sailings en las cinco semanas que van de la semana 30 a la 34, equivalentes a una tasa de cancelación del 5%. Las tarifas FAK anunciadas para el transpacífico —entre US$ 7.900 y US$ 8.500 por FEU desde el 15 de julio— no lograron sostenerse.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El cacao cierra en US$ 5.607 por tonelada: 17,6% arriba en el mes pero 35,3% abajo interanual, con inventarios en máximos de casi dos años",
+      "resumen": "El cacao cerró el 21 de julio de 2026 en 5.607 dólares por tonelada. En treinta días acumula un alza de 17,63%, pero sigue 35,26% por debajo de un año atrás. El mercado opera entre dos fuerzas: la molienda europea del segundo trimestre en su menor nivel desde 2020 por el lado de la demanda y unos inventarios globales en máximos de casi dos años por el lado de la oferta.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    }
+  ]
+}
