@@ -1,18 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-07-22",
+  "actualizado": "2026-07-23",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "12,19",
+      "valor": "12,33",
       "unidad": "US$/bu",
-      "cambio": -0.5,
+      "cambio": 1.1,
       "cambioLabel": "diaria",
       "fuente": "CBOT vía Informe Diario SAGyP",
-      "asOf": "2026-07-21",
+      "asOf": "2026-07-22",
       "verificado": true,
-      "serie": [11.32, 11.84, 12.05, 11.88, 11.95, 11.97, 12.02, 11.95, 12.05, 12.26, 12.19]
+      "serie": [11.32, 11.84, 12.05, 11.88, 11.95, 11.97, 12.02, 11.95, 12.05, 12.26, 12.19, 12.33]
     },
     {
       "id": "cafe-arabica",
@@ -53,26 +53,26 @@
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,53",
+      "valor": "4,62",
       "unidad": "US$/bu",
-      "cambio": 0.7,
+      "cambio": 2.0,
       "cambioLabel": "diaria",
       "fuente": "CBOT vía Informe Diario SAGyP",
-      "asOf": "2026-07-21",
+      "asOf": "2026-07-22",
       "verificado": true,
-      "serie": [4.25, 4.40, 4.40, 4.30, 4.36, 4.43, 4.48, 4.42, 4.45, 4.50, 4.53]
+      "serie": [4.25, 4.40, 4.40, 4.30, 4.36, 4.43, 4.48, 4.42, 4.45, 4.50, 4.53, 4.62]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "6,78",
+      "valor": "7,06",
       "unidad": "US$/bu",
-      "cambio": 0.6,
+      "cambio": 4.1,
       "cambioLabel": "diaria",
       "fuente": "CBOT vía Informe Diario SAGyP",
-      "asOf": "2026-07-21",
+      "asOf": "2026-07-22",
       "verificado": true,
-      "serie": [5.91, 6.02, 6.12, 5.99, 6.30, 6.66, 6.77, 6.75, 6.83, 6.74, 6.78]
+      "serie": [5.91, 6.02, 6.12, 5.99, 6.30, 6.66, 6.77, 6.75, 6.83, 6.74, 6.78, 7.06]
     },
     {
       "id": "brent",
@@ -89,26 +89,26 @@
     {
       "id": "soja-matba",
       "nombre": "Soja Matba (Arg.)",
-      "valor": "344,60",
+      "valor": "349,20",
       "unidad": "US$/t",
-      "cambio": 0.3,
+      "cambio": 1.3,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex vía Informe Diario SAGyP",
-      "asOf": "2026-07-21",
+      "asOf": "2026-07-22",
       "verificado": true,
-      "serie": [322.4, 328.0, 327.7, 335.5, 335.0, 341.0, 341.5, 343.5, 344.6]
+      "serie": [322.4, 328.0, 327.7, 335.5, 335.0, 341.0, 341.5, 343.5, 344.6, 349.2]
     },
     {
       "id": "maiz-matba",
       "nombre": "Maíz Matba (Arg.)",
-      "valor": "190,00",
+      "valor": "191,50",
       "unidad": "US$/t",
-      "cambio": 1.1,
+      "cambio": 0.8,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex vía Informe Diario SAGyP",
-      "asOf": "2026-07-21",
+      "asOf": "2026-07-22",
       "verificado": true,
-      "serie": [178.2, 181.1, 182.2, 182.5, 186.0, 185.0, 186.0, 188.0, 190.0]
+      "serie": [178.2, 181.1, 182.2, 182.5, 186.0, 185.0, 186.0, 188.0, 190.0, 191.5]
     },
     {
       "id": "drewry-wci",

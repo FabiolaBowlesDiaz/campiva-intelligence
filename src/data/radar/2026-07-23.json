@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-07-23",
+  "items": [
+    {
+      "titular": "Brasil exportó 482.800 toneladas de pollo en junio, un 40,6% más que un año atrás: el salto mide sobre todo el hueco que dejó el embargo chino de 2025",
+      "resumen": "La ABPA informó que en junio de 2026 el país embarcó 482.800 toneladas de carne de pollo (+40,6% interanual) por US$ 985,5 millones (+54,7%), con China de nuevo a la cabeza de los destinos (50.100 toneladas). La comparación es tan alta porque el junio anterior fue el del bloqueo sanitario: China había suspendido el frango brasileño el 16 de mayo de 2025 tras el foco de gripe aviar en Montenegro (RS).",
+      "fuente": "ABPA vía InfoMoney",
+      "url": "https://www.infomoney.com.br/business/exportacoes-brasileiras-de-frango-atingem-recordes-em-2026-em-volume-e-receita/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "China ya cubrió 93,6% de su necesidad de soja 2025/26 y casi ocho de cada diez toneladas salieron de Brasil",
+      "resumen": "Según lecturas de mercado difundidas esta semana, los compradores chinos llevan adquiridas unas 102 millones de toneladas de la campaña global 2025/26 —93,6% de la necesidad estimada—, de las cuales 78,33% corresponden a soja brasileña, cerca de 80 millones de toneladas. El dato ratifica quién sostiene la demanda del poroto sudamericano mientras el complejo migra hacia el aceite y la molienda.",
+      "fuente": "Agrolink",
+      "url": "https://www.agrolink.com.br/noticias/china-amplia-demanda-e-brasil-tera-disputa-maior-pela-soja_516889.html",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "La harina de soja gana firmeza: el USDA proyecta una exportación brasileña récord de 26,9 millones de toneladas en 2026/27",
+      "resumen": "El USDA estima que las exportaciones brasileñas de harina de soja alcanzarán un récord de 26,9 millones de toneladas en la campaña 2026/27, 1,9 millón más que la previa, con una demanda mundial de importación que crecería 4% traccionada por la Unión Europea, Indonesia, Vietnam, México y Tailandia. La proteína vegetal se afirma como el ancla de demanda del complejo soyero.",
+      "fuente": "USDA vía Agrimidia",
+      "url": "https://agrimidia.com.br/avicultura-industrial/2026/07/21/demanda-global-por-farelo-de-soja-impulsiona-cotacoes-no-brasil-e-nos-eua/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "La ventana de siembra de invierno en Santa Cruz se cerró el 15 de julio y el gremio ve hasta 800.000 toneladas de grano en riesgo por falta de diésel",
+      "resumen": "Demetrio Pérez, expresidente de Anapo, señaló el 21 de julio de 2026 que a partir del 15 de julio el productor de soya de invierno siembra asumiendo riesgo y estimó la pérdida potencial en un rango de 600.000 a 800.000 toneladas de grano. Sumó dos presiones: el faltante de diésel que frena la campaña y el pronóstico de un El Niño que anticipa una temporada seca.",
+      "fuente": "Anapo vía Los Tiempos",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260721/falta-diesel-pone-riesgo-800000-toneladas-soya-paraliza-siembra-santa",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "La soja de Chicago recupera terreno y cierra en 453,05 US$/t, con el aceite disparándose 26 dólares por el repunte del petróleo",
+      "resumen": "El contrato agosto 2026 cerró el 22 de julio de 2026 en 453,05 dólares por tonelada (unos US$ 12,33 por bushel), 4,96 dólares arriba. El aceite de soja saltó 26,01 dólares hasta 1.664,03 US$/t y la harina subió 5,40 hasta 365,52, según el Informe Diario de la SAGyP: el alza del crudo y la escalada en Medio Oriente reavivaron la demanda potencial de insumos para biocombustibles.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El trigo de Chicago sube 2,9% hasta 259,32 US$/t: los ataques rusos sobre Odesa y una gira de cultivos más floja en Dakota del Norte tensan la oferta",
+      "resumen": "El trigo cerró el 22 de julio de 2026 en 259,32 dólares por tonelada (unos US$ 7,06 por bushel), 10,20 dólares arriba en la posición setiembre. El Informe Diario de la SAGyP atribuye el alza a los nuevos ataques rusos sobre puertos e infraestructura de Odesa —que complican la contratación de seguros para los buques del Mar Negro— y a las menores estimaciones productivas relevadas en Dakota del Norte.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El maíz avanza 1,4% a 181,88 US$/t: el repunte del crudo y el calor en el Cinturón Maicero le dan sostén a las cotizaciones",
+      "resumen": "El maíz de Chicago cerró el 22 de julio de 2026 en 181,88 dólares por tonelada (unos US$ 4,62 por bushel), 3,64 dólares arriba en la posición setiembre. Según el Informe Diario de la SAGyP, el repunte del petróleo fortalece la demanda potencial de materias primas para biocombustibles y el regreso de temperaturas elevadas al oeste del Cinturón Maicero y a las Planicies amenaza el potencial productivo estadounidense.",
+      "fuente": "CBOT vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Perú acumula US$ 4.713 millones en agroexportaciones hasta mayo, un 5,2% más, con el café tradicional entre los motores",
+      "resumen": "El Midagri informó que las agroexportaciones peruanas sumaron US$ 4.713 millones entre enero y mayo de 2026, un alza de 5,2% interanual, impulsadas por uvas, paltas y arándanos; el café sin tostar aportó US$ 170 millones en el primer cuatrimestre y los alimentos para animales US$ 71 millones. El agro sigue siendo el motor exportador no tradicional del país.",
+      "fuente": "Midagri vía PQS",
+      "url": "https://pqs.pe/actualidad/economia/agroexportaciones-peruanas-suman-us-4713-millones-hasta-mayo-impulsadas-por-uvas-paltas-y-arandanos/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "La soja Matba sube a 349,20 US$/t y el maíz a 191,50: el físico argentino acompaña el envión de Chicago",
+      "resumen": "En la rueda del 22 de julio de 2026, la soja Matba-Rofex posición setiembre cerró en 349,20 dólares por tonelada (+4,60) y el maíz posición agosto en 191,50 (+1,50), según el Informe Diario de la SAGyP. En el físico Sio-Granos, la soja fábrica en Rosario Norte se pagó en torno a 498.000 pesos por tonelada, con el maíz sobre los 293.700.",
+      "fuente": "Matba-Rofex vía Informe Diario SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    }
+  ]
+}
