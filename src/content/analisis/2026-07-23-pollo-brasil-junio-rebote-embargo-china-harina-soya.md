@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: proteina-animal
 pais: BR
 score: 7.8
-destacado: true
+destacado: false
 lectura: "Para esta casa, el titular del 40,6% es correcto y a la vez el que más fácil se malinterpreta. Brasil exportó en junio de 2026 unas 482.800 toneladas de carne de pollo, un 40,6% por encima del mismo mes de 2025, y facturó US$ 985,5 millones, un 54,7% más; en el acumulado del semestre lleva 2,94 millones de toneladas (+12,9%) y US$ 5,7 mil millones (+17%). El problema del número mensual es la base con la que se compara: en junio de 2025 el principal cliente del pollo brasileño —China— tenía suspendidas las compras desde el 16 de mayo de ese año, cuando se confirmó un foco de influenza aviar de alta patogenicidad en una granja comercial de Montenegro, Rio Grande do Sul. Un año después, con el estatus sanitario recuperado y el mercado chino reabierto, China volvió a encabezar los destinos de junio con 50.100 toneladas. Es decir: buena parte de ese 40,6% no es aceleración, es la recuperación del hueco que dejó un cierre sanitario. La lectura que la mesa no descarta, en cambio, es la de fondo: el pollo es el principal vehículo de consumo de harina de soja del planeta, y cada tonelada adicional que Brasil embarca es demanda derivada para el complejo soyero sudamericano. El USDA proyecta que la exportación brasileña de harina de soja marcará un récord de 26,9 millones de toneladas en 2026/27, con una demanda mundial de importación que crecería 4%. Ahí está el piso, no en la tasa de un mes contra un mes anómalo."
 cifras:
   - label: "Pollo brasileño, junio de 2026"
