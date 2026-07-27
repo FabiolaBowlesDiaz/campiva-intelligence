@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: granos-andinos
 pais: PE
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa, el titular peruano —líder mundial de quinua— es correcto, pero lo interesante está debajo. Perú exportó en 2025 unas 54.700 toneladas de quinua por US$ 152 millones, un 13% más que el año anterior, y desplazó definitivamente a Bolivia, que fue durante décadas el referente del grano. La tentación es leerlo como una carrera de volúmenes, y no lo es: el número que ordena la discusión es el precio implícito, US$ 2.779 por tonelada, que sale de dividir el valor exportado entre el tonelaje. A ese precio no se vende una materia prima a granel; se vende un producto posicionado. El mapa de destinos lo confirma: Estados Unidos, Canadá, Italia, Reino Unido, España, Países Bajos y Alemania —mercados que pagan por inocuidad, trazabilidad y la etiqueta de superalimento, no por el grano crudo—. La quinua peruana consolidó, además, una base social ancha: 120.000 familias de pequeños agricultores en Puno, Ayacucho, Apurímac, Junín y Cusco, y una producción total de granos andinos de 153.400 toneladas en 2025 que generó 5,4 millones de jornales. La lectura estratégica para la región andina —incluida Bolivia— es que el liderazgo en un grano de origen no se defiende con hectáreas, se defiende con marca, certificación y acceso a los mercados que pagan el premio. El que se queda en el grano a granel compite por precio; el que sube a la góndola premium fija el precio."
 cifras:
   - label: "Exportación peruana de quinua 2025"

@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-07-27",
+  "items": [
+    {
+      "titular": "El Brent se desploma 9,6% el lunes y devuelve toda la prima geopolítica de la semana pasada",
+      "resumen": "El crudo Brent cayó hacia US$ 88,93 por barril en la rueda del 27 de julio de 2026, desde un cierre de US$ 98,38 el viernes 24, tras conocerse una pausa en los ataques entre Estados Unidos e Irán. Es el movimiento que ordena la jornada para todo el complejo agrícola: el petróleo fue el motor del rally de la semana previa y su reversión arrastra a granos y aceites.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "La soja de Chicago cerró el viernes en máximos de dos años: US$ 458,57 por tonelada en la posición agosto",
+      "resumen": "El contrato agosto 2026 de soja cerró el 24 de julio en US$ 458,57 por tonelada, US$ 3,86 arriba de la rueda previa, tras tocar nuevos máximos de dos años. La Subsecretaría de Mercados Agroalimentarios argentina atribuyó la suba al rally acumulado del petróleo durante la semana y a las expectativas de demanda para biodiésel.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "El mismo día que el poroto subió, el aceite de soja cayó US$ 27,78 y la harina subió: el complejo se partió en dos",
+      "resumen": "En la rueda del 24 de julio de 2026 el aceite de soja de Chicago (agosto) cerró en US$ 1.638,68 por tonelada, US$ 27,78 abajo, mientras la harina de soja subió US$ 1,54 hasta US$ 365,19. La divergencia dentro del crush anticipó, un día hábil antes, lo que confirmó el desplome del crudo del lunes.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El trigo de Chicago retrocedió 2,6% el viernes tras haber tocado máximos de dos años por los ataques en el Mar Negro",
+      "resumen": "El contrato septiembre cerró el 24 de julio en US$ 249,12 por tonelada, US$ 6,71 abajo, después de una rueda de fuerte volatilidad en la que había alcanzado máximos de dos años por la escalada sobre puertos e infraestructura del Mar Negro. La toma de ganancias previa al fin de semana revirtió la tendencia, aunque el riesgo sobre el corredor exportador sigue dando sostén.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Brasil embarcará 13,76 millones de toneladas de soja en julio y 2,57 millones de harina, según la proyección semanal de ANEC",
+      "resumen": "La Asociación Nacional de Exportadores de Cereales de Brasil elevó su estimación de embarques de julio de 2026 a 13,76 millones de toneladas de soja —1,8 millones más que en julio de 2025— y a 2,57 millones de toneladas de harina de soja, unas 400 mil por encima del año pasado. El maíz se proyecta en 3,44 millones de toneladas, por debajo de las cerca de 4 millones de julio de 2025.",
+      "fuente": "ANEC vía CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/anec-eleva-projecoes-de-2/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La Cámara Agropecuaria del Oriente reclama diésel al Estado boliviano en plena ventana de siembra de invierno",
+      "resumen": "El 25 de julio de 2026 el presidente de la CAO, Klaus Frerking, declaró que garantizar el abastecimiento de combustible \"no es un favor, es una obligación del Estado\". La entidad informó la descarga de 48 millones de litros en la Terminal Marítima Sica Sica, en Arica, y una proyección de hasta 1 millón de litros diarios por Puerto Quijarro, con tareas de siembra, cosecha y transporte de granos demoradas.",
+      "fuente": "CAO vía El Día (Bolivia)",
+      "url": "https://www.eldia.com.bo/2026-07-25/economia/agropecuarios-advierten-que-el-abastecimiento-de-diesel-no-es-un-favor-sino-una-obligacion-del-estado.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "China lideró las compras de soja estadounidense de nueva campaña: 56,5 millones de bushels comprometidos en la semana al 16 de julio",
+      "resumen": "El reporte semanal de ventas de exportación del USDA publicado el 23 de julio de 2026 mostró compromisos de nueva campaña por 56,5 millones de bushels de soja, con China como principal comprador tanto de campaña vieja como nueva (unos 37 millones de bushels) y México segundo con 12,1 millones. Las ventas de campaña vieja, en cambio, cayeron a 2,1 millones de bushels.",
+      "fuente": "USDA vía RFD-TV",
+      "url": "https://www.rfdtv.com/new-crop-soybean-demand-leads-mixed-export-sales-report",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El índice Drewry de fletes de contenedores cede 4% y baja a US$ 4.374 por contenedor de 40 pies",
+      "resumen": "La evaluación del 23 de julio de 2026 del World Container Index de Drewry ubicó el compuesto en US$ 4.374 por FEU, un 4% menos que la semana anterior, por caídas en las rutas Asia-Europa y transpacífica. Drewry atribuye el retroceso a mayor capacidad de las navieras y a una demanda que se afloja en los principales corredores este-oeste.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Argentina proyecta una siembra récord de girasol: 3 millones de hectáreas para 2026/27",
+      "resumen": "La intención de siembra de girasol para la campaña 2026/27 alcanzaría los 3 millones de hectáreas, un 5,3% más que las 2,85 millones de la campaña previa y un 33,3% por encima del promedio de los últimos cinco años, según la proyección difundida el 20 de julio de 2026. La mejora de la relación insumo-producto —27% en semillas y 13% en fertilizantes— explica buena parte del salto.",
+      "fuente": "Bolsa de Cereales vía prensa argentina",
+      "url": "https://www.ellitoral.com/campolitoral/siembra-record-girasol-202627-bolsa-cereales-nea-clima-nino-sur-bonaerense-aceite-girasol-biocombustibles-exportaciones-maiz-soja_0_j6HMrGPm8X.html",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El café arábica cerró la semana en US$ 3,14 por libra, con una suba de 1,3% en la rueda del viernes",
+      "resumen": "El arábica de la bolsa de Nueva York cerró el 24 de julio de 2026 en 314,09 centavos de dólar por libra, 1,3% arriba del cierre previo. El mercado sigue operando entre el ritmo rezagado de la cosecha brasileña y la normalización esperada de la oferta hacia el último trimestre.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El Baltic Dry cerró la semana en 2.743 puntos, su nivel más alto desde el 17 de julio",
+      "resumen": "El índice de fletes de granel seco terminó la rueda del 24 de julio de 2026 en 2.743 puntos, tras subir 0,7% en la jornada. La firmeza del granel seco contrasta con el retroceso del contenedor y sigue jugando a favor del exportador de grano frente al de producto de valor agregado.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.4
+    }
+  ]
+}
