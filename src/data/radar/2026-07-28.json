@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-07-28",
+  "items": [
+    {
+      "titular": "La molienda europea de cacao cae 4,6% pero Asia sube 25% y Norteamérica 7,65%: el mundo procesó más grano, no menos",
+      "resumen": "La Asociación Europea del Cacao informó el 16 de julio de 2026 una molienda de 316.366 toneladas en el segundo trimestre, la más baja para un abril-junio desde 2020, frente a 331.762 toneladas un año antes. El mismo día la Cocoa Association of Asia reportó 224.646 toneladas (+25,1%) y la National Confectioners Association 109.659 toneladas (+7,65%): sumadas las tres regiones, el trimestre creció 6,6% interanual.",
+      "fuente": "ECA, CAA y NCA — cálculo agregado de Campiva Intelligence",
+      "url": "https://www.eurococoa.com/grind-stats/q2-2026/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El cacao de Nueva York pierde 21% en tres semanas y toca mínimos desde principios de julio",
+      "resumen": "El contrato cerró el 27 de julio de 2026 en US$ 5.100 por tonelada, un 21,0% por debajo del pico de ocho meses de US$ 6.455 alcanzado el 9 de julio, y el 28 operaba en torno a US$ 5.029. El mercado descontó la molienda europea débil y el aumento de existencias, con bancos de inversión moviéndose de posiciones alcistas a neutrales.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El arábica sube 3,43% el lunes y acelera el martes: los stocks certificados de ICE caen a mínimo de dos años y medio",
+      "resumen": "El contrato septiembre de arábica cerró el 27 de julio de 2026 con una suba de 10,75 centavos (+3,43%), y las existencias certificadas de la bolsa de Nueva York cayeron ese mismo día a 292.810 sacos, su nivel más bajo en dos años y medio. En la rueda del 28 el arábica extendía la suba por encima de 339 centavos por libra.",
+      "fuente": "ICE vía Barchart y TradingEconomics",
+      "url": "https://www.barchart.com/story/news/3484781/coffee-prices-sharply-higher-as-brazils-coffee-harvest-is-delayed",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Minas Gerais recibió 2.700% de su lluvia histórica en una semana y la cosecha brasileña de café sigue rezagada",
+      "resumen": "La principal región cafetalera de Brasil acumuló 32,4 milímetros de lluvia en la semana terminada el 26 de julio de 2026, equivalentes al 2.700% del promedio histórico, según Somar Meteorologia. La cooperativa Cooxupé reportó un avance de cosecha de 47,3% al 17 de julio frente al 59% del año anterior, y Safras & Mercado ubicó el avance nacional en 64% al 15 de julio contra 77% un año atrás.",
+      "fuente": "Somar Meteorologia, Cooxupé y Safras & Mercado vía Barchart",
+      "url": "https://www.barchart.com/story/news/3484781/coffee-prices-sharply-higher-as-brazils-coffee-harvest-is-delayed",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El Brent cerró el lunes en US$ 88,36 tras perder 10,2% en una sola rueda y sigue cediendo el martes",
+      "resumen": "El crudo de referencia cerró el 27 de julio de 2026 en US$ 88,36 por barril, un 10,2% por debajo del cierre del viernes 24 (US$ 98,38), tras conocerse avances diplomáticos entre Estados Unidos e Irán. El 28 de julio operaba en torno a US$ 86,2, su nivel más bajo en más de una semana, devolviendo por completo la prima geopolítica acumulada.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "La soja de Chicago perdió US$ 14,51 por tonelada el lunes y el aceite se desplomó US$ 63,27 arrastrado por el crudo",
+      "resumen": "El contrato agosto de soja cerró el 27 de julio de 2026 en US$ 444,05 por tonelada, US$ 14,51 abajo, mientras el aceite de soja caía a US$ 1.575,41 (−US$ 63,27) y la harina a US$ 353,62 (−US$ 11,57). La caída del petróleo se transmitió al complejo por el canal del biodiésel, confirmando que el máximo de dos años del viernes tenía origen energético.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Entre 600.000 y 800.000 toneladas de soya de invierno en riesgo en Santa Cruz por la falta de diésel",
+      "resumen": "El ex presidente de la Asociación de Productores de Oleaginosas y Trigo (Anapo), Demetrio Pérez, cuantificó el 21 de julio de 2026 en 600.000 a 800.000 toneladas el volumen de soya de invierno comprometido por la escasez de combustible en Santa Cruz. Señaló que las ventanas de siembra ya se habían vencido a mediados de julio y que sorgo, maíz y trigo enfrentan la misma restricción.",
+      "fuente": "Anapo vía Los Tiempos (Bolivia)",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260721/falta-diesel-pone-riesgo-800000-toneladas-soya-paraliza-siembra-santa",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El trigo de Chicago cedió 2,7% el lunes y perforó los US$ 243 por tonelada",
+      "resumen": "El contrato septiembre cerró el 27 de julio de 2026 en US$ 242,51 por tonelada, US$ 6,61 abajo, extendiendo la corrección iniciada el viernes tras los máximos de dos años alcanzados por la tensión en el Mar Negro. El maíz septiembre acompañó con una baja de US$ 4,92 hasta US$ 177,85 por tonelada.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "NOAA mantiene el aviso de El Niño con 97% de probabilidad de persistencia y 81% de que sea muy fuerte hacia fin de año",
+      "resumen": "El boletín de diagnóstico del Climate Prediction Center del 9 de julio de 2026 asigna un 97% de probabilidad a que El Niño continúe hasta comienzos de la primavera boreal de 2027 y un 81% a que alcance intensidad muy fuerte en el trimestre octubre-diciembre de 2026. El organismo advierte que incluso los eventos más intensos no producen impactos uniformes en todas las regiones.",
+      "fuente": "NOAA / Climate Prediction Center",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Costa de Marfil frena las ventas anticipadas de la cosecha principal 2026/27 y eleva su prima a US$ 135 por tonelada",
+      "resumen": "El Consejo del Café y del Cacao con sede en Abiyán vendió cerca de 1 millón de toneladas en contratos de exportación para la cosecha principal 2026/27 y comenzó a moderar el ritmo de colocación ante la incertidumbre por el efecto de El Niño sobre la producción. La prima sobre ventas adicionales pasó de cero a al menos 135 dólares por tonelada sobre el precio de los futuros.",
+      "fuente": "Conseil du Café-Cacao vía MarketScreener",
+      "url": "https://es.marketscreener.com/noticias/costa-de-marfil-registra-s-lidas-exportaciones-de-la-cosecha-principal-de-cacao-mientras-el-ni-o-ame-ce7f5ddedd8ef120",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El Baltic Dry cortó tres ruedas de suba y cerró el lunes en 2.696 puntos",
+      "resumen": "El índice de fletes de granel seco terminó la jornada del 27 de julio de 2026 en 2.696 puntos, un 1,7% por debajo del cierre previo, interrumpiendo una racha de tres sesiones alcistas. El contenedor, en cambio, mantiene su corrección: el World Container Index de Drewry se ubicó en US$ 4.374 por FEU en la evaluación del 23 de julio, un 4% menos que la semana anterior.",
+      "fuente": "Baltic Exchange vía TradingEconomics y Drewry World Container Index",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.5
+    }
+  ]
+}

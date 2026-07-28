@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: soya
 pais: GLOBAL
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Para esta casa el dato relevante del cierre semanal no fue el máximo de dos años de la soja, sino la contradicción que lo acompañó. El 24 de julio el poroto de Chicago cerró en US$ 458,57 por tonelada, US$ 3,86 arriba, y la Subsecretaría de Mercados argentina explicó la suba por el rally acumulado del petróleo y las expectativas de biodiésel. Pero en la misma rueda el aceite de soja —el vehículo por el que ese canal se transmite— cayó US$ 27,78 hasta US$ 1.638,68 por tonelada, mientras la harina subía US$ 1,54 hasta US$ 365,19. Cuando el poroto sube por una historia de aceite y el aceite cae, el mercado está diciendo que la suba no está anclada en su propio relato. El lunes 27 lo confirmó: el Brent pasó de un cierre de US$ 98,38 el viernes a operar cerca de US$ 88,93, un 9,6% abajo, tras la pausa en los ataques entre Estados Unidos e Irán, y la soja cedió 2,6% en la rueda temprana. Lo que queda cuando se va la prima geopolítica es la demanda física, y esa no se movió: China lideró las compras de soja estadounidense de nueva campaña en la semana al 16 de julio —56,5 millones de bushels comprometidos— y Brasil embarcará en julio 13,76 millones de toneladas de soja y 2,57 millones de harina según ANEC. Para el productor y el exportador de la cuenca sudamericana, la lectura operativa es que el precio de tapa de la semana pasada no era una señal de fundamentos: era un préstamo de la energía, y ya venció."
 cifras:
   - label: "Soja Chicago, posición agosto 2026"
