@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cacao
 pais: GLOBAL
 score: 7.9
-destacado: true
+destacado: false
 lectura: "Para esta casa el error de lectura del mercado en las últimas tres semanas no está en los datos sino en el recorte. La Asociación Europea del Cacao publicó el 16 de julio una molienda de 316.366 toneladas para el segundo trimestre de 2026, 4,6% por debajo de las 331.762 del mismo trimestre de 2025 y el registro más bajo para un abril-junio desde 2020; en el acumulado del semestre son 642.261 toneladas contra 696.417, un 7,8% menos. El titular fue inmediato: el precio alto destruyó el consumo de chocolate. Pero el mismo 16 de julio la National Confectioners Association reportó 109.659 toneladas molidas en Norteamérica, 7,65% arriba de las 101.865 del año anterior, y la Cocoa Association of Asia informó 224.646 toneladas, un 25,1% interanual. Sumando las tres regiones que publican, el segundo trimestre de 2026 arroja 650.671 toneladas contra 610.271 del mismo período de 2025: una expansión de 6,6%, no una contracción. La demanda de cacao no se destruyó; se relocalizó. Lo que cayó fue la molienda en la región que históricamente fija el precio de referencia y concentra la capacidad instalada, y esa distinción tiene consecuencias comerciales concretas para un exportador sudamericano cuyo canal natural de venta es, precisamente, Europa. El precio de la pantalla ya se movió con la lectura vieja: de US$ 6.455 por tonelada el 9 de julio a US$ 5.100 el 27, un 21% abajo en menos de tres semanas."
 cifras:
   - label: "Molienda europea, segundo trimestre de 2026"

@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-29",
+  "items": [
+    {
+      "titular": "El maíz estadounidense pierde 4 puntos de condición en una semana y queda 10 por debajo del año pasado",
+      "resumen": "El informe de progreso de cultivos del USDA publicado el 27 de julio de 2026 ubicó el maíz en 63% de condición buena a excelente, frente a 67% una semana antes y 73% en la misma fecha de 2025. La soja cayó a 63% desde 66% semanal y 70% interanual; el maíz llevaba 78% en floración y 25% en grano lechoso.",
+      "fuente": "USDA NASS — Crop Progress",
+      "url": "https://www.nass.usda.gov/Publications/National_Crop_Progress/index.php",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La molienda de etanol de Estados Unidos vuelve a 1,09 millones de barriles diarios y las exportaciones casi se duplican en una semana",
+      "resumen": "La producción semanal de etanol combustible fue de 1.094.000 barriles por día en la semana terminada el 17 de julio de 2026, un 5,2% por encima de los 1.040.000 de la semana previa, según los datos de la Administración de Información Energética publicados el 22 de julio. Las exportaciones treparon a 158.000 barriles diarios, un 95% más que la semana anterior.",
+      "fuente": "U.S. Energy Information Administration (EIA)",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=W_EPOOXE_YOP_NUS_MBBLD&f=W",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "Maíz y soja recuperan terreno en Chicago tras el dato de condición de cultivos",
+      "resumen": "El contrato septiembre de maíz cerró el 28 de julio de 2026 en US$ 180,50 por tonelada, US$ 2,66 arriba, y la soja agosto en US$ 445,34, una mejora de US$ 1,29 respecto del lunes. El trigo septiembre sumó US$ 0,92 hasta US$ 243,43 por tonelada.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent perfora los US$ 85 el martes y rebota el miércoles: dos días, dos lecturas opuestas del mismo conflicto",
+      "resumen": "El crudo de referencia cerró el 28 de julio de 2026 en US$ 84,09 por barril, un 4,8% por debajo del cierre previo, ante avances diplomáticos sobre el estrecho de Ormuz. El 29 de julio operaba en torno a US$ 88,3, un 5% arriba, tras reanudarse los ataques en la región. En dos ruedas el barril recorrió más de nueve dólares.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Senado argentino debate elevar el corte de bioetanol a 15% y el de biodiésel a 10% con precios de paridad de importación",
+      "resumen": "El proyecto en tratamiento en la comisión de Minería, Energía y Combustibles fija un corte mínimo de 7,5% de biodiésel en gasoil que sube a 10% a los doce meses de sancionada la ley, y lleva el bioetanol de 12% a 15% en el mismo plazo. Reemplaza el precio máximo por precios de referencia según paridad de importación y crea un mercado electrónico único de comercialización.",
+      "fuente": "Senado de la Nación (Argentina) vía Run Run Energético",
+      "url": "https://runrunenergetico.com/el-senado-debate-una-nueva-ley-de-biocombustibles-desregulacion-paridad-de-importacion-y-aumentos-de-corte/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "La industria argentina de biodiésel opera con 52% de capacidad ociosa y la de bioetanol con 23%",
+      "resumen": "La capacidad instalada de biodiésel en Argentina alcanza 4,4 millones de toneladas anuales y la producción de 2025 fue de 2,1 millones, según los datos presentados en el debate parlamentario. En bioetanol la capacidad es de 1,3 millones de metros cúbicos frente a 1 millón producido. El costo fiscal atribuido al esquema vigente se estimó en US$ 300 millones en 2025.",
+      "fuente": "Datos presentados en la comisión del Senado vía Run Run Energético",
+      "url": "https://runrunenergetico.com/el-senado-debate-una-nueva-ley-de-biocombustibles-desregulacion-paridad-de-importacion-y-aumentos-de-corte/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "Los cañeros bolivianos presentan una agenda de cuatro puntos con plazo al 31 de julio",
+      "resumen": "La Confederación de cañeros de Bolivia planteó el 27 de julio de 2026 la provisión inmediata de diésel, el pago de una deuda superior a Bs 160 millones por compras de etanol, el aumento del porcentaje de mezcla con gasolina y la incorporación de tecnología flex. El sector reportó un avance de zafra de 25% cuando debería superar 35% y unas 150.000 hectáreas en riesgo de no cosecharse.",
+      "fuente": "Concabol vía El Diario (Bolivia)",
+      "url": "https://www.eldiario.net/portal/2026/07/28/caneros-plantean-cuatro-puntos-para-evitar-el-quiebre-del-sector/",
+      "vertical": "azucar",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "YPFB descarga 48 millones de litros de diésel en Arica, equivalentes a seis días del programa de julio",
+      "resumen": "La estatal boliviana inició el 24 de julio de 2026 la descarga en la terminal marítima Sica Sica tras una demora atribuida a las condiciones de marea. El abastecimiento nacional de diésel proyectado para julio es de 7.812.000 litros diarios y, sumadas las importaciones por Arica, Paraguay, Iquique, Mollendo, Argentina y Mejillones, el ingreso programado llega a 10.005.000 litros por día.",
+      "fuente": "YPFB y Ministerio de Hidrocarburos vía Los Tiempos (Bolivia)",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260724/ypfb-inicia-descarga-diesel-arica-moviliza-48-millones-litros-bolivia",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El arábica salta 4,58% el martes y vuelve a los 339 centavos por libra",
+      "resumen": "El contrato septiembre de café arábica cerró el 28 de julio de 2026 en 339,40 centavos por libra, con una ganancia de 14,85 centavos frente al cierre del lunes. El impulso llega del retraso de la cosecha brasileña y de existencias certificadas de la bolsa de Nueva York en mínimos de dos años y medio.",
+      "fuente": "ICE vía Barchart",
+      "url": "https://www.barchart.com/futures/quotes/KCU26",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El aceite de soja cae US$ 15,43 por tonelada mientras la harina sostiene: el crush vuelve a separarse",
+      "resumen": "El contrato agosto de aceite de soja de Chicago cerró el 28 de julio de 2026 en US$ 1.559,97 por tonelada, US$ 15,43 abajo, en línea con el retroceso del crudo, mientras la harina cerró en US$ 353,07, apenas US$ 0,55 menos. Las posiciones diciembre de harina, en cambio, subieron US$ 4,08.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El cacao rebota 2% y recupera los US$ 5.200 por tonelada",
+      "resumen": "El contrato de Nueva York cerró el 28 de julio de 2026 en US$ 5.201 por tonelada, un 1,98% por encima del cierre del lunes, y extendía la mejora el miércoles hasta US$ 5.263. El movimiento sigue a una caída de 21% desde el pico de ocho meses del 9 de julio.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry cede a 2.664 puntos y el contenedor sigue corrigiendo",
+      "resumen": "El índice de fletes de granel seco cerró el 28 de julio de 2026 en 2.664 puntos, un 1,2% por debajo del último cierre registrado por esta casa. En contenedores, el World Container Index de Drewry se mantiene en US$ 4.374 por FEU según la evaluación del 23 de julio, un 4% menos que la semana anterior.",
+      "fuente": "Baltic Exchange vía TradingEconomics y Drewry World Container Index",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.4
+    }
+  ]
+}
