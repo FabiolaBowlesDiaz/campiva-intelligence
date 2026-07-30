@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa lo relevante del lunes 27 de julio no es que el maíz estadounidense haya perdido cuatro puntos de condición —eso ocurre todos los años en alguna semana de julio—, sino cuándo los perdió y contra qué demanda. El informe de progreso de cultivos del USDA ubicó el cultivo en 63% bueno a excelente frente a 67% la semana anterior y 73% en la misma fecha de 2025, con 78% del área en floración y 25% ya en grano lechoso: es decir, el deterioro llega en la ventana en que se define el número de granos por espiga, no en una etapa vegetativa recuperable. La soja acompañó con 63% desde 66%, aunque su ventana crítica de llenado todavía está por delante. Del otro lado del balance, la Administración de Información Energética había publicado el 22 de julio una molienda semanal de 1.094.000 barriles diarios de etanol para la semana terminada el 17 de julio, 5,2% por encima de los 1.040.000 previos, con exportaciones de 158.000 barriles diarios, un 95% más en siete días. El WASDE del 10 de julio ya había recortado 170 millones de bushels los stocks finales 2026/27 hasta 1,79 mil millones. Un balance que se apretaba por demanda ahora enfrenta además una oferta que dejó de ser cómoda. El mercado lo leyó de inmediato: el maíz septiembre de Chicago cerró el 28 de julio en US$ 180,50 por tonelada, US$ 2,66 arriba, y el Matba-Rofex acompañó con US$ 190,50."
 cifras:
   - label: "Condición del maíz estadounidense al 27 de julio de 2026"

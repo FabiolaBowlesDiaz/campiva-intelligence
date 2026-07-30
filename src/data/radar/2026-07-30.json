@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-30",
+  "items": [
+    {
+      "titular": "La carne brasileña llega al 80% de su cuota en China y queda a un paso de un arancel adicional de 55%",
+      "resumen": "El Ministerio de Comercio de China informó que las importaciones de carne bovina brasileña alcanzaron el 80% del cupo anual el martes 21 de julio de 2026. La cuota de Brasil para 2026 es de 1,106 millones de toneladas y, una vez agotada, el arancel adicional de 55% se aplica desde el tercer día posterior al umbral.",
+      "fuente": "MOFCOM (China) vía Global Times",
+      "url": "https://www.globaltimes.cn/page/202607/1366519.shtml",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "China reparte 2,688 millones de toneladas de cuota de carne entre seis orígenes y deja 172.000 t para todos los demás",
+      "resumen": "El Anuncio N.º 87 del Ministerio de Comercio chino, publicado el 31 de diciembre de 2025 y vigente desde el 1 de enero de 2026, asignó 1,106 millones de toneladas a Brasil, 511.000 a Argentina, 324.000 a Uruguay, 206.000 a Nueva Zelanda, 205.000 a Australia y 164.000 a Estados Unidos. El resto de los países comparte 172.000 toneladas.",
+      "fuente": "MOFCOM (China), Anuncio N.º 87, vía Bichos de Campo",
+      "url": "https://bichosdecampo.com/en-2026-china-comenzara-a-cuotificar-la-importacion-de-carne-vacuna-que-cupo-le-asigno-a-brasil-argentina-y-uruguay/",
+      "vertical": "proteina-animal",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Cuatro frigoríficos brasileños aplican despidos colectivos y recortan faena antes de que se cierre el cupo chino",
+      "resumen": "Frigol, Better Beef, Iguatemi Beef y Plena Alimentos comenzaron en julio de 2026 con despidos colectivos y menor faena de bovinos. Dentro de la cuota el arancel es de 12%; por encima suma 55% adicional hasta 67%. Al cierre de mayo Brasil llevaba cubierto el 65,4% del cupo.",
+      "fuente": "Valor Econômico vía Eurocarne",
+      "url": "https://eurocarne.com/noticias/codigo/71302/kw/Firmas+brasile%C3%B1as+frenan+su+actividad+al+completarse+la+cuota+de+exportaci%C3%B3n+de+carne+de+vacuno+hacia+China",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Tres terminales rusas del Mar Negro restringen el ingreso de grano por camión",
+      "resumen": "Las terminales NZT y KSK del puerto de Novorossiysk y ZTKT en Taman limitaron la recepción de grano por camión el 28 de julio de 2026, ante el mayor riesgo de navegación y el desvío de cargas tras las restricciones en el mar de Azov vigentes desde el 10 de julio. Las tres mueven más de 20 millones de toneladas anuales sobre un total ruso de unos 50 millones por vía marítima.",
+      "fuente": "Reuters",
+      "url": "https://www.yahoo.com/news/articles/three-russian-black-sea-terminals-163229290.html",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "SovEcon recorta por primera vez la exportación rusa de trigo 2026/27 y la deja en 44,6 millones de toneladas",
+      "resumen": "La consultora rusa bajó su proyección en 1,9 millones de toneladas y atribuyó el ajuste a las restricciones de navegación en el mar de Azov, por donde pasa cerca del 25% de las exportaciones rusas de grano y aceite de girasol. Para julio de 2026 estimó embarques de trigo de 1,5 millones de toneladas frente a los 2 millones previos, el nivel más bajo para un julio desde 2017 (1,4 millones).",
+      "fuente": "SovEcon vía UkrAgroConsult y Miller Magazine",
+      "url": "https://ukragroconsult.com/en/news/azov-sea-restrictions-force-russian-analysts-to-cut-wheat-export-forecast-for-the-first-time/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El Brent salta 7,9% en una rueda y cierra en US$ 90,74 el miércoles",
+      "resumen": "El crudo de referencia cerró el 29 de julio de 2026 en US$ 90,74 por barril, un 7,9% por encima del cierre previo de US$ 84,09, tras el endurecimiento del discurso de Estados Unidos sobre Irán y la reanudación de la tensión en el estrecho de Ormuz. En dos ruedas el barril recorrió más de trece dólares en ambos sentidos.",
+      "fuente": "ICE vía TradingEconomics y CNBC",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Chicago devuelve la prima: la soja cae 2,9% y el maíz 2,2% por pronóstico de lluvias en el Medio Oeste",
+      "resumen": "El contrato agosto de soja cerró el 29 de julio de 2026 en US$ 432,84 por tonelada, US$ 12,49 abajo, y el maíz septiembre en US$ 176,76, con una baja de US$ 3,74. El aceite de soja retrocedió US$ 35,05 hasta US$ 1.524,92 y la harina US$ 5,51 hasta US$ 347,56: esta vez cayó todo el crush junto.",
+      "fuente": "CBOT vía Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Los cañeros bolivianos fijan plazo hasta el viernes 31 de julio por diésel y pagos de etanol",
+      "resumen": "La Confederación de cañeros de Bolivia sostuvo su agenda de cuatro puntos —diésel regular, una deuda superior a Bs 160 millones por retiros del programa de etanol, mezcla de 12% en toda la gasolina e incentivos a vehículos flex— con plazo al 31 de julio de 2026. El sector reporta la zafra en 25% de avance cuando debería superar 35% y unas 150.000 hectáreas en riesgo.",
+      "fuente": "Concabol vía Radio Fides y El Deber (Bolivia)",
+      "url": "https://radiofides.com/economia/caneros-dan-plazo-hasta-el-viernes-para-normalizar-el-abastecimiento-de-diesel-y-advierten-con-movilizaciones",
+      "vertical": "azucar",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Perú importó 2,24 millones de toneladas de maíz amarillo duro en el semestre y 98,9% salió de Argentina",
+      "resumen": "Las compras externas crecieron 3,84% frente al primer semestre de 2025, según la Dirección de Estadística Agraria del Midagri. Argentina aportó 2,22 millones de toneladas con un alza de 8,15% interanual, mientras Estados Unidos cayó 66% hasta 10.000 toneladas y Brasil 92% hasta 4.450. Junio marcó el pico mensual con 482.545 toneladas.",
+      "fuente": "Midagri — Dirección de Estadística Agraria (Perú) vía Agrolatam",
+      "url": "https://www.agrolatam.com/agricultura-4266/peru-importaciones-maiz-amarillo-duro-argentina-mercado-2026/",
+      "vertical": "nutricion-animal",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "La Reserva Federal mantiene la tasa y el dólar cede a 100,89 puntos",
+      "resumen": "El comité dejó la tasa sin cambios el 29 de julio de 2026 con tres disidencias a favor de una subida, y el índice dólar cerró en 100,89 puntos, un 0,7% por debajo del máximo de quince meses de 101,60 alcanzado el día anterior. Un dólar más débil abarata el commodity dolarizado para el comprador de terceros mercados.",
+      "fuente": "TradingEconomics e Investing.com",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Brasil proyecta exportaciones récord de soja de 115,4 millones de toneladas en 2026 y Sinograin subasta grano importado",
+      "resumen": "La proyección de embarques brasileños para el año calendario 2026 se ubica en 115,4 millones de toneladas, un récord. En paralelo, la estatal china Sinograin anunció la subasta de unas 500.000 toneladas de soja importada de sus reservas, una señal de holgura en la oferta interna del principal comprador mundial.",
+      "fuente": "Reuters",
+      "url": "https://kelo.com/2026/07/29/us-wheat-rises-on-black-sea-disruptions/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El arábica devuelve el salto del martes y cierra 4% abajo en 325,80 centavos",
+      "resumen": "El contrato septiembre de café arábica cerró el 29 de julio de 2026 en 325,80 centavos por libra, 13,60 centavos menos que el día anterior, tras haber ganado 14,85 centavos el martes. El vaivén de dos ruedas resume un mercado que cotiza el calendario de la cosecha brasileña más que un balance de existencias.",
+      "fuente": "ICE vía Barchart",
+      "url": "https://www.barchart.com/futures/quotes/KCU26",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    }
+  ]
+}
