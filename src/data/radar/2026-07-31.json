@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-07-31",
+  "items": [
+    {
+      "titular": "La Unión Europea pierde 6,4 millones de toneladas de maíz en un mes y su cosecha cae a 53,8 millones",
+      "resumen": "El grupo de expertos de mercados agrícolas de la Comisión Europea, reunido el 30 de julio de 2026, recogió el recorte del Consejo Internacional de Cereales: la cosecha comunitaria de maíz 2026/27 baja 4,2 millones de toneladas en un mes hasta 53,8 millones, un 10,7% menos que el año anterior, con Francia derrumbada a 9,0 millones (−35%). El USDA llegó a la misma cifra por su cuenta, con un recorte de 3,7 millones.",
+      "fuente": "Comisión Europea — Cereals market situation, Expert Group (IGC GMR 578 y USDA WAP julio)",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "El comercio mundial de maíz va a un récord de 204,9 millones de toneladas y Argentina es el origen que más crece",
+      "resumen": "El Consejo Internacional de Cereales elevó 4,3 millones de toneladas su previsión de comercio mundial de maíz 2026/27, hasta un récord de 204,9 millones, por las menores cosechas europeas. Estados Unidos sigue primero con 78,4 millones (−8,7% interanual), seguido de Brasil con 42,9 millones y Argentina con 40,0 millones, un alza de 15,6% que la convierte en el exportador de mayor crecimiento.",
+      "fuente": "IGC — Grain Market Report 578 (16/07/2026), vía Comisión Europea",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El maíz mundial entra en la campaña con la relación stock/consumo más ajustada desde 2010/11",
+      "resumen": "Las existencias finales mundiales de maíz 2026/27 se recortaron a 293,3 millones de toneladas, un 5,7% menos que el ciclo previo, de las cuales 173,4 millones están en China: el 59,1% del total. La relación stocks/uso global cae a 22,2%, el nivel más bajo en quince campañas, según el Consejo Internacional de Cereales.",
+      "fuente": "IGC — Grain Market Report 578, vía Comisión Europea (30/07/2026)",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Los armadores dejan de entrar a los puertos ucranianos de aguas profundas y el grano se desvía al Danubio",
+      "resumen": "La Comisión Europea informó el 30 de julio de 2026 que, tras los ataques a buques comerciales e infraestructura portuaria, los propietarios de barcos suspendieron los arribos a los puertos ucranianos de aguas profundas y las cargas se están reencaminando a los puertos del Danubio o por ferrocarril hacia la frontera occidental. Al 22 de julio Ucrania llevaba exportadas 2,1 millones de toneladas de granos de la campaña 2026/27.",
+      "fuente": "Comisión Europea — Cereals market situation (datos del Servicio Aduanero de Ucrania)",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Un analista ucraniano cifra en US$ 70 millones diarios el costo del cierre portuario",
+      "resumen": "El economista independiente Oleksandr Khmelevskyi estimó el 31 de julio de 2026 que el bloqueo de los puertos marítimos le cuesta a Ucrania unos 70 millones de dólares diarios de ingresos de exportación, sobre un déficit comercial de 28.300 millones en el primer semestre. El Consejo Agrario Ucraniano calcula que podrían acumularse cerca de 30 millones de toneladas de excedente agrícola si la situación se prolonga.",
+      "fuente": "Oleksandr Khmelevskyi y Consejo Agrario Ucraniano vía UkrAgroConsult",
+      "url": "https://ukragroconsult.com/en/news/black-sea-port-shutdown-could-cost-ukraine-70-mln-in-export-revenue-per-day/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El aceite de girasol ruso caería a 150.000 toneladas en agosto, un 40% menos que un año atrás",
+      "resumen": "Andrey Sizov, de la consultora SovEcon, proyectó el 31 de julio de 2026 embarques rusos de aceite de girasol de unas 150.000 toneladas en agosto, frente a las 180.000 estimadas para julio y las 390.000 de junio. Los envíos por los puertos del mar de Azov están prácticamente detenidos y los armadores evitan el mar Negro.",
+      "fuente": "SovEcon vía UkrAgroConsult",
+      "url": "https://ukragroconsult.com/en/news/russian-sunflower-oil-exports-may-fall-40-in-august-due-to-logistics-disruptions/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "Turquía levanta la prohibición de exportar trigo panificable que regía desde marzo de 2025",
+      "resumen": "La Junta de Granos de Turquía autorizó la exportación de trigo para molienda a partir del 29 de julio de 2026, según recogió la Comisión Europea. La apertura suma un origen alternativo al mercado de trigo del Mediterráneo justo cuando el corredor del mar Negro opera con restricciones.",
+      "fuente": "TMO (Junta de Granos de Turquía) vía Comisión Europea",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El INTA advierte que 5,2 millones de hectáreas de Corrientes podrían quedar bajo agua con un El Niño extremo",
+      "resumen": "Un estudio del INTA Corrientes difundido el 30 de julio de 2026 estima que 5,2 de los cerca de 9 millones de hectáreas de la provincia se inundarían si la primavera repite un evento de la intensidad de 1997-1998, cuando las lluvias superaron entre 50% y 90% los valores normales. Hoy el 22% del territorio ya está cubierto por agua, contra 58% en el pico de 1998.",
+      "fuente": "INTA Corrientes (investigador Ditmar Kurtz) vía La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/debemos-estar-preparados-el-inta-alerto-que-52-millones-de-hectareas-de-corrientes-podrian-quedar-nid30072026/",
+      "vertical": "clima",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "Perú compró 2,24 millones de toneladas de maíz amarillo en el semestre y el 98,9% salió de Argentina",
+      "resumen": "La Dirección de Estadística Agraria del Midagri reportó importaciones peruanas de maíz amarillo duro por 2.243.216 toneladas entre enero y junio de 2026, un 3,84% más que un año atrás. Argentina aportó 2.218.791 toneladas con un alza de 8,15%, mientras Estados Unidos cayó a 10.000 y Brasil a 4.450 toneladas.",
+      "fuente": "Midagri — Dirección de Estadística Agraria (Perú) vía Agrolatam",
+      "url": "https://www.agrolatam.com/agricultura-4266/peru-importaciones-maiz-amarillo-duro-argentina-mercado-2026/",
+      "vertical": "nutricion-animal",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Brasil confirma cosecha récord de soja de 180,6 millones de toneladas y exportación histórica de 116,3 millones",
+      "resumen": "El informe de julio de la Conab, recogido por la Comisión Europea el 30 de julio de 2026, estima la soja brasileña 2025/26 en 180,6 millones de toneladas, un 5,3% más que el ciclo previo, con exportaciones de 116,3 millones (+7,5%) y un consumo interno de 66,3 millones impulsado por el biodiésel. El maíz llega a 141,7 millones con embarques de 46,5 millones (+11,7%).",
+      "fuente": "Conab (Brasil), informe de julio, vía Comisión Europea",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "China proyecta importar 95,5 millones de toneladas de soja, un 7,6% menos que el ciclo anterior",
+      "resumen": "El balance oficial chino de oferta y demanda del 10 de julio de 2026, incluido en el material de la Comisión Europea del 30 de julio, proyecta importaciones de soja de 95,5 millones de toneladas en 2026/27 frente a 103,3 millones en 2025/26, con un consumo interno que baja 6,1%. Las compras chinas de maíz en el primer semestre, en cambio, subieron 28% interanual.",
+      "fuente": "China Agricultural Supply and Demand Estimates y aduanas chinas, vía Comisión Europea",
+      "url": "https://circabc.europa.eu/sd/a/98826879-f6a2-4931-b2fc-4780ee466338/cereals-market-situation.pdf",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El flete de contenedores cede otro 3% y se aleja del pico del súper-ciclo",
+      "resumen": "El World Container Index de Drewry cerró el jueves 30 de julio de 2026 en 4.255 dólares por contenedor de 40 pies, un 3% por debajo de la semana anterior, por la caída de tarifas en las rutas Asia-Europa y transpacífica. Es la tercera baja semanal consecutiva desde los 4.639 dólares del 9 de julio.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    }
+  ]
+}

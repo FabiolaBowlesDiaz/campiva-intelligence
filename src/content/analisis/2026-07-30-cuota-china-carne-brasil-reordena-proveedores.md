@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: proteina-animal
 pais: BR
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Para esta casa el dato del 21 de julio no es un techo de demanda, es un cambio de reglas sobre quién puede vender. La salvaguardia china del Anuncio N.º 87, vigente desde el 1 de enero de 2026, no recortó el volumen total que China importa —fijó 2,688 millones de toneladas para 2026, con incrementos programados a 2,742 millones en 2027 y 2,797 millones en 2028— sino que lo repartió por origen. Brasil, con 1,106 millones de toneladas, es el mayor cupo individual pero también el más apretado: exportó 1,7 millones de toneladas a China en 2025, es decir un 54% más de lo que hoy tiene permitido sin penalidad. Al cierre de mayo llevaba 65,4% del cupo; el 21 de julio, 80%. Argentina recibió 511.000 toneladas, prácticamente su volumen de 2025, lo que la deja neutral y obligada a administrar mezcla de cortes. Uruguay recibió 324.000 toneladas contra unas 188.000 embarcadas en 2025: es el único de los grandes con espacio real. Y el precedente ya existe y no es teórico: a Australia se le agotó el cupo y paga el adicional de 55% desde el 20 de junio de 2026. La conclusión operativa es incómoda para el modelo mental habitual del exportador: en este mercado, durante el segundo semestre, la variable que decide una venta a China no es el precio ni el costo de faena, es tener cupo libre y planta habilitada."
 cifras:
   - label: "Cuota china de carne bovina para Brasil en 2026"
