@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: GLOBAL
 score: 8.1
-destacado: true
+destacado: false
 lectura: "Para esta casa el dato relevante del 30 de julio no es el tamaño de la caída europea sino a quién se la va a facturar. Un recorte de 4,2 millones de toneladas en un mes en la cosecha de la Unión Europea no se resuelve con existencias: se resuelve importando, y el Consejo Internacional de Cereales ya subió 1,5 millones las compras externas del bloque hasta 20,5 millones de toneladas, con el comercio mundial en un récord de 204,9 millones. La segunda pieza es la que casi nadie mira desde este lado del Atlántico: el ranking de proveedores de ese récord. Estados Unidos sigue primero pero cae 8,7% interanual a 78,4 millones; Brasil crece apenas 1,2% a 42,9 millones; Argentina salta 15,6% a 40,0 millones y Ucrania 13,1% a 24,0 millones. De los cuatro grandes, dos —Argentina y Ucrania— son los que aportan el crecimiento, y uno de esos dos tiene su logística de exportación intervenida por el riesgo del mar Negro. La conclusión operativa para un comprador andino de alimento balanceado es incómoda: el maíz argentino que hoy llega a Callao con 98,9% de participación deja de ser un flujo cautivo de la región y pasa a ser un volumen disputado por un comprador europeo que en 2026/27 necesita comprar más y tiene mayor capacidad de pago. Y el colchón que amortiguaba estas cosas ya no está: la relación stocks/uso mundial de maíz cae a 22,2%, la más ajustada desde 2010/11."
 cifras:
   - label: "Cosecha de maíz de la Unión Europea 2026/27"

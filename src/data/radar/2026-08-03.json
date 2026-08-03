@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-08-03",
+  "items": [
+    {
+      "titular": "Brasil proyecta exportar un récord de 115,4 millones de toneladas de soja y moler otro récord de 63,3 millones",
+      "resumen": "La Abiove elevó el 29 de julio de 2026 su proyección de embarques brasileños de soja del año a 115,4 millones de toneladas, 1,3 millones más que en su estimación de junio y un 6,67% por encima del total de 2025. La molienda sube 300 mil toneladas hasta un récord de 63,3 millones, con producción de harina de 48,7 millones y de aceite de 12,75 millones.",
+      "fuente": "Abiove — Balanço de Oferta e Demanda do Complexo Soja, vía Portal do Agronegócio",
+      "url": "https://www.portaldoagronegocio.com.br/agricultura/soja/noticias/soja-brasileira-bate-recordes-em-2026-com-processamento-em-alta-e-exportacoes-de-115-4-milhoes-de-toneladas",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "Las existencias finales de soja de Brasil se recortan 1,3 millones de toneladas pese a la cosecha récord",
+      "resumen": "En el mismo balance del 29 de julio, la Abiove bajó las existencias finales brasileñas de soja de 7,868 a 6,583 millones de toneladas, un recorte de 1,285 millones, mientras subía la producción a 180,568 millones. El balance se ajusta por el lado de la demanda: más embarques y más molienda interna al mismo tiempo.",
+      "fuente": "Abiove — Balanço de Oferta e Demanda do Complexo Soja, vía Portal do Agronegócio",
+      "url": "https://www.portaldoagronegocio.com.br/agricultura/soja/noticias/soja-brasileira-bate-recordes-em-2026-com-processamento-em-alta-e-exportacoes-de-115-4-milhoes-de-toneladas",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Compradores estatales chinos se llevaron 840.000 toneladas de soja estadounidense en una sola rueda",
+      "resumen": "El viernes 31 de julio de 2026 las empresas estatales chinas cerraron 14 cargamentos de soja de Estados Unidos por unas 840.000 toneladas, ocho desde terminales del Golfo y seis del Pacífico Noroeste, con embarque en octubre y noviembre. Es una de las mayores compras de un solo día del año y se suma a más de 3 millones de toneladas adquiridas recientemente.",
+      "fuente": "Operadores del mercado vía UkrAgroConsult",
+      "url": "https://ukragroconsult.com/en/news/china-purchased-about-840-thsd-tons-of-us-soybeans-on-friday/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Sinograin vacía reservas de soja importada para hacerle lugar a la mercadería estadounidense",
+      "resumen": "El operador estatal chino colocó cerca de la mitad de las 504.000 toneladas de soja importada de las cosechas 2022-2025 que ofreció en su mayor subasta de reservas desde enero, informada el 31 de julio de 2026, y programó otra de 501.158 toneladas para el miércoles 5 de agosto. El compromiso oficial chino es comprar al menos 25 millones de toneladas de soja estadounidense en cada uno de 2026, 2027 y 2028.",
+      "fuente": "Sinograin y declaración de la Casa Blanca, vía Ag Bull Trading",
+      "url": "https://www.agbull.com/sinograin-auctions-clear-way-for-chinas-u-s-soybean-buying-push/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "Argentina arrancó la siembra de girasol apuntando a un récord histórico de 3 millones de hectáreas",
+      "resumen": "La Bolsa de Cereales de Buenos Aires proyecta una intención de siembra de girasol de 3 millones de hectáreas para la campaña 2026/27, un 5,3% más que los 2,85 millones del ciclo previo y un 33,3% por encima del promedio de las últimas cinco campañas. Al 2 de agosto de 2026 llevaba implantado el 4,4% del área, con el 23,6% cubierto en el NEA.",
+      "fuente": "Bolsa de Cereales de Buenos Aires, vía Infobae",
+      "url": "https://www.infobae.com/revista-chacra/2026/08/02/arranco-la-siembra-de-girasol-con-una-campana-record-en-el-horizonte/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El girasol boliviano suma US$ 2.000 millones de exportación desde el año 2000 y es el cuarto rubro no tradicional",
+      "resumen": "En el Día Nacional del Girasol realizado el 31 de julio de 2026 en la comunidad Illimani, municipio de San Julián, Anapo situó al cultivo como el cuarto rubro no tradicional de exportación de Bolivia, detrás de la soya, la joyería y la castaña, con unos 2.000 millones de dólares acumulados desde 2000 y un promedio reciente cercano a los 100 millones anuales. San Julián concentra alrededor del 50% de la superficie nacional.",
+      "fuente": "Anapo (Asociación de Productores de Oleaginosas y Trigo)",
+      "url": "https://anapobolivia.org/anapo-realiza-el-dia-nacional-del-girasol-y-destaca-al-cultivo-como-el-cuarto-rubro-no-tradicional-de-exportacion/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El complejo soyero de Chicago cerró julio en baja y el aceite se llevó la peor parte",
+      "resumen": "En la rueda del viernes 31 de julio de 2026 la soja agosto cerró en 11,72 dólares por bushel, 5¼ centavos abajo; el aceite de soja agosto perdió 123 puntos hasta 67,12 centavos por libra y la harina cedió 1,90 dólares hasta 312,20. La Subsecretaría de Mercados argentina atribuyó la baja a los pronósticos de lluvia en el Medio Oeste durante la formación de vainas, sumados a ventas técnicas y liquidaciones de fin de mes.",
+      "fuente": "CBOT vía Brownfield Ag News e Informe Diario del Mercado de Granos (SAGyP)",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-july-31-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El trigo de Chicago se desplomó 3,8% en la última rueda de julio",
+      "resumen": "El contrato septiembre del trigo de Chicago cerró el 31 de julio de 2026 en 6,39¼ dólares por bushel, con una caída de 24¼ centavos en el día. La Subsecretaría de Mercados argentina señaló ventas técnicas y liquidaciones de fin de mes como el motor de la baja, con las preocupaciones por la oferta del mar Negro y el recorte europeo limitando las pérdidas.",
+      "fuente": "CBOT vía Brownfield Ag News e Informe Diario del Mercado de Granos (SAGyP)",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-july-31-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Los inventarios de café arábica de la ICE tocaron su nivel más bajo en dos años y medio",
+      "resumen": "Las existencias certificadas de arábica en la ICE acumulan cuatro meses y medio de descensos y el viernes 31 de julio de 2026 llegaron a un mínimo de dos años y medio. El contrato septiembre cerró ese día en alza de 9,05 centavos, un 2,80%, aunque el lunes 3 de agosto devolvía parte del avance.",
+      "fuente": "ICE vía Barchart",
+      "url": "https://www.barchart.com/futures/quotes/KC*0/futures-prices",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El cacao volvió a subir con fuerza por la previsión de menor producción en África Occidental",
+      "resumen": "El cacao de Nueva York cerró el viernes 31 de julio de 2026 en 5.384,74 dólares por tonelada, un alza de 5,34% en la jornada, impulsado en parte por la proyección de una caída de la producción de África Occidental en la campaña 2026/27. El contrato septiembre de la ICE de Nueva York sumó 285 dólares y el de Londres 201 libras.",
+      "fuente": "ICE vía TradingEconomics y Business Recorder",
+      "url": "https://www.brecorder.com/news/40432752/cocoa-futures-rise-sharply-with-production-set-to-fall",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El maíz argentino se encamina a 64 millones de toneladas con la cosecha en el 69,8%",
+      "resumen": "La Bolsa de Cereales de Buenos Aires informó al 2 de agosto de 2026 un avance de cosecha de maíz del 69,8% y sostuvo su estimación de producción en 64 millones de toneladas. El sorgo llegó al 90,3% recolectado con la producción revisada a 2,8 millones, y el trigo cerró la siembra con el 98,4% de 6,5 millones de hectáreas implantadas.",
+      "fuente": "Bolsa de Cereales de Buenos Aires, vía Infobae",
+      "url": "https://www.infobae.com/revista-chacra/2026/08/02/arranco-la-siembra-de-girasol-con-una-campana-record-en-el-horizonte/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Baltic Dry saltó 4,1% y volvió a su nivel más alto desde mediados de julio",
+      "resumen": "El índice de fletes de granel seco del Baltic Exchange subió 111 puntos el lunes 3 de agosto de 2026, hasta 2.843 puntos, su valor más alto desde el 15 de julio. El cierre del viernes 31 de julio había quedado en 2.732 puntos, un 2,2% por encima de la rueda previa.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    }
+  ]
+}
