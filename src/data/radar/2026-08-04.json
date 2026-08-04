@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-08-04",
+  "items": [
+    {
+      "titular": "El cacao de Nueva York se disparó 10% en una sola rueda por el recorte de la cosecha de Ghana",
+      "resumen": "El contrato septiembre de la ICE de Nueva York cerró el lunes 3 de agosto de 2026 en 5.939 dólares por tonelada, con un salto de 542 dólares (+10,04%), y el de Londres subió 391 puntos (+9,75%). Es la segunda rueda consecutiva de alzas fuertes y llevó al mercado a máximos de dos semanas.",
+      "fuente": "ICE vía Barchart",
+      "url": "https://www.barchart.com/story/news/3618231/cocoa-prices-surge-on-ghana-crop-worries",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "Ghana proyecta una caída de al menos 16% en su cosecha de cacao 2026/27 por enfermedad y minería ilegal",
+      "resumen": "El regulador Cocobod informó que la producción ghanesa de la campaña que arranca en octubre podría ubicarse entre 450.000 y 550.000 toneladas frente a las 750.000 proyectadas para 2025/26, y declaró a Reuters el 31 de julio de 2026 una baja de al menos 16%. Atribuye el deterioro al virus del swollen shoot, plantaciones envejecidas, minería ilegal de oro y clima adverso asociado a El Niño en las regiones Western y Western North, que concentran más de la mitad del volumen nacional.",
+      "fuente": "Ghana Cocobod, vía Reuters y Barchart",
+      "url": "https://www.cnbcafrica.com/2026/ghanas-cocoa-production-is-expected-to-fall-16-next-season",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Costa de Marfil embarcó 2,11 millones de toneladas de cacao a puerto, un 20% más que el año pasado",
+      "resumen": "Los datos acumulados del 1 de octubre de 2025 al 2 de agosto de 2026 muestran llegadas a puerto de 2,11 millones de toneladas en el mayor productor mundial, un 20% por encima del mismo tramo de la campaña previa. La abundancia marfileña convive con el recorte ghanés: la oferta de África Occidental se concentra cada vez más en un solo origen.",
+      "fuente": "Datos de llegadas a puerto de Costa de Marfil, vía Barchart",
+      "url": "https://www.barchart.com/story/news/3618231/cocoa-prices-surge-on-ghana-crop-worries",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El Brent perdió 4,7% en una rueda por la distensión con Irán y el quinto aumento consecutivo de la OPEP+",
+      "resumen": "El crudo Brent cerró el lunes 3 de agosto de 2026 en 83,77 dólares por barril, 4,15 dólares por debajo del cierre del 31 de julio. Pesaron el anuncio de nuevas conversaciones con Irán y la cancelación del ataque previsto, más la decisión de la OPEP+ de sumar producción por quinto mes seguido, con 188.000 barriles diarios adicionales de los siete socios centrales en agosto.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El café arábica cayó 3% pese a tener los inventarios de la ICE en su mínimo de dos años y medio",
+      "resumen": "El contrato septiembre cerró el lunes 3 de agosto de 2026 con una baja de 10,10 centavos (−3,04%), mientras las existencias certificadas de arábica en la ICE quedaban en 264.179 sacos al viernes 31 de julio, mínimo de dos años y medio tras cuatro meses y medio de descensos. Somar Meteorologia reportó cero lluvia en Minas Gerais en la semana cerrada el 2 de agosto, un clima seco que acelera la cosecha brasileña y pesa más que el inventario.",
+      "fuente": "ICE y Somar Meteorologia, vía Barchart",
+      "url": "https://www.barchart.com/story/news/3616004/arabica-coffee-prices-slump-as-dryness-in-brazil-aids-the-coffee-harvest",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Anapo proyecta 260.000 toneladas de girasol en Bolivia, con la cosecha condicionada por el abastecimiento de diésel",
+      "resumen": "La asociación informó el 2 de agosto de 2026 una siembra de 202.000 hectáreas de girasol y una producción estimada de 260.000 toneladas para la campaña de invierno. Advirtió que la entrega de combustible sigue por debajo de lo acordado con el Gobierno y YPFB el 1 de julio: hay 950.000 hectáreas de sorgo, maíz, trigo y girasol por cosechar y el sector calcula una necesidad de 2,6 a 3 millones de litros diarios de diésel.",
+      "fuente": "Anapo, vía La Razón",
+      "url": "https://larazon.bo/economia-y-empresa/2026/08/02/anapo-preve-buena-cosecha-de-girasol-pero-la-falta-de-diesel-la-amenaza/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El aceite de soja de Chicago subió 34,61 dólares por tonelada el mismo día en que el petróleo se desplomó",
+      "resumen": "La posición agosto del aceite de soja cerró el 3 de agosto de 2026 en 1.514,34 dólares por tonelada, con un alza de 34,61 dólares (+2,3%), mientras el Brent perdía 4,7% en la misma rueda. La harina de soja subió apenas 1,32 dólares hasta 345,46: dentro del crush, el valor volvió a migrar hacia el aceite.",
+      "fuente": "Chicago vía Informe Diario del Mercado de Granos (SAGyP)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El maíz de Estados Unidos perdió otros 2 puntos de condición y quedó en 61% bueno a excelente",
+      "resumen": "El informe semanal del USDA con corte al 2 de agosto de 2026 ubicó el maíz en 61% bueno a excelente, dos puntos menos que la semana previa, con 25% regular y 14% malo o muy malo. La soja se mantuvo en 63% bueno a excelente. El maíz de Chicago cerró el lunes en 4,49¼ dólares por bushel, 8½ centavos arriba, con las altas temperaturas previstas para el Medio Oeste como principal sostén.",
+      "fuente": "USDA Crop Progress y CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-3-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El trigo de Chicago rebotó 1,9% por la escalada de ataques en el mar Negro",
+      "resumen": "El contrato septiembre cerró el 3 de agosto de 2026 en 6,51 dólares por bushel, con una suba de 11¾ centavos. La Subsecretaría de Mercados argentina atribuyó el alza al temor de que la intensificación de los ataques entre Rusia y Ucrania interrumpa aún más los embarques del mar Negro —Rusia anunció mayores medidas de protección para los buques— sumado a condiciones secas en Europa, Estados Unidos y Australia.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP) y CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-3-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "China volvió a comprar poroto estadounidense y la soja apenas cedió pese a la caída del crudo",
+      "resumen": "El contrato septiembre de la soja de Chicago cerró el 3 de agosto de 2026 en 11,73¾ dólares por bushel, 3 centavos arriba, sostenido por nuevas ventas de poroto estadounidense a China y a destinos no informados. La Subsecretaría de Mercados argentina señaló que la baja del petróleo y las lluvias previstas en el Medio Oeste limitaron las subas, con los operadores esperando la actualización del USDA sobre el estado de los cultivos.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP) y CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-3-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El Baltic Dry subió 4,1% y tocó su nivel más alto desde mediados de julio",
+      "resumen": "El índice de fletes de granel seco del Baltic Exchange cerró el lunes 3 de agosto de 2026 en 2.843 puntos, 111 más que el viernes 31 de julio, su valor más alto desde el 15 de julio, impulsado por el segmento capesize. El granel seco se encarece justo cuando el contenedor afloja: el Drewry WCI cedió 3% hasta 4.255 dólares por FEU en su medición del 30 de julio.",
+      "fuente": "Baltic Exchange vía TradingEconomics y Drewry World Container Index",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El azúcar crudo trepó a 15,01 centavos por libra, su nivel más alto en casi un mes",
+      "resumen": "El contrato #11 cerró el lunes 3 de agosto de 2026 en 15,01 centavos por libra, un 2,4% por encima del cierre del 31 de julio y el valor más alto en cerca de cuatro semanas. El movimiento recorta parte de la caída acumulada por la sobreoferta de la zafra brasileña.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    }
+  ]
+}

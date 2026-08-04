@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: BR
 score: 8.1
-destacado: true
+destacado: false
 lectura: "Para esta casa el dato del 29 de julio no se lee solo: se lee contra el del 31. La Abiove subió 1,3 millones de toneladas los embarques brasileños del año hasta 115,4 millones —un 6,67% más que 2025— y al mismo tiempo recortó las existencias finales de 7,868 a 6,583 millones de toneladas pese a elevar la producción a 180,568 millones. Un balance que se aprieta con cosecha récord significa que la demanda está tirando por los dos lados: embarques y molienda. Pero el destino de esos embarques está cambiando de manos. El compromiso oficial chino de comprar al menos 25 millones de toneladas de soja estadounidense en cada uno de 2026, 2027 y 2028 equivale a más de un quinto de sus importaciones anuales previstas, y las 840.000 toneladas del viernes muestran que se está ejecutando. La aritmética es incómoda para el vendedor brasileño: China proyecta importar 95,5 millones de toneladas en 2026/27 contra 103,3 millones en 2025/26, es decir compra 7,8 millones menos, y de esa torta más chica reserva una porción creciente al origen estadounidense. Brasil responde con las dos únicas válvulas que tiene: nuevos destinos —Europa, Medio Oriente, Sudeste Asiático— y molienda propia, con el crush en 63,3 millones de toneladas y el aceite alimentando el biodiésel. Para el resto de la cuenca sudamericana eso no es una noticia lejana: significa que el grano brasileño desplazado va a competir en mercados que hoy atienden otros, y que la disputa por el valor agregado se endurece."
 cifras:
   - label: "Exportación brasileña de soja proyectada para 2026"
