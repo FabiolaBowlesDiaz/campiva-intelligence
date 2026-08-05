@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: cacao
 pais: GLOBAL
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Para esta casa el salto del lunes tiene menos que ver con el tamaño de la oferta mundial que con su distribución. Costa de Marfil viene embarcando un 20% más que la campaña pasada —2,11 millones de toneladas acumuladas al 2 de agosto— y sin embargo el mercado subió 10,04% en una rueda. Lo que cambió no es cuánto cacao hay: es de cuántas manos depende. Si Ghana efectivamente entrega entre 450.000 y 550.000 toneladas frente a las 750.000 del ciclo previo, el segundo productor mundial deja de ser un contrapeso y pasa a ser un factor de riesgo. Y el detalle que la casa mira con más atención es el calendario: el Cocobod menciona explícitamente el clima adverso asociado a El Niño entre las causas del recorte, y la NOAA asigna un 81% de probabilidad a un El Niño muy fuerte entre octubre y diciembre de 2026, que es exactamente la ventana de la cosecha principal marfileña. Es decir, el mercado acaba de concentrar su dependencia en un solo origen justo antes del trimestre en que ese origen enfrenta su mayor riesgo climático. Para el cacao americano —Ecuador, Perú, Brasil, Colombia— esto no se traduce en un precio garantizado, porque la demanda europea sigue floja. Se traduce en algo más valioso y menos visible: por primera vez en años, la diversificación de origen vale por sí misma, con independencia del diferencial de calidad."
 cifras:
   - label: "Cierre del cacao de Nueva York del 3 de agosto de 2026"

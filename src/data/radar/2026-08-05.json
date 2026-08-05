@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-08-05",
+  "items": [
+    {
+      "titular": "El Brent perforó los 80 dólares por primera vez desde que se reactivó el conflicto con Irán",
+      "resumen": "El crudo Brent cerró el martes 4 de agosto de 2026 en 79,36 dólares por barril, tras caer cerca de 5% en cada una de las dos ruedas previas, y el miércoles oscilaba en torno a 79,9. El disparador es la expectativa de un acuerdo interino de 60 días entre Estados Unidos, Irán y Omán para reabrir el estrecho de Ormuz sin peajes.",
+      "fuente": "TradingEconomics (Brent) y The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/08/04/brent-falls-below-80-amid-conflicting-claims-on-us-iran-talks/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "El agro de Cochabamba anunció que en quince días empieza a importar su propio diésel a 17 bolivianos el litro",
+      "resumen": "La Cámara Agropecuaria de Cochabamba informó el 1 de agosto de 2026 que concluyó la tramitación ante la ANH y YPFB y que comenzará a importar diésel por cuenta propia, con una propuesta de compra a 17 bolivianos por litro. Al no llevar subvención estatal, el combustible se comercializará a precio internacional; el surtidor regulado vende diésel a 9,80 bolivianos.",
+      "fuente": "Cámara Agropecuaria de Cochabamba, vía Los Tiempos; precios regulados de la ANH",
+      "url": "https://www.lostiempos.com/actualidad/cochabamba/20260801/sector-agropecuario-cochabamba-anuncia-que-iniciara-importacion-su",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "Chicago cerró en rojo en todo el tablero de granos y arrastró al aceite de soja",
+      "resumen": "El martes 4 de agosto de 2026 la soja septiembre cerró en 11,58¾ dólares por bushel (−15 centavos), el maíz septiembre en 4,42¼ (−7 centavos) y el trigo septiembre en 6,38½ (−12½ centavos). El aceite de soja septiembre perdió 59 puntos hasta 68,20 centavos por libra y la harina bajó 2,70 dólares hasta 312,70.",
+      "fuente": "CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-4-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El maíz estadounidense pierde otros dos puntos de condición en plena etapa de llenado",
+      "resumen": "El informe de progreso de cultivos del USDA difundido el 3 de agosto de 2026 ubica el maíz en 61% bueno a excelente, dos puntos menos que la semana previa, con 14% en condición pobre o muy pobre. La soja se mantiene en 63%; el 43% del maíz está en estado de grano lechoso-pastoso y el 62% de la soja ya formó vainas.",
+      "fuente": "USDA — Crop Progress, vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/news/61-of-u-s-corn-63-of-soybeans-good-to-excellent/",
+      "vertical": "cereales",
+      "pais": "EEUU",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El Baltic Dry encadena cinco ruedas de alza y toca su nivel más alto desde el 3 de junio",
+      "resumen": "El índice de fletes de graneles secos del Baltic Exchange subió 4,3% el miércoles 5 de agosto de 2026 hasta 3.063 puntos, con un avance de 127 puntos en la jornada. Es su quinta sesión consecutiva en alza y el mayor nivel en dos meses.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El flete de contenedores cae por tercera semana consecutiva mientras el granel seco sube",
+      "resumen": "El World Container Index de Drewry evaluado el 30 de julio de 2026 quedó en 4.255 dólares por contenedor de 40 pies, 3% menos que la semana anterior. Shanghái-Génova retrocedió 6% hasta 5.630 dólares y Shanghái-Róterdam 3% hasta 4.677; las navieras cancelan salidas para sostener tarifas ante una demanda que se debilita.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Brasil embarcaría 8,15 millones de toneladas de soja y 7,58 de maíz en agosto",
+      "resumen": "La Asociación Nacional de Exportadores de Cereales de Brasil proyecta para agosto de 2026 envíos de soja por 8,15 millones de toneladas, frente a 7,98 millones un año atrás, y de maíz por 7,58 millones, alrededor de 1,1 millón más que en agosto de 2025. Para el año completo la entidad estima 108,68 millones de toneladas de soja exportadas.",
+      "fuente": "ANEC, vía CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/anec-preve-aumento-de-embarques-de-milho-e-soja-do-brasil-em-agosto/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "El consejo palmero malayo ve el aceite crudo de palma anclado entre 4.400 y 4.650 ringgit en agosto",
+      "resumen": "El Malaysian Palm Oil Council proyectó el 22 de julio de 2026 un rango estrecho para el CPO durante agosto, sostenido por el arranque del mandato B50 indonesio y por una mejor economía del biodiésel. Los inventarios malayos subieron a 2,5 millones de toneladas en junio y la producción acumuló su cuarto mes consecutivo de caída interanual, con −3% en junio.",
+      "fuente": "Malaysian Palm Oil Council y MPOB, vía The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/22/cpo-prices-seen-between-rm4400-rm4650-per-tonne-in-august---mpoc",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Argentina actualizó los precios de biocombustibles para el corte obligatorio de agosto",
+      "resumen": "La Secretaría de Energía fijó para agosto de 2026 el biodiésel destinado a mezcla con gasoil en 2.001.063 pesos por tonelada, el bioetanol de caña en 1.061,878 pesos por litro y el de maíz en 973,244 pesos por litro. En paralelo, el proyecto que lleva el corte a 15% de etanol y 10% de biodiésel sigue en tratamiento en el Senado.",
+      "fuente": "Secretaría de Energía de Argentina, vía Opinando San Nicolás y El Esquiú",
+      "url": "https://www.opinandosannicolas.ar/2026/08/precios-de-biocombustibles-agosto-2026/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El arábica vuelve sobre 3,29 dólares con los inventarios certificados en mínimos de dos años y medio",
+      "resumen": "El café arábica cerró el 4 de agosto de 2026 en 324,10 centavos por libra y el miércoles subía 1,65% hasta 329,46. Las lluvias en Minas Gerais retrasaron la cosecha brasileña y los inventarios certificados tocaron su nivel más bajo en dos años y medio, aun cuando la producción global 2026/27 apunta a un récord.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El azúcar tocó su nivel más alto en casi un mes empujado por el crudo y por un déficit proyectado",
+      "resumen": "El contrato del azúcar crudo #11 cerró el 4 de agosto de 2026 en 15,04 centavos por libra, luego de trepar hasta alrededor de 15,1 centavos en la jornada, su mayor valor en casi un mes. El mercado descuenta un déficit global para la campaña 2026/27 y sigue las condiciones climáticas en India.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El cacao consolidó en 5.924 dólares tras el salto de 10% del lunes",
+      "resumen": "El contrato de Nueva York cerró el 4 de agosto de 2026 en 5.924 dólares por tonelada, 0,25% por debajo del lunes, después del salto de 10,04% que provocó la proyección de recorte de la cosecha de Ghana. El mercado digiere la noticia de oferta con la molienda europea todavía en contracción.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El dólar cede a su nivel más bajo en siete semanas",
+      "resumen": "El índice DXY cerró el 4 de agosto de 2026 en 99,86 y el miércoles perforaba 99,8, su menor valor en siete semanas. Un dólar más débil abarata las materias primas denominadas en esa moneda para los compradores del resto del mundo.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.4
+    }
+  ]
+}
