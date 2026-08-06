@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: energia
 pais: BO
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Para esta casa lo relevante no es el anuncio en sí, sino lo que cambia en la estructura de decisión del productor. Hasta ahora el riesgo del combustible era de disponibilidad: se conseguía o no se conseguía, y el precio venía dado. A partir de que una cámara agropecuaria importa por cuenta propia, el riesgo migra al plano donde el empresario sí puede trabajar: el de la cobertura. Un litro a 17 bolivianos frente a 9,80 en el surtidor regulado es un salto de 73% en un insumo que pesa fuerte en la preparación de suelo, la siembra y el flete interno. Pero es un costo conocido y anticipable, y eso vale más de lo que parece cuando la alternativa es una cola de cisternas sin fecha. El detalle de calendario es el que la mesa mira con más atención: la ventana en la que este esquema se estrena coincide con el crudo más barato desde febrero. El Brent perdió 21% en ocho ruedas por la expectativa de reapertura del estrecho de Ormuz. Si el acuerdo se concreta, quien esté armando su primer contrato de importación lo hará sobre una curva de precios muy distinta a la de hace dos semanas; si se cae, la referencia vuelve a moverse en sentido contrario justo cuando la siembra de verano ya no admite postergaciones. Comprar combustible es, desde ahora, una decisión de trading más dentro del negocio agrícola boliviano."
 cifras:
   - label: "Precio propuesto para el diésel importado por el sector privado"

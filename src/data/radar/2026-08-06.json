@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-08-06",
+  "items": [
+    {
+      "titular": "Faltan cuatro semanas para que la Unión Europea cierre su puerta a la proteína animal brasileña",
+      "resumen": "El Reglamento de Ejecución (UE) 2026/1189, del 4 de junio de 2026, se aplica desde el 3 de septiembre y deja a Brasil fuera de la lista de terceros países habilitados en bovino, equino, aves, acuicultura, miel y tripas. En 2025 la UE compró 368,1 mil toneladas de carnes brasileñas por 1.800 millones de dólares.",
+      "fuente": "Reglamento de Ejecución (UE) 2026/1189, vía EUR-Lex; datos de comercio de Poder360 e InfoMoney",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1189/oj",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.5
+    },
+    {
+      "titular": "El ministro de Agricultura brasileño dice que priorizará el pollo para volver al mercado europeo",
+      "resumen": "El 4 de agosto de 2026 el ministro André de Paula afirmó que el gobierno trabaja para que los efectos de la exclusión europea no alcancen primero a las cadenas de ciclo corto, y calificó la medida de inaceptable. El pollo tiene un ciclo productivo de unos dos meses, frente a plazos mucho mayores en bovinos.",
+      "fuente": "Ministerio de Agricultura de Brasil, vía Diário do Comércio",
+      "url": "https://diariodocomercio.com.br/agronegocio/exportacao-carnes-brasil-ue-2/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El cerdo vivo brasileño toca 5,08 reales el kilo en San Pablo, con caídas de hasta 2,5% en el sur en una sola rueda",
+      "resumen": "El indicador Cepea/Esalq cerró el 5 de agosto de 2026 en 5,08 reales por kilo en San Pablo, mientras Minas Gerais retrocedía 2,50% hasta 5,07, Santa Catarina 2,39% hasta 4,50 y Paraná 2,37% hasta 4,53. En junio el promedio de la región SP-5 fue el menor valor real desde julio de 2006.",
+      "fuente": "Cepea/Esalq, vía Notícias Agrícolas y AF News",
+      "url": "https://www.noticiasagricolas.com.br/cotacoes/suinos/indicador-do-suino-vivo-cepea-esalq",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Europa paga hasta 40% más que China por la carne de Mato Grosso, pero compra mucho menos volumen",
+      "resumen": "Según el Imea, en el primer semestre de 2026 la Unión Europea pagó en promedio 6.390 dólares por tonelada y el resto de Europa 6.667, frente a los 4.745 de China. China concentró igualmente el 55,2% de los embarques del estado. El índice de atractividad del instituto ubica a la UE en 108,49 y a China en 74,37.",
+      "fuente": "Instituto Mato-Grossense de Economia Agropecuária (Imea), vía CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/uniao-europeia-paga-ate-40-mais-pela-carne-bovina-do-que-a-china/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.5
+    },
+    {
+      "titular": "El arábica cae a su menor nivel en un mes y pierde casi cuatro por ciento en una rueda",
+      "resumen": "El contrato septiembre del café arábica cerró el 5 de agosto de 2026 en 311,45 centavos por libra, 3,9% por debajo del cierre previo, y el jueves seguía cediendo hacia 305 centavos. Es el nivel más bajo en un mes, con el mercado consolidando por debajo de los 3,10 dólares.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El café peruano crece 29% en valor mientras El Niño amenaza el rendimiento de la campaña 2026",
+      "resumen": "Entre enero y mayo de 2026 Perú exportó café por 229,3 millones de dólares, 29% más que un año atrás, con Estados Unidos como primer destino (75,5 millones, +68,3%). En paralelo, la falta de lluvias retrasó el inicio de campaña de abril a mayo y frenó la floración en el norte, sobre un rendimiento nacional de 632 kilos por hectárea en 2024.",
+      "fuente": "ADEX y Junta Nacional del Café, vía Gestión",
+      "url": "https://gestion.pe/economia/el-nino-amenaza-al-cafe-de-peru-asi-podria-afectar-a-la-produccion-y-exportacion-de-2026-noticia/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "China cerró la compra de 488.000 toneladas de soja estadounidense para la campaña nueva",
+      "resumen": "El 4 de agosto de 2026 el USDA confirmó ventas privadas por 488.000 toneladas de soja de Estados Unidos con destino a China para entrega en el ciclo comercial 2026/27. Las ventas pendientes a ese destino equivalen a alrededor del 11% del compromiso anual de 25 millones de toneladas acordado en la tregua comercial.",
+      "fuente": "USDA — Foreign Agricultural Service, vía The Poultry Site",
+      "url": "https://www.thepoultrysite.com/news/2026/08/soybean-futures-firm-on-chinese-purchases-crop-concerns-cbot",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "Chicago cerró mixto: el trigo rebotó por el mar Negro y la soja y el maíz cedieron por el clima",
+      "resumen": "El 5 de agosto de 2026 la soja septiembre cerró en 11,56½ dólares por bushel (−2¼ centavos), el maíz septiembre en 4,36¾ (−5½) y el trigo septiembre en 6,42¼ (+3¾). La harina de soja bajó 2,50 dólares hasta 310,20 y el aceite perdió 48 puntos hasta 67,72 centavos por libra.",
+      "fuente": "CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-5-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El flete de contenedores rebota tras tres semanas de caída",
+      "resumen": "El World Container Index de Drewry evaluado el 6 de agosto de 2026 subió 1% hasta 4.297 dólares por contenedor de 40 pies, luego de tres semanas consecutivas en baja. El granel seco, en cambio, cedió levemente: el Baltic Dry retrocedió 0,2% hasta 3.057 puntos el mismo día.",
+      "fuente": "Drewry World Container Index y Baltic Exchange vía TradingEconomics",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El etanol hidratado brasileño alcanza su mejor posición competitiva frente a la gasolina desde 2018",
+      "resumen": "UNICA informó el 3 de agosto de 2026 que el etanol hidratado se comercializa a 3,70 reales por litro en San Pablo frente a 6,39 de la gasolina común, la ventaja más amplia desde 2018. El dato llega semanas después de que el consejo de política energética elevara la mezcla obligatoria de 30% a 32%.",
+      "fuente": "UNICA",
+      "url": "https://unica.com.br/noticias/",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent recupera 80 dólares tras tres ruedas de pérdidas",
+      "resumen": "El crudo Brent cerró el 5 de agosto de 2026 en 79,45 dólares por barril, apenas por encima del cierre previo, y el jueves rebotaba 2,3% hasta rozar los 81,3 dólares. El mercado sigue evaluando los avances sobre la navegación por el estrecho de Ormuz.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El Senasag refuerza con el sector privado la vigilancia sanitaria porcina en Bolivia",
+      "resumen": "El 4 de agosto de 2026 el Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria informó que amplía, junto con el sector privado, su esquema de vigilancia en porcinos. El estatus sanitario es la variable que define qué plantas pueden acceder a mercados de exportación con requisitos de trazabilidad.",
+      "fuente": "Senasag, vía Publiagro",
+      "url": "https://publiagro.com.bo/",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 6.5
+    },
+    {
+      "titular": "El cacao cede a 5.882 dólares y devuelve parte del salto que provocó el recorte de Ghana",
+      "resumen": "El contrato de Nueva York cerró el 5 de agosto de 2026 en 5.882 dólares por tonelada, 0,7% por debajo del día anterior, y el jueves perdía otro 2%. El mercado sigue digiriendo la proyección de una cosecha ghanesa de 450.000 a 550.000 toneladas en 2026/27 frente a 750.000 en el ciclo previo.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    }
+  ]
+}
