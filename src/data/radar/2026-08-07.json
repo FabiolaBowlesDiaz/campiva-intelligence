@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-08-07",
+  "items": [
+    {
+      "titular": "UNICA confirma que Brasil produjo 12,4% menos azúcar con la misma caña y 20% más etanol",
+      "resumen": "El informe difundido el 6 de agosto de 2026 muestra 214,47 millones de toneladas de caña procesadas en el Centro-Sur hasta el 1 de julio, con producción acumulada de azúcar de 10,75 millones de toneladas (−12,38% interanual) y de etanol de 11,37 mil millones de litros (+20,44%). Solo en junio la molienda cayó 14,5% hasta 69,79 millones de toneladas.",
+      "fuente": "UNICA / UnicaData, vía Revista Cultivar",
+      "url": "https://revistacultivar.com.br/noticias/centro-sul-reduz-moagem-e-producao-de-acucar-em-junho",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.3
+    },
+    {
+      "titular": "El azúcar sube 7,9% en cinco ruedas y borra el mínimo de julio",
+      "resumen": "El contrato #11 de ICE cerró el 6 de agosto de 2026 en 15,57 centavos por libra, 2,8% arriba en la rueda y 7,9% por encima del mínimo de 14,43 centavos marcado el 30 de julio. Es el nivel más alto en cuatro semanas, con el mercado reevaluando el balance 2026/27.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "La agroexportación peruana cierra siete meses plana con la canasta dada vuelta por dentro",
+      "resumen": "Entre enero y julio de 2026 Perú exportó 6.373,7 millones de dólares FOB frente a 6.369,3 del mismo período de 2025 (+0,1%), según registros preliminares de la SUNAT al 4 de agosto. La cadena del cacao perdió 473 millones (de 945,7 a 472,6) y el capítulo de fruta fresca sumó 3.660,8 millones (+13,8%).",
+      "fuente": "SUNAT (registros preliminares), procesado por FreshFruit",
+      "url": "https://freshfruit.pe/2026/08/04/el-cacao-definio-el-crecimiento-agroexportador-del-peru-entre-enero-y-julio-de-2026/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "La quinua peruana recupera 22% en valor y vuelve a crecer en volumen",
+      "resumen": "Los envíos de quinua sumaron 98 millones de dólares entre enero y julio de 2026, 22% más que un año atrás, con volúmenes que pasaron de 29.900 a 34.500 toneladas. Perú se mantiene como primer productor y exportador mundial del grano, con 54.700 toneladas y más de 152 millones de dólares en 2025.",
+      "fuente": "SUNAT vía FreshFruit; Midagri",
+      "url": "https://www.gob.pe/institucion/midagri/noticias/1412707-dia-nacional-de-los-granos-andinos-2026-el-peru-lidera-la-produccion-y-exportacion-mundial-de-quinua",
+      "vertical": "granos-andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "El trigo de Chicago pierde once centavos en una rueda y corta el rebote de fin de julio",
+      "resumen": "El contrato septiembre cerró el 6 de agosto de 2026 en 6,31¼ dólares por bushel, once centavos por debajo del día previo, por venta de fondos y técnica. La soja septiembre subió 3½ centavos hasta 11,60 y el maíz septiembre 2¼ hasta 4,39.",
+      "fuente": "CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-6-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent salta casi 4% en una rueda y recupera los 82 dólares",
+      "resumen": "El crudo de referencia cerró el 6 de agosto de 2026 en 82,49 dólares por barril, 3,8% por encima del cierre previo de 79,45. Es el mayor avance diario desde la caída que siguió al acuerdo interino sobre la navegación por el estrecho de Ormuz.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "La NOAA mantiene 81% de probabilidad de un El Niño muy fuerte entre octubre y diciembre",
+      "resumen": "El aviso vigente del Climate Prediction Center, emitido el 9 de julio de 2026, asigna 97% de probabilidad a que el episodio persista hasta principios de 2027 y 81% a que alcance categoría de muy fuerte en el trimestre octubre-diciembre. Ese trimestre coincide con el monzón tardío en la India y con el desarrollo de la caña en Tailandia.",
+      "fuente": "NOAA / Climate Prediction Center",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El cacao pierde 1,8% y se aleja del salto que provocó el recorte de Ghana",
+      "resumen": "El contrato de Nueva York cerró el 6 de agosto de 2026 en 5.776 dólares por tonelada, 1,8% por debajo del día anterior. El mercado devuelve buena parte del avance de comienzos de mes, cuando el Cocobod proyectó una cosecha ghanesa de 450.000 a 550.000 toneladas en 2026/27 frente a 750.000 en el ciclo previo.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El arábica cede a 3,06 dólares por libra y encadena su segunda rueda en baja",
+      "resumen": "El contrato septiembre cerró el 6 de agosto de 2026 en 306,10 centavos por libra, 1,6% por debajo del cierre previo. La presión bajista convive con inventarios certificados de ICE que terminaron julio en 264.179 sacos, el nivel más bajo desde enero de 2024.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El maíz Matba se estanca en 189 dólares mientras la soja argentina suma 1,50",
+      "resumen": "El informe diario de la SAGyP del 6 de agosto de 2026 registra la posición septiembre de soja en 344,50 dólares por tonelada (+1,50) y la de maíz en 189,00 (−0,10). En el físico, el monitor Sio-Granos al 5 de agosto ubica la soja fábrica en Rosario Norte en 506.972 pesos por tonelada promedio.",
+      "fuente": "Matba-Rofex vía Informe Diario del Mercado de Granos, SAGyP",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El flete de contenedores rebota 1% y el granel seco corta cinco ruedas de alza",
+      "resumen": "El World Container Index de Drewry evaluado el 6 de agosto de 2026 subió 1% hasta 4.297 dólares por contenedor de 40 pies, empujado por el Transpacífico: Shanghái-Nueva York avanzó 4% hasta 7.893 dólares. El Baltic Dry cedió 0,2% hasta 3.057 puntos el mismo día.",
+      "fuente": "Drewry World Container Index y Baltic Exchange vía TradingEconomics",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Bolivia encara la cosecha de invierno sobre unas 950.000 hectáreas con el diésel como cuello de botella",
+      "resumen": "ANAPO señaló que la campaña de invierno de Santa Cruz llega a la cosecha con alrededor de 950.000 hectáreas de sorgo, maíz, trigo y girasol, y con el sorgo como principal cultivo por encima de 500.000 hectáreas proyectadas. La asociación cifra el requerimiento del sector entre 2,6 y 3 millones de litros de diésel por día.",
+      "fuente": "ANAPO, vía Opinión y La Razón",
+      "url": "https://larazon.bo/economia-y-empresa/2026/08/02/anapo-preve-buena-cosecha-de-girasol-pero-la-falta-de-diesel-la-amenaza/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "China vuelve a aparecer en las ventas semanales de soja estadounidense de campaña nueva",
+      "resumen": "En la semana al 30 de julio de 2026 las ventas de exportación de soja sumaron 902.200 toneladas (33,1 millones de bushels), con destinos no declarados por 529.000 toneladas y China por 200.000. El maíz cayó a 116.700 toneladas, 68% menos que la semana previa, con cancelaciones de destinos no declarados por 256.400.",
+      "fuente": "USDA — Foreign Agricultural Service, vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/news/new-crop-corn-soybean-export-sales-solid-2/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    }
+  ]
+}

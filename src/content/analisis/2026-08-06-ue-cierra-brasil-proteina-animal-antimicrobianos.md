@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: proteina-animal
 pais: BR
 score: 8.5
-destacado: true
+destacado: false
 lectura: "Para esta casa el error de lectura más común de estos días es medir la medida europea en toneladas. Vista así, parece menor: la Unión Europea compró 368,1 mil toneladas de carnes brasileñas en 2025, una fracción de lo que Brasil embarca al mundo. Pero el comercio de proteína no se decide en el promedio, se decide en la cola de la distribución de precios, y esa cola está en Europa. El dato del Imea es el que ordena todo el análisis: en el primer semestre de 2026 la Unión Europea pagó 6.390 dólares por tonelada de carne bovina de Mato Grosso y China 4.745, con China llevándose igual el 55,2% del volumen. Es decir, el destino que se cierra no es el que sostiene la escala industrial, es el que sostiene el margen y define el estándar. Lo segundo que la mesa mira es quién quedó adentro. Argentina figura con habilitación amplia, Uruguay amplió a acuicultura, Paraguay quedó en porcino y equino, Perú en porcino y moluscos. Para el resto de la cuenca sudamericana esto no es una noticia sobre Brasil: es una reasignación de un cupo de valor que quedó, por cuatro semanas, sin su principal proveedor. Y la tercera lectura, la incómoda, es para Bolivia: el país no aparece en la lista. No es un problema de competitividad ni de precio, es un problema de registro — y los registros se tramitan antes de que se abra la ventana, no cuando ya está abierta."
 cifras:
   - label: "Fecha de aplicación del Reglamento de Ejecución (UE) 2026/1189"
