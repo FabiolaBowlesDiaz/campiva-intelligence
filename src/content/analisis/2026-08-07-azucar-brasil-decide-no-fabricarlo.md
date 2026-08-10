@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: BR
 score: 8.1
-destacado: true
+destacado: false
 lectura: "Hace tres semanas, el 17 de julio de 2026, esta casa escribió que el azúcar estaba en sobreoferta y que el valor de la caña estaba migrando del alimento a la energía. La primera mitad de esa frase envejeció rápido; la segunda es exactamente lo que está moviendo el precio hoy. Y esa asimetría es el punto: el mercado del azúcar dejó de ser un problema de tonelaje de caña para volverse un problema de asignación. Brasil molió menos caña en junio —69,79 millones de toneladas, 14,5% menos que un año atrás— pero la caída de azúcar (−12,38% acumulado) convive con un salto de etanol de más de veinte por ciento. Eso no es clima: es una planta industrial eligiendo producto todos los días según el precio relativo, con la mezcla obligatoria en 32% y el hidratado en su mejor posición competitiva frente a la gasolina desde 2018. Para el que compra o vende azúcar, la consecuencia práctica es que el indicador adelantado ya no es la proyección de cosecha sino el margen del etanol, y el margen del etanol se lee en el precio del crudo y en la política de mezcla brasileña, no en el mapa de lluvias. Y encima de esa asignación se le suma un riesgo que todavía no está en el precio: el trimestre octubre-diciembre, con 81% de probabilidad de un El Niño muy fuerte según la NOAA, es el trimestre que define India y Tailandia. Esta casa no compraría la historia del déficit todavía —hay demasiadas proyecciones sueltas y ninguna cerrada—, pero sí trataría el rango de 14,40 a 14,60 centavos como un piso que necesitó una explicación nueva para romperse, y ya la tuvo."
 cifras:
   - label: "Producción acumulada del Centro-Sur brasileño hasta el 1 de julio de 2026, zafra 2026/27"

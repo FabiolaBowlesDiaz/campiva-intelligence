@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-08-10",
+  "items": [
+    {
+      "titular": "Malasia produce 9,4% más aceite de palma, exporta 14,5% más y aun así acumula stock",
+      "resumen": "El informe mensual que la MPOB publicó el 10 de agosto de 2026 muestra existencias de 2,63 millones de toneladas en julio (+3,32%, el nivel más alto en cinco meses), con producción de aceite crudo en 1,79 millones de toneladas (+9,41%) y exportaciones en 1,39 millones (+14,50%). El stock de aceite crudo saltó 7,24% hasta 1,43 millones.",
+      "fuente": "Malaysian Palm Oil Board (MPOB), vía Malaysian Palm Oil Council",
+      "url": "https://www.mpoc.org.my/malaysias-palm-oil-stocks-rise-in-july-despite-14-5pc-jump-in-exports/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "La exportación malaya de biodiésel de palma se multiplica por seis en un mes",
+      "resumen": "Dentro del mismo informe de la MPOB del 10 de agosto de 2026, los envíos de biodiésel de palma subieron 496,77% hasta 28.745 toneladas en julio. Es la lectura más directa del arranque del mandato indonesio B50 y de la mejora del margen energético frente al alimentario.",
+      "fuente": "Malaysian Palm Oil Board (MPOB), vía Malaysian Palm Oil Council",
+      "url": "https://www.mpoc.org.my/malaysias-palm-oil-stocks-rise-in-july-despite-14-5pc-jump-in-exports/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "India compra 1,49 millones de toneladas de aceites comestibles en julio, máximo de diez meses",
+      "resumen": "Las importaciones del mayor comprador mundial subieron 34% respecto de junio: palma 733.000 toneladas (+50%, máximo de cinco meses), aceite de soja 501.000 (+32%, máximo de siete meses) y girasol 253.000 (+4%). Los refinadores reponen inventario antes de la temporada festiva que va de agosto a noviembre.",
+      "fuente": "Operadores del mercado indio, vía Reuters / Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/08/04/india-s-edible-oil-imports-hit-10-month-peak-in-july-on-higher-palm-buying-say-dealers",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Estados Unidos destruyó 23.000 empleos en julio y el dólar quedó en mínimo de dos meses",
+      "resumen": "El dato publicado el 7 de agosto de 2026 mostró una caída de 23.000 nóminas no agrícolas frente a expectativas de +80.000, con revisión a la baja de 103.000 puestos en mayo y junio y desempleo en 4,1%. El índice dólar cerró la rueda en 99,54 puntos, tras cerrar la semana con una baja de 0,4%.",
+      "fuente": "Bureau of Labor Statistics, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/non-farm-payrolls",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El USDA publica el miércoles su primer rinde de maíz y soja medido a campo",
+      "resumen": "El informe de oferta y demanda del 12 de agosto de 2026 trae la primera estimación de rendimiento basada en encuesta a productores, no en tendencia. La corredora StoneX ya proyectó una cosecha estadounidense de maíz de 16.160 millones de bushels, por encima de lo que sostiene el organismo oficial.",
+      "fuente": "USDA — Office of the Chief Economist (calendario WASDE); StoneX vía TradingEconomics",
+      "url": "https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El azúcar salta 5,7% en una sola rueda y se va a máximos desde octubre de 2025",
+      "resumen": "El contrato crudo #11 de ICE cerró el 7 de agosto de 2026 en 16,45 centavos por libra, 5,7% arriba del cierre previo de 15,57. En seis ruedas acumula 14% desde el mínimo de 14,43 del 30 de julio, mientras el mercado reevalúa el reparto brasileño entre azúcar y etanol.",
+      "fuente": "ICE vía TradingEconomics; serie propia de Campiva Intelligence",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El Brent vuelve sobre los 85 dólares con el estrecho de Ormuz todavía sin acuerdo",
+      "resumen": "El crudo de referencia cerró el 7 de agosto de 2026 en 83,55 dólares por barril (+1,3%) y operaba en 85,18 el 10 de agosto (+1,95%), ante la falta de definición sobre la reapertura plena del paso marítimo. Para el agro el canal relevante es el costo de fertilizante y flete, no solo el biocombustible.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El granel seco sigue 50% arriba en un año: el Baltic Dry cierra en 3.089 puntos",
+      "resumen": "El índice de fletes de carga seca subió 1,05% el 7 de agosto de 2026 hasta 3.089 puntos, con un alza de 7,59% en el mes y de 50,61% en la comparación interanual. Es el costo que carga el exportador de grano a granel, el mismo que el contenedor no refleja.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "Perú inspecciona el algodón de Santa Cruz y Bolivia mira un destino nuevo para su fibra",
+      "resumen": "Entre el 3 y el 6 de agosto de 2026 una misión técnica del Senasa peruano recorrió los municipios algodoneros de Cotoca y Pailón, desmotadoras y el laboratorio de diagnóstico vegetal, dentro del análisis de riesgo de plagas por el picudo (Anthonomus grandis). El resultado define el protocolo fitosanitario que habilitaría el comercio de fibra.",
+      "fuente": "Senasag Bolivia y Senasa Perú, vía Agrolatam",
+      "url": "https://www.agrolatam.com/agricultura-latam/bolivia-exportacion-fibra-algodon-peru-inspeccion-fitosanitaria/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El café arábica recupera 3,2% y vuelve sobre los 3,15 dólares por libra",
+      "resumen": "El contrato de ICE cerró el 7 de agosto de 2026 en 315,90 centavos por libra frente a 306 del cierre anterior. El movimiento llega con la cosecha brasileña ya avanzada y con la campaña exportadora andina entrando en su tramo de mayor volumen.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El aceite de soja de Chicago sube y la harina cede: el crush se vuelve a partir",
+      "resumen": "En la rueda del 7 de agosto de 2026 el aceite de soja de posición septiembre cerró en 68,24 centavos por libra, 50 puntos arriba, mientras la harina bajó 2,70 dólares hasta 308,90 por tonelada corta y el poroto cedió un centavo hasta 11,59 dólares por bushel. La divergencia dentro del crush vuelve a marcar dónde está el motor.",
+      "fuente": "CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-7-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "Argentina apunta a tres millones de hectáreas de girasol, récord absoluto",
+      "resumen": "La intención de siembra 2026/27 llega a 3 millones de hectáreas, 5,3% más que las 2,85 millones del ciclo previo y 33,3% por encima del promedio de las últimas cinco campañas. El aceite argentino FOB se negocia en torno a 1.314 dólares por tonelada, 15% arriba interanual.",
+      "fuente": "Bolsa de Cereales, vía El Litoral / Agrositio",
+      "url": "https://www.ellitoral.com/campolitoral/siembra-record-girasol-202627-bolsa-cereales-nea-clima-nino-sur-bonaerense-aceite-girasol-biocombustibles-exportaciones-maiz-soja_0_j6HMrGPm8X.html",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El físico argentino cierra la semana plano: soja Matba en 344,10 y maíz en 189 dólares",
+      "resumen": "El Informe Diario de la SAGyP del 7 de agosto de 2026 registra la posición septiembre de soja en 344,10 dólares por tonelada (−0,40) y la de maíz en 189,00 sin variación, con el trigo diciembre en 195,20 (+0,20). Chicago se movió más que el mercado local en la misma rueda.",
+      "fuente": "Matba-Rofex vía Informe Diario del Mercado de Granos, SAGyP Argentina",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 6.8
+    }
+  ]
+}
