@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-08-11",
+  "items": [
+    {
+      "titular": "El almacén certificado de arábica se vacía: 251.417 sacos, un tercio de los de hace un año",
+      "resumen": "Los inventarios certificados de ICE cayeron a 251.417 sacos el 6 de agosto de 2026, mínimo de dos años y medio, frente a 754.516 sacos en la misma fecha de 2025. La semana cerrada el 31 de julio había marcado el mayor drenaje semanal de la serie reciente: 47.138 sacos en cinco ruedas.",
+      "fuente": "ICE Futures US, vía TradingEconomics y Cals Coffee Weekly Report",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "Perú embarcó el 57% de su café del año en dos meses, justo cuando su precio tocó el piso",
+      "resumen": "Los registros preliminares de SUNAT dan US$ 476,3 millones FOB y 80.331 toneladas entre enero y julio de 2026, con junio y julio concentrando 45.576 toneladas (57% del volumen). El precio implícito bajó de 7,27 dólares por kilo en enero a 5,03 en julio, una caída de 31% en siete meses.",
+      "fuente": "SUNAT (registros preliminares), vía FreshFruit",
+      "url": "https://freshfruit.pe/2026/08/07/el-frio-que-no-llego-el-nino-genera-heladas-en-brasil-y-que-significa-para-el-cafe-peruano/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "La mayor cooperativa cafetera de Brasil va nueve puntos por detrás del año pasado",
+      "resumen": "Cooxupé informó que sus productores llevaban 58,3% de la cosecha 2026 recolectada al 24 de julio de 2026, contra 67,1% en la misma fecha del año anterior, tras subir desde 47,3% en la semana previa. Las lluvias de junio y julio en Minas Gerais y São Paulo demoraron la recolección y el secado.",
+      "fuente": "Cooxupé, vía Reuters y Rockmart Coffee Brokerage",
+      "url": "https://rockmartholdings.com/brazil-coffee-market-report-week-32-2026-harvest-drags-stocks-crumble-to-a-two-year-low/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "Brasil despachó 2,89 millones de sacos de café en julio pese al atraso de la cosecha",
+      "resumen": "Los embarques de julio de 2026 sumaron 2.891.298 sacos: 1.752.575 de arábica, 840.939 de robusta y 297.784 de solubles. En paralelo, los certificados de origen emitidos llegaron a 3.307.472 sacos, señal de que hay volumen comprometido por delante del que efectivamente cruzó el puerto.",
+      "fuente": "Cals Coffee Weekly Report sobre datos de embarque brasileños",
+      "url": "https://www.calscoffee.com/coffee-reports/weekly-coffee-report-august-3-2026/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El cacao pierde 3,4% y devuelve buena parte de lo que ganó con el recorte ghanés",
+      "resumen": "El contrato de Nueva York cotizaba en 5.620,87 dólares por tonelada la mañana del 11 de agosto de 2026, 3,44% por debajo del cierre previo de 5.821. El mercado convive con dos señales opuestas: el recorte proyectado de Ghana y unos inventarios certificados de ICE que en la última semana de julio tocaron máximo de dos años con 3.375.119 sacos.",
+      "fuente": "ICE vía TradingEconomics; inventarios vía Barchart",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El Brent encadena cinco ruedas al alza con la reserva estratégica de EE.UU. en mínimo de cuatro décadas",
+      "resumen": "El crudo de referencia cerró el 10 de agosto de 2026 en 87,72 dólares por barril, 5% arriba del cierre del 7 de agosto (83,55). El sostén viene de la falta de definición sobre el estrecho de Ormuz y de un inventario en la reserva estratégica estadounidense en su nivel más bajo en más de cuarenta años.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Anapo dice que la cosecha de invierno de 950.000 hectáreas depende del abastecimiento de diésel",
+      "resumen": "La asociación de productores de oleaginosas y trigo informó a fines de julio de 2026 que la entrega de combustible al sector está por debajo de lo acordado y que el sector requiere entre 2,6 y 3 millones de litros diarios para levantar girasol, maíz, sorgo y trigo. Santa Cruz aporta más del 70% de la producción nacional de granos.",
+      "fuente": "Anapo, vía El Día y Opinión",
+      "url": "https://www.eldia.com.bo/2026-07-29/pais/anapo-alerta-que-la-falta-de-diesel-pone-en-riesgo-la-cosecha-de-950-mil-hectareas-en-campana-de-invierno.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El aceite de soja vuelve a despegarse de la harina en la rueda de Chicago",
+      "resumen": "En el cierre del 10 de agosto de 2026 el aceite de soja de posición septiembre subió 129 puntos hasta 69,53 centavos por libra mientras la harina cedió 3,40 dólares hasta 305,50 por tonelada corta. El poroto cerró en 11,61¾ dólares por bushel, 2¾ centavos arriba: el motor sigue del lado energético del crush.",
+      "fuente": "CBOT vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-10-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Perú suma US$ 5.418 millones de agroexportación en el semestre, con crecimiento de un dígito",
+      "resumen": "Entre enero y junio de 2026 los envíos agrarios peruanos llegaron a 5.418 millones de dólares, 3,3% por encima del mismo período de 2025, con destino a 133 países. La tasa marca una desaceleración frente a los años previos, atribuida a precios internacionales más bajos y a menor disponibilidad de algunos cultivos.",
+      "fuente": "Diario Oficial El Peruano (editorial del 10 de agosto de 2026)",
+      "url": "https://elperuano.pe/noticia/302137-proteger-lo-avanzado",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El Niño mantiene 81% de probabilidad de llegar a muy fuerte en el trimestre que define la cosecha",
+      "resumen": "El aviso vigente del Climate Prediction Center, emitido el 9 de julio de 2026, asigna 97% de probabilidad a que el episodio persista hasta principios de 2027 y 81% a que alcance categoría de muy fuerte entre octubre y diciembre, con el índice Niño-3.4 en +1,2 °C. La próxima actualización mensual está prevista para el 13 de agosto de 2026.",
+      "fuente": "NOAA — Climate Prediction Center, ENSO Diagnostic Discussion",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El granel seco cede tras tocar máximo de nueve semanas",
+      "resumen": "El Baltic Dry Index cerró el 10 de agosto de 2026 en 3.083 puntos, 0,19% por debajo del cierre del viernes previo, que había sido el más alto en nueve semanas. Sigue más de 50% arriba en la comparación interanual, el costo que carga el exportador de grano a granel.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.9
+    },
+    {
+      "titular": "El físico argentino cede: soja Matba en 342,40 y maíz en 186,20 dólares por tonelada",
+      "resumen": "El Informe Diario de la SAGyP del 10 de agosto de 2026 registra la posición septiembre de soja en 342,40 dólares por tonelada (−1,70) y la de maíz en 186,20 (−2,80), mientras Chicago subía en soja. El maíz local pierde 1,5% en una rueda, en la antesala del informe del USDA del 12 de agosto.",
+      "fuente": "Matba-Rofex vía Informe Diario del Mercado de Granos, SAGyP Argentina",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 6.8
+    }
+  ]
+}
