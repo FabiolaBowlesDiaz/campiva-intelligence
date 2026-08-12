@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-08-12",
+  "items": [
+    {
+      "titular": "El índice de contenedores sube 1% y el costo real sube por afuera: las navieras cobran recargo de combustible desde el 1 de agosto",
+      "resumen": "El Drewry World Container Index rebotó a 4.297 dólares por contenedor de 40 pies el 6 de agosto de 2026, primera suba tras tres semanas de baja. En paralelo, CMA CGM aplica desde el 1 de agosto un Emergency Fuel Surcharge de 150 dólares por TEU en carga seca y 165 en refrigerada sobre todos los tráficos de larga distancia, un cargo que no entra en el índice.",
+      "fuente": "Drewry World Container Index y CMA CGM, vía Container News",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "El transpacífico se despega: Shanghái-Nueva York a 7.893 dólares por FEU con congestión en puertos del sur de China",
+      "resumen": "En la evaluación del 6 de agosto de 2026, Shanghái-Nueva York subió 4% a 7.893 dólares por contenedor de 40 pies y Shanghái-Los Ángeles 3% a 5.894, mientras Shanghái-Génova cedía 2% a 5.506 y Shanghái-Róterdam quedaba plano en 4.653. Drewry atribuye el alza a aumentos generales de tarifa aplicados con éxito y a congestión portuaria en el centro y sur de China.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Anapo cifra en 950.000 hectáreas la cosecha de invierno expuesta por la falta de diésel",
+      "resumen": "La asociación sostiene que el sector requiere entre 2,6 y 3 millones de litros diarios de diésel y está recibiendo entre 50% y 60% del abastecimiento habitual, con un desfase de 10% en el avance de la cosecha de sorgo, maíz, trigo y girasol. En provincias cruceñas se reportan compras informales a Bs 14 y 15 por litro frente a Bs 9,80 del surtidor regulado.",
+      "fuente": "Anapo, vía Economy y La Razón",
+      "url": "https://larazon.bo/energias-negocios/2026/08/01/anapo-advierte-que-sin-diesel-esta-en-riesgo-la-cosecha-de-invierno/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Bolivia vuelve a contar su campo después de 13 años: 39 millones de dólares y 7.536 encuestadores entre septiembre y diciembre",
+      "resumen": "El Decreto Supremo 5658, del 17 de julio de 2026, declara de prioridad nacional el Censo Agropecuario 2026, financiado con el préstamo 5514/OC-BO del BID. El operativo cubrirá cerca de 1.056.798 unidades productivas con un cuestionario de 170 preguntas, arrancará por Santa Cruz y Beni, y entregará resultados preliminares en junio de 2027 y finales en septiembre de 2027.",
+      "fuente": "Instituto Nacional de Estadística de Bolivia (Decreto Supremo 5658), vía eju.tv",
+      "url": "https://www.ine.gob.bo/index.php/decreto-supremo-no-5658-declara-de-prioridad-nacional-la-realizacion-del-censo-agropecuario-2026/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.5
+    },
+    {
+      "titular": "El WASDE de hoy trae el primer rinde por encuesta a productores y el mercado llega vendido",
+      "resumen": "El informe del USDA se publica el 12 de agosto de 2026 al mediodía de Nueva York. El promedio de las estimaciones privadas relevadas por Dow Jones ubica el rinde nacional de maíz en 182,5 bushels por acre, medio bushel debajo de julio, con producción apenas por debajo de 16.000 millones de bushels; la soja se ubicaría cerca de 4.500 millones. Ninguna cifra del informe está disponible al cierre de esta corrida.",
+      "fuente": "USDA y encuesta Dow Jones, vía DTN Progressive Farmer y Grassi Markets",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/08/10/august-wasde-take-another-look-crop",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "China sigue comprando soja estadounidense en la antesala del informe",
+      "resumen": "El USDA confirmó una venta privada de 132.000 toneladas de soja a China para entrega en la campaña 2026/27, después de cerca de un millón de toneladas la semana previa. El apoyo alcanzó apenas para limitar la baja: la soja de Chicago cerró el 11 de agosto en 423,11 dólares por tonelada, equivalentes a 11,52 dólares por bushel.",
+      "fuente": "USDA (ventas diarias) e Informe Diario SAGyP, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent hila seis ruedas al alza y cierra en 88,91 dólares pese a un salto de inventarios en Estados Unidos",
+      "resumen": "El crudo de referencia subió 0,46% el 11 de agosto de 2026 mientras el mercado evalúa señales cruzadas sobre un acuerdo entre Estados Unidos e Irán por el Estrecho de Ormuz. En sentido contrario, los inventarios estadounidenses de crudo aumentaron 9,1 millones de barriles, el mayor incremento semanal desde febrero.",
+      "fuente": "ICE Brent, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El aceite de soja de Chicago cae 1,4% en la misma rueda en que sube el crudo",
+      "resumen": "La posición septiembre cerró el 11 de agosto de 2026 en 1.511,69 dólares por tonelada, 21,16 abajo, equivalentes a 68,6 centavos por libra. La harina cedió apenas 0,55 dólares a 336,20. Es la segunda vez en tres semanas que el complejo de aceites no acompaña al petróleo, en línea con el techo de oferta que marcó el informe MPOB del 10 de agosto.",
+      "fuente": "Chicago, vía Informe Diario del Mercado de Granos de la SAGyP argentina",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El azúcar toca su mayor nivel desde mayo de 2025 y ahora el riesgo viene de India",
+      "resumen": "El contrato #11 cerró el 11 de agosto de 2026 en 16,73 centavos por libra, 16% arriba del mínimo de 14,43 del 30 de julio. Al alza del crudo se suma que India evalúa restringir la producción de etanol a partir de caña para volcar más caña a azúcar, en plena demanda de temporada de festivales.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El trigo de Chicago pierde 1,6% cuando se destraba la prima de Ormuz",
+      "resumen": "La posición septiembre cerró el 11 de agosto de 2026 en 231,58 dólares por tonelada, 3,77 abajo, equivalentes a 6,30 dólares por bushel. La SAGyP atribuye la baja al avance de las negociaciones para restablecer embarques por el Estrecho, a la caída de precios en Rusia y al uso de rutas logísticas alternativas.",
+      "fuente": "Informe Diario del Mercado de Granos de la SAGyP argentina",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El maíz argentino se desacopla: Matba sube 1,1% mientras Chicago baja",
+      "resumen": "La posición septiembre de Matba-Rofex cerró el 11 de agosto de 2026 en 188,30 dólares por tonelada, 2,10 arriba, contra un Chicago que cedió 0,59 a 171,94. La soja local también se sostuvo mejor: 341,80 dólares por tonelada, apenas 0,60 abajo.",
+      "fuente": "Matba-Rofex, vía Informe Diario del Mercado de Granos de la SAGyP argentina",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El granel seco corrige: el Baltic Dry cae a 3.046 puntos tras tocar su mejor nivel del año",
+      "resumen": "El índice bajó 1,2% el 11 de agosto de 2026 y encadena dos ruedas en baja desde los 3.089 puntos del 7 de agosto. En el capesize, los fletes de la costa este sudamericana a China se pactaban entre 31,50 y 33 dólares por tonelada al cierre de la semana anterior.",
+      "fuente": "Baltic Exchange, vía TradingEconomics y Handybulk",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "LATAM",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Brasil vende gasolina E32 desde el 1 de agosto con vigencia inicial de 180 días",
+      "resumen": "La resolución del Consejo Nacional de Política Energética elevó la mezcla obligatoria de etanol anhidro en la gasolina de 30% a 32%. El gobierno estima que la medida evita importar cerca de 900 millones de litros de gasolina al año y monitoreará impactos en abastecimiento y precios durante el período de prueba.",
+      "fuente": "Consejo Nacional de Política Energética de Brasil, vía Agência Gov y Fecombustíveis",
+      "url": "https://agenciagov.ebc.com.br/noticias/202607/resolucao-que-institui-o-e32-e-publicada-e-nova-mistura-passa-a-valer-neste-sabado",
+      "vertical": "energia",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    }
+  ]
+}
