@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-08-13",
+  "items": [
+    {
+      "titular": "El USDA recorta el rinde de maíz en su primera encuesta a productores y los stocks finales caen 137 millones de bushels",
+      "resumen": "El WASDE del 12 de agosto de 2026 fija el rinde estadounidense 2026/27 en 180,7 bushels por acre, 2,3 menos que en julio, con producción de 16,0 mil millones de bushels (segunda mayor de la historia). Con exportaciones elevadas en 75 millones de bushels a 3,3 mil millones, las existencias finales bajan a 1,7 mil millones y el precio de temporada sube 0,10 dólares a 4,50 por bushel.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "La molienda de soja de Estados Unidos sube a 2,78 mil millones de bushels y la exportación de harina llega a 22,7 millones de toneladas cortas",
+      "resumen": "El mismo informe eleva la molienda 2026/27 en 30 millones de bushels por márgenes robustos y mayor demanda de harina y aceite, y sube la exportación de harina de soja en 0,7 millones de toneladas cortas a 22,7 millones, citando demanda de Filipinas, México, Tailandia, Turquía, la Unión Europea y Ecuador. Las existencias finales de poroto suben 10 millones de bushels a 320 millones.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "Ucrania ataca dos terminales graneleras de Novorossiysk y el trigo de Chicago sube 3,6% en la rueda",
+      "resumen": "Las dos terminales suspendieron operaciones tras los ataques con drones del 12 de agosto de 2026 en el principal puerto exportador de trigo ruso, con una capacidad de embarque de 8,5 millones de toneladas anuales en la planta de United Grain Co. Rusia es el mayor exportador mundial de trigo y concentra sus embarques en el Mar Negro.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina); reportes de agencia",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El trigo estadounidense cierra la campaña con existencias 22% menores que el año pasado y el USDA le sube el precio 20 centavos",
+      "resumen": "El WASDE de agosto recorta la producción 2026/27 a 1.531 millones de bushels y las existencias finales a 717 millones, 22% por debajo del ciclo previo, con el precio de temporada elevado a 6,20 dólares por bushel. En el plano mundial, en cambio, los stocks suben a 273,3 millones de toneladas y el comercio baja a 212,7 millones por menores embarques de Rusia y Ucrania.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.6
+    },
+    {
+      "titular": "Brasil embarca 519,2 mil toneladas de pollo en julio y factura 991,2 millones de dólares",
+      "resumen": "Los envíos crecieron 29,9% interanual en volumen y 34,3% en ingreso según la ABPA, con China como principal destino (70,5 mil toneladas) en un mes que el año pasado estaba suspendido por influenza aviar. El acumulado enero-julio llega a 3,455 millones de toneladas, 15,2% más que en 2025.",
+      "fuente": "ABPA — Associação Brasileira de Proteína Animal",
+      "url": "https://abpa-br.org/noticias/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.8
+    },
+    {
+      "titular": "El cerdo brasileño exporta más volumen y cobra menos: 131,5 mil toneladas en julio con ingreso 5,6% abajo",
+      "resumen": "El volumen embarcado creció 3,7% interanual mientras la facturación retrocedió 5,6%, según los datos de la ABPA difundidos el 11 de agosto de 2026. La combinación de más toneladas con menos ingreso confirma la caída del precio medio del producto brasileño en el mercado internacional.",
+      "fuente": "ABPA, vía Agrimidia",
+      "url": "https://agrimidia.com.br/avicultura-industrial/2026/08/11/exportacao-de-frango-cresce-299-em-julho-e-receita-suina-recua-56/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "El maíz argentino sube menos que Chicago y su prima sobre el mercado estadounidense se comprime a la mitad",
+      "resumen": "Tras el WASDE, el maíz de Chicago posición septiembre subió de 171,94 a 179,91 dólares por tonelada (4,6%) mientras el Matba-Rofex pasó de 188,30 a 190,90 (1,4%). La brecha entre ambos se achicó de 16,36 a 10,99 dólares por tonelada en una sola rueda (cálculo Campiva sobre el informe de la SAGyP).",
+      "fuente": "Matba-Rofex y Chicago vía Informe Diario SAGyP; cálculo Campiva Intelligence",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.5
+    },
+    {
+      "titular": "El USDA recorta la producción estadounidense de sorgo en 84 millones de bushels con un rinde 13,9 bushels menor",
+      "resumen": "La producción 2026/27 baja a 296 millones de bushels con un rinde de 55,4 bushels por acre, muy por debajo de la proyección de julio, y una superficie cosechada 0,1 millones de acres menor. El sorgo es insumo directo de las raciones que compiten con el maíz en el alimento balanceado.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El WASDE recorta producción y consumo de arroz de Perú en su balance mundial de agosto",
+      "resumen": "En el balance 2026/27 la oferta mundial sube a 735,4 millones de toneladas porque el aumento de la producción estadounidense más que compensa una reducción para Perú, país que también ve recortado su consumo. El comercio global queda sin cambios en 62,8 millones de toneladas.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "cereales",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "La Unión Europea pierde maíz por calor y el USDA le sube las importaciones",
+      "resumen": "El informe de agosto reduce la producción europea de maíz por calor extremo y sequía en las principales zonas productoras, con menor superficie sembrada, y eleva las importaciones del bloque mientras recorta las de China y Turquía. Las existencias mundiales de maíz quedan en 274,7 millones de toneladas, 0,6 millones menos que en julio.",
+      "fuente": "USDA — World Agricultural Supply and Demand Estimates (WASDE-674)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0826.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El Baltic Dry cae 3,5% y toca su nivel más bajo desde el 4 de agosto",
+      "resumen": "El índice de fletes de granel seco cerró el 12 de agosto de 2026 en 2.939 puntos, con una baja de 107 puntos y tres ruedas consecutivas en retroceso. Pese a la corrección, acumula un alza interanual de 45,1%.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    }
+  ]
+}
