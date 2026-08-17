@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-08-17",
+  "items": [
+    {
+      "titular": "NOPA marca un récord de molienda de soja para un mes de julio: 182,9 millones de bushels con las plantas en temporada de mantenimiento",
+      "resumen": "Los procesadores estadounidenses molieron 182,9 millones de bushels en julio de 2026 según NOPA, 4,1% más que junio y 5,5% por encima del récord del año pasado, superando el consenso de 182,4 millones. Como NOPA cubre cerca del 95% de la capacidad instalada, la cifra implica una molienda nacional de unos 191 millones de bushels, por encima del ritmo que necesita el USDA.",
+      "fuente": "National Oilseed Processors Association (NOPA), vía Pro Farmer / AgWeb",
+      "url": "https://www.agweb.com/markets/pro-farmer-analysis/record-july-nopa-soybean-crush",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "El stock de aceite de soja de NOPA cae a un mínimo de siete meses pese a la molienda récord",
+      "resumen": "El inventario de aceite de soja de los miembros de NOPA cerró julio en 1.499 millones de libras, mínimo de siete meses, 123 millones por debajo de junio y 28 millones menos que un año atrás. La caída con molienda en máximos confirma que el aceite sale a la velocidad que entra, empujado por biodiésel y consumo alimentario.",
+      "fuente": "National Oilseed Processors Association (NOPA), vía Pro Farmer / AgWeb",
+      "url": "https://www.agweb.com/markets/pro-farmer-analysis/record-july-nopa-soybean-crush",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "China vuelve a comprar soja nueva de Estados Unidos: los operadores estatales suman cargamentos hacia el ciclo 2026/27",
+      "resumen": "El USDA reportó ventas de exportación de soja a China por 136.000 toneladas para 2026/27 y el mercado le atribuye a los operadores estatales chinos entre 14 y 16 cargamentos (cerca de 1 millón de toneladas) en las últimas ruedas. China compró más del 80% del total de ventas de soja de nueva campaña en la semana al 6 de agosto de 2026, apoyada en el marco que fija ~25 millones de toneladas anuales para 2026-2028.",
+      "fuente": "USDA Foreign Agricultural Service — Private Exporters Report; reportes de agencia",
+      "url": "https://www.fas.usda.gov/data/commodities/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Arranca el Pro Farmer Crop Tour 2026: cuatro días de muestreo a campo que ponen a prueba el rinde del USDA",
+      "resumen": "El recorrido anual de scouts por el cinturón maicero de Estados Unidos comenzó el 17 de agosto de 2026 y se extiende hasta el 20, con rutas este y oeste que confluyen en Rochester, Minnesota. El mercado espera contrastar las muestras a campo con el WASDE del 12 de agosto, que fijó el rinde de maíz en 180,7 bushels por acre y el de soja en 52,7; los resultados finales se difunden al cierre de la semana.",
+      "fuente": "Pro Farmer / AgWeb",
+      "url": "https://www.agweb.com/croptour",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "El girasol argentino apunta a una siembra récord de 3 millones de hectáreas para 2026/27",
+      "resumen": "La Bolsa de Cereales de Buenos Aires proyecta una intención de siembra de girasol de 3 millones de hectáreas, 5,3% más que el ciclo previo y el mayor registro histórico, 33,3% por encima del promedio de las últimas cinco campañas. Al último relevamiento la siembra alcanzaba el 4,4% del área prevista, con el sur bonaerense y La Pampa como zonas de mayor crecimiento.",
+      "fuente": "Bolsa de Cereales de Buenos Aires, vía El Litoral / Infobae",
+      "url": "https://www.infobae.com/revista-chacra/2026/07/31/el-girasol-apunta-a-un-nuevo-record-proyectan-3-millones-de-hectareas-para-la-campana-202627/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Anapo advierte que la falta de diésel pone en riesgo la cosecha de invierno de 950.000 hectáreas en Santa Cruz",
+      "resumen": "La Asociación de Productores de Oleaginosas y Trigo alertó que el sector requiere entre 2,6 y 3 millones de litros de diésel por día y que en los primeros días de agosto el abastecimiento llegó apenas al 40-50% de lo comprometido, con un desfase del 10% en la cosecha. Los productores compran en el mercado paralelo a Bs 14-15 por litro frente a los Bs 9,80 del precio regulado.",
+      "fuente": "Anapo, vía Economy.com.bo / El Día",
+      "url": "https://www.economy.com.bo/articulo/business/anapo-advierte-que-falta-diesel-amenaza-cosecha-950000-hectareas/20260811075609023537.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Perú importó 2,24 millones de toneladas de maíz amarillo duro en el primer semestre y Argentina abasteció el 98,9%",
+      "resumen": "Las compras externas de maíz amarillo duro de Perú llegaron a 2.243.216 toneladas entre enero y junio de 2026, 3,84% más que un año atrás, con Argentina aportando 2.218.791 toneladas (+8,15%). Perú importa más del 75% del maíz que consume, insumo central del alimento balanceado de su avicultura.",
+      "fuente": "Agraria.pe sobre datos de aduanas",
+      "url": "https://www.agraria.pe/noticias/importaciones-de-maiz-amarillo-duro-crecen-11-23-en-volumen--41256",
+      "vertical": "cereales",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "El maíz de Chicago cede 1,9% en la rueda del 13 de agosto por toma de ganancias tras el WASDE",
+      "resumen": "El maíz posición septiembre cerró a la baja tras el fuerte salto del día del informe del USDA, con la posición Chicago en 176,37 dólares por tonelada. La soja quedó prácticamente estable (428,44) y el trigo cerró dispar, sostenido por los ataques ucranianos a la infraestructura granaria rusa que mantienen la atención sobre los embarques del Mar Negro.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "La soja de Chicago rebota desde mínimos de varias semanas apoyada en la demanda china y el crush récord",
+      "resumen": "Los futuros de soja se movieron en torno a 11,7 dólares por bushel, recuperándose de mínimos de varias semanas, mientras la expectativa de una cosecha récord estadounidense compite con la demanda de exportación y el récord de molienda de NOPA. El USDA recortó el rinde de soja a 52,7 bushels por acre por calor y sequía, pero la mayor superficie sembrada llevó la producción a un récord de 4.519 millones de bushels.",
+      "fuente": "TradingEconomics; USDA",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    }
+  ]
+}
