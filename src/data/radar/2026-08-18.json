@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-08-18",
+  "items": [
+    {
+      "titular": "El CPC le pone 69% de probabilidad a un El Niño histórico en octubre-diciembre: superaría a cualquier evento desde 1950",
+      "resumen": "La discusión diagnóstica del Climate Prediction Center del 13 de agosto de 2026 mantiene el aviso de El Niño y eleva a más del 90% la probabilidad de un evento muy fuerte en el otoño-invierno boreal 2026-27, con un 69% de que sea un evento histórico que exceda la fuerza de cualquier El Niño registrado desde 1950. El índice Niño-3.4 de julio se ubicó en +1,4°C y sigue fortaleciéndose.",
+      "fuente": "NOAA / Climate Prediction Center — ENSO Diagnostic Discussion",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "El cacao de Nueva York rebota a US$ 6.069 y descuenta el riesgo de la próxima campaña de África Occidental, no la actual",
+      "resumen": "El cacao de Nueva York cerró el 17 de agosto de 2026 en 6.069 dólares por tonelada, un rebote de cerca del 19% desde los ~5.100 dólares de fines de julio, pese a que la oferta de la campaña en curso mejora. El mercado mira hacia adelante: la preocupación es la cosecha principal 2026/27 de Costa de Marfil (septiembre-febrero) y el efecto de un El Niño en fortalecimiento sobre las lluvias del oeste africano.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Los contadores de vainas marfileños ya vieron morir más del 20% de las cherelles: la cosecha 2026/27 se proyecta un 10% menor",
+      "resumen": "Contadores de vainas y exportadores citados por CNBC Africa el 10 de julio de 2026 proyectan la cosecha principal 2026/27 de Costa de Marfil en 1,35-1,45 millones de toneladas, frente a un estimado de 1,6 millones de la campaña actual. Entre mayo y junio murió más del 20% de las flores y cherelles por exceso de lluvia, con avance de la 'black pod', un hongo que prospera con humedad. El texto vincula el exceso de lluvia al patrón de El Niño.",
+      "fuente": "CNBC Africa (contadores de vainas y exportadores)",
+      "url": "https://www.cnbcafrica.com/2026/ivory-coast-2026-27-cocoa-crop-to-drop-more-than-10-amid-excess-rains-disease-counters-say",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "Los stocks certificados de café arábica de ICE tocan mínimo desde febrero de 2024 con la cosecha brasileña retrasada por lluvias",
+      "resumen": "El café arábica de ICE cerró el 17 de agosto de 2026 en 317,90 centavos por libra, sostenido por un inventario certificado en su nivel más bajo desde febrero de 2024 y por el retraso de la cosecha brasileña 2026/27, con nuevas lluvias en Sul de Minas y Paraná. El productor brasileño vende con cuentagotas y el mercado paga desfase de calendario más que escasez estructural.",
+      "fuente": "ICE, vía ADM Investor Services / TradingEconomics",
+      "url": "https://www.admis.com/coffee-rises-on-brazil-harvest-delays/",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El azúcar sigue el rebote de agosto y vuelve a la zona de 17 centavos por libra",
+      "resumen": "El azúcar #11 cerró el 17 de agosto de 2026 en 16,87 centavos por libra y en la rueda del 18 operaba en torno a 17,35 (+2,8%), extendiendo la recuperación desde el mínimo de 14,43 del 30 de julio. El sostén es la decisión de los ingenios del Centro-Sur brasileño de priorizar etanol sobre azúcar, con el hidratado competitivo frente a la gasolina.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Anapo califica de 'desolador' el panorama por falta de diésel mientras el Gobierno acuerda importar crudo con un privado",
+      "resumen": "La Asociación de Productores de Oleaginosas y Trigo advirtió el 16 de agosto de 2026 que el abastecimiento de diésel llegó apenas al 40-50% de lo comprometido, frente a una necesidad de 2,6 a 3 millones de litros por día para la cosecha de invierno y la siembra de verano en Santa Cruz. En paralelo, el Gobierno anunció el 15 de agosto un acuerdo con una empresa privada para importar crudo y producir diésel destinado a zonas agrícolas.",
+      "fuente": "Anapo / La Razón",
+      "url": "https://larazon.bo/economia-y-empresa/2026/08/16/anapo-ve-desolador-el-panorama-por-falta-de-diesel/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Chicago: la soja cierra firme por demanda china de cosecha nueva mientras el maíz corrige tras el salto del WASDE",
+      "resumen": "Según el Informe Diario de la SAGyP con cierre del 13 de agosto de 2026, la soja terminó levemente al alza sostenida por ventas de exportación y nuevas compras chinas de cosecha nueva (posición Chicago septiembre en 428,44 US$/t), mientras el maíz cedió 1,9% por toma de ganancias y pronósticos de lluvias en el Medio Oeste (176,37 US$/t). El trigo cerró dispar, atento a los ataques sobre la infraestructura granaria ucraniana.",
+      "fuente": "Informe Diario del Mercado de Granos — SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Drewry WCI sube 1% por segunda semana a US$ 4.339 por contenedor, empujado por el Transpacífico",
+      "resumen": "El World Container Index de Drewry subió 1% al 13 de agosto de 2026 hasta 4.339 dólares por contenedor de 40 pies, con Shanghái-Nueva York +10% a 8.706 dólares y Shanghái-Los Ángeles +6% a 6.244. En sentido inverso, Asia-Europa cedió: Shanghái-Génova −8% y Shanghái-Róterdam −5%. El granel seco se mantuvo estable con el Baltic Dry en 2.878 puntos.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Brent se sostiene cerca de US$ 91 tras el rebote de agosto",
+      "resumen": "El Brent cerró el 17 de agosto de 2026 en 90,87 dólares por barril y operaba estable en la rueda del 18, consolidando la recuperación desde los 79 dólares de comienzos de mes. El crudo firme presiona el costo de la ración agrícola por la vía del flete y el fertilizante más que por el biodiésel.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-08-17",
+  "actualizado": "2026-08-18",
   "items": [
     {
       "id": "soya-cbot",
@@ -45,12 +45,12 @@
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "3,20",
+      "valor": "3,18",
       "unidad": "US$/lb",
-      "cambio": 1.3,
+      "cambio": -0.6,
       "cambioLabel": "diaria",
       "fuente": "ICE (sep-26) vía TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         3.02,
@@ -77,18 +77,19 @@
         3.16,
         3.14,
         3.16,
-        3.2
+        3.2,
+        3.18
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "16,42",
+      "valor": "16,87",
       "unidad": "¢/lb",
-      "cambio": -1.9,
+      "cambio": 2.7,
       "cambioLabel": "diaria",
       "fuente": "ICE vía TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         14.81,
@@ -115,18 +116,19 @@
         16.45,
         16.47,
         16.73,
-        16.42
+        16.42,
+        16.87
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.725",
+      "valor": "6.069",
       "unidad": "US$/t",
-      "cambio": 1.3,
+      "cambio": 6.0,
       "cambioLabel": "diaria",
       "fuente": "ICE (sep-26) vía TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         5017,
@@ -153,7 +155,8 @@
         5782.0,
         5821.0,
         5654.0,
-        5725.0
+        5725.0,
+        6069.0
       ]
     },
     {
@@ -239,12 +242,12 @@
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "88,98",
+      "valor": "90,87",
       "unidad": "US$/bbl",
-      "cambio": 0.1,
+      "cambio": 2.1,
       "cambioLabel": "diaria",
       "fuente": "TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         72.1,
@@ -271,7 +274,8 @@
         83.55,
         87.72,
         88.91,
-        88.98
+        88.98,
+        90.87
       ]
     },
     {
@@ -353,12 +357,12 @@
     {
       "id": "drewry-wci",
       "nombre": "Drewry WCI",
-      "valor": "4.297",
+      "valor": "4.339",
       "unidad": "US$/FEU",
       "cambio": 1.0,
       "cambioLabel": "semanal",
       "fuente": "Drewry World Container Index",
-      "asOf": "2026-08-06",
+      "asOf": "2026-08-13",
       "verificado": true,
       "serie": [
         4530,
@@ -366,18 +370,19 @@
         4547,
         4374,
         4255,
-        4297
+        4297,
+        4339
       ]
     },
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.939",
+      "valor": "2.878",
       "unidad": "pts",
-      "cambio": -3.5,
+      "cambio": -2.1,
       "cambioLabel": "diaria",
       "fuente": "Baltic Exchange vía TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         2717,
@@ -402,18 +407,19 @@
         3089.0,
         3083.0,
         3046.0,
-        2939.0
+        2939.0,
+        2878.0
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "100,02",
+      "valor": "99,64",
       "unidad": "pts",
-      "cambio": 0.2,
+      "cambio": -0.4,
       "cambioLabel": "diaria",
       "fuente": "TradingEconomics",
-      "asOf": "2026-08-12",
+      "asOf": "2026-08-17",
       "verificado": true,
       "serie": [
         100.86,
@@ -437,7 +443,8 @@
         99.54,
         99.81,
         99.83,
-        100.02
+        100.02,
+        99.64
       ]
     },
     {
@@ -447,8 +454,8 @@
       "unidad": "",
       "cambio": 0,
       "cambioLabel": "estado",
-      "fuente": "NOAA/CPC (advisory)",
-      "asOf": "2026-07-09",
+      "fuente": "NOAA/CPC (advisory) — 69% evento histórico oct-dic",
+      "asOf": "2026-08-13",
       "verificado": true,
       "serie": []
     }
