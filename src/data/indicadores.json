@@ -1,16 +1,16 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-08-18",
+  "actualizado": "2026-08-19",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "11,66",
+      "valor": "12,01",
       "unidad": "US$/bu",
-      "cambio": 0.1,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
       "fuente": "Chicago (sep-26) vía Informe Diario SAGyP",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         11.32,
@@ -39,18 +39,19 @@
         11.62,
         11.52,
         11.65,
-        11.66
+        11.66,
+        12.01
       ]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "3,18",
+      "valor": "3,32",
       "unidad": "US$/lb",
-      "cambio": -0.6,
+      "cambio": 4.4,
       "cambioLabel": "diaria",
       "fuente": "ICE (sep-26) vía TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         3.02,
@@ -78,18 +79,19 @@
         3.14,
         3.16,
         3.2,
-        3.18
+        3.18,
+        3.32
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "16,87",
+      "valor": "17,47",
       "unidad": "¢/lb",
-      "cambio": 2.7,
+      "cambio": 3.6,
       "cambioLabel": "diaria",
       "fuente": "ICE vía TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         14.81,
@@ -117,18 +119,19 @@
         16.47,
         16.73,
         16.42,
-        16.87
+        16.87,
+        17.47
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "6.069",
+      "valor": "5.919",
       "unidad": "US$/t",
-      "cambio": 6.0,
+      "cambio": -2.5,
       "cambioLabel": "diaria",
       "fuente": "ICE (sep-26) vía TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         5017,
@@ -156,18 +159,19 @@
         5821.0,
         5654.0,
         5725.0,
-        6069.0
+        6069.0,
+        5919.0
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,48",
+      "valor": "4,63",
       "unidad": "US$/bu",
-      "cambio": -1.9,
+      "cambio": -0.4,
       "cambioLabel": "diaria",
       "fuente": "Chicago (sep-26) vía Informe Diario SAGyP",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         4.25,
@@ -196,18 +200,19 @@
         4.38,
         4.37,
         4.57,
-        4.48
+        4.48,
+        4.63
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "6,53",
+      "valor": "6,64",
       "unidad": "US$/bu",
-      "cambio": 0.0,
+      "cambio": -2.1,
       "cambioLabel": "diaria",
       "fuente": "Chicago (sep-26) vía Informe Diario SAGyP",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         5.91,
@@ -236,18 +241,19 @@
         6.41,
         6.3,
         6.53,
-        6.53
+        6.53,
+        6.64
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "90,87",
+      "valor": "91,02",
       "unidad": "US$/bbl",
-      "cambio": 2.1,
+      "cambio": 0.2,
       "cambioLabel": "diaria",
       "fuente": "TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         72.1,
@@ -275,18 +281,19 @@
         87.72,
         88.91,
         88.98,
-        90.87
+        90.87,
+        91.02
       ]
     },
     {
       "id": "soja-matba",
       "nombre": "Soja Matba (Arg.)",
-      "valor": "344,50",
+      "valor": "346,00",
       "unidad": "US$/t",
-      "cambio": 0.1,
+      "cambio": 0.4,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex pos. SET2026 vía Informe Diario SAGyP",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         322.4,
@@ -313,18 +320,19 @@
         342.4,
         341.8,
         344.0,
-        344.5
+        344.5,
+        346.0
       ]
     },
     {
       "id": "maiz-matba",
       "nombre": "Maíz Matba (Arg.)",
-      "valor": "189,00",
+      "valor": "192,10",
       "unidad": "US$/t",
-      "cambio": -1.0,
+      "cambio": 0.3,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex pos. SET2026 vía Informe Diario SAGyP",
-      "asOf": "2026-08-13",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         178.2,
@@ -351,7 +359,8 @@
         186.2,
         188.3,
         190.9,
-        189.0
+        189.0,
+        192.1
       ]
     },
     {
@@ -377,12 +386,12 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.878",
+      "valor": "2.815",
       "unidad": "pts",
-      "cambio": -2.1,
+      "cambio": -2.2,
       "cambioLabel": "diaria",
       "fuente": "Baltic Exchange vía TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         2717,
@@ -408,18 +417,19 @@
         3083.0,
         3046.0,
         2939.0,
-        2878.0
+        2878.0,
+        2815.0
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "99,64",
+      "valor": "99,66",
       "unidad": "pts",
-      "cambio": -0.4,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
       "fuente": "TradingEconomics",
-      "asOf": "2026-08-17",
+      "asOf": "2026-08-18",
       "verificado": true,
       "serie": [
         100.86,
@@ -444,7 +454,8 @@
         99.81,
         99.83,
         100.02,
-        99.64
+        99.64,
+        99.66
       ]
     },
     {

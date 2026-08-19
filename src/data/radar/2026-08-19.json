@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-08-19",
+  "items": [
+    {
+      "titular": "Bolivia fija un diésel de dos precios: Bs 18 por litro para los grandes consumidores y Bs 9,80 para el resto",
+      "resumen": "El Decreto Supremo 5676, promulgado el 17 de agosto de 2026, establece un precio referencial de 18 bolivianos por litro de diésel para los grandes consumidores —GRACO, clientes directos y usuarios directos que retiran combustible para sus instalaciones— mientras el transporte y los particulares mantienen los 9,80 bolivianos subvencionados. El Ministerio de Hidrocarburos y Energía justifica la medida para alinear el precio de los grandes consumidores con el costo real de importación y reducir el contrabando por el diferencial con países vecinos.",
+      "fuente": "Ministerio de Hidrocarburos y Energía (Bolivia) / Los Tiempos",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260818/grandes-consumidores-pagaran-diesel-precio-referencial-sectores",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El agro y el transporte rechazan el decreto del diésel mientras el Gobierno defiende la medida",
+      "resumen": "La Cámara Agropecuaria del Oriente rechazó el Decreto Supremo 5676 por lo que califica de trato discriminatorio y advirtió que unidades productivas dejarán de producir; recordó que la agricultura demanda el 16% del diésel del país pero abastece la totalidad de los alimentos. También expresaron rechazo los choferes, las cooperativas mineras (Ferreco) y sectores empresariales; el Gobierno sostiene que la norma no modifica el precio del surtidor para el transporte y los particulares.",
+      "fuente": "CAO, Ferreco, ICAM / Los Tiempos, Opinión, Urgente.bo",
+      "url": "https://www.opinion.com.bo/articulo/pais/cao-choferes-rechazan-decreto-diesel-gobierno-defiende-medida/20260817234124994895.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El café arábica salta 4% y vuelve a máximos de fines de julio con los inventarios de ICE en mínimos",
+      "resumen": "El arábica de ICE cerró el 18 de agosto de 2026 en 332,45 centavos por libra, un alza cercana al 4,4% frente al cierre previo, sostenido por el ritmo lento de la cosecha brasileña y por inventarios certificados en su nivel más bajo desde febrero de 2024. En la rueda del 19 corregía levemente hacia 330,5. El mercado sigue pagando desfase de calendario más que escasez estructural.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El cacao de Nueva York devuelve 2,5% y cierra en US$ 5.919 tras el rebote impulsado por El Niño",
+      "resumen": "El cacao de Nueva York cerró el 18 de agosto de 2026 en 5.919 dólares por tonelada, un retroceso de cerca del 2,5% frente a los 6.069 del 17 de agosto, con la oferta de la campaña en curso mejorando. La corrección llega después del rebote de casi 19% desde fines de julio, que descontaba el riesgo de la próxima cosecha de África Occidental bajo un El Niño en fortalecimiento, no la actual.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Chicago: la soja cierra firme por demanda china y menores conteos de vainas mientras el trigo cae 2,1% por el Mar Negro",
+      "resumen": "Según el Informe Diario de la SAGyP con cierre del 18 de agosto de 2026, la soja terminó dispar con sesgo firme (Chicago septiembre 441,20 US$/t) por una ola de demanda china, menores conteos de vainas relevados en Dakota del Sur y el fuerte ritmo de molienda de NOPA; el maíz cedió levemente (182,37 US$/t) y el trigo cayó 2,1% (244,16 US$/t) por la acumulación de suministros en puertos del Mar Negro pese a los ataques entre Rusia y Ucrania.",
+      "fuente": "Informe Diario del Mercado de Granos — SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El aceite de soja de Chicago se derrumba 2,5% mientras la harina sube: el crush vuelve a partirse",
+      "resumen": "En la rueda del 18 de agosto de 2026 el aceite de soja de Chicago (posición septiembre) cayó 38,58 dólares por tonelada a 1.536,39, un retroceso cercano al 2,5%, mientras la harina de soja subió 0,99 a 345,02 dólares por tonelada, según el Informe Diario de la SAGyP. La divergencia dentro del crush —aceite abajo, harina arriba— matiza la lectura de que la molienda récord de julio arrastra al aceite: el valor del complejo sigue rotando entre sus dos patas.",
+      "fuente": "Informe Diario del Mercado de Granos — SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El azúcar #11 extiende el rebote de agosto y cierra en 17,47 centavos por libra",
+      "resumen": "El azúcar #11 cerró el 18 de agosto de 2026 en 17,47 centavos por libra, un alza cercana al 3,6% que prolonga la recuperación desde el mínimo de 14,43 del 30 de julio. El sostén sigue siendo la decisión de los ingenios del Centro-Sur brasileño de priorizar etanol sobre azúcar, con el hidratado competitivo frente a la gasolina.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Brent se sostiene sobre US$ 91 y suma presión al costo de la campaña por la vía del flete y el fertilizante",
+      "resumen": "El Brent cerró el 18 de agosto de 2026 en 91,02 dólares por barril y operaba firme sobre 92 en la rueda del 19, consolidando la recuperación desde los 79 dólares de comienzos de mes. El crudo firme presiona el costo de la ración agrícola sobre todo por el flete y el fertilizante, y es telón de fondo del debate boliviano sobre el precio del diésel importado.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry cae 2,2% a 2.815 puntos, su nivel más bajo desde el 31 de julio",
+      "resumen": "El índice Baltic Dry de fletes de granel seco cerró el 18 de agosto de 2026 en 2.815 puntos, una baja de 2,2% que lo lleva a su menor nivel desde el 31 de julio. El granel seco —por donde viaja el grano de exportación— sigue relativamente contenido frente al súper-ciclo del contenedor, que castiga a la carga de valor agregado y la fruta fresca de LATAM.",
+      "fuente": "Baltic Exchange, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.6
+    }
+  ]
+}
