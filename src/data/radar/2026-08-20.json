@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-08-20",
+  "items": [
+    {
+      "titular": "Brasil exporta su mayor volumen mensual de pollo de la historia: 519.200 t en julio, un salto de 29,9%",
+      "resumen": "Las exportaciones brasileñas de carne de pollo alcanzaron 519.200 toneladas en julio de 2026, un alza de 29,9% interanual y el mayor registro mensual de la serie, según la ABPA. China lideró como destino con 70.500 t, seguida por Emiratos Árabes Unidos (41.400 t) y Arabia Saudita (39.700 t); la Unión Europea fue el quinto destino con 36.800 t, trece días antes de que le cierre esa puerta.",
+      "fuente": "ABPA (Associação Brasileira de Proteína Animal), vía Agrimidia",
+      "url": "https://agrimidia.com.br/avicultura-industrial/2026/08/11/exportacao-de-frango-cresce-299-em-julho-e-receita-suina-recua-56/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El cerdo brasileño vende más y cobra menos: volumen +3,7% en julio, ingreso −5,6%",
+      "resumen": "Las exportaciones de carne de cerdo de Brasil sumaron 131.500 toneladas en julio de 2026 (+3,7% interanual), pero la receita cayó 5,6% en la misma comparación, según la ABPA: el precio medio recibido siguió cediendo. Filipinas (20.300 t), Japón (18.400 t) y Chile (13.900 t) encabezaron los destinos; China quedó cuarta con 9.100 t.",
+      "fuente": "ABPA (Associação Brasileira de Proteína Animal), vía Agrimidia",
+      "url": "https://agrimidia.com.br/avicultura-industrial/2026/08/11/exportacao-de-frango-cresce-299-em-julho-e-receita-suina-recua-56/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Cuenta regresiva para la carne brasileña en la UE: el veto por antimicrobianos rige desde el 3 de septiembre y Bruselas no reabrió la mesa",
+      "resumen": "La exclusión de Brasil de la lista de terceros países habilitados para exportar carne bovina, aviar, acuícola, miel y huevos a la Unión Europea —por no acreditar a tiempo el marco sobre antimicrobianos del Reglamento (UE) 2019/6— se aplica desde el 3 de septiembre de 2026. Las gestiones de la cancillería y el Ministerio de Agricultura brasileños en Bruselas no lograron revertir la medida; el porcino queda fuera del veto.",
+      "fuente": "Diario Oficial de la UE / Ministério da Agricultura (Brasil), vía Notícias Agrícolas",
+      "url": "https://www.noticiasagricolas.com.br/noticias/carnes/422211-brasil-fica-fora-de-lista-da-ue-para-exportacao-de-produtos-de-origem-animal-sob-novas-regras-de-antimicrobianos.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "China vuelve a comprar soja estadounidense en el marco del acuerdo con Washington y le recorta espacio a Brasil",
+      "resumen": "El USDA reportó ventas de cerca de 2 millones de toneladas de soja a China entre el 20 de julio y el 14 de agosto de 2026, más de 900.000 t a destinos no revelados, en línea con el compromiso chino de adquirir al menos 25 millones de toneladas anuales de soja de EE.UU. entre 2026 y 2028. La participación china en las exportaciones brasileñas del primer semestre cayó de 75% a 69% (StoneX), con la reunión Trump-Xi prevista para el 24 de septiembre.",
+      "fuente": "USDA (export sales) / StoneX, vía Canal 26",
+      "url": "https://www.canal26.com/internacionales/2026/08/18/reves-exportador-china-reactiva-la-compra-de-soja-a-estados-unidos-y-deja-en-desventaja-a-un-gigante-de-america-latina/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Chicago sube por segunda rueda: la soja gana US$ 7,90 hasta 449,10 US$/t y el trigo trepa 2,4% pese al Mar Negro",
+      "resumen": "Según el Informe Diario de la SAGyP con cierre del 19 de agosto de 2026, la soja de Chicago (posición septiembre) subió a 449,10 US$/t (+7,90), el maíz a 186,21 (+3,84) y el trigo a 249,95 (+5,79, +2,4%), sostenidos por demanda china, menores conteos de vainas y un dólar más débil. En Matba-Rofex la soja septiembre cerró en 352,00 US$/t y el maíz en 194,10.",
+      "fuente": "Informe Diario del Mercado de Granos — SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El cupo de carne del acuerdo Mercosur-UE ya corre y el bloque todavía no acordó cómo repartirlo",
+      "resumen": "La cuota de 99.000 toneladas anuales de carne vacuna con arancel de 7,5% del Acuerdo de Asociación Mercosur-UE —vigente desde el 1 de mayo de 2026, con 13.200 t prorrateadas para lo que resta del año y aumentos de 20% anual por cinco años— sigue sin reparto pactado entre los socios. El sector privado propone Brasil 40%, Argentina 30%, Uruguay 20% y Paraguay reclama distribución igualitaria; sin acuerdo aplica el esquema de orden de llegada.",
+      "fuente": "El Cronista / Secretaría del Mercosur",
+      "url": "https://www.cronista.com/economia-politica/mercosur-union-europea-el-nuevo-cupo-de-la-carne-abrio-una-disputa-crucial-como-se-reparte/",
+      "vertical": "proteina-animal",
+      "pais": "LATAM",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Anapo califica de \"desolador\" el panorama por la falta de diésel a pocos días del pico de cosecha en Santa Cruz",
+      "resumen": "La Asociación de Productores de Oleaginosas y Trigo (Anapo) advirtió el 16 de agosto de 2026 que la escasez de diésel mantiene en riesgo la cosecha de invierno de unas 950.000 hectáreas en el oriente boliviano, con un atraso cercano al 10% y pérdidas superiores al 20% en el sorgo del este cruceño. El combustible informal se comercializaba entre Bs 14 y 15 por litro frente al precio oficial de Bs 9,80.",
+      "fuente": "Anapo, vía La Razón",
+      "url": "https://larazon.bo/economia-y-empresa/2026/08/16/anapo-ve-desolador-el-panorama-por-falta-de-diesel/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El café arábica devuelve terreno hacia 328 ¢/lb tras el pico, con los inventarios de ICE en mínimos de 2,5 años",
+      "resumen": "El arábica de ICE cerró el 19 de agosto de 2026 cerca de 328 centavos por libra, corrigiendo desde los 332 del 18 de agosto, con los inventarios certificados en su nivel más bajo desde principios de 2024 y la cosecha brasileña avanzando con retraso. El mercado sigue pagando desfase de calendario más que escasez estructural.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Brent se afirma sobre US$ 91 y sostiene la presión de costo sobre la campaña por flete y fertilizante",
+      "resumen": "El Brent cerró el 19 de agosto de 2026 alrededor de 91,6 dólares por barril y operaba firme sobre 94 en la rueda del 20, consolidando la recuperación desde los 79 dólares de comienzos de mes. El crudo firme presiona el costo de la ración agrícola sobre todo por el flete y el fertilizante, y es telón de fondo del debate boliviano sobre el precio del diésel importado.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El azúcar #11 prolonga el rebote de agosto y ronda 17,5 ¢/lb sostenido por la opción etanol",
+      "resumen": "El azúcar #11 cerró el 19 de agosto de 2026 en torno a 17,5 centavos por libra, extendiendo la recuperación desde el mínimo de 14,43 del 30 de julio. El sostén sigue siendo la decisión de los ingenios del Centro-Sur brasileño de priorizar etanol sobre azúcar, con el hidratado competitivo frente a la gasolina.",
+      "fuente": "ICE, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.6
+    }
+  ]
+}
