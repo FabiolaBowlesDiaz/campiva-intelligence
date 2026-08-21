@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-08-21",
+  "items": [
+    {
+      "titular": "La mitad de la capacidad rusa de exportar trigo lleva nueve días parada y Chicago sube 0,4%",
+      "resumen": "Los tres terminales graneleros de Novorossiysk (KSK, NZT y NKHP) seguían sin operar al 18 de agosto de 2026 tras el ataque del 12 de agosto; suman unas 26,1 M t anuales, cerca de la mitad de las exportaciones rusas de trigo, según Graintrade. El trigo de Chicago posición septiembre-26 cerró el 20 de agosto en 250,87 US$/t, apenas 0,92 dólar arriba en la rueda.",
+      "fuente": "UkrAgroConsult, citando a Graintrade (18 de agosto de 2026)",
+      "url": "https://ukragroconsult.com/en/news/key-export-routes-for-russian-grain-remain-blocked/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.85
+    },
+    {
+      "titular": "El Crop Tour cierra midiendo caídas de rinde donde el USDA proyecta un récord",
+      "resumen": "La Pro Farmer Crop Tour 2026 terminó el 20 de agosto midiendo 193,98 bu/acre de maíz en Iowa, 2,2% por debajo de su propia medición de 2025, y 184,19 bu/acre en Illinois, 7,7% por debajo. El USDA, en su informe del 12 de agosto, proyecta para esos mismos estados 216 bu/acre (récord, +2,9%) y 212 bu/acre (−0,9%).",
+      "fuente": "Pro Farmer Crop Tour (días 3 y 4) y USDA/NASS, Crop Production del 12 de agosto de 2026",
+      "url": "https://www.profarmer.com/news/agriculture-news/2026-day-4-crop-tour-results-iowa",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.75
+    },
+    {
+      "titular": "El trigo ruso se vende por debajo del costo puertas adentro mientras el mundo lo paga más caro",
+      "resumen": "Con la salida al mar bloqueada, el trigo ruso clase 4 se negociaba en torno a 12.000 rublos por tonelada (US$ 142) al 17 de agosto de 2026, contra 15.000 rublos (US$ 177) un año antes, según Arkady Zlochevsky, presidente de la Unión de Granos Rusa. La cosecha 2026 ronda las 140 M t: el grano se acumula en origen en vez de desaparecer del balance.",
+      "fuente": "Unión de Granos Rusa vía The Moscow Times (17 de agosto de 2026)",
+      "url": "https://www.themoscowtimes.com/2026/08/17/ukrainian-strikes-halt-most-russian-grain-exports-in-the-black-sea-a93517",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Ucrania embarca menos de la mitad que hace un año: 2,2 M t por mes contra 4,5 M t",
+      "resumen": "La consultora SovEcon redujo su estimación del ritmo mensual de exportación ucraniana a 2,2 millones de toneladas, menos de la mitad de los 4,5 M t embarcados en agosto de 2025, por los daños en infraestructura portuaria. El corredor del Mar Negro concentra cerca del 30% del comercio mundial de trigo.",
+      "fuente": "SovEcon vía La Nación (21 de agosto de 2026)",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-escalada-en-la-guerra-entre-rusia-y-ucrania-vuelve-a-tensionar-el-mercado-de-granos-nid20082026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El Brent suma 2,3% en una rueda y vuelve a los 93 dólares al vencer la tregua de Ormuz",
+      "resumen": "El Brent cerró el 20 de agosto de 2026 en 93,77 dólares por barril, 2,3% arriba del cierre previo registrado por esta casa, después de que expirara sin acuerdo el alto el fuego de 60 días entre Estados Unidos e Irán. El crudo acumula cerca de 15% de alza en dos semanas, con el Estrecho de Ormuz otra vez en el centro de la prima de riesgo.",
+      "fuente": "TradingEconomics (cierre del 20 de agosto) e Investing.com",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-los-futuros-del-petroleo-brent-estan-subiendo-hoy-93CH-3799806",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "Bolivia proyecta su mejor girasol en años: 260.000 t sobre 202.000 hectáreas, con la cosecha atada al diésel",
+      "resumen": "Anapo informó el 3 de agosto de 2026 una superficie sembrada de girasol de 202.000 hectáreas y una producción proyectada de 260.000 toneladas, de las cuales alrededor del 95% serían excedentes exportables por unos 150 millones de dólares. El gremio condiciona el resultado a la disponibilidad de diésel para levantar la cosecha de invierno.",
+      "fuente": "Anapo, Asociación de Productores de Oleaginosas y Trigo (3 de agosto de 2026)",
+      "url": "https://anapobolivia.org/anapo-proyecta-una-buena-produccion-del-girasol-en-este-invierno-pero-la-cosecha-esta-en-peligro-por-la-falta-de-diesel/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Brasil molió menos caña y fabricó bastante menos azúcar en la segunda quincena de julio",
+      "resumen": "El Centro-Sur brasileño procesó 46,08 millones de toneladas de caña en la segunda quincena de julio de 2026, 8,4% menos que un año antes, y produjo 3 millones de toneladas de azúcar (−17,6%), mientras el etanol avanzó 2,8% hasta 2,39 mil millones de litros. En el acumulado de la zafra el azúcar cae 12,4% y el etanol sube 16%.",
+      "fuente": "Sistema de Acompanhamento da Produção Canavieira, Ministério da Agricultura de Brasil, vía Reuters/Investing (17 de agosto de 2026)",
+      "url": "https://br.investing.com/news/commodities-news/moagem-de-cana-do-centrosul-recuou-84-na-2a-quinzena-de-julho-aponta-ministerio-2041930",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El flete marítimo sube 4% en una semana y el transpacífico manda: 4.526 dólares por contenedor",
+      "resumen": "El World Container Index de Drewry subió 4% en la semana al 20 de agosto de 2026 y llegó a 4.526 dólares por contenedor de 40 pies, empujado por las tarifas de la ruta transpacífica. Es la segunda lectura consecutiva al alza tras el rebote del 6 de agosto, y encarece el tramo final de la exportación latinoamericana que despacha en contenedor.",
+      "fuente": "Drewry World Container Index (20 de agosto de 2026)",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El maíz argentino no sigue a Chicago: Matba +0,2% contra +1,2% en el norte",
+      "resumen": "El maíz Matba-Rofex posición septiembre-26 cerró el 20 de agosto de 2026 en 194,50 US$/t, apenas 0,40 dólar arriba, mientras el maíz de Chicago para la misma posición ganó 2,26 dólares hasta 188,47 US$/t. La plaza argentina llega al tramo final de su ciclo comercial con una prima que se estrecha frente al mercado de referencia.",
+      "fuente": "Matba-Rofex y CME vía Informe Diario del Mercado de Granos, SAGyP (20 de agosto de 2026)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El Baltic Dry cierra en 2.791 puntos y el granel seco sostiene la zona alta del año",
+      "resumen": "El índice Baltic Dry cerró el 20 de agosto de 2026 en 2.791 puntos, 15 puntos arriba (+0,54%) frente al día previo. El granel seco se sostiene en la zona alta del año justo cuando el corredor del Mar Negro reduce embarques: un contraste que conviene seguir en las próximas semanas.",
+      "fuente": "Baltic Exchange vía TradingEconomics (20 de agosto de 2026)",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    }
+  ]
+}
