@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-08-26",
+  "items": [
+    {
+      "titular": "Una fecha de cumplimiento movida hunde los créditos de biocombustible de EE.UU. a mínimos de cuatro meses",
+      "resumen": "La EPA informó el 24 de agosto de 2026 que extenderá el plazo del 1 de septiembre para que las refinerías demuestren cumplimiento de la mezcla obligatoria de 2025, sin precisar la nueva fecha. Los créditos D6 de etanol se negociaron ese día a 1,75 US$ cada uno, 34 centavos abajo del viernes y su nivel más bajo desde el 15 de abril de 2026.",
+      "fuente": "Hydrocarbon Processing y BIC Magazine, sobre el anuncio de la EPA del 24 de agosto de 2026",
+      "url": "https://www.hydrocarbonprocessing.com/news/2026/08/us-epa-to-extend-renewable-fuel-standard-compliance-deadline-for-refiners/",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "El aceite de soja recupera 39 puntos tras perder 222 en la rueda anterior: la volatilidad vino del calendario regulatorio",
+      "resumen": "El aceite de soja de Chicago posición septiembre-26 cerró el 25 de agosto de 2026 en 67,52 centavos por libra (1.488,55 US$/t), 39 puntos arriba, después de perder 2,22 centavos el 24 de agosto. La harina cerró sin cambios en 320,30 US$/short ton (353,07 US$/t).",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP, Argentina) y Brownfield Ag News, cierres del 25 de agosto de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-25-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El Crop Tour cierra 7,5 bushels por acre debajo del USDA y el maíz de Chicago sube 9 centavos",
+      "resumen": "Pro Farmer cerró su recorrido el 21 de agosto de 2026 con un rinde nacional de maíz de 173,2 bu/acre (15.344 millones de bushels) contra los 180,7 del USDA, y de soja en 53,3 bu/acre (4.572 millones), que sería récord. El maíz septiembre-26 cerró el 25 de agosto en 5,00½ US$/bu, 9 centavos arriba.",
+      "fuente": "Pro Farmer (recorrido cerrado el 21 de agosto de 2026) y Brownfield Ag News (cierre del 25 de agosto de 2026)",
+      "url": "https://www.profarmer.com/news/pro-farmer-estimates-2026-u-s-corn-crop-15-344-billion-bushels-soybeans-4-572-billion-bushels",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El Brent encadena tres bajas y pierde 3,9% en una rueda mientras Irán y Omán discuten un corredor marítimo",
+      "resumen": "El Brent cerró el 25 de agosto de 2026 en 88,58 US$/barril, 3,9% abajo del cierre del 24 de agosto (92,17), y seguía cediendo el 26 de agosto hacia los 86 dólares. TradingEconomics atribuye el movimiento a las conversaciones entre Irán y Omán sobre un corredor marítimo temporal en el estrecho de Ormuz.",
+      "fuente": "TradingEconomics — página de Brent crude oil, consultada el 26 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Bolivia: el agro del oriente convoca un congreso extraordinario para el 27 de agosto por el diésel a dos precios",
+      "resumen": "El Decreto Supremo 5676, vigente desde el 16 de agosto de 2026, fijó el diésel en 18 bolivianos por litro para los grandes consumidores y mantuvo 9,80 para transportistas y particulares. La Cámara Agropecuaria del Oriente convocó un congreso extraordinario para el 27 de agosto de 2026 en Warnes, Santa Cruz.",
+      "fuente": "Infobae, nota del 25 de agosto de 2026, con declaraciones de la CAO y de Confeagro",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/25/bolivia-crece-el-rechazo-al-decreto-que-sube-el-precio-del-diesel-y-grupos-evaluan-movilizaciones/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Baltic Dry suma cuatro ruedas al alza y toca su mejor nivel desde el 12 de agosto",
+      "resumen": "El índice de fletes de granel seco cerró el 25 de agosto de 2026 en 2.926 puntos, 44 puntos (1,53%) arriba. El capesize subió 2% a 4.735 puntos y el panamax 2% a 2.166, con los tres segmentos aportando a la suba.",
+      "fuente": "Baltic Exchange vía TradingEconomics, cierre del 25 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El contenedor sube 4% y llegan recargos por el Canal de Panamá desde septiembre",
+      "resumen": "El World Container Index de Drewry subió 4% en la semana al 20 de agosto de 2026, a 4.526 US$ por contenedor de 40 pies, empujado por el transpacífico: Shanghái-Nueva York +9% a 9.507 y Shanghái-Los Ángeles +9% a 6.802. Varias navieras anunciaron recargos por el Canal de Panamá en las rutas Asia-costa este y Asia-Golfo de EE.UU. con vigencia en septiembre.",
+      "fuente": "Drewry World Container Index, semana al 20 de agosto de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El trigo sube por el Mar Negro y encuentra techo en el regreso de India al mercado exportador",
+      "resumen": "El trigo de Chicago posición septiembre-26 cerró el 25 de agosto de 2026 en 6,85½ US$/bu (251,88 US$/t), 3¾ centavos arriba, sostenido por la interrupción de los embarques del Mar Negro y el menor ritmo ucraniano. El regreso de India al mercado exportador limita la suba, según el reporte diario de Grain Central.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP) y Grain Central, 25 de agosto de 2026",
+      "url": "https://www.graincentral.com/markets/daily-market-wire-25-august-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El café cede 1,9% y el cacao 2,0% en la misma rueda, con el dólar prácticamente quieto",
+      "resumen": "El arábica de ICE cerró el 25 de agosto de 2026 en 3,35 US$/lb, 1,9% abajo del cierre previo, y el cacao de Nueva York en 5.829 US$/t, 2,0% abajo. El índice dólar cerró esa rueda en 98,91 puntos, apenas 0,1% abajo, de modo que la baja no se explica por la divisa.",
+      "fuente": "ICE vía TradingEconomics, cierres del 25 de agosto de 2026 derivados de la variación diaria publicada el 26 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodities",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "Argentina fija el bioetanol de maíz 1,75% arriba para agosto y lo deja 8,3% por debajo del de caña",
+      "resumen": "La Secretaría de Energía estableció por Resolución 189/2026 los valores mínimos de adquisición del bioetanol para la mezcla obligatoria de agosto de 2026: 1.061,878 pesos por litro para el de caña (+1,74%) y 973,244 para el de maíz (+1,75%). La Resolución 188/2026 actualizó en paralelo el biodiésel.",
+      "fuente": "Secretaría de Energía de Argentina, Resoluciones 188 y 189/2026, vía Primera Fuente (4 de agosto de 2026)",
+      "url": "https://www.primerafuente.com.ar/noticias/131442/actualizacion-precios-para-bioetanol-agosto-2026",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 6.4
+    },
+    {
+      "titular": "El ganado en pie de Chicago pierde 2,65 dólares por quintal y el cerdo acompaña en baja",
+      "resumen": "El contrato de ganado en pie octubre-26 cerró el 25 de agosto de 2026 en 210,95 US$/cwt, 2,65 dólares abajo, y el cerdo magro octubre-26 en 80,45 US$/cwt, 67 centavos abajo. Es la continuación de la presión sobre los futuros de hacienda que viene de ruedas previas.",
+      "fuente": "Brownfield Ag News, cierres del 25 de agosto de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-25-2026/",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 6.2
+    }
+  ]
+}
