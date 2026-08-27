@@ -77,11 +77,25 @@ def serie_mensual(html):
     return sorted(out)
 
 
-def consultar(s, pais, flujo, partida, desde, hasta, procedencia=None):
-    """Serie mensual agregada de una partida. flujo: 'e' export / 'i' import."""
+def consultar(s, pais, flujo, partida, desde, hasta, procedencia=None, origen=None, destino=None):
+    """Serie mensual agregada de una partida. flujo: 'e' export / 'i' import.
+
+    Filtros de país (verificado 26-ago-2026):
+      procedencia (pp) → país de embarque/facturación, solo importaciones.
+      origen      (po) → país de producción, solo importaciones. USAR ESTE para medir
+                         cuánto vende Bolivia: la torta que sale por hidrovía llega con
+                         procedencia de terceros países (ene-jul 2026: pp=BO 107,2 M vs
+                         po=BO 226,0 M). En exportaciones pp se ignora y devuelve el total.
+      destino     (pd) → país de destino, solo exportaciones.
+    Los filtros de país NO operan en las bases de Colombia ni Chile (cero para todos).
+
+    OJO con `hasta`: es EXCLUSIVO en rangos multi-mes (h=202607 devuelve hasta junio).
+    Para el año completo pedir h=f"{anio+1}01" y filtrar los meses sobre la serie.
+    """
     s.get(f"{BASE}/comex/{pais}/{flujo}_main.asp", timeout=45)
-    pp = f"&pp={procedencia}" if procedencia else ""
-    url = f"{BASE}/comex/{pais}/{flujo}_report.asp?rpt=sum_p&db={pais}&d={desde}&h={hasta}&p={partida}{pp}"
+    filtro = "".join(f"&{k}={v}" for k, v in
+                     (("pp", procedencia), ("po", origen), ("pd", destino)) if v)
+    url = f"{BASE}/comex/{pais}/{flujo}_report.asp?rpt=sum_p&db={pais}&d={desde}&h={hasta}&p={partida}{filtro}"
     html = s.get(url, timeout=60).text
     return [] if "No hay informaci" in html else serie_mensual(html)
 
