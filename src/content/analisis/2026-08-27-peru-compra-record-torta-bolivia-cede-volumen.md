@@ -1,7 +1,7 @@
 ---
 title: "Perú hizo su compra de torta más grande y Bolivia fue el único que vendió menos"
 bajada: "En julio el Perú importó US$ 105,9 millones de torta de soya, el mes más grande de su serie. Bolivia despachó 28,6 millones de kilos menos que un año atrás y su participación cayó de 68,6% a 50,6% en un solo mes. Los kilos que faltaron los puso Paraguay. Y no fue por precio: Bolivia era el proveedor más barato de los tres."
-fecha: 2026-08-26
+fecha: 2026-08-27
 tipo: dato-estrategico
 vertical: soya
 pais: BO
