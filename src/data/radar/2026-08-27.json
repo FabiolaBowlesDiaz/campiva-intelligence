@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-08-27",
+  "items": [
+    {
+      "titular": "Estados Unidos apaga por 90 días el arancel extracuota de la carne y abre 300.000 toneladas para el hemisferio",
+      "resumen": "La proclamación firmada el 26 de agosto de 2026 —anunciada el 21— deja entrar hasta 300.000 toneladas métricas de recortes magros para carne molida sin el arancel de 26,4% que rige fuera de cuota. Equivale a cerca del 3% de la demanda estadounidense de carne y a casi el 15% de sus importaciones, que en 2025 sumaron 4.400 millones de libras.",
+      "fuente": "DTN/Progressive Farmer (24 de agosto de 2026) e Infobae sobre la firma del 26 de agosto de 2026",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/livestock/article/2026/08/24/trump-proposes-lifting-tariff-rate",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "Brasil agotó su cuota estadounidense el 6 de enero y lleva casi ocho meses pagando el arancel completo",
+      "resumen": "Las 52.000 toneladas con exención arancelaria que Brasil tiene asignadas en el contingente de Estados Unidos se llenaron en los primeros seis días de 2026, y desde entonces cada tonelada adicional paga 26,4%. Aun así, los embarques brasileños al mercado estadounidense llegan a unas 210.000 toneladas en 2026, 24% más que un año atrás.",
+      "fuente": "Brasilagro (sobre CNN Brasil) y El Litoral, 17 de agosto de 2026",
+      "url": "https://www.brasilagro.com.br/conteudo/brasil-esgota-a-cota-de-exportacao-de-carne-bovina-para-os-eua-em-2026.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El trigo de Chicago sube 45 centavos en una sola rueda: la carga rusa y ucraniana sigue sin salir al mar",
+      "resumen": "El trigo posición septiembre-26 cerró el 26 de agosto de 2026 en 7,30½ US$/bu, 6,6% arriba, la mayor suba diaria del mes. La Subsecretaría de Mercados Agroalimentarios argentina atribuye el movimiento a la virtual paralización de las cargas en puertos del Mar Negro y a reparaciones que podrían prolongarse en una terminal de Novorossiysk.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP, Argentina) y Brownfield Ag News, cierre del 26 de agosto de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-26-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "La harina de soja sube 2,6% y el aceite cae el mismo día: el crush vuelve a inclinarse al lado proteico",
+      "resumen": "La harina de soja de Chicago posición septiembre-26 cerró el 26 de agosto de 2026 en 328,70 US$/short ton (362,33 US$/t), 8,40 dólares arriba, mientras el aceite perdía 30 puntos hasta 67,22 centavos por libra. Es el movimiento inverso al del 24 de agosto, cuando el aceite se hundió 2,22 centavos y la harina no se movió.",
+      "fuente": "Brownfield Ag News e Informe Diario del Mercado de Granos (SAGyP, Argentina), cierres del 26 de agosto de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-26-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El maíz suma 13,5 centavos y deja el costo de la ración más caro por los dos insumos a la vez",
+      "resumen": "El maíz de Chicago posición septiembre-26 cerró el 26 de agosto de 2026 en 5,14 US$/bu, 2,6% arriba, por menores expectativas de producción estadounidense tras el recorrido de cultivos del Medio Oeste y por la interrupción de embarques en el Mar Negro. Con la harina subiendo 2,6% la misma rueda, los dos componentes del alimento balanceado se encarecieron en simultáneo.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP, Argentina) y Brownfield Ag News, cierre del 26 de agosto de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "proteina-animal",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "La soja cierra en 12,54 dólares con China comprando y sin bancos chinos en la nueva lista de sanciones",
+      "resumen": "La soja de Chicago posición septiembre-26 cerró el 26 de agosto de 2026 en 12,54¼ US$/bu, 26,25 centavos arriba (460,86 US$/t). El informe oficial argentino atribuye la suba a la continuidad de las compras chinas de poroto estadounidense y a la ausencia de instituciones financieras chinas en la nueva lista de sanciones anunciada por Estados Unidos.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP, Argentina) y Brownfield Ag News, cierre del 26 de agosto de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-august-26-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El presidente de YPFB dice que el diferencial entre el costo de importar diésel y el precio de surtidor es insostenible",
+      "resumen": "Sebastián Daroca declaró el 26 de agosto de 2026 que el diésel importado cuesta alrededor de 15 bolivianos por litro puesto en Bolivia y llega a 18 con IVA e IT, mientras la estatal lo comercializa a 9,36 bolivianos. Entre enero y junio de 2026 el país destinó unos 980,6 millones de euros a importar gasolina y diésel, con el volumen físico 32,87% abajo del año anterior.",
+      "fuente": "El Diario (Bolivia) y Rumbo Minero, declaraciones del 26 de agosto de 2026",
+      "url": "https://www.eldiario.net/portal/2026/08/26/ypfb-admite-que-precio-diferencial-es-insostenible/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El cacao rebota 4,5% y vuelve sobre los 6.000 dólares por el clima de África Occidental",
+      "resumen": "El cacao de Nueva York operaba el 27 de agosto de 2026 en torno a 6.093 US$/t, 4,5% arriba del cierre del 26 de agosto en 5.831. El mercado no está pagando la oferta actual sino la campaña 2026/27 de Costa de Marfil y Ghana, expuesta al evento de El Niño al que el CPC/NOAA asignó el 13 de agosto más de 90% de probabilidad de ser muy fuerte.",
+      "fuente": "TradingEconomics — página del cacao consultada el 27 de agosto de 2026; CPC/NOAA, discusión del 13 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El café arábica pierde casi 4% y borra en una rueda la recuperación de la semana",
+      "resumen": "El arábica de ICE cerró el 26 de agosto de 2026 en 322,15 centavos por libra y el 27 operaba en 309,45, 3,9% abajo. En el mes acumula una caída de 8,8% y en el año 20,2%, según la serie de TradingEconomics consultada el 27 de agosto de 2026.",
+      "fuente": "TradingEconomics — página del café, consultada el 27 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El granel seco encadena cinco subas y toca su mejor nivel desde el 10 de agosto",
+      "resumen": "El Baltic Dry Index subió 4,4% el miércoles 26 de agosto de 2026 hasta 3.056 puntos, su quinta rueda consecutiva en alza. Mientras el granel seco se firma, el índice de contenedores de Drewry sigue con su última medición del 20 de agosto en 4.526 US$/FEU.",
+      "fuente": "Baltic Exchange vía TradingEconomics (26 de agosto de 2026) y Drewry World Container Index (20 de agosto de 2026)",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El Brent cede a 87,84 dólares entre el corredor de Ormuz y los ataques a refinerías rusas",
+      "resumen": "El Brent cerró el 26 de agosto de 2026 en 87,84 US$/barril, 0,8% abajo, y el 27 recuperaba hacia 88,49. TradingEconomics cita como fuerzas opuestas el acuerdo de reparto de ingresos entre Irán y Omán sobre el estrecho —que Teherán aclaró que no garantiza su reapertura inmediata— y los ataques ucranianos a refinerías y puertos rusos.",
+      "fuente": "TradingEconomics — página del Brent, consultada el 27 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    }
+  ]
+}
