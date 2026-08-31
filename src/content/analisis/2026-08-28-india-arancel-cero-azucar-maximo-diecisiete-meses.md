@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: azucar
 pais: GLOBAL
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Un país que exportaba pasa a importar. Ese cambio de signo mueve más el precio que cualquier recorte de cosecha, porque no resta oferta: suma un comprador nuevo del tamaño de un continente. Y llega en el trimestre en que Brasil ya decidió qué hacer con su caña — y decidió etanol."
 cifras:
   - label: "El salto de una sola rueda"

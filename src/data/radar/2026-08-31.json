@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-08-31",
+  "items": [
+    {
+      "titular": "China se lleva 1,1 millón de toneladas de soja estadounidense en una sola semana y las ventas nuevas tocan 91 millones de bushels",
+      "resumen": "El USDA informó el 27 de agosto de 2026 ventas netas de soja 2026/27 por 2.478.300 toneladas (91,1 millones de bushels) en la semana terminada el 20 de agosto. China tomó 1.101.000 toneladas y los destinos sin declarar otras 1.046.000.",
+      "fuente": "USDA Foreign Agricultural Service, informe semanal de ventas de exportación, vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/news/new-crop-soybean-exports-soar-new-crop-corn-sales-solid/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 8.5
+    },
+    {
+      "titular": "La soja de Chicago cierra agosto en 12,76 dólares por bushel, su nivel más alto en treinta y dos meses",
+      "resumen": "La posición septiembre-26 cerró el 28 de agosto de 2026 en 468,95 dólares por tonelada (12,76 US$/bu), 7,26 dólares arriba (+1,6%). Es el precio más alto desde diciembre de 2023 según el registro de TradingEconomics.",
+      "fuente": "Chicago vía Informe Diario del Mercado de Granos, SAGyP Argentina, edición del 28 de agosto de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "El mercado duplica la apuesta a una suba de tasas en septiembre y el grano sube igual",
+      "resumen": "Tras el discurso de Kevin Warsh en Jackson Hole el 28 de agosto de 2026, la probabilidad implícita de suba para la reunión de septiembre pasó de 35% a 60% según datos de CME. El bono a dos años sumó 11 puntos básicos hasta 4,34% y el índice dólar cerró en 99,65.",
+      "fuente": "Reserva Federal vía Yahoo Finance y Reuters; cierre de mercados del 28 de agosto de 2026",
+      "url": "https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "Bolivia acuerda de forma provisional con los arroceros del Beni y libera la ruta hacia Santa Cruz",
+      "resumen": "El 30 de agosto de 2026 el gobierno boliviano y productores de arroz del Beni pactaron un acuerdo provisional para garantizar diésel de cosecha y restablecer la circulación; la gobernación entregó 30.000 litros. El decreto del 17 de agosto fijó un precio de referencia de 18 bolivianos por litro para grandes consumidores y mantuvo 9,80 bolivianos por debajo de 5.000 litros mensuales.",
+      "fuente": "Agencia EFE vía Infobae, 30 de agosto de 2026",
+      "url": "https://www.infobae.com/america/agencias/2026/08/30/gobierno-de-bolivia-logra-acuerdo-con-un-sector-que-rechaza-retiro-de-subvencion-al-diesel/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El cacao de Nueva York suma 7,2% en una rueda y firma máximos de once meses por la calidad del grano africano",
+      "resumen": "La posición diciembre-26 cerró el 28 de agosto de 2026 con 444 puntos de suba (+7,19%) y Londres septiembre-26 avanzó 8,27%. Las primeras mediciones de la campaña 2026/27 de Costa de Marfil apuntan a 1,8 millones de toneladas, 18% menos que las 2,2 millones del ciclo previo.",
+      "fuente": "ICE vía Barchart, cierre del 28 de agosto de 2026",
+      "url": "https://www.barchart.com/story/news/4323600/supply-fears-push-cocoa-prices-to-11-month-highs",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El aceite y la harina de soja se mueven más rápido que el poroto en la última rueda de agosto",
+      "resumen": "El 28 de agosto de 2026 el aceite de soja de Chicago septiembre-26 cerró en 1.556,23 dólares por tonelada (+3,81%) y la harina en 372,80 (+2,42%), contra 1,57% del grano. El derivado capturó más de la mitad de la suba del complejo.",
+      "fuente": "Chicago vía Informe Diario del Mercado de Granos, SAGyP Argentina, 28 de agosto de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El trigo de Chicago cierra la semana en máximos de tres años con el Mar Negro todavía sin normalizar",
+      "resumen": "La posición septiembre-26 cerró el 28 de agosto de 2026 en 281,83 dólares por tonelada (7,67 US$/bu), 8,91 dólares arriba (+3,3%). Es la referencia más alta en tres años y arrastró toda la curva hasta 2027.",
+      "fuente": "Chicago vía Informe Diario del Mercado de Granos, SAGyP Argentina, 28 de agosto de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El granel seco encadena siete ruedas de suba y el Baltic Dry vuelve a niveles de principios de junio",
+      "resumen": "El índice cerró el 28 de agosto de 2026 en 3.186 puntos, 79 arriba (+2,5%), su nivel más alto desde el 2 de junio. Es el flete que mueve grano a granel, no contenedor.",
+      "fuente": "Baltic Exchange vía TradingEconomics, cierre del 28 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El azúcar crudo devuelve el máximo de más de un año y cierra la semana en 17,56 centavos",
+      "resumen": "Tras tocar su nivel más alto en más de un año, el contrato octubre-26 cerró el 28 de agosto de 2026 en 17,56 centavos por libra, 3,6% abajo del cierre previo, por toma de ganancias de productores.",
+      "fuente": "ICE vía TradingEconomics y Reuters, cierre del 28 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Brent cierra agosto en 89,31 dólares y pierde más de 5% en la semana con Hormuz despejándose",
+      "resumen": "El crudo de referencia cerró el 28 de agosto de 2026 en 89,31 dólares por barril, 0,4% abajo. La caída semanal supera el 5% porque el mercado dejó de leer la situación con Irán como amenaza al suministro físico.",
+      "fuente": "ICE vía Investrade Market Review y TradingEconomics, cierre del 28 de agosto de 2026",
+      "url": "https://investrade.com/market-review-august-28-2026/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El maíz nuevo de Estados Unidos vende un millón de toneladas y México aparece entre los compradores",
+      "resumen": "En la semana terminada el 20 de agosto de 2026 las ventas netas de maíz 2026/27 sumaron 1.066.400 toneladas (42 millones de bushels), con 438.000 a destinos sin declarar y 208.800 a México. El Matba argentino, en cambio, cerró el 28 de agosto en 198 dólares por tonelada, un dólar abajo.",
+      "fuente": "USDA vía Brownfield Ag News (27 de agosto de 2026) y SAGyP Argentina (28 de agosto de 2026)",
+      "url": "https://www.brownfieldagnews.com/news/new-crop-soybean-exports-soar-new-crop-corn-sales-solid/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El café arábica cierra la semana en 3,13 dólares por libra con el inventario certificado todavía escaso",
+      "resumen": "El contrato diciembre-26 cerró el 28 de agosto de 2026 en 3,1285 dólares por libra, 3,2 centavos arriba (+1%). El precio se sostiene sobre existencias certificadas de ICE en niveles no vistos desde hace más de dos años.",
+      "fuente": "ICE vía TradingEconomics y Reuters, cierre del 28 de agosto de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    }
+  ]
+}
