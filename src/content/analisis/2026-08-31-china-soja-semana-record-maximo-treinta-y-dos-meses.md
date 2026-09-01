@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: GLOBAL
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Cuando un precio sube contra el dólar en vez de con él, la suba no la está pagando el dinero: la está pagando alguien que necesita el poroto. Eso cambia qué hay que mirar para saber cuánto dura."
 cifras:
   - label: "La semana china"
