@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: cacao
 pais: GLOBAL
 score: 8.4
-destacado: true
+destacado: false
 lectura: "Un precio administrado no es un precio bajo ni un precio alto: es un precio viejo. El de Costa de Marfil quedó calzado con las ventas forward de marzo a junio, cuando el mercado estaba en el piso, y va a regir doce meses sobre un mercado que ya subió 22% en un solo mes. Para el origen americano, que vende contra pizarra más diferencial, ese desfase es exactamente la ventaja competitiva del ciclo."
 cifras:
   - label: "Lo que cobra el productor marfileño"

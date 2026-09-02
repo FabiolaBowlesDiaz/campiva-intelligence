@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-02",
+  "items": [
+    {
+      "titular": "La EPA exime 1.760 millones de créditos de biocombustible y promete devolverlos: el mercado le cree y la soja pasa los 13 dólares",
+      "resumen": "El 31 de agosto de 2026 la agencia resolvió 34 pedidos de exención para refinerías pequeñas del año de cumplimiento 2025: 18 completas, 11 al 50%, 3 rechazadas y 2 inelegibles, por 1.760 millones de RIN frente a los 990 millones que su propia metodología proyectaba. Antes de fin de octubre propondrá reasignar el 100% de esa diferencia a los mandatos de 2026 y 2027.",
+      "fuente": "EPA (Environmental Protection Agency de EE.UU.) vía Reuters, reproducido por The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/aug/31/epa-grants-176-billion-biofuel-exemptions-weighs-s/",
+      "vertical": "biocombustibles",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.5
+    },
+    {
+      "titular": "El RIN de etanol salta 16% en una rueda y arrastra al aceite de soja de Chicago",
+      "resumen": "El crédito D6 pasó de 1,78 dólares el jueves 27 de agosto de 2026 a 2,07 dólares el lunes 31 a las 15:45 hora del Este, tras conocerse el paquete de exenciones. El aceite de soja de Chicago cerró el 1 de septiembre en 1.595,47 US$/t para la posición septiembre-26, 41,23 dólares arriba (+2,65%).",
+      "fuente": "Reuters (RIN) e Informe Diario del Mercado de Granos de la SAGyP argentina (aceite de soja, cierre del 01/09/2026)",
+      "url": "https://www.spokesman.com/stories/2026/aug/31/epa-grants-176-billion-biofuel-exemptions-weighs-s/",
+      "vertical": "biocombustibles",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El Brent cierra en 94,65 dólares, máximo desde fines de julio, tras nuevos ataques en torno al estrecho de Ormuz",
+      "resumen": "El 1 de septiembre de 2026 el Brent cerró en 94,65 US$/bbl y el WTI subió 5,90% hasta 90,82 US$/bbl, después de que EE.UU. atacara objetivos en la isla iraní de Larak y de que un buque tanque fuera alcanzado por tres proyectiles en el estrecho. Entre el 24 y el 30 de agosto se registraron 107 tránsitos por Ormuz, contra 121 la semana previa y unos 130 diarios antes de la guerra.",
+      "fuente": "TradingEconomics (cierres) y Al Jazeera (hechos y tránsitos)",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.3
+    },
+    {
+      "titular": "La urea se mueve 0,23% el día que el petróleo sube 6%: el fertilizante todavía no cobra la prima de Ormuz",
+      "resumen": "La urea cerró el 1 de septiembre de 2026 en 440 US$/t, un dólar arriba de la rueda previa, con +5,39% en el mes y +9,73% interanual. Oriente Medio concentra cerca de un cuarto de la exportación mundial de urea; en el pico del bloqueo de Ormuz de abril de 2026 el granulado había superado los 700 US$/t.",
+      "fuente": "TradingEconomics (cierre del 01/09/2026) y blog de datos del Banco Mundial (participación de Oriente Medio y pico de abril)",
+      "url": "https://tradingeconomics.com/commodity/urea",
+      "vertical": "nutricion-animal",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "La soja de Chicago cierra el 1 de septiembre en 480,15 dólares por tonelada, su nivel más alto desde diciembre de 2023",
+      "resumen": "La posición septiembre-26 subió 11,57 US$/t (+2,5%) hasta 480,15 US$/t —13,07 US$/bu—, empujada por las novedades regulatorias de biocombustibles, la continuidad de las compras chinas de poroto estadounidense y el deterioro de la condición del cultivo. La soja Matba-Rofex septiembre-26 cerró en 369,00 US$/t (+6,00).",
+      "fuente": "Informe Diario del Mercado de Granos, Subsecretaría de Mercados Agroalimentarios (SAGyP, Argentina), edición del 01/09/2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Las existencias certificadas de arábica en ICE caen a 223.976 sacos, mínimo en veintisiete años, mientras Brasil cierra una cosecha récord",
+      "resumen": "El registro al 31 de agosto de 2026 marca 223.976 sacos. El arábica cerró el 1 de septiembre en 309,45 centavos por libra, 0,8% abajo, presionado por la expectativa de mayor producción brasileña con la campaña 2026/27 casi terminada. El riesgo abierto es que un El Niño fuerte retrase las lluvias de la floración de septiembre y octubre.",
+      "fuente": "ICE Futures US y comentario de mercado vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El azúcar crudo toca su nivel más alto desde abril de 2025 con la ISO dando vuelta el balance mundial",
+      "resumen": "El contrato #11 cerró el 1 de septiembre de 2026 en 18,36 centavos por libra, 3,1% arriba del cierre del 31 de agosto. La Organización Internacional del Azúcar proyecta que el mercado pase de un superávit de 1,1 millones de toneladas en 2025/26 a un déficit de 200.000 toneladas en 2026/27, con producción cayendo cerca de 1% a 180,1 millones de toneladas y la Unión Europea 19% abajo, a 13,4 millones.",
+      "fuente": "ICE Futures US y Organización Internacional del Azúcar (ISO), compilados por TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El trigo de Chicago sube 1% por los ataques rusos sobre infraestructura portuaria ucraniana",
+      "resumen": "La posición septiembre-26 cerró el 1 de septiembre de 2026 en 280,72 US$/t (7,64 US$/bu), 2,76 dólares arriba. El informe oficial argentino atribuye la suba a los ataques sobre puertos ucranianos y al rechazo de Moscú a una moratoria, con las gestiones turcas por el tránsito seguro limitando parcialmente el avance.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina), edición del 01/09/2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Bolivia: el DS 5676 deja el diésel de grandes consumidores cerca de Bs 18 por litro y hay bloqueos anunciados para el 2 de septiembre",
+      "resumen": "El decreto retira la subvención al diésel para grandes consumidores, categoría que alcanza a la maquinaria agrícola, y fija un precio referencial próximo a Bs 18 por litro. La federación de comunidades interculturales de Cuatro Cañadas instruyó el 1 de septiembre de 2026 un bloqueo de rutas de 24 horas desde las 00:00 del 2 de septiembre, pidiendo la abrogación de la norma. Dato de fondo: cerca del 60% del diésel y la gasolina que consume el país se importa.",
+      "fuente": "Publiagro y RTP Bolivia (medida y bloqueo); YPFB citado por Rio Times (proporción importada)",
+      "url": "https://publiagro.com.bo/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Perú informa un récord de 1.796 millones de dólares en exportación de café referido a 2025",
+      "resumen": "El Midagri difundió la cifra el 1 de septiembre de 2026: el récord corresponde al año 2025 y compara contra 1.100 millones de dólares en 2024. Alcanza a más de 223.000 familias productoras en 16 regiones y 52 destinos, con Estados Unidos, Alemania, Bélgica, Canadá y Colombia a la cabeza. El 85% de los caficultores trabaja parcelas de 1 a 5 hectáreas.",
+      "fuente": "Ministerio de Desarrollo Agrario y Riego (Midagri) del Perú, vía Perú 21 y NODAL",
+      "url": "https://www.nodal.am/2026/09/peru-record-de-us-1-796-millones-en-exportaciones-de-cafe/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El Baltic Dry corta siete ruedas de suba y el contenedor sigue sin dato nuevo",
+      "resumen": "El índice de granel seco cayó cerca de 0,9% el 1 de septiembre de 2026, hasta 3.157 puntos, tras siete sesiones consecutivas al alza. El World Container Index de Drewry mantiene su última lectura del 27 de agosto de 2026 en 4.473 US$/FEU (−1%), con la próxima publicación semanal prevista para el 3 de septiembre.",
+      "fuente": "Baltic Exchange vía TradingEconomics y Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El dólar sube con el petróleo: el DXY cierra en 99,68 y el mercado le pone 70% a una suba de tasas de la Fed",
+      "resumen": "El índice dólar cerró el 1 de septiembre de 2026 en 99,68 puntos, 0,3% arriba. El comentario de mercado atribuye el avance a que el salto del crudo reactivó la preocupación inflacionaria, con los futuros descontando cerca de 70% de probabilidad de una suba de tasas en el mes.",
+      "fuente": "TradingEconomics (cierre y comentario de mercado del 01/09/2026)",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    }
+  ]
+}
