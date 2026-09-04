@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: biocombustibles
 pais: GLOBAL
 score: 8.5
-destacado: true
+destacado: false
 lectura: "La demanda de aceite vegetal para combustible en Estados Unidos ya no la fija el consumo de diésel: la fija una hoja de cálculo administrativa. El mercado no reaccionó al volumen eximido —que fue peor de lo esperado— sino a la promesa de devolverlo. Esa es la señal que hay que leer: el precio del complejo oleaginoso pasó a depender de la credibilidad de un compromiso regulatorio, no de un balance físico."
 cifras:
   - label: "Lo que se eximió"

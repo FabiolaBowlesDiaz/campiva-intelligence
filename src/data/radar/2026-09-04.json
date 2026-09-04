@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-04",
+  "items": [
+    {
+      "titular": "El flete a granel toca su máximo en casi cinco años y el de contenedores no se mueve: el Baltic sube 4,7% y el Drewry queda clavado",
+      "resumen": "El índice Baltic Dry cerró el 3 de septiembre de 2026 en 3.488 puntos, 157 más que la rueda previa (+4,7%) y el nivel más alto desde octubre de 2021. El mismo día el World Container Index de Drewry quedó sin cambio en 4.465 US$/FEU: la suba del transpacífico se compensó con la baja de Asia-Europa.",
+      "fuente": "Baltic Exchange vía Investing.com y Drewry World Container Index (lectura del 03/09/2026)",
+      "url": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-climbs-to-nearly-fiveyear-high-93CH-4887970",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "El capesize gana 7,1% en una rueda y paga 51.298 dólares por día, máximo desde fines de 2023",
+      "resumen": "El índice capesize subió 400 puntos hasta 6.042 el 3 de septiembre de 2026 y las ganancias diarias promedio de esos buques treparon 3.632 dólares, hasta 51.298. El panamax —el buque del grano, de 60.000 a 70.000 toneladas— avanzó apenas 1,2% hasta 2.457 puntos y 22.113 dólares por día.",
+      "fuente": "Baltic Exchange vía Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-climbs-to-nearly-fiveyear-high-93CH-4887970",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Cuatro casas de análisis coinciden en que el azúcar entra en déficit y ninguna coincide en cuánto: el rango va de 200.000 a 3,2 millones de toneladas",
+      "resumen": "Al 2 de septiembre de 2026 la ISO estimaba un déficit mundial de 200.000 toneladas para 2026/27, Covrig Analytics 300.000 (3 de agosto), StoneX 1,7 millones (28 de julio) y Green Pool 3,2 millones (26 de agosto). El azúcar #11 cerró el 3 de septiembre en 18,07 centavos por libra.",
+      "fuente": "ISO, Green Pool, Covrig Analytics y StoneX, compilados por Barchart vía Yahoo Finance; cierre vía TradingEconomics",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-expectations-global-162601104.html",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "El monzón indio cierra su tramo decisivo 13% por debajo de lo normal y septiembre viene seco",
+      "resumen": "El Departamento Meteorológico de India informó que la lluvia acumulada de la temporada junio-septiembre estaba 13% por debajo de lo normal al 2 de septiembre de 2026, contra un déficit de 42% al 30 de junio. El país espera lluvias por debajo de lo normal en septiembre tras un agosto ya seco.",
+      "fuente": "India Meteorological Department, citado por Barchart vía Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-expectations-global-162601104.html",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El maíz de Chicago toca un máximo de tres años y al día siguiente lo devuelve arrastrado por el trigo",
+      "resumen": "La posición diciembre-26 cerró el 2 de septiembre de 2026 en 213,97 US$/t (5,44 US$/bu), máximo de tres años, y el 3 de septiembre retrocedió a 212,88. La posición septiembre-26 cerró en 202,84 US$/t (5,15 US$/bu), 1,38 dólares abajo. Las menores expectativas de rinde en Estados Unidos limitaron la caída.",
+      "fuente": "Informe Diario del Mercado de Granos, Subsecretaría de Mercados Agroalimentarios (SAGyP, Argentina), edición del 03/09/2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El trigo de Chicago pierde 2,5% en una rueda y devuelve parte de la prima que había acumulado en agosto",
+      "resumen": "La posición septiembre-26 cerró el 3 de septiembre de 2026 en 270,44 US$/t (7,36 US$/bu), 6,89 dólares abajo. La SAGyP atribuye la baja a una toma de ganancias tras las fuertes subas recientes, en un mercado que sigue sin señales de normalización de los embarques del Mar Negro.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina), edición del 03/09/2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "China vuelve a llevarse casi un millón de toneladas de soja estadounidense en una semana",
+      "resumen": "En la semana al 27 de agosto de 2026 las ventas externas de soja 2026/27 sumaron 1,949 millones de toneladas, con 972.000 destinadas a China. El maíz nuevo vendió 1,986 millones de toneladas —México 665.000 y Japón 371.800— y la harina de soya 701.900. El trigo cayó a 313.500 toneladas.",
+      "fuente": "USDA, informe semanal de ventas externas, semana al 27/08/2026, reportado por Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/news/feed-demand-fuels-26-27-corn-soybean-meal-export-sales/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "La soja sube y su aceite baja el mismo día: la harina se lleva el valor del poroto",
+      "resumen": "El 3 de septiembre de 2026 la soja de Chicago septiembre-26 cerró en 479,97 US$/t (+1,65) mientras el aceite de soja perdió 22,05 dólares hasta 1.532,20 US$/t y la harina ganó 6,61 hasta 380,51. El complejo rota valor hacia el subproducto que empuja la demanda de alimento balanceado.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina), edición del 03/09/2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El café convive con dos datos opuestos: el stock certificado en mínimo de veintisiete años y un superávit proyectado de 8,9 millones de sacos",
+      "resumen": "Las existencias de arábica monitoreadas por ICE cayeron a 223.976 sacos al 31 de agosto de 2026, el nivel más bajo en veintisiete años. Rabobank proyecta un balance mundial holgado con superávit de 8,9 millones de sacos. El arábica cerró el 3 de septiembre en 295,35 centavos por libra, 5,02% abajo en el mes.",
+      "fuente": "ICE Futures US y proyección de Rabobank, compilados por TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.4
+    },
+    {
+      "titular": "Costa de Marfil embarcó 2,14 millones de toneladas de cacao a puerto, 19% más que un año atrás, y el precio cedió 6% en dos ruedas",
+      "resumen": "Los envíos de los productores marfileños a puerto llegaron a 2,14 millones de toneladas al 30 de agosto de 2026, con inventarios en ICE en máximo de dos años. El cacao de Nueva York cerró el 3 de septiembre en 6.174 US$/t. La proyección para la próxima campaña marfileña sigue en 1,75 millones de toneladas, cerca de 20% menos.",
+      "fuente": "Datos de embarques a puerto y existencias ICE, compilados por TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent cierra en 95,52 dólares y encamina una semana de 8% de suba",
+      "resumen": "El crudo de referencia cerró el 3 de septiembre de 2026 en 95,52 US$/bbl, con un avance de 19,60% en el mes y 45,08% interanual. El mercado sigue cotizando la caída de tránsitos por el estrecho de Ormuz y el daño en refinerías de Oriente Medio y Rusia, que limita la capacidad de compensar cortes.",
+      "fuente": "ICE Brent vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El CPC sostiene el aviso de El Niño con 69% de probabilidad de un evento sin precedentes desde 1950",
+      "resumen": "La discusión diagnóstica del CPC/NOAA del 13 de agosto de 2026 mantiene la anomalía de Niño 3.4 en +1,4 °C con julio cerrado y asigna 69% de probabilidad a un evento que supere en intensidad a todos los registrados desde 1950 en el trimestre octubre-diciembre. No hubo actualización posterior al 3 de septiembre.",
+      "fuente": "Climate Prediction Center, NOAA — ENSO Diagnostic Discussion del 13/08/2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    }
+  ]
+}
