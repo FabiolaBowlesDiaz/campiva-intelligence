@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-07",
+  "items": [
+    {
+      "titular": "El dato de empleo que movió al grano en agosto se corrigió por 44.000 puestos: julio pasó de perder empleo a crearlo",
+      "resumen": "El informe del 4 de septiembre de 2026 revisó julio de −23.000 a +21.000 nóminas y junio de +20.000 a +31.000: 55.000 empleos más de los informados. Agosto sumó 162.000 contra estimaciones de mercado de 53.000 a 56.000, con desempleo sin cambio en 4,1%.",
+      "fuente": "Bureau of Labor Statistics (EE.UU.), Employment Situation — agosto 2026",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.6
+    },
+    {
+      "titular": "Brasil empieza hoy a sembrar la mayor cosecha de soja del mundo y suma la menor superficie nueva en veinte años",
+      "resumen": "El vacío sanitario de Mato Grosso terminó el 6 de septiembre de 2026 y la siembra queda habilitada desde hoy hasta el 7 de enero de 2027. AgRural proyecta 49,006 millones de hectáreas para 2026/27: apenas 443.000 hectáreas nuevas, el menor avance anual de los últimos veinte años.",
+      "fuente": "Instrução Normativa Conjunta Sedec/Indea-MT (calendario) y AgRural (superficie), compilado por RDM Online",
+      "url": "https://rdmonline.com.br/soja-deve-ocupar-quase-50-milhoes-de-hectares-na-safra-2026-27/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El dólar rebota tras el dato de empleo y el trigo paga la cuenta: 20 centavos abajo en una rueda",
+      "resumen": "El índice dólar cerró el 4 de septiembre de 2026 en 99,17 puntos, de vuelta por encima de 99 tras el informe de empleo. El trigo Chicago diciembre-26 cerró en 7,34 US$/bu, 20,25 centavos abajo, con el dólar fuerte citado como la presión principal.",
+      "fuente": "Brownfield Ag News (cierres CBOT) y Reuters (índice dólar), lecturas del 04/09/2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-4-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.5
+    },
+    {
+      "titular": "La soja cierra su cuarta semana consecutiva en alza pese a caer el viernes: China compró casi todos los días",
+      "resumen": "El USDA informó el 4 de septiembre de 2026 una venta de 192.000 toneladas de soja a China para la campaña 2026/27. El contrato noviembre-26 cerró en 13,09¾ US$/bu, 6,5 centavos abajo por toma de ganancias antes del feriado, pero acumuló 2,12% en la semana.",
+      "fuente": "USDA daily export sales y CBOT, reportados por Reuters vía Business Recorder y Brownfield Ag News",
+      "url": "https://www.brecorder.com/news/40437909/soybeans-set-for-fourth-weekly-gain-on-china-demand-us-weather-concerns",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Bolivia sube veinte veces el cupo de diésel subvencionado para pequeños productores",
+      "resumen": "El Decreto Supremo 5698, anunciado el 2 de septiembre de 2026 por el ministro de Defensa Ernesto Justiniano, elevó de 120 a 2.500 litros mensuales el diésel a 9,80 bolivianos por litro para pequeños productores. El precio para grandes consumidores queda en 18 bolivianos y el combustible no puede transferirse bajo ningún título.",
+      "fuente": "Gobierno de Bolivia, Decreto Supremo 5698, vía agencias (Infobae)",
+      "url": "https://www.infobae.com/america/agencias/2026/09/02/gobierno-de-bolivia-sube-cupo-de-diesel-subvencionado-a-pequenos-productores-ante-reclamos/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El Baltic Dry no afloja: 3.628 puntos y otro 4% arriba en la última rueda de la semana",
+      "resumen": "El índice cerró el 4 de septiembre de 2026 en 3.628 puntos, 140 más que la rueda previa (+4,01%), y extendió el máximo de casi cinco años que había tocado el día anterior. Es la segunda suba diaria consecutiva por encima del 4%.",
+      "fuente": "Baltic Exchange vía TradingEconomics (lectura del 04/09/2026)",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El agro argentino liquidó 2.750 millones de dólares en agosto por maíz, y el año sigue 12% abajo",
+      "resumen": "Según CIARA-CEC, la liquidación de divisas del complejo agroexportador argentino sumó US$ 2.750 millones en agosto de 2026: 33% más que agosto de 2025 pero 6% menos que julio. El acumulado del año llega a US$ 19.047 millones, 12% por debajo del mismo período de 2025.",
+      "fuente": "CIARA-CEC, reportado por Infobae",
+      "url": "https://www.infobae.com/economia/2026/09/01/el-agro-liquido-usd-2750-millones-en-agosto-gracias-a-la-buena-cosecha-de-maiz/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent vuelve a subir el lunes y ya opera un 47% arriba que hace un año",
+      "resumen": "El crudo Brent cerró el 4 de septiembre de 2026 en 96,28 US$/bbl y el lunes 7 operaba en 97,38, un 1,21% arriba. En el último mes acumula 11,01% de suba y contra el mismo período del año pasado, 47,50%.",
+      "fuente": "ICE Brent vía TradingEconomics (lectura del 07/09/2026; el valor del lunes es intradía, no cierre)",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El IMEA sostiene la proyección de Mato Grosso sin tocar un número: 48,88 millones de toneladas",
+      "resumen": "El instituto mantuvo para 2026/27 una superficie de 13,05 millones de hectáreas, productividad de 62,44 sacos por hectárea y producción de 48,88 millones de toneladas, porque todavía no hay información de campo que justifique cambios. Advierte que la distribución de lluvias durante el ciclo será determinante.",
+      "fuente": "IMEA (Instituto Mato-grossense de Economia Agropecuária), vía Safras & Mercado",
+      "url": "https://safras.com.br/projecao-de-safra-de-soja-do-mato-grosso-e-mantida-para-temporada-2026-27-imea",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El maíz también cerró en baja, pero por posicionamiento: el mercado espera que el USDA recorte su propia cosecha el 11 de septiembre",
+      "resumen": "El maíz diciembre-26 cerró el 4 de septiembre de 2026 en 5,36¾ US$/bu, 4 centavos abajo, por toma de ganancias antes del informe. Se espera de forma generalizada que la cosecha se achique respecto de la estimación de agosto, por exceso de humedad y enfermedad en el este y calor y sequía en parte del oeste.",
+      "fuente": "Brownfield Ag News (cierres y lectura de mercado del 04/09/2026)",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-4-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El aceite de soja cede y la harina también: el complejo cerró la semana con los tres productos en rojo",
+      "resumen": "El 4 de septiembre de 2026 el aceite de soja octubre-26 cerró en 68,89 centavos por libra, 74 puntos abajo, y la harina octubre-26 en 348,20 US$ por tonelada corta, 40 centavos abajo. El poroto noviembre-26 también cedió: ningún producto del complejo compensó a los otros.",
+      "fuente": "CBOT, reportado por Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-4-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.6
+    },
+    {
+      "titular": "El café frena la caída con un rebote de un décimo tras perder 4,6% en una sola rueda",
+      "resumen": "El arábica cerró el 4 de septiembre de 2026 en 2,96 US$/lb, apenas 0,1% arriba, después de caer de 3,09 a 2,95 US$/lb entre el 2 y el 3 de septiembre. El azúcar #11, en paralelo, cerró plano en 18,07 centavos por libra por segunda rueda consecutiva.",
+      "fuente": "ICE vía TradingEconomics (lecturas del 04/09/2026)",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.5
+    }
+  ]
+}

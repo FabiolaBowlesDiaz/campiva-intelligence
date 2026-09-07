@@ -6,7 +6,7 @@ tipo: logistica
 vertical: logistica
 pais: GLOBAL
 score: 8.4
-destacado: true
+destacado: false
 lectura: "El granel seco se está encareciendo por una demanda que no tiene nada que ver con la agricultura: acero chino. El grano todavía no paga esa cuenta, y esa asimetría entre capesize y panamax es lo que hay que mirar. Los armadores no distinguen cargas por sentimiento: cuando el segmento grande paga 51.298 dólares por día, la flota rota hacia ahí y el segmento chico se ajusta por arrastre, no por su propia demanda. La campaña sudamericana empieza a fijar bodega para febrero y marzo entre septiembre y noviembre. Se está cotizando ahora un flete que todavía no incorporó el arrastre."
 cifras:
   - label: "El índice general"
