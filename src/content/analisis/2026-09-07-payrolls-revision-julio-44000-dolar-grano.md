@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: macro
 pais: GLOBAL
 score: 8.6
-destacado: true
+destacado: false
 lectura: "El primer dato de empleo no es un dato: es una estimación con error de muestreo que se corrige dos veces. Julio se publicó como una pérdida de 23.000 puestos, el grano operó semanas contra esa lectura, y el 4 de septiembre resultó ser una creación de 21.000. La diferencia son 44.000 empleos y un signo cambiado. Para quien fija precio o cobertura, la conclusión operativa no es macroeconómica sino de procedimiento: el primer print manda en el precio del día pero no manda en la posición del mes."
 cifras:
   - label: "La corrección de julio"

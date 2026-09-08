@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-09-08",
+  "items": [
+    {
+      "titular": "El café tiene el inventario certificado más bajo en 27 años y el precio en mínimo de tres meses: gana el flujo, no el stock",
+      "resumen": "El arábica diciembre-26 cerró el 4 de septiembre de 2026 en 295,60 centavos por libra tras perforar los 300 el 3 de septiembre, mínimo de tres meses. Los inventarios certificados de ICE estaban en 226.242 sacos al 26 de agosto, cerca del piso de noviembre de 2023.",
+      "fuente": "Notícias Agrícolas (cierre ICE) y Perfect Daily Grind (stock certificado)",
+      "url": "https://www.noticiasagricolas.com.br/noticias/cafe/427561-cafe-tenta-estabilizar-apos-forte-queda-da-semana-mas-oferta-brasileira-mantem-pressao-sobre-ny.html",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.3
+    },
+    {
+      "titular": "StoneX sube la cosecha brasileña de café a 77,2 millones de sacas y la convierte en récord histórico",
+      "resumen": "La consultora elevó el 2 de septiembre de 2026 su proyección de la safra 2026/27 desde 75,3 millones de sacas estimadas en marzo: 51,8 millones de arábica y 25,4 millones de conilon. Atribuye la revisión a lluvias favorables en el llenado de grano.",
+      "fuente": "StoneX, vía Notícias Agrícolas",
+      "url": "https://www.noticiasagricolas.com.br/noticias/cafe/427406-stonex-eleva-previsao-de-safra-de-cafe-do-brasil-2627-para-772-mi-sacas.html",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El café peruano crece 10% en kilos y 7,7% en dólares: la diferencia es precio",
+      "resumen": "Entre enero y junio de 2026 el Perú exportó 48,1 millones de kilos de café por 325 millones de dólares. El volumen subió 10,3% y el valor 7,7%, de modo que el precio implícito cedió cerca de 2,4%. Cajamarca sola aporta el 51% del volumen exportado.",
+      "fuente": "Mincetur y PNUD, compilados por Agraria.pe",
+      "url": "https://agraria.pe/noticias/norte-y-centro-sostienen-el-crecimiento-de-las-exportaciones-43025",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El Niño puede adelantar la floración del café brasileño y correr el calendario sanitario de la safra 2027",
+      "resumen": "Una nota técnica difundida el 8 de septiembre de 2026 advierte que las lluvias anticipadas pueden disparar floraciones fuera de la ventana principal de septiembre-octubre. Cita pérdidas potenciales de 30% a 70% de la producción por bicho-mineiro y hasta 20% del peso del grano por broca.",
+      "fuente": "Frederico Gianasi (IHARA), con datos de INMET, INPE, ANA y Cemaden, vía Notícias Agrícolas",
+      "url": "https://www.noticiasagricolas.com.br/noticias/cafe/427594-el-nino-pode-antecipar-florada-e-aumentar-pressao-fitossanitaria-na-safra-2027-do-cafe-brasileiro.html",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "Bolivia pone dos precios al mismo litro de diésel y el agro entra así a la siembra de verano",
+      "resumen": "La ANH informó el 7 de septiembre de 2026 que los pequeños productores inscritos en el RAU compran diésel a 9,80 bolivianos por litro, con tope de 2.500 litros mensuales. Para los grandes consumidores el precio referencial bajó de 18 a 16,50 bolivianos desde el 1 de septiembre.",
+      "fuente": "Agencia Nacional de Hidrocarburos (Resolución RAN-ANH-DJ-UGJN 0041/2026 y precio referencial), vía Publiagro",
+      "url": "https://publiagro.com.bo/2026/09/anh-fija-en-bs-9-80-el-litro-de-diesel-para-pequenos-productores-del-rau/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "Bolivia faenó 198.281 cabezas menos en 2025 y su exportación de carne bovina retrocedió por primera vez tras el récord",
+      "resumen": "El INE reportó una producción de 232.329 toneladas de carne de res en 2025, frente a 274.949 toneladas en 2024. La faena bajó de 1.286.841 a 1.088.560 cabezas y las exportaciones cedieron de 43.169 a 40.381 toneladas. Santa Cruz concentra el 73,1% de la producción.",
+      "fuente": "Instituto Nacional de Estadística de Bolivia, Estadísticas de Derribe de Ganado Bovino 2024-2025, vía Publiagro",
+      "url": "https://publiagro.com.bo/2026/09/bolivia-bajo-su-produccion-y-exportacion-de-carne-de-res-en-2025/",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El maíz boliviano llega a la campaña con déficit de quince años y la mitad de la demanda cubierta con importación",
+      "resumen": "Promasor señaló el 7 de septiembre de 2026 que la producción nacional apenas cubre poco más de la mitad del consumo interno y que el resto se importa. El gremio nombra tres frenos: falta de biotecnología aprobada, abastecimiento irregular de diésel y costos en alza.",
+      "fuente": "Asociación de Productores de Maíz y Sorgo (Promasor), vía Publiagro",
+      "url": "https://publiagro.com.bo/2026/09/productores-de-maiz-enfrentan-escasez-de-diesel-falta-de-biotecnologia-y-mayores-costos/",
+      "vertical": "cereales",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Brent cierra en 97,16 dólares tras ataques en el sur de Arabia Saudita y encarece el flete y la labranza sudamericana",
+      "resumen": "El crudo de referencia cerró el 7 de septiembre de 2026 en 97,16 dólares por barril, 0,9% arriba del cierre del 4 de septiembre. El movimiento siguió a reportes de ataques contra instalaciones de Saudi Aramco en Jizan, cuya magnitud y autoría no fueron confirmadas.",
+      "fuente": "ICE Brent (nov-26) vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El Baltic Dry se sostiene arriba de 3.500 puntos y mantiene el granel seco en su nivel más alto desde 2021",
+      "resumen": "El índice cayó 53 puntos el 7 de septiembre de 2026 hasta 3.575 y recuperó 9 puntos el 8 de septiembre, hasta 3.584. El capesize retrocedió 2,2% a 6.286 puntos el lunes, cerca de su máximo desde diciembre de 2023.",
+      "fuente": "Baltic Exchange, vía Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3584-up-9-points/",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Chicago no operó el lunes y el precio del grano sudamericano quedó fijado por Matba: la soja septiembre cerró en 370,50 dólares",
+      "resumen": "El Informe Diario de la SAGyP del 7 de septiembre de 2026 registra el mercado de Chicago cerrado por el Día del Trabajo en Estados Unidos. En Matba-Rofex la soja SET2026 cerró en 370,50 dólares por tonelada, 1,50 abajo, y el maíz SET2026 en 200,50, medio dólar arriba.",
+      "fuente": "Matba-Rofex, vía Informe Diario del Mercado de Granos de la SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "Los arándanos peruanos suman 608,9 millones de dólares hasta julio y apuntan al mayor pico de campaña de su historia",
+      "resumen": "Los envíos de enero a julio de 2026 crecieron 61,2% frente a los 377,7 millones de dólares del mismo período de 2025. Al 24 de agosto el volumen acumulado llegaba a 124,2 millones de kilos, 55,6% más que un año atrás, con el pico previsto entre septiembre y noviembre.",
+      "fuente": "Inform@cción (Fernando Cillóniz), vía Agraria.pe",
+      "url": "https://agraria.pe/noticias/exportaciones-de-arandanos-se-acercarian-a-los-us-3-000--42992",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.7
+    }
+  ]
+}
