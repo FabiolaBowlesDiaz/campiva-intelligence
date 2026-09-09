@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cafe
 pais: GLOBAL
 score: 8.3
-destacado: true
+destacado: false
 lectura: "Un inventario mínimo y un precio en baja parecen incompatibles y no lo son. El stock certificado mide lo que está disponible hoy en los depósitos de la bolsa; la cosecha brasileña mide lo que va a estar disponible los próximos doce meses. Cuando el flujo que viene es récord, el disponible deja de ser el dato que manda. Para el exportador andino la consecuencia es de calendario: la prima de escasez se paga ahora, no en la ventana de embarque de fin de año."
 cifras:
   - label: "El inventario disponible"

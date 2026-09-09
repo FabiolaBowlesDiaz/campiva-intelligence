@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-09",
+  "items": [
+    {
+      "titular": "El barril subió 36% y el buque que lo lleva subió 900%: el cuello de botella no es el crudo",
+      "resumen": "El VLCC en la ruta Golfo Pérsico-Singapur (TD2) rindió 702.000 dólares por día en la semana 35 de 2026, más de 900% arriba de un año atrás. Las rutas al oeste de Suez —África Occidental-China (219.000) y Golfo de EE.UU.-China (208.000)— quedaron a un tercio de ese nivel.",
+      "fuente": "AXSMarine — Weekly Tanker Market Monitor, semana 35",
+      "url": "https://public.axsmarine.com/blog/weekly-tanker-market-monitor-week-35-2026-2",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "El seguro de guerra pasó de 0,25% a 12,5% del valor del casco por cruzar Ormuz",
+      "resumen": "Las primas de riesgo de guerra se colocan entre 7,5% y 12,5% del valor del buque por tránsito, contra cerca de 0,25% antes del conflicto. Las exportaciones de crudo iraquí pasaron de 1,35 millones de barriles diarios en julio a 2,35 millones en agosto de 2026.",
+      "fuente": "Breakwave Advisors — Bi-Weekly Tanker Report",
+      "url": "https://www.breakwaveadvisors.com/insights/980026wetreportkju458-ook57",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El Brent cierra en 97,92 dólares y toca 99 en la rueda tras las explosiones reportadas en Kharg",
+      "resumen": "El crudo Brent cerró el 8 de septiembre de 2026 en 97,92 dólares por barril y llegó a rozar los 99 durante la sesión; el WTI subió 2,7% por encima de 94. La prensa financiera atribuye el movimiento a ataques a instalaciones energéticas sauditas y a explosiones reportadas en la isla iraní de Kharg.",
+      "fuente": "ICE Brent vía TradingEconomics y NBC News",
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "La EIA proyectaba el Brent en 85 dólares para este trimestre y el mercado ya paga 98",
+      "resumen": "El Short-Term Energy Outlook del 11 de agosto de 2026 —dato de hace casi un mes— ubicaba el Brent en 85 dólares por barril en el tercer trimestre de 2026 y en 69 para 2027, con una disrupción sostenida de 0,6 millones de barriles diarios hasta fin de 2027. La rueda del 8 de septiembre cerró 15% por encima de esa proyección trimestral.",
+      "fuente": "EIA — Short-Term Energy Outlook (edición de agosto)",
+      "url": "https://www.eia.gov/outlooks/steo/report/global_oil.php",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Senado argentino dictaminó subir el corte de biodiésel a 10% y el de bioetanol a 15%",
+      "resumen": "El dictamen del 3 de septiembre de 2026 lleva el biodiésel en el gasoil de 7,5% a 10% y el bioetanol en las naftas de 12% a 15%, con un año de plazo desde la sanción. El 15% de bioetanol se reparte en 6% para caña, 6% para maíz y 3% de libre competencia, con tope de 20% por empresa.",
+      "fuente": "Noticias AgroPecuarias (dictamen del Senado, Orden del Día 362/26)",
+      "url": "https://www.noticiasagropecuarias.com/2026/09/04/biocombustibles-el-senado-amplia-los-cortes-y-se-abrio-una-nueva-disputa-por-el-mercado/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Veinte entidades agroindustriales piden tratamiento urgente del marco de biocombustibles argentino",
+      "resumen": "Bolsas de cereales y comercio, CIARA, CARBIO, Maizar, Coninagro y el Consejo Agroindustrial firmaron el pedido del 8 de septiembre de 2026. El argumento central es la previsibilidad de inversión a 15 años y la habilitación de nuevos productos como el combustible sostenible de aviación y alternativas para transporte marítimo.",
+      "fuente": "Infobae — Revista Chacra",
+      "url": "https://www.infobae.com/revista-chacra/2026/09/08/biocombustibles-fuerte-pedido-al-senado-para-acelerar-el-nuevo-marco-regulatorio/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Bolivia interviene YPFB por 180 días y sube el cupo de diésel subvencionado a 2.500 litros mensuales",
+      "resumen": "El Decreto Supremo 5697 del 1 de septiembre de 2026 dispone la intervención temporal de la estatal por hasta 180 días, prorrogable por 90 más. El Decreto 5698 amplía el cupo de diésel para pequeños productores de 120 a 2.500 litros por mes al precio subvencionado de 9,80 bolivianos por litro.",
+      "fuente": "Gaceta Oficial de Bolivia, reportado por El Diario e Infobae",
+      "url": "https://www.eldiario.net/portal/2026/09/02/pequenos-productores-podran-comprar-hasta-2-500-litros-de-diesel-al-mes-1415/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El trigo de Chicago sube 2% y el maíz cae en la previa del WASDE de septiembre",
+      "resumen": "En la rueda del 8 de septiembre de 2026 el trigo cerró con alza de 2% por la parálisis de embarques en el Mar Negro y la búsqueda asiática de origen argentino y australiano. El maíz cerró en baja por posicionamiento previo al informe mensual del USDA, que se publica el 11 de septiembre.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "La soja de Chicago cierra en 13,03 dólares por bushel, cerca de su máximo desde diciembre de 2023",
+      "resumen": "El poroto cerró el 8 de septiembre de 2026 en 1.302,50 centavos por bushel, sostenido por las compras chinas de origen estadounidense y por condiciones cálidas y secas en zonas productoras. El aceite de soja de Chicago quedó en 1.547,19 dólares por tonelada y la harina en 376,77 para la posición septiembre-26.",
+      "fuente": "CBOT vía TradingEconomics e Informe Diario SAGyP",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El cacao pierde 4,4% en dos ruedas y cae debajo de 5.900 dólares por tonelada",
+      "resumen": "El contrato de Nueva York cerró el 8 de septiembre de 2026 en 5.913 dólares por tonelada, contra 6.188 del cierre del 4 de septiembre. Es el nivel más bajo en dos semanas y el mercado lo atribuye a señales de oferta amplia al inicio de la campaña 2026/27.",
+      "fuente": "ICE Nueva York vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El azúcar consolida en 18,10 centavos tras el máximo de año y medio de comienzos de septiembre",
+      "resumen": "El contrato número 11 cerró el 8 de septiembre de 2026 en 18,10 centavos por libra, apenas 0,2% arriba del cierre del 4 de septiembre. El mercado entró en fase de consolidación después de tocar cerca de máximos de año y medio en los primeros días del mes.",
+      "fuente": "ICE Nueva York vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El café peruano marca un récord de 1.796 millones de dólares y su gremio no espera repetirlo en 2026",
+      "resumen": "El Midagri informó el 1 de septiembre de 2026 el récord exportador, con 223.000 familias productoras en 16 regiones cafetaleras. La Junta Nacional del Café advierte que 2026 no sería año récord porque no se espera ni mayor cosecha ni mejores precios promedio que el año anterior.",
+      "fuente": "Midagri (Perú), vía Nodal y Gestión",
+      "url": "https://www.nodal.am/2026/09/peru-record-de-us-1-796-millones-en-exportaciones-de-cafe/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.9
+    }
+  ]
+}
