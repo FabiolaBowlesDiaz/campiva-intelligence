@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-09-10",
+  "items": [
+    {
+      "titular": "La carne vacuna brasileña pierde 88% de su venta a China y la mitad del hueco se llena en otros mercados",
+      "resumen": "Brasil exportó 233.500 toneladas de carne vacuna en agosto de 2026 (−22,2%), con China en 18.900 t tras agotarse el cupo de la salvaguardia. Estados Unidos (35.300 t, +276%) pasó a ser el primer destino y la Unión Europea duplicó compras antes de excluir a Brasil desde el 3 de septiembre.",
+      "fuente": "ABIEC, vía BeefPoint",
+      "url": "https://beefpoint.com.br/abiec-exportacoes-caem-222-em-agosto-ante-agosto-25-a-2335-mil-t/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.3
+    },
+    {
+      "titular": "El pollo brasileño hace su segundo mejor mes de la historia y China vuelve a ser su primer destino",
+      "resumen": "Brasil exportó 492.634 toneladas de pollo en agosto de 2026 (+24,8%) por 997,9 millones de dólares (+42,7%); solo mayo de este año fue mejor. China compró 50.988 toneladas, contra 83 en agosto de 2025, cuando regía la suspensión por el foco de gripe aviar.",
+      "fuente": "ABPA, vía Agrimidia",
+      "url": "https://agrimidia.com.br/avicultura-industrial/2026/09/09/exportacao-de-carne-de-frango-dispara-248-em-agosto-e-encosta-em-us-1-bilhao/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El Brent cierra en 101,21 dólares, 3,4% arriba en una sola rueda",
+      "resumen": "El crudo cerró el 9 de septiembre de 2026 en 101,21 dólares por barril, contra 97,92 del día anterior. El 10 de septiembre operaba por encima de 102, en máximos de más de tres meses y con un alza cercana a 15% en lo que va del mes, según TradingEconomics.",
+      "fuente": "ICE Brent vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "La soja de Chicago cede antes del WASDE mientras la harina sube contra la corriente",
+      "resumen": "El 9 de septiembre de 2026 el poroto cerró en 475,93 dólares por tonelada (−2,66) y el aceite en 1.543,44 (−3,75), pero la harina subió 1,65 a 378,42 dólares. La SAGyP atribuye el sostén a nuevas ventas de soja estadounidense a China informadas por el USDA.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Malasia acumula 2,82 millones de toneladas de palma, 7,5% más en un mes",
+      "resumen": "Las existencias de aceite de palma subieron 196.590 toneladas en agosto de 2026, con el aceite crudo en 1,64 millones (+15,2%). La producción creció 1,39% a 1,81 millones de toneladas y las exportaciones cayeron 7,5% a 1,29 millones.",
+      "fuente": "MPOB, vía The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/10/malaysia039s-total-palm-oil-stocks-rise-748-to-282mil-tonnes-in-august--mpob",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Se suspende la sesión del Senado argentino que iba a tratar la suba de cortes de biocombustibles",
+      "resumen": "La sesión prevista para el 10 de septiembre de 2026 se levantó y pasaría, como mínimo, a la semana siguiente. El proyecto lleva el biodiésel de 7,5% a 10% y el bioetanol de 12% a 15%; el punto sin acuerdo es la vigencia del 3% reservado a plantas no integradas, fijada hasta 2036.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/politica/2026/09/09/bioetanol-versus-biodiesel-el-trasfondo-de-la-guerra-empujada-por-azucareros-que-frustro-la-sesion-en-el-senado/",
+      "vertical": "energia",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Brasil pasa el millón de toneladas de cerdo exportado en 2026, pero cobra 9% menos por tonelada",
+      "resumen": "En agosto de 2026 las exportaciones de carne porcina sumaron 131.126 toneladas (+8%) y 289,9 millones de dólares (−1,7%): el precio implícito bajó de 2.428 a 2.211 dólares por tonelada (cálculo Campiva). Japón (+92,9%) y China (+45,9%) compensaron la caída de Filipinas (−30,4%).",
+      "fuente": "ABPA, vía Folha Agrícola",
+      "url": "https://folhaagricola.com.br/2026/09/09/exportacoes-de-carne-suina-crescem-8-em-agosto-e-alcancam-1311-mil-toneladas/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Perú exporta 63.521 millones de dólares a julio y el arándano crece 60,8%",
+      "resumen": "Las exportaciones peruanas de enero a julio de 2026 subieron 33%, empujadas por la minería. El sector agropecuario sumó 6.327 millones de dólares (+2,7%), con palta en 1.187 millones (+7,3%), arándano en 649 millones (+60,8%) y quinua en 95 millones (+22,5%).",
+      "fuente": "Mincetur, vía Infobae",
+      "url": "https://www.infobae.com/america/agencias/2026/09/10/exportaciones-de-peru-alcanzaron-a-julio-2026-los-63521-millones-de-dolares-un-33-mas/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "Brasil exporta ganado en pie por un récord de 243,9 millones de dólares en un mes",
+      "resumen": "Las ventas de bovinos vivos de agosto de 2026 sumaron 72.620 toneladas a un precio promedio de 3,36 dólares por kilo, contra 2,75 en enero. El acumulado del año llega a 1.170 millones de dólares y supera por primera vez los 1.000 millones a agosto.",
+      "fuente": "Comex Stat, vía Farmnews",
+      "url": "https://farmnews.com.br/mercado/exportacao-de-bovinos-vivos-alcanca-patamar-historico-em-agosto-de-2026/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "bajo",
+      "score": 5.6
+    },
+    {
+      "titular": "El trigo de Chicago cae 2,6% por la expectativa de negociaciones entre Rusia y Ucrania",
+      "resumen": "La posición septiembre cerró el 9 de septiembre de 2026 en 261,34 dólares por tonelada (7,11 por bushel), con toma de ganancias tras las subas recientes. La SAGyP señala que la incertidumbre sobre los embarques del Mar Negro limitó la baja.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "Expocruz 2026 recibe más de 900 ejemplares cebuinos y 16% más expositores",
+      "resumen": "La Asociación de Criadores de Cebú (Asocebú) informó el ingreso de más de 900 animales de las razas Brahman, Sindi, Gyr, Girolando y Nelore para el juzgamiento, con 16% más expositores. La cantidad obligó a habilitar dos pistas alternas.",
+      "fuente": "Publiagro",
+      "url": "https://publiagro.com.bo/2026/09/mas-de-900-ejemplares-cebuinos-mostraran-la-genetica-boliviana-en-expocruz/",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.1
+    }
+  ]
+}

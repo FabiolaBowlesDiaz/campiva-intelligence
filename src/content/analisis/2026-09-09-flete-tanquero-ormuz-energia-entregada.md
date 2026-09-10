@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: energia
 pais: GLOBAL
 score: 8.2
-destacado: true
+destacado: false
 lectura: "Quien presupuesta combustible mirando la cotización del Brent está mirando la mitad del problema. La escasez de esta coyuntura no es de crudo —Irak subió sus embarques de 1,35 a 2,35 millones de barriles diarios entre julio y agosto— sino de buques dispuestos a entrar y salir del Golfo. Eso arma un mercado de dos velocidades: al este de Suez el flete rinde tres veces lo que rinde al oeste. Para el importador latinoamericano, que se abastece del Atlántico, la buena noticia es que no paga la prima de Ormuz de forma directa; la mala es que la flota mundial rota hacia donde está el dinero y el arrastre llega igual, con retraso. La conclusión operativa es separar en el presupuesto el precio de la molécula del costo de moverla, porque este trimestre se están moviendo a ritmos distintos."
 cifras:
   - label: "El barril"
