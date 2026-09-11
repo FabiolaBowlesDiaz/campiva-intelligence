@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: proteina-animal
 pais: BR
 score: 8.3
-destacado: true
+destacado: false
 lectura: "La salvaguardia china no achicó la demanda de carne: la cambió de origen, y agosto es el primer mes que lo muestra completo. Brasil perdió unas 141.000 toneladas en China y colocó la mitad en otros destinos, con un precio promedio 9% más alto. La trampa está en la composición: parte de ese precio vino de la Unión Europea, que desde el 3 de septiembre ya no le compra. El trimestre que empieza se juega en dos variables: cuánto cupo abre Estados Unidos y cuánto cupo le queda en China a los orígenes que no son Brasil. Para Bolivia, que vende a China cerca de tres cuartas partes de su carne, la segunda variable es la que importa."
 cifras:
   - label: "China"

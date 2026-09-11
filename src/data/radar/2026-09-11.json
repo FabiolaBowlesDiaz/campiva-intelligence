@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-11",
+  "items": [
+    {
+      "titular": "Argentina embarca maíz al triple del ritmo normal y el Perú paga 7% más por la misma tonelada",
+      "resumen": "Argentina despacharía 10 millones de toneladas de maíz entre agosto y septiembre de 2026, contra unos 3 millones en un año normal, con el norte de África comprando 45% más que en 2025. En julio y agosto el Perú importó el mismo volumen que un año atrás y pagó 244,3 dólares por tonelada CIF, 7,2% más (aduana peruana procesada por Campiva).",
+      "fuente": "Reuters; Aduana del Perú vía Infonecta (cálculo Campiva)",
+      "url": "https://finance.yahoo.com/news/argentinas-corn-exports-set-record-101814752.html",
+      "vertical": "cereales",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El CPC sube a 75% la probabilidad de un El Niño histórico en octubre-diciembre",
+      "resumen": "La discusión mensual del 10 de septiembre de 2026 mantiene más de 90% de chance de un evento muy fuerte en el otoño-invierno boreal y eleva a 75% la de uno que supere a todos los El Niño desde 1950 (en agosto era 69%). La anomalía de Niño-3.4 fue de +1,8 °C en agosto.",
+      "fuente": "NOAA / Climate Prediction Center",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El Brent salta 6,3% en una rueda y cierra en 107,63 dólares",
+      "resumen": "El 10 de septiembre de 2026 el Brent subió 6,42 dólares y el WTI cerró en 102,48, los dos en máximos desde mayo, tras una nueva ola de ataques a buques y la toma del puerto yemení de Moca por los hutíes. El mismo día la OPEP recortó por quinta vez su previsión de demanda 2026, a +380.000 barriles diarios.",
+      "fuente": "Reuters, vía Business Recorder",
+      "url": "https://www.brecorder.com/news/40438806/oil-surges-6-brent-and-us-crude-both-surpass-100-on-more-tanker-attacks",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "El mercado llega al WASDE de septiembre esperando menos maíz y menos soja en EE.UU.",
+      "resumen": "Los analistas relevados antes del informe del 11 de septiembre de 2026 esperan un rinde de maíz de 178,1 bushels por acre (180,7 en agosto) y stocks finales de 1.533 millones de bushels (1.653). En soja esperan 289 millones de bushels de stock final, contra 320. El informe sale a las 12:00 hora del Este, después de esta edición.",
+      "fuente": "DTN / Progressive Farmer",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/09/09/historic-late-august-price-rallies",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "La Bolsa de Rosario suma 200.000 hectáreas de maíz y recorta la soja para 2026/27",
+      "resumen": "La estimación del 9 de septiembre de 2026 lleva el maíz a 10,6 millones de hectáreas y la soja a 16,7 millones (−100.000), porque la comparación de márgenes empieza a favorecer al cereal. El trigo sube a 21 millones de toneladas, con 93% de los lotes en estado bueno a muy bueno.",
+      "fuente": "Bolsa de Comercio de Rosario (GEA)",
+      "url": "https://www.bcr.com.ar/es/mercados/gea/estimaciones-nacionales-de-produccion/estimaciones",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "Brasil exporta café como nunca en un agosto, pero cobra menos por saco",
+      "resumen": "Brasil embarcó 4,16 millones de sacos en agosto de 2026 (+31%), el mejor agosto de la serie, y facturó 1.331 millones de dólares (+19,8%). El precio promedio cayó 8,6%. Cecafé atribuye el volumen a la entrada tardía del arábica nuevo, demorado por las lluvias de julio.",
+      "fuente": "Cecafé, vía Diário do Comércio",
+      "url": "https://www.cecafe.com.br/publicacoes/noticias/cecafe-relatorio-exportacao-ago2026-20260910/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Bolivia exporta 59% más a julio, con la soya en 614,6 millones de dólares",
+      "resumen": "Las exportaciones bolivianas sumaron 7.928 millones de dólares entre enero y julio de 2026, contra 4.988 millones un año antes, impulsadas por minerales. La soya aportó 614,6 millones (+6%) con 1,43 millones de toneladas; la carne bovina 112,2 millones (+28%) y el azúcar 43,8 millones (+64%).",
+      "fuente": "IBCE, vía La Patria",
+      "url": "https://lapatria.bo/dinero-negocios/economia/minerales-joyeria-impulsan-crecimiento-exportaciones/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "China compra cerca de un millón de toneladas de soja estadounidense en una semana",
+      "resumen": "Las compras de la semana incluyen 340.000 toneladas confirmadas por el USDA y acercan a China a la mitad de los 25 millones de toneladas anuales que se comprometió a comprar hasta 2028. La soja de Chicago cerró el 10 de septiembre de 2026 en 13,16 dólares por bushel (+1,6%).",
+      "fuente": "TradingEconomics; Informe Diario SAGyP",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "El azúcar sube 1,8% y cierra en 18,73 centavos por libra",
+      "resumen": "El contrato de octubre subió 1,8% el 10 de septiembre de 2026, contra 18,40 del día anterior. TradingEconomics atribuye la suba a la demora de la molienda brasileña por lluvias, al petróleo alto que desvía caña hacia el etanol y al déficit 2026/27 que proyecta la Organización Internacional del Azúcar.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El agro peruano llega a agosto en 7.851,9 millones de dólares, con el cacao a la mitad",
+      "resumen": "La agroexportación peruana de enero-agosto de 2026 sumó 7.851,9 millones de dólares (+1,0%), según datos preliminares de SUNAT al 4 de septiembre. El arándano creció 34,6% (1.036,7 millones) y la palta 6,9% (1.472,6 millones), mientras el cacao cayó 50,1% (586,9 millones).",
+      "fuente": "FreshFruit (SUNAT, datos preliminares)",
+      "url": "https://freshfruit.pe/2026/09/08/ocho-meses-de-2026-el-agro-se-acerca-los-us-8000-millones/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "La inflación de EE.UU. llega a 3,4% en agosto, con la gasolina como principal motor",
+      "resumen": "El índice de precios al consumidor subió 0,4% en agosto de 2026 y 3,4% en doce meses; el núcleo, 0,3% y 2,4%. La gasolina subió 3,9% y explicó más de un tercio del alza mensual. TradingEconomics reporta que el mercado asigna cerca de 90% de probabilidad a una suba de tasas en la reunión del 15 y 16 de septiembre.",
+      "fuente": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.3
+    },
+    {
+      "titular": "Un ataque detiene la planta de aceite de girasol de Bunge en Dnipro",
+      "resumen": "La planta, que vende aceite bajo la marca Oleina en Ucrania, suspendió operaciones tras el ataque ruso del 10 de septiembre de 2026, que dañó parte de la instalación. La empresa informó que ningún empleado resultó herido.",
+      "fuente": "UkrAgroConsult",
+      "url": "https://ukragroconsult.com/en/news/bunge-sunflower-oil-facility-suspends-operations-after-russian-attack/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.5
+    }
+  ]
+}
