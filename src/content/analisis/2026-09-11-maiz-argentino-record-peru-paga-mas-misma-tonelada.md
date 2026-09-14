@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: LATAM
 score: 7.9
-destacado: true
+destacado: false
 lectura: "El récord argentino no le quitó maíz al Perú: le llegó el mismo volumen, más caro. En julio y agosto la tonelada CIF costó 7,2% más que un año atrás, y esas facturas todavía no incluyen la suba de fines de agosto en Chicago. El colchón que el origen argentino ofrecía en agosto —una prima que llegó a 16 dólares sobre Chicago— hoy es de menos de un dólar. Con el 99% del volumen en un solo proveedor que además tiene compradores nuevos en el norte de África, el importador peruano entra al cuarto trimestre con el volumen asegurado y el precio sin cobertura."
 cifras:
   - label: "Precio CIF jul-ago"

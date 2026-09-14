@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-14",
+  "items": [
+    {
+      "titular": "El girasol del Mar Negro no sale y la India compra aceite de soja récord",
+      "resumen": "La India importó 601.000 toneladas de aceite de soja en agosto de 2026 (+21%, récord) y 157.000 de girasol (−38%), según operadores relevados por Reuters. El USDA proyecta el 11 de septiembre que el girasol de Rusia y Ucrania lidere el crecimiento del comercio de aceites 2026/27 (+15%), con los envíos por el Mar Negro y el Azov suspendidos desde fines de julio.",
+      "fuente": "Reuters, vía Business Recorder; USDA FAS",
+      "url": "https://www.brecorder.com/news/40437595/indias-soyoil-imports-hit-record-high-in-august-and-palm-six-month-peak-dealers-say",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El USDA agranda la soja de EE.UU. y aun así recorta su stock final a 310 millones de bushels",
+      "resumen": "El WASDE del 11 de septiembre de 2026 subió el rinde a 52,8 bushels por acre y la producción a 4.535 millones de bushels, y elevó la exportación en 25 millones, a 1.685 millones. El mercado esperaba un stock de 290 a 298 millones: la soja de Chicago (sep-26) cayó 2,7% ese día.",
+      "fuente": "USDA — WASDE 675",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0926.pdf",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Arabia Saudita cierra el oleoducto que esquivaba Ormuz y el Brent vuelve sobre 109 dólares",
+      "resumen": "El oleoducto Este-Oeste, con capacidad para 7 millones de barriles diarios hacia el puerto de Yanbu, suspendió operaciones tras ataques con drones del 10 de septiembre de 2026. El Brent, que el viernes 11 cerró en 104,61 dólares, subía más de 4% el lunes 14, en torno a 109 dólares.",
+      "fuente": "The National; ICE Brent vía TradingEconomics",
+      "url": "https://www.thenationalnews.com/business/energy/2026/09/14/oil-nears-108-after-saudi-arabia-shuts-pipeline-amid-attacks/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El USDA recorta 213 millones de bushels de maíz y el stock final igual supera lo esperado",
+      "resumen": "El rinde de maíz de EE.UU. bajó a 178,5 bushels por acre (180,7 en agosto) y la producción a 15.800 millones de bushels. El stock final quedó en 1.567 millones, sobre los 1.533 que esperaba el mercado, porque el USDA recortó 150 millones el uso forrajero; el precio promedio al productor sube 0,30 dólar, a 4,80.",
+      "fuente": "USDA — WASDE 675; AgOptimus (expectativas del mercado)",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0926.pdf",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El Niño le quita 22.000 toneladas al arándano peruano antes de su semana pico",
+      "resumen": "Proarándanos bajó su proyección de exportación 2026-27 a 382.000 toneladas, 6% menos que las 404.000 de agosto y todavía 20% sobre las 318.000 de la campaña anterior. El calor adelantó la cosecha y achicó el calibre: la semana pico (la 42) tendría 16.500 toneladas, 21% menos que el pico de 2025-26.",
+      "fuente": "Proarándanos, vía International Blueberry Organization",
+      "url": "https://www.internationalblueberry.org/2026/09/11/proarandanos-proyecta-una-reduccion-en-el-volumen-de-exportacion/",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Anapo: producir granos en Bolivia cuesta entre 20% y 30% más que hace un año",
+      "resumen": "El presidente de Anapo, Abraham Nogales, atribuyó el alza al dólar paralelo sobre los insumos importados y al diésel, que pasó de 3,72 a 9,80 bolivianos por litro. La asociación ubica el rinde de soya boliviano en unas 2 toneladas por hectárea, contra 3 en los países vecinos (declaraciones del 7 de septiembre de 2026).",
+      "fuente": "Urgente.bo",
+      "url": "https://www.urgente.bo/noticia/mas-de-20-anos-de-rezago-anapo-advierte-que-producir-granos-ahora-cuesta-hasta-30-mas",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Malasia acumula aceite de palma por quinto mes y la cotización toca mínimo de dos semanas",
+      "resumen": "El stock malayo subió 7,48% en agosto de 2026, a 2,82 millones de toneladas (máximo de ocho meses), con producción de 1,81 millones (+1,39%) y exportaciones de 1,29 millones (−7,5%), según el MPOB. El contrato de noviembre cerró el 11 de septiembre en 4.818 ringgit por tonelada (−1,37%; −2,25% en la semana).",
+      "fuente": "MPOB, vía Reuters / Business Recorder",
+      "url": "https://www.brecorder.com/news/40438818/malaysia-palm-oil-stocks-hit-8-month-high-as-output-rises-exports-fall",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "El USDA sube 3 millones de toneladas el stock mundial de trigo con Australia y Canadá",
+      "resumen": "El WASDE del 11 de septiembre de 2026 elevó la cosecha australiana a 31,0 millones de toneladas y la canadiense a 36,0 millones, y llevó el stock final mundial 2026/27 a 276,3 millones. Recortó las exportaciones de Rusia y Ucrania por los embarques débiles de agosto; el trigo de Chicago (sep-26) cayó 2,2%.",
+      "fuente": "USDA — WASDE 675; Informe Diario SAGyP",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde0926.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "Argentina ya sembró el 23,4% de un girasol récord de 3 millones de hectáreas",
+      "resumen": "Tras una semana sin lluvias, la siembra de girasol 2026/27 avanzó 4,1 puntos; en el NEA cubre el 94% del área prevista y en el centro-norte de Santa Fe, el 50%, mientras en el sur no empezó. El maíz cubre el 5,5% de 8,4 millones de hectáreas (Bolsa de Cereales de Buenos Aires, 10 de septiembre de 2026).",
+      "fuente": "Bolsa de Cereales de Buenos Aires, vía Noticias AgroPecuarias",
+      "url": "https://www.noticiasagropecuarias.com/2026/09/10/tras-una-semana-sin-lluvis-se-aceleraron-las-siembras-de-maiz-y-de-girasol/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "La Fed decide el 16 de septiembre con 86% de probabilidad de suba de tasas",
+      "resumen": "El mercado asigna 86% de probabilidad a una suba de 25 puntos básicos en la reunión del 15 y 16 de septiembre de 2026, tras un IPC núcleo de agosto de 0,3% mensual. El índice dólar cerró el viernes 11 en 99,12 y el lunes 14 subía por cuarta rueda seguida, con el petróleo sobre 100 dólares.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "El azúcar cae 3,1% y se aleja de su máximo de diecisiete meses",
+      "resumen": "El contrato de octubre cerró el 11 de septiembre de 2026 en 18,15 centavos por libra, contra 18,73 del día anterior. La Organización Internacional del Azúcar proyecta un déficit de 260.000 toneladas en 2026/27 y una caída de al menos 17% en la producción de Tailandia.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.4
+    },
+    {
+      "titular": "El Baltic Dry cierra la semana con una baja de 3,3%",
+      "resumen": "El índice cerró el 11 de septiembre de 2026 en 3.507 puntos (−0,4%), su segunda baja seguida. El capesize bajó 0,7% a 6.080 puntos y el panamax, el buque del grano, 0,1% a 2.407.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.6
+    }
+  ]
+}
