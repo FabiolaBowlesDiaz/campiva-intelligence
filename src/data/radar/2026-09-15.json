@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-15",
+  "items": [
+    {
+      "titular": "El Niño costero se lleva la anchoveta y la harina de pescado vale 90% más que hace un año",
+      "resumen": "El ENFEN ratificó el 14 de septiembre de 2026 que la magnitud más probable del Niño costero es extraordinaria hasta enero, la ventana de la segunda temporada de anchoveta. En agosto la harina de pescado cotizó 3.240 dólares por tonelada en Hamburgo (1.700 un año antes) y el Perú exportó 48% menos toneladas en enero-julio (BCRP).",
+      "fuente": "ENFEN — Comunicado Oficial N.° 16-2026; BCRP",
+      "url": "https://enfen.imarpe.gob.pe/comunicados/",
+      "vertical": "nutricion-animal",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Olam y Louis Dreyfus preparan entregas que pueden duplicar el stock certificado de arábica",
+      "resumen": "Las dos casas planean certificar unas 300.000 sacas de café brasileño contra el contrato de diciembre en ICE, cuyo stock bajó a menos de 220.000 sacas, mínimo de 26 años; más de 62.000 sacas ya esperan clasificación (Reuters, 11 de septiembre de 2026). El arábica de diciembre cerró el 14 de septiembre en 290,50 centavos por libra (+1,7%).",
+      "fuente": "Reuters, vía KSL; ICE vía TradingEconomics",
+      "url": "https://www.ksl.com/article/51622842/coffee-traders-big-shipments-are-set-to-boost-exchange-stocks-and-weigh-on-prices",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "Brasil embarca el mejor agosto de su historia en café y cobra menos por cada saca",
+      "resumen": "Las exportaciones brasileñas sumaron 4,155 millones de sacas en agosto de 2026 (+31%) y 1.331 millones de dólares (+19,8%), según Cecafé: el ingreso por saca bajó de unos 350 a 320 dólares (−8,6%, cálculo Campiva). La lluvia de julio retrasó la llegada del arábica nuevo, que se concentró en agosto.",
+      "fuente": "Cecafé, vía Times Brasil",
+      "url": "https://timesbrasil.com.br/empresas-e-negocios/agro/exportacoes-de-cafe-do-brasil-registram-o-melhor-agosto-da-historia-com-alta-de-31-no-volume/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 6.7
+    },
+    {
+      "titular": "Ghana planea pagarle al productor de cacao 75% más que Costa de Marfil",
+      "resumen": "El Cocobod propone subir 6% el precio al productor 2026/27, a 2.737 cedis (unos 240 dólares) por bolsa de 64 kilos, sujeto a la aprobación del ministro de Finanzas, mientras Costa de Marfil lo mantiene en 1.200 francos CFA por kilo (Bloomberg, 9 de septiembre de 2026). La brecha reaviva el riesgo de contrabando hacia Ghana; el cacao de Nueva York cerró el 14 de septiembre en 6.023 dólares (+1,0%).",
+      "fuente": "Bloomberg, vía BusinessMirror; ICE vía TradingEconomics",
+      "url": "https://businessmirror.com.ph/2026/09/09/ghana-plans-6-cocoa-price-hike-risking-more-ivorian-smuggling/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El camarón supera al petróleo en Ecuador y el cacao cae a menos de la mitad",
+      "resumen": "Entre enero y julio de 2026 Ecuador exportó 5.765,7 millones de dólares de camarón (+17,6%), por encima de los 5.724,1 millones del petróleo, según el Banco Central del Ecuador. El cacao y sus elaborados cayeron 54,6%, a 1.195,7 millones, por la baja del precio internacional.",
+      "fuente": "Banco Central del Ecuador, vía Primicias",
+      "url": "https://www.primicias.ec/economia/camaron-petroleo-mineria-exportaciones-cacao-julio-132391/",
+      "vertical": "macro",
+      "pais": "EC",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El Perú exporta más agro que en 2025 aunque el cacao y el café le restan 700 millones de dólares",
+      "resumen": "La agroexportación de enero-agosto de 2026 llegaría a 8.032 millones de dólares (+1,0%), con datos de Sunat al 4 de septiembre. El cacao cayó 50,1% y el café 13,8%; sin ambos, el resto creció 10,1% (6.563,5 millones), con el arándano en 1.036,7 millones (+34,6%) y la palta en 1.472,6 millones (+6,9%).",
+      "fuente": "FreshFruit, con datos de Sunat",
+      "url": "https://freshfruit.pe/2026/09/08/ocho-meses-de-2026-el-agro-se-acerca-los-us-8000-millones/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Colombia produce 12% menos café en agosto y suma un año de caída",
+      "resumen": "La producción de agosto de 2026 fue de 1,09 millones de sacos de 60 kilos (−12%) y la de los últimos doce meses, 12,58 millones (−15%), según la Federación Nacional de Cafeteros. Las exportaciones del mes bajaron 10%, a 1,05 millones de sacos; Cenicafé proyecta una cosecha 2026 de 12,2 millones.",
+      "fuente": "Federación Nacional de Cafeteros, vía La República",
+      "url": "https://www.larepublica.co/economia/produccion-nacional-de-cafe-en-agosto-fue-de-1-09-millones-de-sacos-y-cayo-12-4474559",
+      "vertical": "cafe",
+      "pais": "CO",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El quintal de harina argentina sube 16% en La Paz en dos semanas",
+      "resumen": "Comerciantes reportan que pasó de 310 a 360 bolivianos y lo atribuyen al tipo de cambio y al diésel; la harina nacional se vende entre 135 y 340 bolivianos. La federación de panificadores se declaró en emergencia y tiene prevista una reunión con el Gobierno el 16 de septiembre de 2026 (Urgente.bo, 14 de septiembre).",
+      "fuente": "Urgente.bo",
+      "url": "https://www.urgente.bo/noticia/comerciantes-de-la-paz-reportan-que-el-quintal-de-la-harina-argentina-subio-bs-360",
+      "vertical": "cereales",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El Brent sube por segunda rueda y opera en máximo de cuatro meses",
+      "resumen": "Cerró el 14 de septiembre de 2026 en 105,68 dólares (+1,0%) y el 15 operaba cerca de 107,5, con el oleoducto saudí Este-Oeste todavía fuera de servicio y sin fecha de reinicio. Es la vía que permite exportar crudo saudí sin cruzar Ormuz.",
+      "fuente": "ICE Brent vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "La Fed decide el 16 de septiembre con 92% de probabilidad de suba",
+      "resumen": "El mercado asigna cerca de 92% de probabilidad a una suba de 25 puntos básicos, que sería la primera desde 2023. El índice dólar cerró el 14 de septiembre de 2026 en 99,39, su cuarta suba seguida, y el 15 operaba sobre 99,6.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "El trigo cede tras un anuncio de tregua energética entre Rusia y Ucrania que ninguno de los dos confirmó",
+      "resumen": "El 14 de septiembre de 2026 el presidente Trump informó que ambos países acordaron no atacar objetivos energéticos; la presidencia ucraniana no hizo comentarios y el Kremlin no informó si lo cumplirá (France 24). El trigo de Chicago (dic-26) bajó 1,19 dólares, a 265,29 por tonelada, y la SAGyP lo atribuyó a la expectativa de un mejor flujo por el Mar Negro.",
+      "fuente": "France 24; Informe Diario SAGyP",
+      "url": "https://www.france24.com/en/live-news/20260914-trump-says-ukraine-russia-agree-not-to-hit-energy-targets",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    },
+    {
+      "titular": "El Baltic Dry baja por tercera rueda y vuelve a su nivel del 2 de septiembre",
+      "resumen": "El índice cerró el 14 de septiembre de 2026 en 3.445 puntos (−1,8%). El capesize cayó 2,8%, a 5.912, y el panamax, el buque del grano, 0,6%, a 2.393.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.6
+    }
+  ]
+}

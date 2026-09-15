@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: soya
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "El pronóstico del USDA cuenta cosecha; la India compra lo que llega. Mientras los puertos del Mar Negro sigan cerrados, la demanda que el girasol no cubre va al aceite de soja de Argentina y Brasil, y al girasol argentino que se siembra ahora. Es una ventana, no un nivel: la cosecha rusa y ucraniana existe y vuelve al mercado el día que el puerto abra."
 cifras:
   - label: "Aceite de soja a la India"
