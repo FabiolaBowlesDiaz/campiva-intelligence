@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: nutricion-animal
 pais: PE
 score: 7.9
-destacado: true
+destacado: false
 lectura: "La escasez de harina de pescado no es un pico de precio: es una temporada perdida y otra en riesgo. Mientras dure, la acuicultura va a reformular su alimento con más proteína terrestre donde la dieta lo permita, y la torta de soya de la cuenca sudamericana, que ya crece en Ecuador, es la candidata natural. La ventana dura lo que dure el Niño costero; el cliente queda si el producto y la logística cumplen."
 cifras:
   - label: "Harina de pescado en Hamburgo"

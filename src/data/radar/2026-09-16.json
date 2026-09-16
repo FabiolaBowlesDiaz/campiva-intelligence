@@ -1,0 +1,125 @@
+{
+  "fecha": "2026-09-16",
+  "items": [
+    {
+      "titular": "El cacao tiene el mayor inventario en dos años y la peor cosecha marfileña proyectada en años",
+      "resumen": "Las existencias de la bolsa ICE llegaron a 3.436.742 sacos el 4 de septiembre de 2026, máximo de dos años, y seguían en 3.421.136 el 14 de septiembre. Al mismo tiempo, la cosecha 2026/27 de Costa de Marfil se proyecta en 1,8 millones de toneladas, 18% menos que la actual; el contrato de diciembre cerró el 15 de septiembre en 5.923 dólares por tonelada.",
+      "fuente": "ICE y Conseil Café-Cacao, vía Foreign Policy Journal; TradingEconomics",
+      "url": "https://www.foreignpolicyjournal.com/2026/09/15/cocoa-markets-slide-as-ivory-coast-supply-data-and-record-inventories-weigh-on-prices-ice-ccz26/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 8.0
+    },
+    {
+      "titular": "El arábica cierra en su nivel más bajo desde junio y pierde la prima de escasez",
+      "resumen": "El contrato de diciembre cerró el 15 de septiembre de 2026 en 283,65 centavos por libra, 2,4% abajo, presionado por el récord de embarques brasileños de agosto y por la mayor disponibilidad de la próxima campaña. El robusta de Londres también opera en mínimos desde principios de junio.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Conab abre la campaña brasileña 2026/27 con récord de maíz y soja apenas plana",
+      "resumen": "El primer levantamiento, publicado el 15 de septiembre de 2026, proyecta 366,6 millones de toneladas de granos: maíz 148 millones (+2,8%, el mayor de la historia) y soja 181,64 millones, con un avance de solo 0,7% sobre 49,3 millones de hectáreas. La estimación de maíz supera a la del USDA.",
+      "fuente": "Conab, vía Muzambinho e Informe Diario SAGyP",
+      "url": "https://muzambinho.com.br/2026/09/15/producao-de-graos-na-safra-2026-27-pode-chegar-a-3666-milhoes-de-toneladas-projeta-conab/",
+      "vertical": "cereales",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "La harina de soja salta 11 dólares por tonelada en una rueda y arrastra al poroto",
+      "resumen": "La posición octubre de Chicago pasó de 386,03 a 396,94 dólares por tonelada el 15 de septiembre de 2026 (+2,8%) y la soja subió 1,2%. La SAGyP atribuye el movimiento a una molienda mensual menor a la esperada y a una marcada reducción de las existencias de aceite en Estados Unidos.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El Niño sigue en territorio histórico y apunta al trimestre de la cosecha marfileña",
+      "resumen": "La discusión del CPC/NOAA del 10 de septiembre de 2026 mantiene más de 90% de probabilidad de un evento muy fuerte y 75% de que sea histórico, con la anomalía de Niño-3.4 en +1,8 °C. El pico cae sobre la cosecha principal de cacao de África Occidental y la siembra de verano del Cono Sur.",
+      "fuente": "NOAA/CPC — ENSO Diagnostic Discussion",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.9
+    },
+    {
+      "titular": "Ecuador va a exportar más cacao que nunca y a cobrar mil millones de dólares menos",
+      "resumen": "El Banco Central del Ecuador estima que el volumen colocado crecerá 9,2%, a unas 648.000 toneladas, mientras Anecacao proyecta cerrar 2026 sobre los 3.000 millones de dólares. En el primer semestre el valor exportado ya había caído 57,5%, de 2.310,5 a 982,8 millones.",
+      "fuente": "Banco Central del Ecuador y Anecacao, vía Infobae y El Diario (EC)",
+      "url": "https://www.infobae.com/america/america-latina/2026/08/26/ecuador-exportara-mas-cacao-en-2026-pero-podria-recibir-casi-usd-2000-millones-menos/",
+      "vertical": "cacao",
+      "pais": "EC",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El Brent cierra sobre 108 dólares y encadena su tercera rueda en alza",
+      "resumen": "Cerró el 15 de septiembre de 2026 en 108,75 dólares por barril, 2,9% arriba, y el 16 retrocedía hacia 107 por señales de mayores inventarios en Estados Unidos. Es el nivel más alto en cuatro meses y presiona el costo del flete y del fertilizante de la campaña de verano.",
+      "fuente": "ICE Brent vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "El quintal de harina sube 46% en Bolivia y el pan de batalla queda congelado en Bs 0,80",
+      "resumen": "El precio pasó de 260 a 380 bolivianos, la manteca de 350 a 370 y el azúcar de 200 a 260, según la confederación de panificadores, que se declaró en emergencia y se reunió con el Gobierno el 16 de septiembre de 2026 en La Paz. El sector sostiene que el costo actual equivale a un pan de Bs 1,30.",
+      "fuente": "Conapabol, vía El Diario (Bolivia) y Erbol",
+      "url": "https://www.eldiario.net/portal/2026/09/11/panificadores-buscan-acuerdo-con-gobierno-para-evitar-alza-del-pan/",
+      "vertical": "cereales",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El trigo sube en Chicago porque la tregua del Mar Negro duró menos que el anuncio",
+      "resumen": "La posición diciembre cerró el 15 de septiembre de 2026 en 267,68 dólares por tonelada (+2,39), después de nuevos ataques contra infraestructura que desarmaron el optimismo del cese anunciado el 14. Una compra grande de trigo molinero por parte de Argelia agregó respaldo.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "Seis de cada diez exportadores de café del Perú son empresas micro, pequeñas o medianas",
+      "resumen": "El 59% de las empresas que exportaron café en 2025 fueron mipymes, sobre ventas totales de 1.800 millones de dólares, 63% más que en 2024. Más de 230.000 familias viven del cultivo y el país es el octavo exportador mundial y el cuarto de América Latina.",
+      "fuente": "Agraria.pe",
+      "url": "https://agraria.pe/noticias/el-59-de-las-empresas-exportadoras-cafe-en-2025-fueron-mipym-43084",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "La Reserva Federal define hoy su tasa con el dólar en su quinta suba seguida",
+      "resumen": "El índice dólar cerró el 15 de septiembre de 2026 en 99,62 (+0,2%) antes del anuncio del Comité, previsto para el 16 a las 14:00 hora del Este tras la reunión del 15 y 16. Un dólar más firme le resta poder de compra al importador de grano de la región.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "El Baltic Dry cae por cuarta rueda y toca su nivel más bajo desde el 2 de septiembre",
+      "resumen": "El índice cerró el 15 de septiembre de 2026 en 3.360 puntos, 2,5% abajo, con la presión concentrada en los segmentos de buques grandes: capesize y panamax. El panamax es el buque que mueve el grano de la cuenca sudamericana.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.7
+    }
+  ]
+}
