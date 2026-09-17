@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cacao
 pais: GLOBAL
 score: 8.0
-destacado: true
+destacado: false
 lectura: "El cacao dejó de cotizar la campaña que viene y volvió a cotizar el stock que puede tocar. Es el espejo exacto del café, que hace un mes hacía lo contrario. Para el origen americano la consecuencia es dura: el volumen que gana no compensa el precio que pierde, y la ventaja deja de ser la tonelada para pasar a ser el contrato."
 cifras:
   - label: "Existencias certificadas en ICE"

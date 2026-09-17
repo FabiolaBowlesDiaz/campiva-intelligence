@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-09-17",
+  "items": [
+    {
+      "titular": "Europa acepta los controles sanitarios de Brasil y el pollo queda cerca de volver; la carne vacuna, no",
+      "resumen": "El Ministerio de Agricultura de Brasil informó el 16 de septiembre de 2026 que la Unión Europea votó y aceptó sus protocolos sobre uso de antimicrobianos, lo que abre la reinscripción del pollo en la lista de proveedores. Falta que Bruselas publique el protocolo operativo; para la carne vacuna la Comisión exige garantías durante toda la vida del animal.",
+      "fuente": "Ministerio de Agricultura de Brasil, vía Rádio Itatiaia; Comisión Europea, vía Euronews",
+      "url": "https://www.itatiaia.com.br/agro/uniao-europeia-aceita-protocolos-do-brasil-e-deve-liberar-carne-de-frango-aponta-mapa/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "La Fed sube la tasa por primera vez desde 2023 y el dólar vuelve a pasar los 100 puntos",
+      "resumen": "El 16 de septiembre de 2026 la Reserva Federal subió 25 puntos básicos, a un rango de 3,75%-4%, en una votación unánime, con la inflación empujada por la energía. El índice dólar cerró ese día en 100,25 puntos (+0,6%), su nivel más alto en unas siete semanas.",
+      "fuente": "Reserva Federal, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "China llega a la cumbre del 24 de septiembre con cerca de la mitad de su compromiso de soja cumplido",
+      "resumen": "Tras comprar alrededor de 1 millón de toneladas de soja estadounidense en la semana previa, China se acerca a la mitad de las 25 millones de toneladas anuales que se comprometió a adquirir hasta 2028. La soja de Chicago noviembre cerró el 16 de septiembre de 2026 en 485,20 dólares por tonelada.",
+      "fuente": "UPI (17/09/2026); Informe Diario del Mercado de Granos, SAGyP",
+      "url": "https://www.upi.com/Top_News/World-News/2026/09/17/china-soybean-purchases/4421789590419",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "Inspectores chinos auditan desde el domingo 17 plantas de carne en Brasil",
+      "resumen": "El Ministerio de Agricultura de Brasil confirmó una misión sanitaria de China a partir del 20 de septiembre de 2026 para auditar 17 plantas de carne vacuna, porcina y aviar. Japón y Corea del Sur ya concluyeron misiones técnicas y negocian abrir por primera vez su mercado a la carne vacuna brasileña.",
+      "fuente": "Ministerio de Agricultura de Brasil, vía Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/agro/uniao-europeia-aceita-protocolos-do-brasil-e-deve-liberar-carne-de-frango-aponta-mapa/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El Brent cede casi 3 dólares por la reparación del oleoducto saudí",
+      "resumen": "El Brent cerró el 16 de septiembre de 2026 en 105,83 dólares por barril (−2,7%) ante reportes de que Arabia Saudita restablecerá en días cerca de la mitad de la capacidad de su oleoducto Este-Oeste. El 17 de septiembre operaba en torno a 104 dólares.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El arábica suma su nivel más bajo en once semanas con Brasil embarcando fuerte",
+      "resumen": "El contrato de diciembre cerró el 16 de septiembre de 2026 en 281,55 centavos por libra (−0,7%), mínimo desde junio y 11,3% menos que cuatro semanas antes. Los embarques brasileños de café verde siguieron firmes a comienzos de septiembre, tras el récord de agosto.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El trigo sube con recortes de oferta en Canadá y de exportación en Francia",
+      "resumen": "El trigo de Chicago diciembre cerró el 16 de septiembre de 2026 en 268,51 dólares por tonelada (+0,83). La SAGyP atribuye el alza a una proyección oficial canadiense de menor producción, a la reducción del área de trigo de invierno anticipada por Ucrania y a un recorte de las exportaciones francesas.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "Santa Cruz: el pollo vivo se paga 8,75 bolivianos el kilo y el maíz ronda los 105 por quintal",
+      "resumen": "El boletín de la Asociación de Avicultores del 16 de septiembre de 2026 fija el pollo vivo al productor en 8,50-9,00 Bs/kg, sin cambios, y el pollo al consumidor en 12,63 Bs/kg promedio en cuatro mercados cruceños (12,94 el día previo). El maíz cotiza 103-106 Bs/qq y el sorgo 70-72 Bs/qq.",
+      "fuente": "ADA — Boletín referencial de precios avícolas",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-16sep2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "Cinco frutas y granos explican 45% del agro peruano; el arándano crece 65% en julio",
+      "resumen": "La agroexportación peruana sumó 6.840 millones de dólares en enero-julio de 2026 (+2,5%). Palta (1.128 millones), uva (806), arándano (620), mango (264) y cacao en grano (223) reunieron 3.041 millones; en julio el arándano creció 64,8% y la uva 18,2%.",
+      "fuente": "La República (Perú), 16/09/2026",
+      "url": "https://larepublica.pe/economia/2026/09/16/agroexportaciones-peruanas-rozan-los-us7000-millones-cinco-productos-concentran-casi-la-mitad-de-los-envios-hnews-1046656",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El Baltic Dry encadena cinco bajas y vuelve a niveles del 1 de septiembre",
+      "resumen": "El índice de fletes a granel cayó 1% el 16 de septiembre de 2026, a 3.327 puntos, su quinta rueda negativa. El capesize bajó 1,3% a 5.612 puntos y el panamax, el buque típico del grano, 1,6% a 2.325.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.8
+    }
+  ]
+}
