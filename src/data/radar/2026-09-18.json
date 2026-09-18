@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-09-18",
+  "items": [
+    {
+      "titular": "Brasil sigue haciendo menos azúcar, pero la brecha con el año pasado se achica",
+      "resumen": "El Centro-Sur produjo 3,72 millones de toneladas de azúcar en la segunda quincena de agosto de 2026 (−4,8%), contra −7,9% en la primera quincena; el acumulado de la zafra cae 10,7%. El stock de etanol hidratado quedó 29,6% arriba de un año atrás, según el Ministerio de Agricultura publicado el 17 de septiembre.",
+      "fuente": "Ministerio de Agricultura de Brasil, vía Reuters y CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/producao-de-acucar-do-2/",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El índice de granos del IGC toca su máximo en tres años con menos comercio mundial",
+      "resumen": "El informe del Consejo Internacional de Cereales del 17 de septiembre de 2026 muestra su índice de granos y oleaginosas +6% en el mes y +20% interanual. Proyecta producción de granos 2026/27 de 2.420 millones de toneladas (+4 millones) y comercio de 451 millones, 16 millones menos que el año previo.",
+      "fuente": "International Grains Council (GMR 580)",
+      "url": "https://www.igc.int/en/gmr_summary.aspx",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "La harina de soja sube 2% en Chicago mientras el aceite retrocede",
+      "resumen": "La harina de soja octubre cerró el 17 de septiembre de 2026 en 406,42 dólares por tonelada (+8,60) y el aceite en 1.514,12 (−11,24). La SAGyP lo atribuye a paradas de mantenimiento en plantas de molienda de EE.UU. y a lluvias que demoran la cosecha temprana.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP (Argentina)",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "China se lleva la mitad de las ventas semanales de soja de EE.UU.; el maíz afloja",
+      "resumen": "En la semana al 10 de septiembre de 2026 EE.UU. vendió 1.702.000 toneladas de soja, 875.300 a China. El maíz sumó 1.026.700 toneladas, mínimo de tres semanas, con cancelaciones de 316.200 toneladas de destinos no declarados.",
+      "fuente": "USDA (ventas de exportación), vía Brownfield",
+      "url": "https://www.brownfieldagnews.com/news/beef-pork-export-sales-rise-while-corn-soybeans-fall/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El cacao pierde 3,5% y sigue cayendo por el peso del inventario",
+      "resumen": "El cacao de Nueva York cerró el 17 de septiembre de 2026 en 5.772 dólares por tonelada (−3,5%) y el 18 de septiembre operaba cerca de 5.448 dólares. Las existencias de ICE siguen cerca de 3,42 millones de sacos, máximo de dos años.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Argentina lleva sembrado 11% del maíz 2026/27 y el trigo sigue en buen estado",
+      "resumen": "La Bolsa de Cereales informó el 17 de septiembre de 2026 que la siembra de maíz comercial cubre 11,1% de 8,4 millones de hectáreas (+5,6 puntos en la semana) y el girasol 26,6% de 3 millones. El 97,5% del trigo está en condición normal a excelente.",
+      "fuente": "Bolsa de Cereales de Buenos Aires, vía Bank Magazine",
+      "url": "https://bankmagazine.com.ar/avanza-en-la-siembra-de-maiz/",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Perú georreferencia 737 productores de café y cacao para cumplir la norma europea",
+      "resumen": "Amazonía Link (Solidaridad e IDSA) georreferenció 737 productores en Ucayali, Junín, Huánuco y Pasco y emitió más de 1.700 reportes de ausencia de deforestación. Cerca de 40% del café y el cacao peruanos va a Europa, según la nota del 17 de septiembre de 2026.",
+      "fuente": "Infobae Perú",
+      "url": "https://www.infobae.com/peru/2026/09/17/peru-georreferencia-a-mas-de-700-productores-ante-la-exigencia-de-la-ue-que-cambia-para-el-cafe-y-el-cacao-peruanos/",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Santa Cruz: el pollo vivo baja a 8,50 bolivianos y el maíz se mantiene",
+      "resumen": "La ADA fijó el 17 de septiembre de 2026 el pollo vivo al productor en 8,50 bolivianos por kilo, contra 8,75 el día anterior. El maíz sigue en 103-106 bolivianos por quintal y el sorgo en 70-72 en el Km 8 de la doble vía a La Guardia.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA)",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-17sep2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "El contenedor sube por el Pacífico y baja hacia Europa",
+      "resumen": "El Drewry WCI subió a 4.500 dólares por FEU el 17 de septiembre de 2026 (+1%). Shanghái-Los Ángeles subió 5% y Shanghái-Nueva York 7%, mientras Shanghái-Róterdam cayó 9% a 3.626 dólares.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    },
+    {
+      "titular": "El dólar toca su nivel más alto en seis semanas tras la suba de la Fed",
+      "resumen": "El índice dólar operaba el 18 de septiembre de 2026 en 100,48 puntos, tras cerrar el 17 en 100,25. Acumula cerca de 1,3% en la semana, apoyado en la suba de 25 puntos básicos de la Reserva Federal.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.2
+    },
+    {
+      "titular": "El Baltic Dry sube por el capesize; el panamax del grano cae",
+      "resumen": "El Baltic Dry subió 1% a 3.370 puntos el 18 de septiembre de 2026. El capesize ganó 2% (5.768) y el panamax, buque típico del grano, cayó 1,4% a 2.251; el índice cede casi 4% en la semana.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.9
+    }
+  ]
+}

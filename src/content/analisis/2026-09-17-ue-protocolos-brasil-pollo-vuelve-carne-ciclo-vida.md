@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: proteina-animal
 pais: BR
 score: 8.1
-destacado: true
+destacado: false
 lectura: "Bruselas no reabre un mercado: reabre el animal que puede probar su historia. El pollo vuelve porque su vida entera cabe después del 1 de julio, cuando Brasil estrenó su sistema de control; el novillo no, y ese plazo no se acorta negociando. Para el exportador sudamericano de carne vacuna, la trazabilidad dejó de ser un trámite y pasó a ser un activo que tarda un ciclo completo en construirse."
 cifras:
   - label: "Pollo brasileño a la UE en agosto"
