@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: BR
 score: 7.6
-destacado: true
+destacado: false
 lectura: "La tesis del déficit de azúcar descansaba en que Brasil seguiría eligiendo etanol. El dato oficial de agosto dice que esa elección todavía existe, pero se está achicando quincena a quincena, y el tanque explica por qué: con el etanol acumulado 15% arriba de un año atrás, el litro extra vale menos para el ingenio. Si el crudo sigue cediendo, el mix vuelve hacia el azúcar justo antes de que India decida si exporta. El mercado no perdió el déficit; perdió una de sus dos patas."
 cifras:
   - label: "Azúcar del Centro-Sur, 2.ª quincena de agosto"

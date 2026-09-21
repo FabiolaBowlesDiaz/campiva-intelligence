@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-09-21",
+  "items": [
+    {
+      "titular": "China llega a la cumbre del 24 de septiembre con la mitad de su compromiso de soja cumplido",
+      "resumen": "China compró cerca de 13 millones de toneladas de soja de EE.UU. en la campaña, más de la mitad del compromiso anual de 25 millones hasta 2028, antes de la cumbre Trump-Xi del 24 de septiembre de 2026 en Washington. El USDA proyecta importaciones chinas 2026/27 de 115 millones de toneladas.",
+      "fuente": "Bloomberg y USDA, vía UkrAgroConsult; USDA WASDE 675",
+      "url": "https://ukragroconsult.com/en/news/china-completes-more-than-half-of-its-us-soybean-purchase-target/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Argentina proyecta 10% menos granos y aun así un récord de exportación agroindustrial",
+      "resumen": "La Bolsa de Comercio de Rosario estimó el 18 de septiembre de 2026 una cosecha 2026/27 de 155,8 millones de toneladas (−10%) y exportaciones agroindustriales récord de US$ 42.200 millones. La soja sube 2% en área, a 16,7 millones de hectáreas, pero baja 7% en producción, a 47,8 millones de toneladas.",
+      "fuente": "Bolsa de Comercio de Rosario, vía La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/aluvion-de-dolares-para-el-pais-la-cosecha-2027-aportara-un-record-de-us42200-millones-nid18092026/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Conab abre la campaña con 181,6 millones de toneladas de soja, apenas 0,7% más",
+      "resumen": "La primera estimación de Conab para 2026/27, presentada el 17 de septiembre de 2026 en la apertura de la siembra en Mato Grosso, proyecta 181,6 millones de toneladas de soja en 49,3 millones de hectáreas (+1,4%). El rendimiento necesario es de 3,7 toneladas por hectárea.",
+      "fuente": "Conab, vía Local MT",
+      "url": "https://localmt.com.br/agronegocio/brasil-abre-plantio-da-soja-com-safra-projetada-em-recorde-de-1816-milhoes-de-toneladas/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "La Fed sube la tasa a 3,75%-4% con voto unánime",
+      "resumen": "El Comité de Mercado Abierto de la Reserva Federal subió el 16 de septiembre de 2026 el rango de la tasa de fondos federales en 0,25 puntos, a 3,75%-4%, con votación 12-0. El comunicado dice que la inflación sigue elevada. El dólar DXY cerró el 18 de septiembre en 100,22 puntos.",
+      "fuente": "Reserva Federal de EE.UU.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "Mato Grosso siembra más rápido para ganarle a El Niño",
+      "resumen": "Mato Grosso sembró 1,15% de los 13,05 millones de hectáreas de soja previstas al 18 de septiembre de 2026, contra 0,55% un año atrás y 0,94% de promedio. Imea estima un rendimiento 5,4% menor que el ciclo anterior y una producción cercana a 49 millones de toneladas.",
+      "fuente": "Imea, vía Reuters",
+      "url": "https://br.investing.com/news/commodities-news/mato-grosso-plantou-115-da-safra-de-soja-diz-imea-em-1o-informe-da-safra-202627-2069882",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El arándano peruano crece 28% en volumen, pero cae en China",
+      "resumen": "Perú exportó 122.833 toneladas de arándano en la campaña 2026-27 hasta la semana 37 (+28%). EE.UU. compró 56.251 toneladas (+50%) y China 15.838 (−16%). Ica creció 192% y Lambayeque cayó 13%, según Proarándanos al 20 de septiembre de 2026.",
+      "fuente": "Proarándanos, vía Revista Lombriz",
+      "url": "https://revistalombriz.com.pe/arandano-peruano-exportaciones-campana-2026/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El cacao pierde 7,7% en una rueda y toca su menor nivel desde mediados de agosto",
+      "resumen": "El cacao de Nueva York (diciembre-26) cerró el 18 de septiembre de 2026 en 5.327 dólares por tonelada, 7,71% abajo. El inventario certificado de ICE sigue cerca de su máximo de dos años, en unos 3,42 millones de sacos, con más arribos de Costa de Marfil.",
+      "fuente": "ICE Futures, vía Investing.com y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "La harina de soja devuelve la suba y arrastra al poroto en Chicago",
+      "resumen": "La soja de noviembre cerró el 18 de septiembre de 2026 en 13,035 dólares por bushel (−16,25 centavos) y la harina de octubre en 354,60 dólares por tonelada corta (−14,10). Sinograin subasta 543.000 toneladas de soja importada de sus reservas el 22 de septiembre.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/soybeans-sell-off-friday-still-manage-a-higher-weekly-move/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El Brent encadena bajas por la señal de más crudo por Ormuz",
+      "resumen": "El Brent (noviembre-26) cerró el 18 de septiembre de 2026 en 103,87 dólares por barril, 0,9% abajo, y el 21 de septiembre operaba cerca de 100 dólares. TradingEconomics cita el mayor flujo de crudo por el estrecho de Ormuz en seis meses, según el Comando Central de EE.UU.",
+      "fuente": "ICE Futures, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El café rebota 1,4% pero sigue cerca de su mínimo desde junio",
+      "resumen": "El arábica de Nueva York (diciembre-26) cerró el 18 de septiembre de 2026 en 280,50 centavos por libra, 1,45% arriba. La cotización sigue cerca de su menor nivel desde junio por el ritmo de embarques de la cosecha brasileña.",
+      "fuente": "ICE Futures, vía Investing.com y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "Expocruz cumple 50 ediciones y espera mover 1.400 millones de bolivianos",
+      "resumen": "La feria de Santa Cruz corre del 18 al 27 de septiembre de 2026 con 2.200 expositores de 33 países, más de 1.000 animales en exhibición y una meta de Bs 1.400 millones en negocios, según sus organizadores.",
+      "fuente": "El Día (Santa Cruz)",
+      "url": "https://www.eldia.com.bo/2026-09-17/santa-cruz/abre-expocruz-2026-50-ediciones-de-una-feria-iconica-que-espera-mover-bs-1400-millones.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}
