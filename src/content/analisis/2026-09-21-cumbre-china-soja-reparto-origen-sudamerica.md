@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: soya
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El tamaño de la compra china de soja está dado por sus cerdos y su molienda, no por la diplomacia. Lo que se negocia en Washington es el reparto. Con un cuarto de la compra reservado a Estados Unidos, la soja sudamericana compite por el resto con la cosecha más grande de su historia. El excedente que no entra en China se va a moler y busca otros mercados, y uno de ellos es el andino."
 cifras:
   - label: "Compromiso chino con EE.UU."

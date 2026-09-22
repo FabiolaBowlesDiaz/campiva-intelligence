@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-09-22",
+  "items": [
+    {
+      "titular": "El Niño adelanta un mes la floración del café en Brasil y corre el calendario de la cosecha 2027",
+      "resumen": "Las lluvias de un invierno que suele ser seco hicieron florecer los cafetales brasileños cerca de un mes antes de lo normal, según agrónomos y la cooperativa Minasul citados por Reuters el 22 de septiembre de 2026. La cosecha de arábica 2027, año de baja del ciclo bienal, podría estar lista hacia mayo.",
+      "fuente": "Reuters, vía ESM Magazine",
+      "url": "https://www.esmmagazine.com/supply-chain/brazil-coffees-early-flowering-could-herald-an-early-crop-321922",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Bolivia completa la aprobación legislativa del crédito de US$ 1.900 millones del FMI",
+      "resumen": "El Senado sancionó el 18 de septiembre de 2026 el financiamiento de 1.369 millones de DEG (US$ 1.900 millones), con tasa variable de 3,47% y desembolsos en hasta 36 meses. El acuerdo mantiene fijos los precios del diésel y la gasolina hasta diciembre de 2026 y prevé eliminar la subvención a los combustibles desde 2027.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/america/america-latina/2026/09/19/el-congreso-de-bolivia-aprobo-el-acuerdo-de-financiamiento-con-el-fmi-por-usd-1900-millones/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 6.9
+    },
+    {
+      "titular": "El Niño costero sigue por delante del central: Niño 1+2 en +3,9 °C y Niño 3.4 en +2,1 °C",
+      "resumen": "La actualización semanal del CPC/NOAA del 21 de septiembre de 2026 ubica la anomalía de temperatura del mar en +3,9 °C frente a Perú y Ecuador (Niño 1+2) y en +2,1 °C en el Pacífico central (Niño 3.4). El CPC mantiene más de 90% de probabilidad de un evento muy fuerte en el invierno boreal 2026-27.",
+      "fuente": "CPC/NOAA, ENSO: Recent Evolution, Current Status and Predictions",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "La soja sube 24 centavos en Chicago a tres días de la cumbre China-EE.UU.",
+      "resumen": "La soja noviembre cerró el 21 de septiembre de 2026 en 13,28 US$/bu (+24½ centavos), con compras de fondos antes de la reunión comercial del jueves 24. El maíz diciembre subió 15½ centavos a 5,43 y la harina de soja octubre US$ 12 a 366,60 US$/tonelada corta.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-21-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El Brent pierde los 100 dólares por quinta rueda de baja",
+      "resumen": "El Brent cerró el 21 de septiembre de 2026 en 100,34 US$/bbl y el 22 operaba por debajo de 100, en su nivel más bajo en dos semanas, tras reportes de que Irán propuso reabrir el estrecho de Ormuz en siete días si EE.UU. levanta el bloqueo de sus puertos.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Las lluvias frenan la cosecha del Cerrado Mineiro y ya abren la floración de la próxima",
+      "resumen": "Entre el 10 y el 16 de septiembre de 2026 llovieron hasta 44,5 mm en Monte Carmelo, con daños en plantaciones de Patos de Minas, Perdizes, Serra do Salitre y Araxá. La cooperativa Expocacer reporta 91% de la producción procesada y proyecta 2,8 millones de sacas de arábica en su área.",
+      "fuente": "Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/agro/chuvas-paralisam-colheita-mas-estimulam-florada-para-proxima-safra-no-cerrado-mineiro/",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "EE.UU. cosecha más rápido que el promedio: soja 12% y maíz 13%",
+      "resumen": "Al 20 de septiembre de 2026 EE.UU. llevaba cosechado 12% de la soja y 13% del maíz, ambos por delante del promedio. La condición bueno-excelente quedó en 58% para la soja y 57% para el maíz, sin cambios en la semana.",
+      "fuente": "USDA, vía Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/soybeans-see-solid-gains-ahead-of-more-china-talks/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El Baltic Dry encadena tres subas y toca máximo de una semana",
+      "resumen": "El índice de fletes a granel cerró el 21 de septiembre de 2026 en 3.399 puntos (+0,86%). El capesize subió 1,2% a 5.839 puntos y el panamax, el buque típico del grano, apenas 0,2% a 2.255.",
+      "fuente": "Baltic Exchange, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.4
+    },
+    {
+      "titular": "El cacao apenas rebota 0,45% después de su peor rueda del mes",
+      "resumen": "El cacao de Nueva York cerró el 21 de septiembre de 2026 en 5.351 US$/t (+0,45%), tras caer 7,71% el 18 a 5.327. El 22 volvía a operar en baja, con los inventarios certificados de ICE en torno a 3,42 millones de sacos, máximo de dos años.",
+      "fuente": "Investing.com (históricos) y TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    }
+  ]
+}
