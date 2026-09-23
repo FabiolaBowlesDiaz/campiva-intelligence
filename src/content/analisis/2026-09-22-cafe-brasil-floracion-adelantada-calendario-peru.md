@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cafe
 pais: BR
 score: 7.8
-destacado: true
+destacado: false
 lectura: "La floración adelantada no cambia todavía el tamaño de la próxima cosecha brasileña: cambia su fecha. Para el exportador peruano, el calendario era su ventaja más silenciosa. Si el arábica brasileño llega en mayo, la parte central de la campaña peruana deja de venderse contra un Brasil sin café nuevo."
 cifras:
   - label: "El adelanto"
