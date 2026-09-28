@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-09-28",
+  "items": [
+    {
+      "titular": "La Fed sube su tasa por primera vez en más de tres años y el mercado ya descuenta otra suba en octubre",
+      "resumen": "El 16 de septiembre de 2026 la Reserva Federal subió la tasa de referencia un cuarto de punto, a un rango de 3,75% a 4%, con voto 12-0. El 23 de septiembre el gobernador Michael Barr dijo que probablemente harán falta más ajustes, y la probabilidad de otra suba el 27-28 de octubre pasó a cerca de 70% (FedWatch).",
+      "fuente": "Reserva Federal y Yahoo Finance",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La cumbre Trump-Xi extiende la tregua comercial hasta el 10 de enero y no suma compromisos agrícolas",
+      "resumen": "La reunión del 24 de septiembre de 2026 en Washington terminó sin acuerdo integral: la tregua se extiende dos meses, hasta el 10 de enero de 2027. China va por más de la mitad de su compromiso de 25 millones de toneladas anuales de soja estadounidense y no compró maíz de EE.UU. en la campaña actual.",
+      "fuente": "The Bullet (WWBL)",
+      "url": "https://www.wwbl.com/2026/09/27/us-china-summit-delivers-more-promises-but-u-s-soybean-and-pork-producers-still-await-trade-breakthrough/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent pierde 2% el viernes y vuelve arriba de 107 dólares el lunes por Ormuz",
+      "resumen": "El Brent cerró el 25 de septiembre de 2026 en 104,32 US$/bbl (−2,14%) por expectativas de un acuerdo entre EE.UU. e Irán. El lunes 28 operaba por encima de 107 dólares después de que Trump rechazara la última propuesta iraní para reabrir el estrecho de Ormuz.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Productores de soya de Bolivia calculan costos entre 20% y 30% más altos para la campaña de verano",
+      "resumen": "Según Anapo (22 de septiembre de 2026), el diésel ya representa cerca de 20% del costo de producción y el costo total subió entre 20% y 30% frente al año anterior por tipo de cambio, insumos y abastecimiento de combustible. El sector todavía no puede estimar cuánta superficie de verano quedaría sin sembrar.",
+      "fuente": "Los Tiempos",
+      "url": "https://www.lostiempos.com/actualidad/economia/20260922/productores-soya-advierten-mayor-costo-produccion-nuevo-precio-del",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "Paraguay lleva cerca de 60% de la soja sembrada en sus principales zonas",
+      "resumen": "Productores de la Coordinadora Agrícola del Paraguay informaron el 26 de septiembre de 2026 avances de alrededor de 65% en Itapúa y 60% en Caaguazú y Alto Paraná, con lluvias de 80 mm que abrieron ventanas de siembra. El riesgo señalado es la lluvia de El Niño al momento de la cosecha.",
+      "fuente": "Prensa Mercosur",
+      "url": "https://prensamercosur.org/2026/09/26/siembra-de-soja-avanza-cerca-del-60-en-principales-zonas-productivas/",
+      "vertical": "soya",
+      "pais": "PY",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "China importó 12,14 millones de toneladas de soja en agosto, 1,1% menos que un año atrás",
+      "resumen": "Según la aduana china, las compras de agosto de 2026 subieron 5,7% frente a julio con la cosecha brasileña, y el acumulado enero-agosto llega a 74,11 millones de toneladas (+1,1%). Analistas esperan un 2026 plano o levemente menor que el récord de 111,83 millones de 2025 por la baja del plantel de cerdas.",
+      "fuente": "The Pig Site (aduana de China)",
+      "url": "https://www.thepigsite.com/news/2026/09/chinas-soybean-imports-rise-in-august-on-brazil-supply",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Malasia exporta 24% menos aceite de palma en lo que va de septiembre",
+      "resumen": "Las exportaciones malasias del 1 al 25 de septiembre de 2026 suman 763.202 toneladas, contra 1.008.211 en el mismo tramo de agosto, según el inspector AmSpec Agri. El aceite de palma crudo aportó 241.432 toneladas.",
+      "fuente": "Price Futures Group (AmSpec Agri Malaysia)",
+      "url": "https://blog.pricegroup.com/2026/09/25/grains-report-09-25-2026/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "Perú proyecta agroexportaciones de 15.000 millones de dólares para 2026",
+      "resumen": "El ministro de Desarrollo Agrario, Marco Vinelli, estimó en Expoalimentaria 2026 (23 de septiembre) que el año cerraría cerca de US$ 15.000 millones. Entre enero y julio el sector sumó US$ 6.840 millones, 2,5% más que en igual período de 2025, según la cifra oficial citada.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/peru/2026/09/23/agroexportaciones-peruanas-alcanzarian-los-usd-15000-millones-al-cierre-de-2026/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El índice de contenedores de Drewry baja 1% y anticipa más caídas antes de la Golden Week",
+      "resumen": "El WCI compuesto quedó en 4.468 US$ por contenedor de 40 pies el 24 de septiembre de 2026 (−1%), con Shanghái-Róterdam en 3.485 (−4%) y Shanghái-Génova en 3.835 (−5%). Drewry espera tarifas más bajas la semana próxima por el feriado chino.",
+      "fuente": "Drewry",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.2
+    },
+    {
+      "titular": "La subasta Grano de Oro de Chanchamayo proyecta 27 contenedores de café y cacao por US$ 17 millones",
+      "resumen": "La tercera edición de la subasta de cafés y chocolates finos de la selva central peruana (23-27 de septiembre de 2026) proyecta exportar café de especialidad y cacao nativo y chuncho a EE.UU. y Europa por Callao y Chancay. Los organizadores buscan superar los US$ 2.350 por quintal de la edición anterior.",
+      "fuente": "Agencia Andina",
+      "url": "https://andina.pe/agencia/noticia-grano-oro-2026-proyecta-exportacion-cafe-y-cacao-17-millones-1093346.aspx",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.8
+    }
+  ]
+}

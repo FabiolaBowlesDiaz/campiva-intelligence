@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: energia
 pais: LATAM
 score: 8.0
-destacado: true
+destacado: false
 lectura: "Una prohibición no bajaría el precio mundial del diésel. Movería quién lo paga. El importador latinoamericano tendría que buscar barcos más lejos, en un mercado donde Rusia ya retiene el suyo. Y en Bolivia, la referencia de Houston podría abaratarse justo cuando el barco real se encarece."
 cifras:
   - label: "El diésel en EE.UU."
