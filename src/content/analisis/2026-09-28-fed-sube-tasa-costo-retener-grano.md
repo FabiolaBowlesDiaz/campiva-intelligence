@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: macro
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Un cuarto de punto no mueve el precio de la tonelada: sobre una soja Matba de 382 US$/t equivale a menos de un dólar por tonelada al año. Lo que cambia es la dirección. Durante tres años el dinero para financiar la campaña y para guardar grano se abarató o quedó quieto; desde el 16 de septiembre se encarece, y el mercado ya descuenta el segundo paso. En esta etapa la variable que decide cuánto cuesta esperar precio es la tasa, no la bolsa."
 cifras:
   - label: "La suba de la Fed"

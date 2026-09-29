@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-09-29",
+  "items": [
+    {
+      "titular": "El café baja por Brasil y la prima del café lavado se mantiene",
+      "resumen": "Entre el 1 y el 28 de septiembre de 2026 el indicador ICO de Otros Suaves, el grupo del café peruano, bajó de 352,86 a 326,16 ¢/lb y el de Naturales Brasileños de 315,48 a 287,31. El diferencial entre ambos pasó de 37,38 a 38,85 ¢/lb (cálculo Campiva).",
+      "fuente": "Organización Internacional del Café (ICO)",
+      "url": "https://icocoffee.org/documents/I-CIP.pdf",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "China recorta aranceles a granos, harina y aceite de EE.UU., pero deja afuera a la soja",
+      "resumen": "El Ministerio de Comercio chino publicó el 28 de septiembre de 2026 una lista de recortes que incluye maíz, trigo, sorgo, aceite y harina de soya, carne y lácteos. El poroto de soja sigue con el arancel adicional de 10%; los estatales llevan más de 12 millones de toneladas compradas, casi la mitad del compromiso anual de 25 millones.",
+      "fuente": "Reuters, vía Business Recorder",
+      "url": "https://www.brecorder.com/news/40441563/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La soja de Chicago pierde 30 centavos el día que China la excluye de su lista",
+      "resumen": "La soja noviembre cerró el 28 de septiembre de 2026 en 12,88¼ US$/bu (−30¾ centavos, −2,3%) y arrastró al trigo (6,88¾, −14½) y al maíz (5,23, −5¼). La harina de soya octubre cayó US$ 12,20 a 361,70 por tonelada corta.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-september-28-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Conab confirma la mayor cosecha de café de la historia de Brasil: 67,6 millones de sacas",
+      "resumen": "El tercer levantamiento de la Conab (24 de septiembre de 2026) estima 67,6 millones de sacas (+19,6%), con el arábica en 48,2 millones (+34,8%) y el conilon en 19,4 millones (−6,6%). La productividad sube 13,8%, a 34,6 sacas por hectárea.",
+      "fuente": "Conab, vía Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202609/producao-de-cafe-e-estimada-em-67-6-milhoes-de-sacas-influenciada-por-bienalidade-positiva-em-2026",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El ENFEN prevé que El Niño costero se extienda hasta el otoño de 2027",
+      "resumen": "El comunicado del 28 de septiembre de 2026 mantiene la alerta y proyecta magnitud extraordinaria en la región Niño 1+2 hasta enero de 2027, con lluvias sobre lo normal en la costa norte y centro del Perú entre octubre y marzo. El próximo comunicado sale el 15 de octubre.",
+      "fuente": "ENFEN, vía Infobae",
+      "url": "https://www.infobae.com/peru/2026/09/29/el-nino-costero-se-prolongaria-hasta-el-otono-de-2027-enfen-preve-mas-lluvias-y-calor-record-en-la-costa/",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El Pacífico central sigue calentándose: Niño 3.4 en +2,2 °C y la costa sudamericana en +3,9 °C",
+      "resumen": "La actualización semanal del CPC/NOAA del 28 de septiembre de 2026 registra +2,2 °C en Niño 3.4 (+2,1 una semana antes) y +3,9 °C en Niño 1+2. Mantiene más de 90% de probabilidad de un evento muy fuerte en el verano austral 2026-27.",
+      "fuente": "CPC/NOAA",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Costa de Marfil suma 2,18 millones de toneladas de cacao en puerto y el stock de ICE toca máximo de 27 meses",
+      "resumen": "Entre el 1 de octubre de 2025 y el 27 de septiembre de 2026 los productores marfileños enviaron 2,18 millones de toneladas a puerto (+19,8%). El stock certificado de ICE llegó a 3.452.949 sacos y el cacao de Nueva York diciembre cerró el 28 de septiembre en 5.589 US$/t (−0,53%).",
+      "fuente": "Barchart, vía Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cocoa-prices-pressured-ample-ivory-182433906.html",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Paro de transporte en Bolivia contra el DS 5716, que fijó el diésel en Bs 17,95 por litro",
+      "resumen": "El 28 de septiembre de 2026 la Confederación de Choferes cumplió un repliegue de 24 horas, con acatamiento pleno en Santa Cruz y actividad normal en La Paz, El Alto y Cochabamba. El decreto elevó el diésel de Bs 9,80 a Bs 17,95 por litro (+83%); el Gobierno convocó al diálogo para el 29 de septiembre.",
+      "fuente": "The Rio Times y La Razón",
+      "url": "https://www.riotimesonline.com/bolivia-transport-strike-santa-cruz-diesel-talks-2026/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry cae 4,6% y vuelve a su nivel más bajo desde el 1 de septiembre",
+      "resumen": "El índice de fletes a granel cerró el 28 de septiembre de 2026 en 3.268 puntos (−158). El capesize cayó 7,5% a 5.351 por mineral de hierro más barato; el panamax, el buque del grano, apenas 0,2% a 2.402.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Brasil arranca la siembra de soja un poco adelantada y Argentina acelera el maíz",
+      "resumen": "Brasil llevaba sembrado 4,39% de la soja al viernes 25 de septiembre de 2026, algo por encima del ritmo habitual. En Argentina, la siembra de maíz llegó a 17,1%, adelantada frente al promedio según la Bolsa de Cereales de Buenos Aires.",
+      "fuente": "The Rio Times",
+      "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-september-28-2026/",
+      "vertical": "soya",
+      "pais": "LATAM",
+      "impacto": "bajo",
+      "score": 6.1
+    }
+  ]
+}
