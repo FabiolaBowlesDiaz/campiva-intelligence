@@ -19,7 +19,7 @@
       "vertical": "energia",
       "pais": "US",
       "impacto": "alto",
-      "score": 7.4
+      "score": 7.1
     },
     {
       "titular": "El Brent cede 2,6% con la vuelta de las exportaciones sauditas por el mar Rojo",
@@ -29,7 +29,7 @@
       "vertical": "energia",
       "pais": "GLOBAL",
       "impacto": "alto",
-      "score": 7.3
+      "score": 7.1
     },
     {
       "titular": "El diésel al público en EE.UU. baja por primera vez en cuatro semanas, pero sigue 70% arriba",
@@ -39,7 +39,7 @@
       "vertical": "energia",
       "pais": "US",
       "impacto": "medio",
-      "score": 7.0
+      "score": 6.8
     },
     {
       "titular": "Vence la prohibición india de exportar azúcar y el crudo de Nueva York sube 2%",
@@ -49,7 +49,7 @@
       "vertical": "azucar",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 7.1
+      "score": 6.8
     },
     {
       "titular": "La soja de Chicago recupera 9½ centavos tras la caída por el arancel chino",
@@ -59,7 +59,7 @@
       "vertical": "soya",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 6.8
+      "score": 6.6
     },
     {
       "titular": "El Baltic Dry encadena tres bajas y queda en 3.178 puntos",
@@ -69,7 +69,7 @@
       "vertical": "logistica",
       "pais": "GLOBAL",
       "impacto": "bajo",
-      "score": 6.2
+      "score": 5.8
     },
     {
       "titular": "El crédito 45Z todavía no llega al productor de soja, dice la industria del biodiésel",
@@ -79,7 +79,7 @@
       "vertical": "biocombustibles",
       "pais": "US",
       "impacto": "bajo",
-      "score": 6.0
+      "score": 5.7
     }
   ]
 }
