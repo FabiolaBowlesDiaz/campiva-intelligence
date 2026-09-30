@@ -1,19 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-09-29",
+  "actualizado": "2026-09-30",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "12,88",
+      "valor": "12,98",
       "unidad": "US$/bu",
-      "cambio": -2.3,
+      "cambio": 0.7,
       "cambioLabel": "diaria",
       "fuente": "Chicago (nov-26) via Brownfield Ag News",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        11.62,
         11.52,
         11.65,
         11.66,
@@ -42,7 +41,8 @@
         13.28,
         13.26,
         13.19,
-        12.88
+        12.88,
+        12.98
       ]
     },
     {
@@ -50,13 +50,12 @@
       "nombre": "Café arábica ICE",
       "valor": "2,89",
       "unidad": "US$/lb",
-      "cambio": 3.5,
+      "cambio": 0.2,
       "cambioLabel": "diaria",
       "fuente": "ICE (dic-26) via TradingEconomics",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        3.16,
         3.14,
         3.16,
         3.2,
@@ -85,21 +84,21 @@
         2.76,
         2.72,
         2.79,
+        2.89,
         2.89
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "17,46",
+      "valor": "17,82",
       "unidad": "¢/lb",
-      "cambio": -0.2,
+      "cambio": 2.1,
       "cambioLabel": "diaria",
       "fuente": "ICE (oct-26) via ChiniMandi",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        15.57,
         16.45,
         16.47,
         16.73,
@@ -128,21 +127,21 @@
         17.36,
         17.59,
         17.5,
-        17.46
+        17.46,
+        17.82
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.589",
+      "valor": "5.408",
       "unidad": "US$/t",
-      "cambio": -0.5,
+      "cambio": -3.2,
       "cambioLabel": "diaria",
       "fuente": "ICE (dic-26) via TradingEconomics",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        5782.0,
         5821.0,
         5654.0,
         5725.0,
@@ -171,21 +170,21 @@
         5351,
         5402,
         5619,
-        5589
+        5589,
+        5408
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "5,23",
+      "valor": "5,22",
       "unidad": "US$/bu",
-      "cambio": -1.0,
+      "cambio": -0.2,
       "cambioLabel": "diaria",
       "fuente": "Chicago (dic-26) via Brownfield Ag News",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        4.38,
         4.37,
         4.57,
         4.48,
@@ -214,21 +213,21 @@
         5.43,
         5.37,
         5.28,
-        5.23
+        5.23,
+        5.22
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "6,89",
+      "valor": "6,92",
       "unidad": "US$/bu",
-      "cambio": -2.1,
+      "cambio": 0.6,
       "cambioLabel": "diaria",
       "fuente": "Chicago (dic-26) via Brownfield Ag News",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        6.4,
         6.41,
         6.3,
         6.53,
@@ -257,21 +256,21 @@
         7.27,
         7.17,
         7.03,
-        6.89
+        6.89,
+        6.92
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "105,28",
+      "valor": "102,59",
       "unidad": "US$/bbl",
-      "cambio": 0.9,
+      "cambio": -2.6,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent (nov-26) via TradingEconomics",
-      "asOf": "2026-09-28",
+      "fuente": "ICE Brent (nov-26) via CNBC",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        87.72,
         88.91,
         88.98,
         90.87,
@@ -300,21 +299,21 @@
         100.34,
         99.25,
         104.32,
-        105.28
+        105.28,
+        102.59
       ]
     },
     {
       "id": "soja-matba",
       "nombre": "Soja Matba (Arg.)",
-      "valor": "373,70",
+      "valor": "375,00",
       "unidad": "US$/t",
-      "cambio": -1.3,
+      "cambio": 0.3,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex pos. NOV2026 via Informe Diario SAGyP",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        342.4,
         341.8,
         344.0,
         344.5,
@@ -343,7 +342,8 @@
         378.0,
         381.9,
         382.2,
-        373.7
+        373.7,
+        375.0
       ]
     },
     {
@@ -351,13 +351,12 @@
       "nombre": "Maíz Matba (Arg.)",
       "valor": "198,00",
       "unidad": "US$/t",
-      "cambio": -0.3,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
       "fuente": "Matba-Rofex pos. NOV2026 via Informe Diario SAGyP",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        186.2,
         188.3,
         190.9,
         189.0,
@@ -386,6 +385,7 @@
         200.0,
         204.5,
         199.5,
+        198.0,
         198.0
       ]
     },
@@ -418,15 +418,14 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "3.268",
+      "valor": "3.178",
       "unidad": "pts",
-      "cambio": -4.6,
+      "cambio": -2.8,
       "cambioLabel": "diaria",
       "fuente": "Baltic Exchange via TradingEconomics",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        3083.0,
         3046.0,
         2939.0,
         2878.0,
@@ -455,21 +454,21 @@
         3399,
         3432,
         3426,
-        3268
+        3268,
+        3178
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "101,20",
+      "valor": "101,37",
       "unidad": "pts",
       "cambio": 0.2,
       "cambioLabel": "diaria",
       "fuente": "TradingEconomics",
-      "asOf": "2026-09-28",
+      "asOf": "2026-09-29",
       "verificado": true,
       "serie": [
-        99.54,
         99.81,
         99.83,
         100.02,
@@ -498,7 +497,8 @@
         100.43,
         100.6,
         100.97,
-        101.2
+        101.2,
+        101.37
       ]
     },
     {

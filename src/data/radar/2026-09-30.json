@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-09-30",
+  "items": [
+    {
+      "titular": "El Brent físico baja 12% en una semana y el diésel del golfo solo 4%",
+      "resumen": "Entre el 15 y el 22 de septiembre de 2026 el Brent spot pasó de 130,80 a 114,89 US$/bbl y el ULSD de la costa del golfo de 5,206 a 4,992 US$/galón. El margen del diésel sobre el crudo subió de 87,85 a 94,77 US$/bbl (cálculo Campiva sobre datos de la EIA).",
+      "fuente": "EIA, precios spot",
+      "url": "https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "EE.UU. tiene más crudo que hace un año y 12,7% menos destilados",
+      "resumen": "Al 18 de septiembre de 2026 el crudo comercial sumaba 426,4 millones de barriles (+2,8% interanual) y los destilados 107,4 millones (−12,7%). Las refinerías trabajaban al 94,0% de su capacidad y la reserva estratégica estaba en 284,6 millones de barriles (−29,9%).",
+      "fuente": "EIA, Weekly Petroleum Status Report",
+      "url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent cede 2,6% con la vuelta de las exportaciones sauditas por el mar Rojo",
+      "resumen": "El Brent cerró el 29 de septiembre de 2026 en 102,59 US$/bbl y el WTI en 89,38 (−3,5%). Kpler confirmó la recuperación operativa del puerto de Yanbu y midió un flujo por Ormuz de 13,2 millones de barriles diarios en siete días, 77% del nivel de preguerra.",
+      "fuente": "CNBC, con datos de Kpler",
+      "url": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El diésel al público en EE.UU. baja por primera vez en cuatro semanas, pero sigue 70% arriba",
+      "resumen": "El promedio nacional fue de 6,382 US$/galón el 28 de septiembre de 2026, 2,3% menos que la semana anterior (6,529). Un año antes costaba 3,754 US$ y antes de la guerra, el 2 de marzo, 3,897.",
+      "fuente": "EIA, Gasoline and Diesel Fuel Update",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Vence la prohibición india de exportar azúcar y el crudo de Nueva York sube 2%",
+      "resumen": "La prohibición de la DGFT rige hasta el 30 de septiembre de 2026; si no se prorroga, el azúcar vuelve a la categoría 'restringida', que exige permiso para exportar. El #11 octubre-26 cerró el 29 de septiembre en 17,82 ¢/lb (+0,36; +2,06%).",
+      "fuente": "ANI, vía The Tribune (notificación DGFT) y ChiniMandi (cierre)",
+      "url": "https://www.tribuneindia.com/news/business/india-bans-sugar-exports-with-immediate-effect-until-september-2026/",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "La soja de Chicago recupera 9½ centavos tras la caída por el arancel chino",
+      "resumen": "La soja noviembre cerró el 29 de septiembre de 2026 en 12,9775 US$/bu (+9½ c) por compras de fondos. El arancel chino de 10% sigue vigente, pero solo limita a los compradores privados, no a los estatales. En Matba, la soja noviembre cerró en 375,00 US$/t (+1,30).",
+      "fuente": "Brownfield Ag News e Informe Diario SAGyP",
+      "url": "https://www.brownfieldagnews.com/market-news/soybeans-rebound-as-corn-drifts-downward/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry encadena tres bajas y queda en 3.178 puntos",
+      "resumen": "El índice de fletes de graneles secos cayó 2,75% el 29 de septiembre de 2026, a 3.178 puntos: tercera baja seguida. El 3 de septiembre había marcado 3.488, máximo desde octubre de 2021.",
+      "fuente": "Baltic Exchange, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.2
+    },
+    {
+      "titular": "El crédito 45Z todavía no llega al productor de soja, dice la industria del biodiésel",
+      "resumen": "El CEO de Clean Fuels Alliance America, Donnell Rehagen, dijo el 29 de septiembre de 2026 que sigue la incertidumbre sobre cómo el crédito fiscal 45Z beneficiará a los productores de biodiésel y de soja. Las plantas de etanol ya pagan primas al maíz con prácticas regenerativas.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/news/biodiesel-producers-playing-catch-up-on-45z-opportunities/",
+      "vertical": "biocombustibles",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 6.0
+    }
+  ]
+}

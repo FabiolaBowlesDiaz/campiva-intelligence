@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: cafe
 pais: PE
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El precio del café que cae en septiembre es el de Brasil: Conab confirmó una cosecha récord de 67,6 millones de sacas, con el arábica +34,8%. La prima del café lavado sobre el natural brasileño no bajó con él, porque el otro gran proveedor de lavados, Colombia, viene 17% abajo. Para el exportador peruano el riesgo del mes es el nivel de la bolsa, no su diferencial."
 cifras:
   - label: "Prima del lavado"
