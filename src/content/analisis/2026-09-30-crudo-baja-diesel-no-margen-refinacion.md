@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: energia
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El alivio del crudo es real: Arabia Saudita volvió a exportar desde el mar Rojo y el Brent cedió 2,6% el 29 de septiembre. Pero el diésel se fija por la capacidad de refinar, no por el barril. Mientras los destilados sigan 12,7% abajo y las refinerías al 94%, una baja del crudo no se traslada entera al gasoil de la siembra."
 cifras:
   - label: "Margen del diésel"

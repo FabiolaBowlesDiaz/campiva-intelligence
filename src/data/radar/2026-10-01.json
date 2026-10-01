@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-01",
+  "items": [
+    {
+      "titular": "EE.UU. tenía 173 millones de bushels de maíz más de lo que proyectaba el USDA",
+      "resumen": "Las existencias de maíz al 1 de septiembre de 2026 sumaron 2.095 millones de bushels (53,2 M t), 35% más que un año antes y 173 millones por encima del cierre proyectado en el WASDE de septiembre. El maíz de diciembre cayó 21¼ centavos a 5,0075 US$/bu el 30 de septiembre (−4,1%).",
+      "fuente": "USDA NASS, Grain Stocks",
+      "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/grst0926.pdf",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "En Santa Cruz el maíz y el sorgo suben mientras Chicago baja",
+      "resumen": "La ADA registró el maíz en 108-112 Bs/qq y el sorgo en 76-79 Bs/qq el 30 de septiembre de 2026, frente a 103-106 y 70-72 el 16 de septiembre. Los avicultores cruceños, que el 27 de septiembre reportaron maíz a 114-120 Bs/qq, atribuyen la suba al costo del diésel.",
+      "fuente": "ADA Santa Cruz, boletín de precios avícolas; El Día",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-30sep2026.pdf",
+      "vertical": "nutricion-animal",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "La soja de EE.UU. cierra la campaña con 3% menos existencias",
+      "resumen": "El USDA midió 315 millones de bushels de soja al 1 de septiembre de 2026 (−3% interanual). La soja de noviembre cerró en 12,93 US$/bu el 30 de septiembre (−4¾ centavos) y la Matba de noviembre en 374 US$/t (−1); la SAGyP señala que la soja quedó fuera de las rebajas arancelarias de la cumbre EE.UU.-China.",
+      "fuente": "USDA NASS; Informe Diario SAGyP",
+      "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/grst0926.pdf",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El trigo de EE.UU. arranca la campaña con 14% menos existencias",
+      "resumen": "Las existencias de trigo al 1 de septiembre de 2026 fueron 1.846 millones de bushels (−14% interanual). La cosecha 2026 quedó en 1.534 millones de bushels con 48,1 bu/acre. Aun así, el trigo de diciembre de Chicago cayó 17 centavos a 6,7575 US$/bu el 30 de septiembre, arrastrado por el maíz.",
+      "fuente": "USDA NASS; Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/corn-sells-off-after-usda-quarterly-stocks-data/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Los destilados de EE.UU. bajan otra vez y quedan 14,9% bajo el año pasado",
+      "resumen": "En la semana al 25 de septiembre de 2026 los destilados sumaron 105,2 millones de barriles (−2,1% en la semana, −14,9% interanual). Las refinerías bajaron su uso a 92,5% (94,0% la semana previa) y la producción de etanol cayó a 1,007 millones de barriles diarios.",
+      "fuente": "EIA, Weekly Petroleum Status Report",
+      "url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El dólar sube por cuarta sesión y toca su máximo desde abril de 2025",
+      "resumen": "El índice DXY cerró en 101,45 puntos el 30 de septiembre de 2026 y operaba en 101,8 el 1 de octubre, su nivel más alto desde abril de 2025, tras subir 2% en septiembre. El mercado espera más subas de tasa de la Reserva Federal.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Las exportaciones peruanas de arándano a EE.UU. crecen 79,5% en valor",
+      "resumen": "Entre enero y julio de 2026 el Perú exportó arándanos a EE.UU. por 347,6 millones de dólares (+79,5%), 56% del total. Las exportaciones de arándano sumaron 620,2 millones de dólares y 84.800 toneladas en el período (Midagri).",
+      "fuente": "Agraria.pe, con datos del Midagri",
+      "url": "https://agraria.pe/noticias/exportaciones-de-arandano-a-estados-unidos-crecieron-en-valo-43197",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "La producción de café del Perú crece 8% en julio",
+      "resumen": "El Perú produjo 66.280 toneladas de café en julio de 2026, 8,0% más que en julio de 2025, por mayor área cosechada y temperaturas favorables. Amazonas (+63,4%), Cajamarca (+5,0%) y Puno (+3,8%) lideraron el alza (INEI).",
+      "fuente": "Agraria.pe, con datos del INEI",
+      "url": "https://agraria.pe/noticias/produccion-de-cafe-crecio-8-en-julio-de-2026-43187",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El Baltic Dry baja por cuarta sesión seguida",
+      "resumen": "El índice de fletes a granel cerró en 3.113 puntos el 30 de septiembre de 2026 (−2,05%), su menor nivel desde fines de agosto. El índice capesize cayó 3,4% a 4.928 puntos. El Baltic sigue 57% arriba de un año antes.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.7
+    }
+  ]
+}
