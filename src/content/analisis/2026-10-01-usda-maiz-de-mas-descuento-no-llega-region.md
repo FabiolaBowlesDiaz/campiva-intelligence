@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: nutricion-animal
 pais: LATAM
 score: 7.9
-destacado: true
+destacado: false
 lectura: "La sorpresa del USDA es real y baja el piso del maíz mundial para 2026/27. Pero el importador andino compra maíz argentino y el productor boliviano compra maíz local: el primero recibe la mitad de la baja y el segundo, ninguna. El costo de la ración se negocia en la Matba y en el flete, no en el titular de Chicago."
 cifras:
   - label: "Maíz en EE.UU. al 1/09"

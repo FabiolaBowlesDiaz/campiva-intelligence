@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-02",
+  "items": [
+    {
+      "titular": "La lluvia de septiembre le quitó un tercio a la molienda de caña de Brasil",
+      "resumen": "El Centro-Sur molió 30,16 millones de toneladas de caña en la primera quincena de septiembre de 2026 (−34,2%) e hizo 2,12 millones de toneladas de azúcar (−41,6%). El acumulado de la zafra quedó 1,5% abajo del ciclo anterior: es la primera vez en la temporada.",
+      "fuente": "Ministerio de Agricultura de Brasil (MAPA), vía Reuters",
+      "url": "https://br.investing.com/news/commodities-news/producao-de-acucar-do-centrosul-recuou-416-na-1a-quinzena-de-setembro-diz-governo-2081108",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "La FAO mide los cereales 17% más caros que hace un año",
+      "resumen": "El índice de precios de los alimentos de la FAO promedió 136,0 puntos en septiembre de 2026 (+1,5% en el mes). Los cereales subieron 5,1% (trigo en máximo desde agosto de 2023, maíz en máximo de más de tres años) y el azúcar 6,1%, a su nivel más alto desde abril de 2025.",
+      "fuente": "FAO, Índice de Precios de los Alimentos",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El Brent vuelve sobre los 100 dólares con un salto de 4,4%",
+      "resumen": "El Brent de diciembre cerró el 1 de octubre de 2026 en 102,31 dólares por barril (+4,28; +4,37%) y el WTI de noviembre en 92,87 (+2,71%). El movimiento siguió a reportes del envío de un tercer grupo de portaaviones de EE.UU. a Medio Oriente.",
+      "fuente": "Xinhua (ICE Futures Europe y NYMEX)",
+      "url": "https://english.news.cn/20261002/86b3306dd71a4f3597c0cff7e90afdd0/c.html",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "EE.UU. creó 29.000 empleos en septiembre y recortó 60.000 de julio y agosto",
+      "resumen": "El informe de empleo del 2 de octubre de 2026 mostró nóminas de +29.000 y desempleo de 4,2%. Julio pasó de +21.000 a −10.000 y agosto de +162.000 a +133.000. El dato llega antes de la reunión de la Fed del 27-28 de octubre.",
+      "fuente": "Bureau of Labor Statistics (BLS)",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El pollo al consumidor sube 7% en dos semanas en Santa Cruz",
+      "resumen": "La ADA registró el pollo a mano con menudo en 13,56 Bs/kg en promedio el 1 de octubre de 2026, frente a 12,63 el 16 de septiembre. El maíz se mantuvo en 108-112 Bs/qq y el sorgo en 76-79 Bs/qq; el pollo vivo al productor siguió en 8,75 Bs/kg.",
+      "fuente": "ADA Santa Cruz, boletín de precios avícolas",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-01oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "La soja de Matba pierde 4 dólares en una rueda",
+      "resumen": "La soja de noviembre en Matba-Rofex cerró el 1 de octubre de 2026 en 369,90 US$/t (−4,10; −1,1%). En Chicago, la soja de noviembre cayó 9 centavos a 12,84 US$/bu y la harina de diciembre 3,60 dólares a 353,30 US$/tc.",
+      "fuente": "Informe Diario del Mercado de Granos (SAGyP); Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-1-2026/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "La OMSA publica al Perú como libre de influenza aviar en aves de corral",
+      "resumen": "El Midagri informó el 1 de octubre de 2026 que la OMSA publicó la autodeclaración del Perú como libre de influenza aviar de alta patogenicidad en aves de corral. El sector avícola pesa 24,3% del valor de la producción agropecuaria y produce cerca de 1,94 millones de toneladas de carne al año.",
+      "fuente": "El Peruano (Midagri)",
+      "url": "https://elperuano.pe/noticia/305862-midagri-peru-fortalece-sanidad-agropecuaria",
+      "vertical": "proteina-animal",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El Baltic Dry corta cuatro bajas seguidas",
+      "resumen": "El índice Baltic Dry subió 27 puntos a 3.140 el 1 de octubre de 2026 (+0,87%). Queda 5,7% abajo en el último mes y 64,5% arriba frente a un año atrás.",
+      "fuente": "Baltic Exchange, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.2
+    },
+    {
+      "titular": "El flete de contenedores baja 1% con la Semana Dorada china",
+      "resumen": "El Drewry WCI marcó 4.434 dólares por FEU el 1 de octubre de 2026 (−1% semanal). Shanghái-Róterdam cayó 2% a 3.399 dólares, su duodécima baja semanal seguida, y Drewry espera otra baja la próxima semana por los cierres de fábricas en China.",
+      "fuente": "Drewry World Container Index",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    }
+  ]
+}
