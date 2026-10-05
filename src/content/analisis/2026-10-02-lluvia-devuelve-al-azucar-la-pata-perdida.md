@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: BR
 score: 7.9
-destacado: true
+destacado: false
 lectura: "El 18 de septiembre esta casa escribió que el mercado del azúcar había perdido una de sus dos patas: Brasil devolvía caña al azúcar quincena a quincena. Septiembre la devolvió. La lluvia no eligió entre azúcar y etanol: frenó la molienda entera, y con eso cortó las dos producciones a la vez. El déficit 2026/27 ya no depende solo de India y Tailandia; también depende de cuántos días secos le quedan a la zafra brasileña."
 cifras:
   - label: "Molienda del Centro-Sur, 1.ª quincena de septiembre"

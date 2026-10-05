@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-05",
+  "items": [
+    {
+      "titular": "La soya boliviana exporta más que el gas, pero cobra menos por tonelada",
+      "resumen": "El complejo soya exportó 787 millones de dólares entre enero y agosto de 2026 (+13% en valor, +18% en volumen) y superó a los hidrocarburos (733 millones, −8%). El valor por tonelada bajó 4,2% (cálculo Campiva): la diferencia la hizo el volumen.",
+      "fuente": "IBCE, vía El Deber",
+      "url": "https://eldeber.com.bo/economia/exportacion-soya-supera-hidrocarburos-genera-us-787-millones-agosto_1790954900",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.1
+    },
+    {
+      "titular": "Anapo espera hasta 700.000 toneladas de soya de invierno, todas para afuera",
+      "resumen": "Anapo proyectó el 4 de octubre de 2026 una cosecha de invierno de 650.000 a 700.000 toneladas sobre unas 320.000 hectáreas. Como el verano cubrió la demanda interna, toda la producción irá a la exportación; la cosecha del norte va de fines de octubre a principios de noviembre.",
+      "fuente": "Anapo, vía La Razón y Eju",
+      "url": "https://eju.tv/2026/10/el-agro-proyecta-hasta-700-000-toneladas-de-soya-al-finalizar-campana-de-invierno/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El Niño costero sube otro medio grado en el Pacífico oriental",
+      "resumen": "La actualización semanal de NOAA del 5 de octubre de 2026 mide la anomalía de Niño 1+2 (frente a Perú y Ecuador) en +4,5 °C y la de Niño 3.4 en +2,3 °C (+3,9 y +2,2 el 28 de septiembre). NOAA mantiene más de 90% de probabilidad de un evento muy fuerte.",
+      "fuente": "NOAA/CPC, ENSO: Recent Evolution, Current Status and Predictions",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El Niño le recorta 16.000 toneladas al arándano peruano en un mes",
+      "resumen": "Proarándanos bajó el 1 de octubre de 2026 su proyección de exportación 2026/27 a 366.000 toneladas, desde 382.000 en septiembre (−4,2%) y 4,4% menos que las 383.000 de la campaña anterior, pese a unos 15% más de área. Atribuye el recorte a un impacto de El Niño mayor al previsto.",
+      "fuente": "Proarándanos, vía Agraria.pe",
+      "url": "https://agraria.pe/noticias/proyeccion-de-exportaciones-de-arandano-peruano-cae-a-366-mi-43213",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El azúcar sube 5% en una rueda y cierra la semana cerca de su máximo desde abril de 2025",
+      "resumen": "El #11 de Nueva York (marzo-27) cerró el 2 de octubre de 2026 en 19,93 centavos por libra, contra 18,94 el 1 de octubre (+5,2%, cálculo Campiva). El mercado sigue leyendo un déficit de oferta tras la lluvia que frenó la molienda en Brasil.",
+      "fuente": "ICE Futures, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "En Chicago, el aceite sube y la harina baja en el mismo día",
+      "resumen": "El 2 de octubre de 2026 la soya de noviembre cerró en 12,7825 dólares por bushel (−5,75 centavos), la harina de diciembre en 347,50 dólares (−5,80) y el aceite de diciembre en 68,62 centavos por libra (+124 puntos). El valor del complejo se movió hacia el aceite.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-2-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El dólar abre la semana en su nivel más alto desde abril de 2025",
+      "resumen": "El índice DXY cerró el 2 de octubre de 2026 en 101,93 y operó cerca de 102,5 el lunes 5, su nivel más alto desde abril de 2025, con el euro debilitado por incertidumbre política en España y Francia. Un dólar más firme presiona a las materias primas cotizadas en esa moneda.",
+      "fuente": "TradingEconomics",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El cacao rebota 5,4% y vuelve a 5.670 dólares",
+      "resumen": "El cacao de Nueva York (diciembre-26) cerró el 2 de octubre de 2026 en 5.670 dólares por tonelada, contra 5.381 el 1 de octubre (+5,4%, cálculo Campiva). Es su cierre más alto en nueve ruedas de la serie de Campiva.",
+      "fuente": "ICE Futures, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Perú exportó casi 60 millones de dólares en cacao en polvo hasta agosto",
+      "resumen": "Entre enero y agosto de 2026 Perú exportó 59,9 millones de dólares FOB en cacao en polvo sin azúcar (7.861 toneladas). Estados Unidos recibió 28,5%, Chile 14,8% y México 13,7% (datos de Agrodata).",
+      "fuente": "Agraria.pe, con datos de Agrodata",
+      "url": "https://agraria.pe/noticias/peru-exporto-casi-us-60-millones-en-cacao-en-polvo-sin-azuca-43215",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "El Baltic Dry sube dos ruedas, pero cierra la semana 8% abajo",
+      "resumen": "El índice de fletes secos cerró el 2 de octubre de 2026 en 3.148 puntos (+0,25%). El capesize subió 0,6% y el panamax, el buque de los granos, bajó 0,3% a 2.372 puntos. En la semana el índice perdió 8,1%.",
+      "fuente": "Baltic Exchange, vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    }
+  ]
+}
