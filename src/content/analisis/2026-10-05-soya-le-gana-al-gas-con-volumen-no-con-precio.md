@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: soya
 pais: BO
 score: 8.1
-destacado: true
+destacado: false
 lectura: "Que la soya supere al gas en las exportaciones de Bolivia es un dato de composición, no de bonanza. El complejo creció porque vendió más toneladas, no porque cobró más por cada una. Con la cosecha de invierno destinada entera al mercado externo, el resultado de fin de año depende del volumen que pueda salir y del precio que acepte el comprador, no de la memoria de los precios de 2025."
 cifras:
   - label: "Exportaciones del complejo soya, enero-agosto"

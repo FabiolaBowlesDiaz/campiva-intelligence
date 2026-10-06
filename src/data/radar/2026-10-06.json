@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-06",
+  "items": [
+    {
+      "titular": "El pollo frenó la inflación de septiembre y en octubre ya devolvió la rebaja",
+      "resumen": "Según el INE, el pollo bajó 19,21% en septiembre y fue el producto que más contuvo el IPC (+0,85% en el mes). En Santa Cruz, el boletín de la ADA muestra el kilo al consumidor en 16,44 Bs el 5 de octubre, +22,9% frente a los 13,38 Bs del 30 de septiembre.",
+      "fuente": "INE Bolivia y ADA Santa Cruz",
+      "url": "https://www.ine.gob.bo/index.php/el-indice-de-precios-al-consumidor-en-bolivia-presento-una-variacion-positiva-de-085-en-septiembre-de-2026/",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El tomate subió 38% y fue el producto que más empujó los precios en Bolivia",
+      "resumen": "El IPC de septiembre de 2026 subió 0,85% (3,88% en el año y 5,70% a doce meses). El tomate aumentó 38,12%, la papa 8,82% y la cebolla 6,03%. Sucre (+2,26%) y Potosí (+1,88%) tuvieron las mayores alzas; Santa Cruz, 0,38%.",
+      "fuente": "INE Bolivia, vía El Deber",
+      "url": "https://eldeber.com.bo/economia/tomate-sube-38-empuja-inflacion-septiembre-0-85_1791241603",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Bolivia vuelve a contar su campo después de 13 años",
+      "resumen": "El INE inició el 5 de octubre de 2026 el Censo Agropecuario en Santa Cruz y Beni, con un cuestionario de 170 preguntas en 17 secciones. La segunda fase arranca el 19 de octubre y la tercera a inicios de noviembre; el operativo de campo cierra el 15 de diciembre y los resultados se esperan antes de septiembre de 2027.",
+      "fuente": "INE, vía ABI",
+      "url": "https://abi.bo/arranca-el-censo-agropecuario-2026-en-bolivia-con-el-operativo-de-campo-que-preve-concluir-el-15-de-diciembre/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El arábica sube con Brasil en camino a su mayor cosecha",
+      "resumen": "El café arábica cerró el 5 de octubre de 2026 en 292,55 centavos por libra (+1,3%). La Conab estima la cosecha brasileña 2026 en un récord de 67,6 millones de sacas (+19,6%), con 48,2 millones de arábica (+34,8%) y 19,4 millones de conilon (−6,6%).",
+      "fuente": "ICE vía TradingEconomics; Conab (3.er levantamiento, 24/09/2026)",
+      "url": "https://revistacultivar.com.br/noticias/safra-de-cafe-deve-atingir-recorde-de-67-6-milhoes-de-sacas",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "El cacao suma 9% en dos ruedas",
+      "resumen": "El cacao de Nueva York cerró el 5 de octubre de 2026 en 5.867 dólares por tonelada (+3,5%), después de +5,4% el 2 de octubre. Desde el cierre del 1 de octubre (5.381) acumula +9,0% (cálculo Campiva). La casa no encontró una causa fechada del movimiento.",
+      "fuente": "ICE vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "EE.UU. creó 29.000 empleos en septiembre y recortó 60.000 de meses previos",
+      "resumen": "El BLS informó el 2 de octubre de 2026 +29.000 nóminas no agrícolas en septiembre y desempleo de 4,2%. Julio pasó de +21.000 a −10.000 y agosto de +162.000 a +133.000. El índice dólar cerró el 5 de octubre en 102,17 (+0,2%).",
+      "fuente": "U.S. Bureau of Labor Statistics; TradingEconomics (DXY)",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El Brent pierde los 102 y cierra apenas sobre 100",
+      "resumen": "El Brent cerró el 5 de octubre de 2026 en 100,32 dólares por barril (−1,9%). TradingEconomics atribuye la presión a señales de que las exportaciones de crudo de Medio Oriente se recuperan. En Nueva York, el WTI de noviembre cerró en 89,43 (−1,68).",
+      "fuente": "TradingEconomics; Brownfield Ag News (WTI)",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El trigo de Chicago sube 9 centavos y el maíz no lo acompaña",
+      "resumen": "El 5 de octubre de 2026 el trigo de diciembre cerró en 6,9225 dólares por bushel (+9,25 centavos) y el maíz de diciembre en 4,9725 (−0,5 centavos). La soya de noviembre subió 2,5 centavos a 12,8075; el aceite de diciembre, +73 puntos.",
+      "fuente": "Brownfield Ag News, Closing Grain and Livestock Futures",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-5-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.1
+    },
+    {
+      "titular": "El Baltic Dry cae a su menor nivel desde el 26 de agosto",
+      "resumen": "El índice de fletes a granel cerró el 5 de octubre de 2026 en 3.070 puntos (−2,5%). El capesize bajó 4,2% a 4.833 puntos y el panamax, el buque típico de granos, 0,3% a 2.364.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    },
+    {
+      "titular": "Perú ajusta las reglas de la compra estatal de arroz en zonas afectadas por El Niño",
+      "resumen": "La Resolución Ministerial D000415-2026-MIDAGRI-DM fija controles nuevos a la compra directa de arroz (presupuesto de 120 millones de soles para compra, transporte y distribución), con tope de 250 sacos de 49 kg por productor. El padrón puede actualizarse hasta el 15 de octubre de 2026.",
+      "fuente": "Midagri, vía Infobae",
+      "url": "https://www.infobae.com/peru/2026/10/05/compra-de-arroz-a-productores-midagri-endurece-controles-para-adquisicion-directa-a-arroceros-afectados-por-el-nino/",
+      "vertical": "cereales",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 4.9
+    }
+  ]
+}
