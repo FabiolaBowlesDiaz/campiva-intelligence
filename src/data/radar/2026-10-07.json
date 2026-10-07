@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-07",
+  "items": [
+    {
+      "titular": "La EIA sube a 84 dólares el barril de 2027 y apunta al diésel",
+      "resumen": "En su pronóstico del 6 de octubre de 2026, la EIA elevó el Brent de 2027 de 74 a 84 US$/bbl y el del cuarto trimestre de 2026 de 91 a 105. Dice que la escasez de diésel eleva la demanda de crudo; los destilados de la costa este de EE.UU. quedaron 32% bajo su promedio en septiembre.",
+      "fuente": "EIA, Short-Term Energy Outlook",
+      "url": "https://www.eia.gov/outlooks/steo/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El Brent cierra en 100,58 entre la liberación del G7 y nuevos ataques en Ormuz",
+      "resumen": "El Brent de diciembre cerró el 6 de octubre de 2026 en 100,58 US$/bbl (+0,26). El G7 coordina liberar 100 millones de barriles en cuatro meses, con mucho diésel al inicio; los flujos del Golfo sin Irán llegaron a más de 81% del nivel de preguerra en septiembre.",
+      "fuente": "TradingEconomics; Reuters vía BOE Report",
+      "url": "https://boereport.com/2026/10/06/oil-slips-as-mideast-exports-g7-stockpile-ease-supply-concerns/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "EE.UU. exporta más etanol y Colombia compra 163% más",
+      "resumen": "Las exportaciones de etanol de EE.UU. subieron 6% en agosto de 2026, a 211,8 millones de galones, máximo de cinco meses; Colombia recibió 12,7 millones (+163%). Los granos de destilería (DDGS) llegaron a 1,30 millones de toneladas, el mayor mes desde agosto de 2015, con México primero (214.091 t).",
+      "fuente": "Renewable Fuels Association, con datos del USDA",
+      "url": "https://ethanolrfa.org/media-and-news/category/trade-monitor/article/2026/10/august-u-s-ethanol-and-ddgs-exports-build",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "La soya de Chicago sube 22 centavos y arrastra al maíz y al trigo",
+      "resumen": "El 6 de octubre de 2026 la soya noviembre cerró en 13,03 US$/bu (+22¼ ¢), el maíz diciembre en 5,08 (+10¾ ¢) y el trigo diciembre en 7,04 (+12 ¢). Brownfield lo atribuye a compras de fondos, compras estatales chinas y cosecha demorada, a tres días del informe del USDA del 9 de octubre.",
+      "fuente": "Brownfield Ag News",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-6-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "India busca palma en Colombia porque Asia la quema como biodiésel",
+      "resumen": "India importó 13,61 millones de toneladas de aceites comestibles entre noviembre de 2025 y agosto de 2026 (+4,53%), 48% de palma. Con Indonesia y Malasia subiendo sus mezclas de biodiésel, la asociación de extractores (SEA) prepara una misión a Colombia, cuarto productor mundial (~2 M t al año).",
+      "fuente": "BioEnergy Times, con datos de la SEA",
+      "url": "https://bioenergytimes.com/india-explores-colombia-to-diversify-palm-oil-imports-amid-rising-biodiesel-demand/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Las frutas y hortalizas del Perú crecen 14,9% y rozan 4.000 millones de dólares",
+      "resumen": "Entre enero y julio de 2026 el Perú exportó US$ 3.929 millones en frutas y hortalizas, 14,9% más que en 2025 y 62,3% de las agroexportaciones no tradicionales. Midagri proyecta US$ 15.000 millones de agroexportación para todo 2026.",
+      "fuente": "Midagri, vía Infobae",
+      "url": "https://www.infobae.com/peru/2026/10/05/el-boom-de-las-frutas-y-hortalizas-peruanas-exportaciones-crecen-149-y-rozan-los-usd-4000-millones/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El arábica sube 4% en una rueda y vuelve sobre los 3 dólares",
+      "resumen": "El café arábica de diciembre cerró el 6 de octubre de 2026 en 304,45 ¢/lb, +4,07% frente a 292,55, con un máximo intradía de 306,45. No se encontró una causa fechada del movimiento; se publica solo el cierre.",
+      "fuente": "TradingEconomics e Investing.com",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "Bolivia toma 40 millones del BID para titular 13,3 millones de hectáreas",
+      "resumen": "La Ley 1774 formaliza el préstamo 5865/OC-BO del BID por US$ 40 millones, a 24,5 años con 11 años y 8 meses de gracia, para completar el catastro rural de 13,3 millones de hectáreas y modernizar los sistemas del INRA.",
+      "fuente": "Economy.com.bo",
+      "url": "https://www.economy.com.bo/articulo/business/bid-destina-us-40-millones-completar-catastro-133-millones-hectareas/20261006190828024367.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El cacao devuelve un tercio de su rebote",
+      "resumen": "El cacao de Nueva York cerró el 6 de octubre de 2026 en 5.700 US$/t, −2,85% frente a 5.867, después de sumar 9% en las dos ruedas previas.",
+      "fuente": "TradingEconomics e Investing.com",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    },
+    {
+      "titular": "El Baltic Dry baja a 3.002 puntos por los capesize",
+      "resumen": "El índice de fletes a granel cayó 2,2% el 6 de octubre de 2026, a 3.002 puntos, su menor nivel desde fines de agosto. El capesize bajó 4% a 4.638; el panamax, el buque del grano, quedó casi sin cambio.",
+      "fuente": "Baltic Exchange vía TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    }
+  ]
+}

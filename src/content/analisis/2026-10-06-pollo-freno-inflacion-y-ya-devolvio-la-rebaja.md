@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: proteina-animal
 pais: BO
 score: 7.6
-destacado: true
+destacado: false
 lectura: "El dato de septiembre midió un piso, no una tendencia. El pollo se vendió barato mientras su ración se encarecía, y ese descalce se corrigió en una semana. Quien lea el IPC de septiembre como señal de proteína barata va a cotizar octubre con un precio que ya no está en el mercado."
 cifras:
   - label: "Pollo en el IPC de septiembre"
