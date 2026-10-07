@@ -12,16 +12,6 @@
       "score": 7.7
     },
     {
-      "titular": "El Brent cierra en 100,58 entre la liberación del G7 y nuevos ataques en Ormuz",
-      "resumen": "El Brent de diciembre cerró el 6 de octubre de 2026 en 100,58 US$/bbl (+0,26). El G7 coordina liberar 100 millones de barriles en cuatro meses, con mucho diésel al inicio; los flujos del Golfo sin Irán llegaron a más de 81% del nivel de preguerra en septiembre.",
-      "fuente": "TradingEconomics; Reuters vía BOE Report",
-      "url": "https://boereport.com/2026/10/06/oil-slips-as-mideast-exports-g7-stockpile-ease-supply-concerns/",
-      "vertical": "energia",
-      "pais": "GLOBAL",
-      "impacto": "medio",
-      "score": 6.3
-    },
-    {
       "titular": "EE.UU. exporta más etanol y Colombia compra 163% más",
       "resumen": "Las exportaciones de etanol de EE.UU. subieron 6% en agosto de 2026, a 211,8 millones de galones, máximo de cinco meses; Colombia recibió 12,7 millones (+163%). Los granos de destilería (DDGS) llegaron a 1,30 millones de toneladas, el mayor mes desde agosto de 2015, con México primero (214.091 t).",
       "fuente": "Renewable Fuels Association, con datos del USDA",
@@ -30,6 +20,16 @@
       "pais": "US",
       "impacto": "medio",
       "score": 6.4
+    },
+    {
+      "titular": "El Brent cierra en 100,58 entre la liberación del G7 y nuevos ataques en Ormuz",
+      "resumen": "El Brent de diciembre cerró el 6 de octubre de 2026 en 100,58 US$/bbl (+0,26). El G7 coordina liberar 100 millones de barriles en cuatro meses, con mucho diésel al inicio; los flujos del Golfo sin Irán llegaron a más de 81% del nivel de preguerra en septiembre.",
+      "fuente": "TradingEconomics; Reuters vía BOE Report",
+      "url": "https://boereport.com/2026/10/06/oil-slips-as-mideast-exports-g7-stockpile-ease-supply-concerns/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
     },
     {
       "titular": "La soya de Chicago sube 22 centavos y arrastra al maíz y al trigo",
@@ -59,7 +59,7 @@
       "vertical": "macro",
       "pais": "PE",
       "impacto": "medio",
-      "score": 6.0
+      "score": 5.8
     },
     {
       "titular": "El arábica sube 4% en una rueda y vuelve sobre los 3 dólares",
