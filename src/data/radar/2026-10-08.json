@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-08",
+  "items": [
+    {
+      "titular": "El CPC eleva a 83% la chance de un El Niño histórico entre octubre y diciembre",
+      "resumen": "En su discusión del 8 de octubre de 2026, el CPC/NOAA da 83% de probabilidad de un evento histórico (RONI de +2,5 °C o más, por encima de todos desde 1950) para octubre-diciembre y más de 83% de un Niño fuerte a muy fuerte hasta enero-marzo de 2027. El Niño 3.4 marcó +2,1 °C y el Niño 1+2, frente a Sudamérica, +3,9 °C.",
+      "fuente": "NOAA/CPC, ENSO Diagnostic Discussion",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "Brasil vende 93% menos carne vacuna a China y EE.UU. absorbe parte del hueco",
+      "resumen": "Brasil exportó 229.300 t de carne vacuna en septiembre de 2026 (−35,1%); a China fueron 12.900 t (−93,2%) y a EE.UU. 48.300 t (+389%), según Abiec. Con la cuota de 1,106 millones de t agotada, China cobra desde el 1 de octubre una sobretasa de 55 puntos que lleva el arancel a 67%.",
+      "fuente": "Abiec, con datos de Secex (vía Safras & Mercado)",
+      "url": "https://safras.com.br/brasil-exporta-2293-mil-toneladas-de-carne-bovina-em-setembro-abiec",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "El pollo brasileño exporta 3,7% más en volumen y 14,7% más en valor en septiembre",
+      "resumen": "Brasil embarcó 500.300 t de carne de pollo en septiembre de 2026 por US$ 984,2 millones (+14,7%), según la ABPA; en enero-septiembre suma 4,421 millones de t (+14%). La Unión Europea recibió 43.500 t, todas certificadas antes de la suspensión del 3 de septiembre.",
+      "fuente": "ABPA (vía CNN Brasil)",
+      "url": "https://www.cnnbrasil.com.br/agro/exportacao-de-carne-de-frango-do-brasil-cresce-37-em-setembro/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "La tormenta Isaias cierra cerca de un cuarto del crudo del golfo de EE.UU.",
+      "resumen": "Shell y Chevron cerraron producción y evacuaron plataformas; el mercado estima unos 500.000 barriles diarios fuera de línea y ESA proyecta pérdidas de 9,55 millones de barriles. El Brent dic-26 cerró en 100,20 US$/bbl el 7 de octubre (−0,4%) y subía más de 3% en la mañana del 8, con la tormenta y la tensión con Irán.",
+      "fuente": "Rigzone, 8 de octubre de 2026; cierre: TradingEconomics",
+      "url": "https://www.rigzone.com/news/shell_chevron_oxy_issue_hurricane_isaias_updates-08-oct-2026-184800-article/",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "En Chicago la harina de soya sube 3% y el aceite cae 3% en la misma rueda",
+      "resumen": "El 7 de octubre de 2026 la harina de soya dic subió 11 dólares a 365,80 US$/t corta y el aceite cayó 2,23 centavos a 67,68 ¢/lb; la soya nov bajó 5½ centavos a 12,975 US$/bu y el trigo dic 17¾ centavos a 6,865. Presionaron el dólar y la tasa del bono a 30 años, en su máximo en más de 24 años.",
+      "fuente": "Total Farm Marketing y Brownfield Ag News, 7 de octubre de 2026",
+      "url": "https://www.totalfarmmarketing.com/tfm-daily-market-summary-10-7-2026/",
+      "vertical": "nutricion-animal",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El pollo en Santa Cruz baja de 16,44 a 15,25 bolivianos en dos ruedas",
+      "resumen": "Según la ADA, el pollo a mano al consumidor promedió 15,25 Bs/kg el 7 de octubre de 2026, contra 16,19 el 6 y 16,44 el 5; el pollo vivo al productor bajó de 10,75 a 10,25 Bs/kg. La ración sigue igual: maíz 105-108 Bs/qq y harina integral de soya 4.600 Bs/t.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA), boletín del 7 de octubre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-07oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "EE.UU. vende más carne vacuna y menos cerdo; México pesa en la caída",
+      "resumen": "En agosto de 2026 EE.UU. exportó 86.362 t de carne vacuna (+4%) por US$ 785,9 millones (+13%), y 222.243 t de cerdo (−6%) por US$ 606,3 millones (−12%). A México el cerdo cayó 12% en volumen, con el arrastre de las restricciones por pseudorrabia y menor demanda de jamones.",
+      "fuente": "USMEF, con datos del USDA (vía Oklahoma Farm Report)",
+      "url": "https://www.oklahomafarmreport.com/2026/10/07/august-beef-exports-above-year-ago-but-pork-trended-lower/",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 5.6
+    },
+    {
+      "titular": "El arábica cae 3,9% y devuelve lo que ganó el martes",
+      "resumen": "El café arábica dic-26 cerró en 292,70 ¢/lb el 7 de octubre de 2026 (−3,86%), tras tocar 304,45 el día anterior. Pesa la cosecha brasileña récord de 67,6 millones de sacas (Conab) y el superávit mundial que proyecta Hedgepoint (8,9 millones de sacas).",
+      "fuente": "ICE vía TradingEconomics e Investing.com",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.6
+    },
+    {
+      "titular": "Las agroexportaciones peruanas crecen 1,8% en valor pero caen 2,3% en volumen",
+      "resumen": "Entre enero y agosto de 2026 el Perú exportó más en valor y menos en volumen en el agro, según ADEX; la palta lideró con US$ 1.340 millones. Las exportaciones totales sumaron US$ 74.123 millones (+34,3%), empujadas por la minería.",
+      "fuente": "ADEX, CIEN (vía Redagrícola, 6 de octubre de 2026)",
+      "url": "https://redagricola.com/agroexportaciones-crecen-18-en-valor-pero-caen-23-en-volumen-hasta-agosto/",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El dólar cierra en 102,24, su nivel más alto desde marzo de 2025",
+      "resumen": "El índice DXY subió 0,40% el 7 de octubre de 2026 y cerró en 102,24 puntos. El mercado le asigna alta probabilidad a otra suba de tasas de la Fed en diciembre; un dólar firme suele presionar a las materias primas que cotizan en esa moneda.",
+      "fuente": "TradingEconomics e Investing.com",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}
