@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-09",
+  "items": [
+    {
+      "titular": "El USDA le quita 4,1 millones de toneladas al azúcar de India y recorta su stock a 4",
+      "resumen": "La oficina del USDA en Nueva Delhi bajó la producción india de azúcar 2026/27 de 33,6 a 29,5 millones de t (valor crudo) por lluvia irregular y plagas; el consumo (30,83 M t) supera a la producción por 1,3 M t y el stock final cae de 6,5 a 4 M t. India abrió 1 M t de importación sin arancel hasta el 31 de octubre, la primera en casi una década.",
+      "fuente": "USDA FAS, Sugar Semi-annual India (IN2026-0051), 5 de octubre de 2026",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Semi-annual_New%20Delhi_India_IN2026-0051.pdf",
+      "vertical": "azucar",
+      "pais": "IN",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "El USDA publica hoy su WASDE y los analistas esperan más maíz en stock y menos rinde",
+      "resumen": "El informe de oferta y demanda sale el 9 de octubre de 2026 a las 12:00 (hora de Bolivia). El promedio de analistas encuestados espera un rinde de maíz de EE.UU. de 177,6 bu/acre (178,5 en septiembre) y un stock final 2026/27 de 1.677 millones de bu, frente a 1.567, tras el inventario más alto que dio el USDA al 1 de septiembre.",
+      "fuente": "DTN/Progressive Farmer, 7 de octubre de 2026",
+      "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/10/07/us-harvests-delayed-usda-gauge-crop",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 6.9
+    },
+    {
+      "titular": "Perú cobra 55% menos por su cacao en grano con 21% menos volumen",
+      "resumen": "Entre enero y septiembre de 2026 Perú exportó 74.310 t de cacao en grano (−21,2%) por US$ 303,3 millones (−55,1%), con un precio promedio de 4,08 US$/kg (−42,9%), según Agrodata. Países Bajos compró 25% del valor y EE.UU. 16%.",
+      "fuente": "Agraria.pe, con datos de Agrodata, 7 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-de-cacao-en-grano-caen-55-06-en-valor-y-21-11--43242",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Anapo plantea duplicar el valor exportado del complejo oleaginoso",
+      "resumen": "El gerente general de Anapo, Jaime Hernández, estimó que las exportaciones oleaginosas de Bolivia promedian entre US$ 1.000 y 1.200 millones al año y que el sector podría superar los US$ 2.000 millones en el mediano plazo. Para eso, el gremio pide liberar las exportaciones, acceso a biotecnología, financiamiento y seguridad jurídica sobre la tierra.",
+      "fuente": "La Razón (vía eju.tv), 8 de octubre de 2026",
+      "url": "https://eju.tv/2026/10/anapo-apunta-a-duplicar-exportaciones-oleaginosas-y-superar-us-2-000-mm/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El Brent salta 4% y vuelve sobre los 104 dólares",
+      "resumen": "El Brent cerró el 8 de octubre de 2026 en 104,28 US$/bbl (+4,1%) y el WTI noviembre en 91,49 (+3,21). TradingEconomics atribuye la suba a nuevos ataques contra tanqueros en Ormuz y a los cierres de producción en el golfo de EE.UU. por la tormenta Isaias.",
+      "fuente": "TradingEconomics y Brownfield Ag News, 8 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "Chicago toma ganancias en soya y desarma el spread de harina contra aceite",
+      "resumen": "El 8 de octubre de 2026 la soya noviembre cerró en 12,875 US$/bu (−10 ¢) y la harina diciembre en 357,60 US$/tc (−2,2%), mientras el aceite subió a 67,92 ¢/lb (+0,24). Brownfield lo explica por toma de ganancias, presión de cosecha y operadores que deshacen posiciones entre subproductos.",
+      "fuente": "Brownfield Ag News e Informe Diario SAGyP, 8 de octubre de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-8-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "El trigo de Chicago cede con la siembra de invierno de EE.UU. atrasada",
+      "resumen": "El trigo diciembre cerró el 8 de octubre de 2026 en 6,8325 US$/bu (−3,25 ¢), tras cuatro alzas seguidas por ataques en el Mar Negro. La siembra de trigo de invierno de EE.UU. llegaba al 36% al 4 de octubre, frente a 46% del promedio de cinco años, según el USDA.",
+      "fuente": "Brownfield Ag News (08/10) e Investing.com con datos del USDA (06/10)",
+      "url": "https://www.brownfieldagnews.com/market-news/corn-soybeans-see-more-profit-taking-harvest-pressure/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El pollo vivo cae 11% en Santa Cruz en un día",
+      "resumen": "El boletín de la ADA del 8 de octubre de 2026 marca el pollo vivo al productor en 9,10 Bs/kg, frente a 10,25 el día anterior (−11,2%). Al consumidor, el pollo a mano promedió 15,19 Bs/kg (15,25 el 7/10); el maíz siguió en 105-108 Bs/qq y el sorgo en 68-75.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA), 8 de octubre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-08oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "BRANDT compra la mexicana Altiara para fabricar bioinsumos para América Latina",
+      "resumen": "La estadounidense BRANDT adquirió el 100% de Agrícola Innovación (Altiara), fabricante de nutrición vegetal, biológicos y coadyuvantes con plantas en Ciudad de México y Pachuca. La empresa dijo que producirá en México para abastecer a Centroamérica, el Caribe y el resto de la región; no informó el monto.",
+      "fuente": "AgriBusiness Global, 7 de octubre de 2026",
+      "url": "https://www.agribusinessglobal.com/markets/americas/brandt-acquires-altiara-leading-mexican-manufacturer-of-specialty-ag-products/",
+      "vertical": "innovacion",
+      "pais": "LATAM",
+      "impacto": "bajo",
+      "score": 5.7
+    },
+    {
+      "titular": "El flete de contenedores baja 2% tras la semana dorada china",
+      "resumen": "El World Container Index de Drewry cayó a 4.351 US$/FEU el 8 de octubre de 2026 (4.434 el 1 de octubre). Shanghai-Los Ángeles bajó 3% a 7.624 y Shanghai-Rotterdam 2% a 3.337, por menor demanda durante la Golden Week.",
+      "fuente": "Drewry World Container Index, 8 de octubre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.2
+    }
+  ]
+}

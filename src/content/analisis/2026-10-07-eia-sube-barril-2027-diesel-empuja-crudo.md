@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: energia
 pais: GLOBAL
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Hasta septiembre la lectura era que el crudo bajaba y el diésel no lo seguía. La EIA ahora describe el camino inverso: el diésel escaso tira del crudo hacia arriba. Para presupuestar 2027, la variable que decide no es el barril de 84 dólares, sino si el margen de refinación baja como supone el pronóstico."
 cifras:
   - label: "Brent previsto 2027"
