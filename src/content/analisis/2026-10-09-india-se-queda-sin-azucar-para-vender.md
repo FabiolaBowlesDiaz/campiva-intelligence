@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: GLOBAL
 score: 7.5
-destacado: true
+destacado: false
 lectura: "Los dos mayores proveedores de azúcar del mundo llegan cortos a la misma campaña: India pierde 4,1 millones de toneladas en el pronóstico y Brasil lleva 14,4% menos azúcar en el acumulado. La caída de Nueva York del 8 de octubre fue una venta de fondos con poco volumen. La curva de futuros dice otra cosa: el azúcar de marzo vale más que el de julio."
 cifras:
   - label: "Azúcar de India 2026/27"

@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-12",
+  "items": [
+    {
+      "titular": "Rusia vuelve a vender diésel: autoriza 500.000 toneladas y EE.UU. levanta la sanción por seis meses",
+      "resumen": "El Gobierno ruso autorizó desde el 10 de octubre de 2026 la venta al exterior de 500.000 t de diésel, prohibida desde el 8 de julio; el Tesoro de EE.UU. emitió la Licencia General 135, vigente hasta el 7 de abril de 2027. El diésel mayorista de Nueva York bajó cerca de 4,5% a 4,67 US$/gal con el anuncio; el volumen firme equivale a unos cuatro días de la exportación rusa previa (cálculo Campiva).",
+      "fuente": "Ship & Bunker, 9 de octubre de 2026; Kyiv Independent (TASS), 10 de octubre de 2026",
+      "url": "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El USDA sube el rinde del maíz de EE.UU. a 181,2 bu/acre y el stock final salta 282 millones de bushels",
+      "resumen": "El WASDE del 9 de octubre de 2026 elevó el rinde de 178,5 a 181,2 bu/acre y la producción a 16.034 M bu; el stock final 2026/27 pasó de 1.567 a 1.849 M bu, contra 1.677 que esperaban los analistas. El maíz diciembre de Chicago cerró en 4,7975 US$/bu, 20,5 centavos abajo (−4,1%).",
+      "fuente": "USDA, WASDE 675, 9 de octubre de 2026; Brownfield Ag News, 9 de octubre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1026.txt",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Soja récord en EE.UU. y el precio igual sube: la harina gana 8 dólares el día del WASDE",
+      "resumen": "El USDA llevó el rinde de la soja a un récord de 53,1 bu/acre y la producción a 4.562 M bu; el stock final quedó en 315 M bu (310 en septiembre) con exportaciones de 1.695 M bu. El 9 de octubre la soja noviembre subió 4,5 centavos a 12,92 US$/bu y la harina diciembre 8 dólares a 365,60 US$/t corta.",
+      "fuente": "USDA, WASDE 675, 9 de octubre de 2026; Brownfield Ag News, 9 de octubre de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-9-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Bolivia exportó 54% más a agosto, pero el girasol vendió menos toneladas a mejor precio",
+      "resumen": "Las exportaciones bolivianas sumaron US$ 8.958 M entre enero y agosto de 2026 (+54%), según el IBCE con datos del INE. Girasol y derivados: 47.524 t (−15%) por US$ 37,98 M (+8%); el valor por tonelada sube de 634 a 799 US$ (cálculo Campiva). Soya y derivados: 1,97 M t (+18%) por US$ 787 M (+13%).",
+      "fuente": "IBCE, Boletín IBCE Cifras N.º 1.455, 8 de octubre de 2026",
+      "url": "https://ibce.org.bo/ibcecifras/index.php?id=1529",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "Argentina ya sembró 36% del girasol y sube el área a 3,1 millones de hectáreas",
+      "resumen": "La Bolsa de Cereales de Buenos Aires reporta el girasol 2026/27 en 36,1% de 3,1 M ha proyectadas (1.120.571 ha), 11 puntos sobre el promedio histórico, con 98,4% del cultivo en estado normal a excelente. El maíz avanza a 29,9% de 8,4 M ha, 5 puntos por delante de la campaña previa.",
+      "fuente": "Bolsa de Cereales de Buenos Aires vía Agrofy News, 9 de octubre de 2026",
+      "url": "https://news.agrofy.com.ar/noticia/216768/lluvias-aceleraron-siembra-maiz-ya-cubre-299-area-girasol-alcanza-361",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Perú agroexporta US$ 7.586 millones a agosto con el arándano como motor",
+      "resumen": "Las exportaciones agropecuarias del Perú sumaron US$ 7.586 M entre enero y agosto de 2026 (+2,1%), según el Mincetur. Arándano US$ 1.082 M (+46,5%), palta 1.417 M (+7,8%), uva 816 M (+17,6%) y quinua 112 M (+21,3%).",
+      "fuente": "Mincetur vía Agraria.pe, 9 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-agropecuarias-sumaron-us-7-586-millones-a-agos-43262",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El USDA recorta la exportación de trigo de EE.UU. y de Rusia; Chicago cede 1,8%",
+      "resumen": "El WASDE de octubre bajó la exportación de trigo de EE.UU. 2026/27 de 775 a 750 M bu y subió su stock final de 717 a 740 M bu; también recortó la exportación de Rusia de 43 a 40 M t. El trigo diciembre de Chicago cerró el 9 de octubre en 6,71 US$/bu, 12,25 centavos abajo.",
+      "fuente": "USDA, WASDE 675, 9 de octubre de 2026; Brownfield Ag News, 9 de octubre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1026.txt",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El dólar suma cuatro semanas de suba y el mercado espera la inflación de septiembre",
+      "resumen": "El índice DXY cerró el 9 de octubre de 2026 en 102,21 tras su cuarta suba semanal seguida, la racha que lo llevó al nivel más alto desde abril de 2025. El IPC de septiembre de EE.UU. sale el 14 de octubre y el PPI el 15; el gobernador de la Fed Christopher Waller dijo el 8 de octubre que probablemente hagan falta más subas de tasa.",
+      "fuente": "TradingEconomics, 9 y 12 de octubre de 2026",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "Perú importa la mitad de arroz que un año antes y paga menos por kilo",
+      "resumen": "Las importaciones peruanas de arroz sumaron US$ 38 M hasta el 20 de septiembre de 2026, contra US$ 75 M en el mismo período de 2025; el volumen cayó 38% y el precio pasó de 0,64 a 0,53 US$/kg. Uruguay y Brasil concentran casi nueve de cada diez dólares importados.",
+      "fuente": "Agraria.pe, 9 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/importaciones-peruanas-de-arroz-caen-a-la-mitad-ecuador-gana-43259",
+      "vertical": "cereales",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.1
+    }
+  ]
+}
