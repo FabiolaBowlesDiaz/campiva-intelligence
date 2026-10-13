@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: energia
 pais: GLOBAL
 score: 7.9
-destacado: true
+destacado: false
 lectura: "El precio reaccionó al anuncio; el volumen todavía no llegó. Las 500.000 toneladas firmes cubren unos cuatro días de la exportación rusa previa. Si llega todo lo anunciado, 4,8 millones en seis meses, Rusia vendería cerca de un quinto de su ritmo anterior. El dato que mueve a la región es si Brasil vuelve a comprarle a Rusia: eso libera barcos de la costa del golfo de EE.UU. para el resto de Sudamérica."
 cifras:
   - label: "Diésel ruso autorizado"

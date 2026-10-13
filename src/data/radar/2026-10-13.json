@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-13",
+  "items": [
+    {
+      "titular": "El arábica baja del 60% del café verde exportado por primera vez y el robusta gana terreno",
+      "resumen": "Según la ICO, en octubre de 2025-agosto de 2026 el arábica fue 59,6% de las exportaciones de café verde, contra 63,5% un año antes: la primera vez en el registro que baja de 60% en los primeros once meses del año cafetero. Las exportaciones de robusta (todas las formas) subieron 10,7% a 56,2 M de sacos y las de arábica bajaron 5,2%.",
+      "fuente": "Organización Internacional del Café (ICO), Coffee Market Report de septiembre de 2026, 9 de octubre de 2026",
+      "url": "https://www.ico.org/documents/cy2025-26/cmr-0926-e.pdf",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "Brasil exporta más café en septiembre y cobra menos: más sacos, 7,1% menos dólares",
+      "resumen": "Brasil exportó 3,894 M de sacos de café en septiembre de 2026 (+3,1%) por US$ 1.282 M (−7,1%), según Cecafé; EE.UU. compró 625.192 sacos (+86,4%). En enero-septiembre el conilon (robusta) subió 68,3% a 5,162 M de sacos y el arábica bajó 10,7% a 20,739 M.",
+      "fuente": "Cecafé, vía Revista Cultivar, 9 de octubre de 2026",
+      "url": "https://revistacultivar.com.br/noticias/brasil-exporta-3-9-milhoes-de-sacas-de-cafe-em-setembro",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Colombia cierra el año cafetero con 15% menos café, pero septiembre ya sube 6%",
+      "resumen": "La Federación Nacional de Cafeteros informó una producción de 12,65 M de sacos en octubre de 2025-septiembre de 2026, contra 14,87 M del año anterior (−15%); la exportación bajó 12% a 11,78 M. En septiembre la producción subió 6% a 1,215 M de sacos, con el inicio de la cosecha principal.",
+      "fuente": "Federación Nacional de Cafeteros, vía Portafolio, 9 de octubre de 2026",
+      "url": "https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163",
+      "vertical": "cafe",
+      "pais": "CO",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Perú exporta 21% menos cacao en grano y cobra 55% menos a septiembre",
+      "resumen": "Las exportaciones peruanas de cacao en grano sumaron US$ 303,3 M en enero-septiembre de 2026, 55,06% menos que en 2025, con 74.310 t (−21,2%). El precio promedio bajó de 7,15 a 4,08 US$/kg (−42,9%); Países Bajos (25,0%) y EE.UU. (15,9%) fueron los primeros destinos.",
+      "fuente": "Agraria.pe, con datos de Agrodata, 7 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-de-cacao-en-grano-caen-55-06-en-valor-y-21-11--43242",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El cacao espera el dato de molienda del 15 de octubre con la cosecha marfileña atrasada",
+      "resumen": "El cacao de Nueva York cerró en 5.676 US$/t el 12 de octubre de 2026. Los arribos a puertos de Costa de Marfil sumaban 54.500 t al 4 de octubre, con la cosecha principal atrasada; el mercado espera el 15 de octubre la molienda del tercer trimestre de Europa y Norteamérica.",
+      "fuente": "TradingEconomics, 7 y 13 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El Baltic Dry cae a su nivel más bajo desde el 21 de agosto",
+      "resumen": "El índice Baltic Dry bajó 2,2% a 2.852 puntos el 12 de octubre de 2026, su menor nivel desde el 21 de agosto. El capesize cayó 4,4% a 4.148 puntos; el panamax, el buque del grano, subió 0,3% a 2.432.",
+      "fuente": "TradingEconomics, 12 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.9
+    },
+    {
+      "titular": "El Brent cierra en 106,65 dólares, su nivel más alto en más de dos semanas",
+      "resumen": "El Brent diciembre cerró el 12 de octubre de 2026 en 106,65 US$/bbl (+1,8%), con ataques a buques en Ormuz y en Ucrania como factores citados. El WTI noviembre subió 1,89 US$ a 93,74 US$/bbl en la misma rueda.",
+      "fuente": "TradingEconomics, 13 de octubre de 2026; Brownfield Ag News, 12 de octubre de 2026",
+      "url": "https://www.brownfieldagnews.com/market-news/closing-grain-and-livestock-futures-october-12-2026/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "Piura: el calor adelanta la uva y frena la floración del mango, según un agrónomo",
+      "resumen": "Con máximas de 29 a 34 °C, la cosecha de uva en Piura se adelanta 10 a 15 días y la inducción floral del mango queda entre 10% y 20% en la mayoría de los campos, según el agrónomo Víctor Arteaga Honorio. La nota atribuye el ritmo de la campaña a El Niño; no cita mediciones oficiales.",
+      "fuente": "Agraria.pe, 9 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/piura-el-calor-adelanta-la-uva-frena-la-floracion-del-mango--43258",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}
