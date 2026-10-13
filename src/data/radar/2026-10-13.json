@@ -19,7 +19,7 @@
       "vertical": "cafe",
       "pais": "BR",
       "impacto": "medio",
-      "score": 7.0
+      "score": 6.9
     },
     {
       "titular": "Colombia cierra el año cafetero con 15% menos café, pero septiembre ya sube 6%",
@@ -39,7 +39,7 @@
       "vertical": "cacao",
       "pais": "PE",
       "impacto": "medio",
-      "score": 6.6
+      "score": 6.4
     },
     {
       "titular": "El cacao espera el dato de molienda del 15 de octubre con la cosecha marfileña atrasada",
@@ -49,7 +49,7 @@
       "vertical": "cacao",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 6.3
+      "score": 6.1
     },
     {
       "titular": "El Baltic Dry cae a su nivel más bajo desde el 21 de agosto",
@@ -59,7 +59,7 @@
       "vertical": "logistica",
       "pais": "GLOBAL",
       "impacto": "bajo",
-      "score": 5.9
+      "score": 5.7
     },
     {
       "titular": "El Brent cierra en 106,65 dólares, su nivel más alto en más de dos semanas",
@@ -69,7 +69,7 @@
       "vertical": "energia",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 5.8
+      "score": 5.6
     },
     {
       "titular": "Piura: el calor adelanta la uva y frena la floración del mango, según un agrónomo",
@@ -79,7 +79,7 @@
       "vertical": "clima",
       "pais": "PE",
       "impacto": "bajo",
-      "score": 5.6
+      "score": 5.3
     }
   ]
 }
