@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: cafe
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El robusta ganó espacio por dos razones a la vez: hubo menos arábica para vender y el robusta quedó barato. La primera razón es de ciclo y se corrige con la cosecha récord de Brasil. La segunda es de precio y de mezcla, y no se corrige sola. Si el arábica no recupera el 60% entre septiembre y diciembre, con Brasil embarcando a pleno, el cambio es estructural. Para el café lavado del Perú, el competidor ya no es solo el natural brasileño: es la receta del tostador."
 cifras:
   - label: "Arábica en el café verde exportado"

@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-14",
+  "items": [
+    {
+      "titular": "El Niño subió el río en Asunción y Rosario, pero la regla de Ladário sigue 62 cm debajo del calado mayor",
+      "resumen": "La regla de Ladário, que fija el calado de los convoyes frente a Corumbá, marcó 1,23 m el 13 de octubre de 2026; la Portaria n.º 19 de la Marinha de Brasil libera unos 2,90 m de calado recién desde 1,85 m. La carga boliviana por la hidrovía sumó 627.430 t en enero-julio, el segundo menor volumen desde 2006.",
+      "fuente": "Marinha de Brasil (CHN-6) vía Campo Grande News, 13 de octubre de 2026; INE/IBCE vía El Deber",
+      "url": "https://www.campograndenews.com.br/meio-ambiente/paraguai-sobe-em-ladario-e-supera-media-de-2026-ate-agora-em-porto-murtinho",
+      "vertical": "logistica",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El río Paraguay sube más de un metro en Asunción en dos semanas",
+      "resumen": "El río Paraguay en la Bahía de Asunción llegó a 1,81 m el 12 de octubre de 2026, contra 0,43 m a fines de septiembre; subió 87 cm entre el 9 y el 12 de octubre, según la DMH. En Rosario el Paraná marcó 3,27 m el 11/10, 74 cm sobre su promedio de octubre.",
+      "fuente": "Dirección de Meteorología e Hidrología de Paraguay, vía ABC Color, 13 de octubre de 2026",
+      "url": "https://www.abc.com.py/clima/2026/10/13/nivel-del-rio-paraguay-en-la-bahia-de-asuncion-aumento-mas-de-un-metro-en-15-dias/",
+      "vertical": "logistica",
+      "pais": "PY",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "La IEA ve caer la demanda de petróleo 2,6 M b/d en 2026 y faltante de gasóleo en el cuarto trimestre",
+      "resumen": "El informe de octubre de la IEA proyecta 102,4 M b/d de demanda en 2026 (−2,6 M b/d) y dice que la oferta de gasóleo quedará corta frente a la demanda en el 4T26; el diésel explica 25% de la caída. Las exportaciones mundiales de diésel de septiembre fueron 700.000 b/d menores que un año antes.",
+      "fuente": "Agencia Internacional de Energía (IEA), Oil Market Report, 14 de octubre de 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El diésel de EE.UU. sube 5% en una rueda pese al acuerdo por el diésel ruso",
+      "resumen": "Los futuros de diésel de EE.UU. subían cerca de 5% al mediodía del 13 de octubre de 2026, a su nivel más alto en semanas, y los europeos 3,8%. Analistas citados estiman que el diésel ruso habilitado cubre menos de dos semanas de demanda de EE.UU.",
+      "fuente": "NBC News, 13 de octubre de 2026",
+      "url": "https://nbcnews.com/business/energy/diesel-futures-higher-prices-trump-moves-rcna603218",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "La OPEP recorta por sexto mes la demanda de petróleo de 2026 y sube la de 2027",
+      "resumen": "El informe mensual de octubre de la OPEP baja el crecimiento de la demanda de 2026 de 0,4 a 0,2 M b/d y sube el de 2027 de 2,4 a cerca de 2,6 M b/d. La producción de la OPEP+ subió 0,9 M b/d en septiembre, a 39,07 M b/d.",
+      "fuente": "OPEP, Monthly Oil Market Report de octubre, vía Newsquawk, 13 de octubre de 2026",
+      "url": "https://www.newsquawk.com/headlines/opec-momr-oct-2026-demand-trimmed-2027-demand-modestly-increased-supply-forecasts-modestly-increased",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El Baltic Dry cae siete ruedas seguidas y toca su mínimo desde el 20 de agosto",
+      "resumen": "El índice de fletes secos Baltic Dry bajó 1,8% el 13 de octubre de 2026, a 2.801 puntos, su séptima caída consecutiva y su menor nivel desde el 20 de agosto.",
+      "fuente": "Baltic Exchange, vía TradingEconomics, 13 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El Brent cierra en 105,69 dólares entre más crudo por Ormuz y ataques a Arabia Saudita",
+      "resumen": "El Brent cerró en 105,69 US$/bbl el 13 de octubre de 2026 (−0,9%). El mercado pesa el paso de más de 19 M de barriles por el estrecho de Ormuz y la suba de la producción saudita contra nuevos ataques con misiles y drones sobre instalaciones de Aramco.",
+      "fuente": "ICE vía TradingEconomics, 13 y 14 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El cacao cierra en 5.733 dólares, su nivel más alto desde mediados de septiembre",
+      "resumen": "El cacao de Nueva York cerró en 5.733 US$/t el 13 de octubre de 2026 (+1,0%): la lluvia en Costa de Marfil atrasa la cosecha y la llegada de granos a puerto. El mercado espera el 15 de octubre la molienda del tercer trimestre de Europa y Norteamérica.",
+      "fuente": "ICE vía TradingEconomics, 13 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    }
+  ]
+}
