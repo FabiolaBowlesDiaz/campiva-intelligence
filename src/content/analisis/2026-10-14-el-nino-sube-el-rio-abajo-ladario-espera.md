@@ -6,7 +6,7 @@ tipo: logistica
 vertical: logistica
 pais: BO
 score: 7.8
-destacado: true
+destacado: false
 lectura: "El Niño llega a la hidrovía por partes, y la parte que define la salida boliviana es la última en llenarse. El dato que manda para Bolivia no es Rosario ni Asunción: es la regla de Ladário. Hasta que pase 1,85 m, cada convoy sale con el calado de la temporada seca, aunque el río abajo ya esté alto."
 cifras:
   - label: "Regla de Ladário"

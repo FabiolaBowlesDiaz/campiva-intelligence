@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-15",
+  "items": [
+    {
+      "titular": "La EPA propone devolver los 770 millones de RIN exentos y el aceite de soja baja dos ruedas seguidas",
+      "resumen": "El 13 de octubre de 2026 la EPA propuso reasignar el 100% de los RIN de 2025 que eximió por encima de lo previsto: unos 770 millones, sobre 1.760 millones exentos y 990 millones ya contados. El aceite de soja de Chicago (dic-26) cerró en 68,02 c/lb el 13/10 y 67,06 el 14/10.",
+      "fuente": "Agencia de Protección Ambiental de EE.UU. (EPA), 13 de octubre de 2026; DTN; cierres de Brownfield Ag News",
+      "url": "https://www.epa.gov/renewable-fuel-standard/proposed-reallocation-additional-2025-small-refinery-exemptions",
+      "vertical": "biocombustibles",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.5
+    },
+    {
+      "titular": "La inflación de EE.UU. sube a 3,7% con la energía 20,4% más cara que un año atrás",
+      "resumen": "El IPC de septiembre de 2026 subió 0,6% en el mes y 3,7% interanual; la energía aumentó 5,2% en el mes y 20,4% en doce meses, y los alimentos no variaron en el mes (+2,5% interanual). El dato salió el 14 de octubre y el dólar DXY cerró en 102,55.",
+      "fuente": "Oficina de Estadísticas Laborales de EE.UU. (BLS), 14 de octubre de 2026",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "China importó 11,88 millones de toneladas de soja en septiembre, 7,7% menos que un año antes",
+      "resumen": "Según la aduana china, las importaciones de soja de septiembre de 2026 bajaron 7,7% interanual y 2,1% contra agosto (12,14 M t); en el año suman 86,1 M t, menos de 1% por debajo de 2025. El USDA informó además una venta de 470.000 t de soja estadounidense a China.",
+      "fuente": "Aduana de China, vía ADM Investor Services, 14 de octubre de 2026",
+      "url": "https://www.admis.com/ag-market-view-for-oct-14-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Europa vuelve a moler más cacao por primera vez desde 2024 y Asia sube 29%",
+      "resumen": "La molienda europea del tercer trimestre de 2026 fue de 348.215 t, 3,2% más que un año antes, y la asiática de 233.767 t (+29,2%). En enero-septiembre Europa acumula 990.000 t, contra 1,023 M t en 2025.",
+      "fuente": "European Cocoa Association (ECA), vía ADM Investor Services, 15 de octubre de 2026",
+      "url": "https://www.admis.com/europe-asia-post-strong-cocoa-grind/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "EE.UU. cosecha el maíz al ritmo más lento en siete años",
+      "resumen": "Al 11 de octubre de 2026 EE.UU. había cosechado 33% del maíz, contra 39% del promedio de cinco años, y 46% de la soja (promedio 50%). En Iowa el maíz va en 14% (promedio 34%) y la soja en 31% (59%).",
+      "fuente": "USDA (Crop Progress), vía ADM Investor Services, 14 de octubre de 2026",
+      "url": "https://www.admis.com/ag-market-view-for-oct-14-2026/",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El cerdo de Chicago toca mínimos de contrato y su corte al contado cae 23% en un año",
+      "resumen": "El 14 de octubre de 2026 el cerdo magro dic-26 cerró en 66,075 c/lb (−1,95), en mínimo de contrato, y el corte al contado bajó a 79,45 US$/cwt, 23% menos que un año antes y el menor nivel desde abril de 2023. El ganado en pie dic-26 cerró en 225,125 c/lb (−1,25).",
+      "fuente": "The Cattle Site (Global Ag Media), con datos del USDA y Reuters, 15 de octubre de 2026",
+      "url": "https://www.thecattlesite.com/news/cattle-futures-slip-on-inflation-worries-and-thin-cash-trade-cme",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El pollo vivo en Santa Cruz recupera casi 9% desde el piso del 8 de octubre y el maíz sube",
+      "resumen": "Según la ADA, el pollo vivo al productor promedió 9,90 Bs/kg el 14 de octubre de 2026, contra 9,60 el 13/10 y 9,10 el 08/10. El maíz pasó de 105-107 a 108-109 Bs/qq en un día; la harina integral de soya siguió en 4.600 Bs/t.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA), boletines del 13 y 14 de octubre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-14oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "El Baltic Dry cae 9% en dos ruedas arrastrado por los capesize",
+      "resumen": "El índice Baltic Dry cerró en 2.545 puntos el 15 de octubre de 2026 (−4,6% en el día), tras 2.667 el 14/10 y 2.801 el 13/10. El 14/10 el índice capesize cayó 9,1% a 3.630 puntos, su menor nivel desde fines de junio.",
+      "fuente": "Baltic Exchange, vía TradingEconomics, 15 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "El flete de contenedores sube 3% y Shanghái-Rotterdam gana 6%",
+      "resumen": "El índice WCI de Drewry subió 3% al 15 de octubre de 2026, a 4.485 US$ por contenedor de 40 pies. Shanghái-Rotterdam subió 6% a 3.522 US$ y Shanghái-Los Ángeles 3% a 7.884 US$.",
+      "fuente": "Drewry World Container Index, 15 de octubre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.8
+    }
+  ]
+}
