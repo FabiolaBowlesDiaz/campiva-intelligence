@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: biocombustibles
 pais: GLOBAL
 score: 7.5
-destacado: true
+destacado: false
 lectura: "El mercado compró la promesa el 31 de agosto y por eso no pagó de nuevo cuando la EPA la cumplió. La variable que queda abierta no es cuánto se reasigna sino cuándo: si los 770 millones de RIN van todos a 2027, la demanda adicional de aceite para 2026 es cero. Hasta que la agencia elija, el aceite cotiza esa duda, no el volumen."
 cifras:
   - label: "RIN a reasignar"

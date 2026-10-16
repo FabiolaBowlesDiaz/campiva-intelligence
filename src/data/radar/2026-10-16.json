@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-16",
+  "items": [
+    {
+      "titular": "Brasil siembra la menor expansión de soya en 20 años y su stock final cae casi un tercio",
+      "resumen": "La Conab proyecta 49,31 millones de hectáreas de soya en 2026/27 (+1,4%, la menor suba porcentual en 20 años) y 181,6 millones de toneladas (+0,7%), con rinde de 3.683 kg/ha (−0,8%). El stock final de grano baja de 9,53 a 6,54 millones de toneladas.",
+      "fuente": "Companhia Nacional de Abastecimento (Conab), 1.er levantamiento de la cosecha 2026/27, 15 de octubre de 2026",
+      "url": "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos/boletim-da-safra-de-graos/1o-levantamento-safra-2026-27/boletim-de-safras-1o-levantamento_2026.pdf",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Brasil exportaría 26% menos aceite de soja y lo dejaría en casa para el biodiésel",
+      "resumen": "La Conab estima exportaciones de aceite de soja de 1,4 millones de toneladas en 2026/27, contra 1,9 millones en 2025/26 (−26,3%), y ventas internas de 11,63 millones (+10,45%) ante un posible aumento de la mezcla obligatoria de biodiésel. La molienda subiría a 63,76 millones de toneladas.",
+      "fuente": "Companhia Nacional de Abastecimento (Conab), 1.er levantamiento de la cosecha 2026/27, 15 de octubre de 2026",
+      "url": "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos/boletim-da-safra-de-graos/1o-levantamento-safra-2026-27/boletim-de-safras-1o-levantamento_2026.pdf",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "Brasil va a quemar más maíz en etanol: su consumo interno sube 6,6% en 2026/27",
+      "resumen": "La Conab proyecta 148,0 millones de toneladas de maíz (+2,4%), con el área de primera cosecha 10,7% mayor, y un consumo interno de 104,8 millones (+6,6%) impulsado por la industria del etanol. Las exportaciones subirían a 46,0 millones y el stock final bajaría a 14,9 millones.",
+      "fuente": "Companhia Nacional de Abastecimento (Conab), 1.er levantamiento de la cosecha 2026/27, 15 de octubre de 2026",
+      "url": "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos/boletim-da-safra-de-graos/1o-levantamento-safra-2026-27/boletim-de-safras-1o-levantamento_2026.pdf",
+      "vertical": "cereales",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "Brasil cosecha 27% menos trigo y necesitará importar 7 millones de toneladas",
+      "resumen": "La Conab estima la cosecha de trigo 2026 en 5,73 millones de toneladas (−27,2%), con área de 1,93 millones de hectáreas (−21,1%) y rinde −7,6%. La importación proyectada es de 7,06 millones de toneladas, la mayor de la serie 2020-2026 del informe (6,13 millones en 2025).",
+      "fuente": "Companhia Nacional de Abastecimento (Conab), 1.er levantamiento de la cosecha 2026/27, 15 de octubre de 2026",
+      "url": "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias/safras/safra-de-graos/boletim-da-safra-de-graos/1o-levantamento-safra-2026-27/boletim-de-safras-1o-levantamento_2026.pdf",
+      "vertical": "cereales",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El mundo cosechará 68 millones de toneladas menos de granos y los precios igual bajan 4% en el mes",
+      "resumen": "El Consejo Internacional de Granos estima la producción de trigo y granos gruesos 2026/27 en 2.427 millones de toneladas (−68 millones interanual, +7 millones contra septiembre) y stocks finales de 619 millones (−19 millones). Su índice de precios GOI bajó 4% en el mes; el subíndice de maíz, 7%.",
+      "fuente": "Consejo Internacional de Granos (IGC), Grain Market Report GMR581, 15 de octubre de 2026",
+      "url": "https://www.igc.int/en/gmr_summary.aspx",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El azúcar del Centro-Sur de Brasil cae 6% en la segunda quincena de septiembre",
+      "resumen": "Según el Ministerio de Agricultura de Brasil, el Centro-Sur produjo 2,86 millones de toneladas de azúcar en la segunda quincena de septiembre de 2026 (−6% interanual), con una molienda de 38,64 millones de toneladas de caña (−2,9%) y 1,98 mil millones de litros de etanol (−9,5%).",
+      "fuente": "Ministerio de Agricultura de Brasil (MAPA), vía Reuters, 15 de octubre de 2026",
+      "url": "https://br.investing.com/news/commodities-news/producao-de-acucar-no-centrosul-do-brasil-cai-6-na-2a-quinzena-de-setembro-aponta-governo-2093194",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "La soya de Chicago pierde 14 centavos y la harina cede casi 5 dólares",
+      "resumen": "El 15 de octubre de 2026 la soya de Chicago (nov-26) cerró en 12,63 US$/bu (−14¼ centavos), la harina (dic-26) en 359,80 US$/tc (−4,70) y el aceite (dic-26) en 67,15 c/lb (+9 puntos). El maíz (dic-26) bajó 2¾ centavos a 4,78 y el trigo 3¼ a 6,70.",
+      "fuente": "Brownfield Ag News, cierres del 15 de octubre de 2026",
+      "url": "https://brownfieldagnews.com/news/closing-grain-and-livestock-futures-october-15-2026/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}
