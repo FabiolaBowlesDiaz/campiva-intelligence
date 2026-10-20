@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-20",
+  "items": [
+    {
+      "titular": "Europa vuelve a moler más cacao por primera vez desde 2024 y Asia marca su mayor trimestre",
+      "resumen": "La ECA informó una molienda europea de 348.215 toneladas en el tercer trimestre de 2026 (+3,2%), su primera suba interanual desde el segundo trimestre de 2024; el acumulado del año sigue en −3,1%. Asia molió 233.767 toneladas (+29,2%), su mayor trimestre registrado.",
+      "fuente": "European Cocoa Association (ECA), European Cocoa Bean Usage Q3 2026, 15 de octubre de 2026",
+      "url": "https://www.eurococoa.com/wp-content/uploads/WEBSITE-REPORT-WESTERN-STATS-Q3-2026.pdf",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El arábica sube 7% en dos ruedas con el stock certificado cerca de su mínimo de 27 años",
+      "resumen": "El arábica de ICE cerró el 19 de octubre en 3,157 US$/lb, contra 2,95 el 15 de octubre. Las existencias certificadas quedaron en 240.767 sacos, cerca del mínimo de 217.646 de septiembre, y operadores temen que el café brasileño no llegue a los depósitos de ICE antes del vencimiento del contrato de diciembre.",
+      "fuente": "Investing.com, 19 de octubre de 2026; cierres vía TradingEconomics",
+      "url": "https://ph.investing.com/news/stock-market-news/arabica-coffee-futures-reach-onemonth-high-on-supply-concerns-93CH-2636354",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El grano de cacao peruano pierde 55% de su valor en nueve meses, y un quinto ya va a Asia",
+      "resumen": "El Perú exportó US$ 303,3 millones en cacao en grano entre enero y septiembre de 2026 (−55,06%), con 74.310 toneladas (−21,2%) y 4,08 US$/kg (−42,9%). Malasia (13,85%) e Indonesia (5,95%) sumaron casi 20% del valor; Países Bajos lideró con 25,03%.",
+      "fuente": "Agraria.pe con datos de Agrodata, 7 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-de-cacao-en-grano-caen-55-06-en-valor-y-21-11--43242",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El Niño se calienta otra semana: el Niño 3.4 llega a +2,4 °C",
+      "resumen": "La actualización semanal del CPC/NOAA del 19 de octubre de 2026 ubica la anomalía del Niño 3.4 en +2,4 °C (+2,1 °C en la discusión del 8 de octubre) y la del Niño 1+2 en +4,4 °C. El CPC mantiene más de 83% de probabilidad de un evento fuerte a muy fuerte hasta enero-marzo de 2027.",
+      "fuente": "NOAA/CPC, ENSO: Recent Evolution, Current Status and Predictions, 19 de octubre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Norteamérica muele menos cacao mientras Asia y Europa suben",
+      "resumen": "La molienda de Norteamérica fue de 109.978 toneladas en el tercer trimestre de 2026, 2,5% menos que las 112.784 toneladas de un año antes. Es la única de las tres grandes regiones que retrocedió en el trimestre.",
+      "fuente": "McKeany-Flavell con datos de la National Confectioners Association, 19 de octubre de 2026",
+      "url": "https://www.mckeany-flavell.com/q3-2026-cocoa-grindings-show-uneven-recovery-10-19-26/",
+      "vertical": "cacao",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 6.0
+    },
+    {
+      "titular": "El pollo vivo rebota 15% en Santa Cruz entre el viernes y el lunes",
+      "resumen": "El precio referencial del pollo vivo al productor subió de 9,35 Bs/kg el 16 de octubre a 10,75 Bs/kg el 19 de octubre de 2026 (+15,0%). El maíz quedó en 106-111 Bs/qq y el sorgo en 74-75 Bs/qq; la harina integral de soya siguió en 4.600 Bs/t.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA), boletín de precios del 19 de octubre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-19oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "La soya de Chicago cede a 12,53 dólares por la presión de la cosecha",
+      "resumen": "La soya de noviembre cerró el 19 de octubre de 2026 en 12,53½ US$/bu (−7¾ c), el maíz de diciembre en 4,67 (−7¼ c) y el trigo en 6,55¼ (−5¼ c). La nota de cierre atribuyó la baja a las expectativas de cosecha y a ventas técnicas y de fondos.",
+      "fuente": "Brownfield Ag News, cierres del 19 de octubre de 2026",
+      "url": "https://www.brownfieldagnews.com/ag-markets/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 5.3
+    },
+    {
+      "titular": "El Baltic Dry corta diez bajas seguidas desde su mínimo de tres meses",
+      "resumen": "El índice subió 1,4% a 2.546 puntos el 19 de octubre de 2026, tras diez ruedas de baja que lo llevaron a su menor nivel desde el 30 de junio. El capesize subió 3,6%.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 19 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.8
+    }
+  ]
+}

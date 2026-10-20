@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: BR
 score: 7.9
-destacado: true
+destacado: false
 lectura: "El mayor exportador de soya del mundo deja de crecer a la velocidad de siempre y, al mismo tiempo, se queda con más grano y más aceite para su propia industria. Un Brasil con stock más corto pierde el colchón que absorbía un mal clima: con El Niño en curso, cualquier recorte de rinde va directo al precio. Para la región, la noticia no es el récord de producción; es la falta de margen."
 cifras:
   - label: "Expansión del área"
