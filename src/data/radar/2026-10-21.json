@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-21",
+  "items": [
+    {
+      "titular": "India saca la caña de su licitación de etanol y deja el tanque al maíz y al arroz",
+      "resumen": "La licitación de 11.000 millones de litros para nov-2026/oct-2027, emitida por BPCL el 16 de octubre, excluye el etanol de jugo de caña, jarabe y melaza B. En 2025/26 esas tres vías aportaron 2.660 millones de litros, 27% de lo recibido (cálculo Campiva sobre datos de AIDA a septiembre).",
+      "fuente": "DT Next y Construction World (datos de AIDA), 19 de octubre de 2026",
+      "url": "https://www.dtnext.in/news/national/india-bars-sugar-based-ethanol-in-2026-27-tender-cuts-maize-incentive",
+      "vertical": "biocombustibles",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "Bolivia firma subir el etanol en la gasolina al 15% desde noviembre y al 18% en abril de 2027",
+      "resumen": "El Gobierno, YPFB, los ingenios y el sector cañero firmaron el 19 de octubre un acuerdo para llevar la mezcla al 15% desde el 1 de noviembre de 2026, sujeto a evaluación técnica, económica, financiera y legal. YPFB y los ingenios tienen hasta el 30 de octubre para firmar los contratos, y el precio del etanol sube desde noviembre.",
+      "fuente": "ABI vía El Día, 19 de octubre de 2026",
+      "url": "https://www.eldia.com.bo/2026-10-19/economia/acuerdo-con-sucroalcoholeros-impulsa-la-soberania-energetica-y-eleva-la-mezcla-de-etanol-al-15-en-la-gasolina.html",
+      "vertical": "biocombustibles",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El azúcar de Nueva York cae 1,34% en la rueda que siguió a la decisión india",
+      "resumen": "El azúcar #11 de marzo-27 cerró el 19 de octubre con una baja de 0,28 centavos (−1,34%) y el azúcar blanca de Londres bajó 1,46%, porque la medida india deja más caña para azúcar. El 20 de octubre cerró en 20,52 ¢/lb, contra 21,13 el 15 de octubre.",
+      "fuente": "Barchart vía Yahoo Finance, 19 de octubre de 2026; cierres vía TradingEconomics",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-fall-india-halts-182505362.html",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El Brent vuelve hacia 111 dólares por ataques a buques cerca de Ormuz",
+      "resumen": "El Brent cerró el 20 de octubre en 108,79 US$/bbl (−0,7%) y el 21 de octubre subió hacia 111, cerca de su máximo de cinco meses, tras reportes de un buque atacado cerca de Omán y un superpetrolero que chocó con una mina.",
+      "fuente": "TradingEconomics, 21 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Chicago encadena bajas por la cosecha: soya en 12,48 y maíz en mínimo de casi diez semanas",
+      "resumen": "La soya nov-26 cerró el 20 de octubre en 12,48¼ US$/bu (−5¼ centavos) y el maíz dic-26 en 4,62 (−5). El informe de la SAGyP del 19 de octubre marca seis ruedas seguidas de baja en la soja y cinco en el maíz, con compras chinas que limitan la caída.",
+      "fuente": "Brownfield Ag News, 20 de octubre de 2026; Informe Diario del Mercado de Granos SAGyP, 19 de octubre de 2026",
+      "url": "https://brownfieldagnews.com/ag-markets/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El agro peruano vuelve a crecer en agosto: +3,4% con arándano y cacao",
+      "resumen": "Según el Midagri, el sector agropecuario creció 3,4% en agosto de 2026 (agrícola +4,6%, pecuario +1,5%), con arándano +29,8% y cacao +17,7%. En enero-agosto el sector todavía cae 0,2%.",
+      "fuente": "Midagri vía Agraria.pe, 20 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/midagri-sector-agropecuario-se-recupera-y-crece-3-4-en-agost-43312",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "La uva de mesa peruana duplica sus envíos al inicio de la campaña 2026/27",
+      "resumen": "Hasta la semana 39 el Perú exportó 3 millones de cajas (24.691 toneladas), 114,2% más que un año antes. Piura aporta 60% y Colombia es el primer destino, con 29% de las cajas.",
+      "fuente": "Provid vía Agraria.pe, 20 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/exportacion-de-uva-de-mesa-registra-un-crecimiento-en-volume-43309",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.3
+    },
+    {
+      "titular": "El Baltic Dry sube por los capesize; el panamax del grano baja",
+      "resumen": "El índice cerró el 20 de octubre en 2.593 puntos (+1,8%). El capesize subió 4,7% a 3.522 y el panamax, el buque típico del grano, bajó 1,7% a 2.247.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 20 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.9
+    },
+    {
+      "titular": "El pollo al consumidor en Santa Cruz sube 3,8% en un día con el vivo estable",
+      "resumen": "El promedio del pollo pelado a mano con menudo en cuatro mercados cruceños pasó de 14,63 Bs/kg el 19 de octubre a 15,19 Bs/kg el 20 de octubre. El pollo vivo al productor se mantuvo en 10,75 Bs/kg.",
+      "fuente": "Asociación de Avicultores de Santa Cruz (ADA), boletín del 20 de octubre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-20oct2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 4.8
+    }
+  ]
+}

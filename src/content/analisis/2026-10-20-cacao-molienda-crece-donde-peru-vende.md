@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: cacao
 pais: PE
 score: 7.6
-destacado: true
+destacado: false
 lectura: "La demanda de cacao no desapareció: se reacomodó y ahora vuelve a crecer en las tres regiones que más muelen, con Asia a la cabeza. Para el origen americano la lectura útil no es el total europeo sino el mapa: el crecimiento está en los molinos asiáticos que ya le compran al Perú. El precio, en cambio, sigue mirando el stock de ICE y la próxima cosecha de África Occidental."
 cifras:
   - label: "Molienda Europa 3T 2026"
