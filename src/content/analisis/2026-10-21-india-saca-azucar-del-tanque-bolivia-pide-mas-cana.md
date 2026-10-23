@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: biocombustibles
 pais: GLOBAL
 score: 7.7
-destacado: true
+destacado: false
 lectura: "La caña sirve para dos cosas: azúcar o etanol. Cuando el azúcar falta, India elige el azúcar y le pasa el tanque al grano, aunque el grano entregó solo dos tercios de lo que tenía asignado. Bolivia va en la dirección contraria y le pide más caña al tanque. Para el ingenio, la variable que manda deja de ser solo el precio del azúcar en Nueva York: también es el precio del contrato con YPFB, que se fija antes del 30 de octubre."
 cifras:
   - label: "Etanol de caña que India deja afuera"

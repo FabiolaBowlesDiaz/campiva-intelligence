@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-10-23",
+  "items": [
+    {
+      "titular": "Argentina sube a 23,8 millones de toneladas su primera estimación de trigo 2026/27",
+      "resumen": "La Bolsa de Comercio de Rosario estimó el 21 de octubre una cosecha de 23,8 M t, contra 21 M t proyectadas un mes antes: sería la segunda mayor en 17 años, detrás del récord de 28,5 M t de la campaña pasada. El cálculo usa 6,95 M ha sembradas y un rinde de 35,3 qq/ha, con dudas por un octubre frío y con poca radiación.",
+      "fuente": "Bolsa de Comercio de Rosario (GEA), Informe Especial N° 199, 21 de octubre de 2026",
+      "url": "https://www.bcr.com.ar/es/mercados/gea/estimaciones-nacionales-de-produccion/estimaciones",
+      "vertical": "cereales",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El trigo de Chicago cae a su nivel más bajo en más de tres meses",
+      "resumen": "El trigo de diciembre cerró en 6,28 US$/bu el 21 de octubre (−15 centavos) y en 6,24¾ el 22 de octubre, contra 6,43¼ el 20 de octubre. Pesan las conversaciones de paz entre EE.UU. y Rusia por Ucrania, que podrían normalizar los embarques del Mar Negro, y ventas de exportación semanales flojas de EE.UU.",
+      "fuente": "Brownfield Ag News, 21 y 22 de octubre de 2026; Informe Diario SAGyP, 21 de octubre de 2026",
+      "url": "https://brownfieldagnews.com/news/closing-grain-and-livestock-futures-october-22-2026/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "China suma siete días hábiles seguidos de compras de soja de EE.UU.",
+      "resumen": "El 22 de octubre se anunció una nueva venta de 202.000 t de soja de EE.UU. a China, la séptima jornada hábil seguida, con un acumulado de 3.365.450 t para 2026/27. La soja de noviembre cerró ese día en 12,53 US$/bu (+7¾ centavos); en Brasil, Abiove proyecta una molienda récord de 66 M t para 2026/27.",
+      "fuente": "Brownfield Ag News, 22 de octubre de 2026",
+      "url": "https://brownfieldagnews.com/news/soybeans-mostly-up-with-more-new-demand-from-china/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El Brent salta 4% y cierra en 113,17 dólares por ataques en Arabia Saudita",
+      "resumen": "El Brent cerró el 22 de octubre en 113,17 US$/bbl (+4,0%), su nivel más alto desde principios de mayo, tras ataques hutíes contra objetivos saudíes, entre ellos el puerto de Yanbu en el mar Rojo. El 23 de octubre operaba sobre 114, cerca del máximo de 114,44 del 4 de mayo.",
+      "fuente": "TradingEconomics, 22 y 23 de octubre de 2026; cierre vía Investing.com",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.4
+    },
+    {
+      "titular": "Perú suma US$ 8.334 millones de agroexportación a agosto, con un agosto casi plano",
+      "resumen": "Las agroexportaciones de enero a agosto de 2026 llegaron a US$ 8.334 millones (+2,3%) según el Midagri; agosto solo sumó US$ 1.493 millones (+0,9%). La palta (US$ 1.343 millones), el arándano (US$ 1.050 millones) y la uva (US$ 816 millones) encabezan los no tradicionales; el Midagri estima unos US$ 15.000 millones al cierre del año.",
+      "fuente": "Agraria.pe con datos del Midagri, 22 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/agroexportaciones-superan-los-us-8-300-millones-y-ee-uu-se-m-43327",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El cacao cae 4,5% en un día con el inventario de ICE en su punto más alto en dos años y medio",
+      "resumen": "El cacao de Nueva York cerró el 22 de octubre en 5.582 US$/t (−4,47%), por toma de ganancias. Las existencias certificadas de ICE llegaron a 3.635.354 sacos al 21 de octubre, su nivel más alto en unos dos años y medio, contra 3.593.964 el 16 de octubre.",
+      "fuente": "TradingEconomics, 22 de octubre de 2026; cierre vía Investing.com",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El flete de contenedores sube por segunda semana y toca su máximo en 15 semanas",
+      "resumen": "El World Container Index de Drewry subió 2% el 22 de octubre, a 4.585 US$ por contenedor de 40 pies. Shanghái-Rotterdam subió 3% a 3.632 US$ y Shanghái-Génova 5% a 4.152 US$.",
+      "fuente": "Drewry World Container Index, 22 de octubre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    },
+    {
+      "titular": "El Baltic Dry encadena cuatro subas y el supramax toca su nivel más alto desde 2022",
+      "resumen": "El índice cerró el 22 de octubre en 2.693 puntos (+0,5%), su cuarta suba seguida, después de saltar 3,4% el 21 de octubre. El supramax, el buque típico de granos de la región, subió a 1.890 puntos, su nivel más alto desde agosto de 2022; el panamax bajó 2,4% a 2.151.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 22 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 4.9
+    },
+    {
+      "titular": "El Perú exporta más jengibre y cobra menos por kilo",
+      "resumen": "Entre enero y julio de 2026 el Perú exportó 28.741 t de jengibre (+20,8%) por US$ 45,19 millones (+1,1%), según PromPerú con datos de Sunat. En EE.UU., el principal destino, el FOB medio de enero a abril bajó de 2,57 a 1,73 US$/kg.",
+      "fuente": "Agraria.pe, 21 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/peru-exporta-mas-jengibre-pero-cada-kilo-vale-menos-43318",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 4.9
+    },
+    {
+      "titular": "Bolivia vuelve a exportar limón, todavía lejos de lo que vendía en 2016",
+      "resumen": "Las exportaciones de limón sumaron US$ 113.600 y 107.648 kg de enero a agosto de 2026, contra US$ 16.668 un año antes (+582%), según el IBCE con datos preliminares del INE. En 2016 el país había vendido unos US$ 3,07 millones.",
+      "fuente": "Economy con datos del IBCE (Boletín N° 1458), 22 de octubre de 2026",
+      "url": "https://www.economy.com.bo/articulo/business/exportaciones-limon-disparan-582-agosto-siguen-lejos-niveles-historicos/20261022113846024551.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 4.2
+    }
+  ]
+}
