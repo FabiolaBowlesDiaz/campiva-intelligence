@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: LATAM
 score: 7.6
-destacado: true
+destacado: false
 lectura: "El precio del trigo lo está fijando el Mar Negro y el volumen de la región lo pone Argentina. Bolivia depende de los dos y cubre muy poco con producción propia. La cosecha argentina que entra en noviembre y diciembre, con Chicago en mínimos de tres meses, abre una ventana de compra. Pero es más chica que la del año pasado, y la paz en Ucrania todavía no está firmada."
 cifras:
   - label: "Trigo argentino 2026/27"

@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-26",
+  "items": [
+    {
+      "titular": "Al café peruano le falta mapear 40% de los predios para la regla europea contra la deforestación",
+      "resumen": "Según la Junta Nacional del Café, el Perú geolocalizó 240.000 de unos 400.000 polígonos de café, cacao y palma: faltan 160.000. La Comisión Europea aplica la norma a operadores grandes y medianos desde el 30 de diciembre de 2026, y la UE compró 39,6% del café verde peruano exportado entre enero y septiembre (cálculo Campiva).",
+      "fuente": "Agraria.pe con la JNC, 23 de octubre de 2026; Comisión Europea; Aduana del Perú vía Infonecta",
+      "url": "https://www.agraria.pe/noticias/contrarreloj-160-mil-predios-de-cafe-aun-no-son-geolocalizad-43334",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "La soya de Chicago abre la semana en su nivel más bajo en casi nueve semanas tras la elección en Brasil",
+      "resumen": "El 26 de octubre la soya operaba cerca de 12,40 US$/bu (−1,3% en la mañana), en mínimos de casi nueve semanas. TradingEconomics lo vincula con la reelección de Lula, que según el mercado podría acercar a Brasil con China, origen de casi 80% de la soja que China importó entre enero y septiembre.",
+      "fuente": "TradingEconomics, 26 de octubre de 2026; XTB, 26 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "China recibió la primera soja de EE.UU. en un año, pero el 90% de septiembre siguió llegando de Brasil",
+      "resumen": "China importó 11,88 M t de soja en septiembre (−7,7% interanual): 10,7 M t de Brasil (−2,4%) y 360.878 t de EE.UU., contra cero un año antes. Entre enero y septiembre, Brasil le vendió 65,84 M t (+3,4%) y EE.UU. 11,06 M t (−34%).",
+      "fuente": "Aduana china vía Reuters (Business Recorder), 20 de octubre de 2026",
+      "url": "https://www.brecorder.com/news/40445075/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El mango peruano vende 9% menos kilos y cobra 29% más",
+      "resumen": "Entre enero y septiembre de 2026 el Perú exportó US$ 275,2 M en mango fresco (+17,15%) con 168,6 M kg (−9,49%); el precio FOB promedio subió de 1,26 a 1,63 US$/kg (+29,37%). EE.UU. compró 34% y los Países Bajos 31%.",
+      "fuente": "Agraria.pe con datos de Agro Data Perú, 23 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/exportaciones-de-mango-fresco-crecen-en-valor-17-15-a-septie-43330",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.4
+    },
+    {
+      "titular": "El Brent cierra la semana en su nivel más alto desde 2022",
+      "resumen": "El Brent cerró el 23 de octubre en 116,72 US$/bbl (+3,1% en el día), su nivel más alto desde junio de 2022, con la tercera suba semanal seguida por el riesgo de guerra en Medio Oriente. El lunes 26 bajaba hacia 115.",
+      "fuente": "TradingEconomics, 23 y 26 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "La Fed decide el 28 de octubre y el mercado da por hecho que no toca la tasa",
+      "resumen": "El Comité de la Reserva Federal se reúne el 27 y 28 de octubre; el 23 de octubre el mercado asignaba cerca de 91% de probabilidad a que la tasa quede igual, con una posible suba en diciembre (reunión del 8 y 9). El índice dólar cerró el 23 de octubre en 101,81 (+0,2%).",
+      "fuente": "Reserva Federal (calendario FOMC); TradingEconomics, 23 y 26 de octubre de 2026",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El Baltic Dry corta cuatro subas y el panamax del grano toca su mínimo desde agosto",
+      "resumen": "El Baltic Dry bajó 1,2% a 2.660 puntos el 23 de octubre. El panamax, el buque típico del grano, cayó cerca de 2% a 2.109 puntos, su nivel más bajo desde el 24 de agosto; el capesize cedió 1,5% a 3.791.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 23 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.2
+    },
+    {
+      "titular": "La soja argentina sube con Chicago el viernes y el maíz de noviembre no opera",
+      "resumen": "En Matba-Rofex la soja noviembre cerró el 23 de octubre en 366,90 US$/t (+1,10), con Chicago noviembre en 12,56½ US$/bu (+3½ centavos). El maíz noviembre quedó en 189 US$/t sin variación; el de diciembre bajó a 193,50 (−0,40) y el maíz de Chicago cayó a 4,56 US$/bu.",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP, 23 de octubre de 2026; Brownfield Ag News",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 5.0
+    }
+  ]
+}
