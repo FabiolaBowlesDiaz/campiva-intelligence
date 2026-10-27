@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-10-27",
+  "items": [
+    {
+      "titular": "El real brasileño cae cerca de 12% en una rueda y arrastra al azúcar, al café y a la soya",
+      "resumen": "Tras la segunda vuelta del 25 de octubre (Lula, 51,79% de los votos válidos según el TSE), el real cedió cerca de 12% frente al dólar el 26 de octubre y la bolsa de São Paulo cayó 13,88%. Según Reuters, el azúcar crudo bajó 4,4% a 19,34 ¢/lb y el arábica 3,4% a 2,969 US$/lb durante la rueda. Al cierre, el azúcar #11 quedó en 19,10 ¢/lb (−5,6% contra el viernes, cálculo Campiva).",
+      "fuente": "Reuters vía Business Recorder, 27 de octubre de 2026; Rio Times, actualizado el 27 de octubre de 2026; TradingEconomics",
+      "url": "https://www.brecorder.com/news/40446024/sugar-coffee-slip-as-brazils-real-slumps-on-lula-win",
+      "vertical": "azucar",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 8.4
+    },
+    {
+      "titular": "La soya de Chicago toca su mínimo de dos meses y el trigo el de 15 semanas",
+      "resumen": "Según TradingEconomics, la soya llegó el 26 de octubre a su nivel más bajo desde fines de agosto (cierre estimado 12,41 US$/bu, −1,2% contra el viernes) por la expectativa de cosechas récord en EE.UU. y Sudamérica. El trigo tocó 6,15 US$/bu, el menor desde el 8 de julio, ante la esperanza de reapertura del comercio del Mar Negro.",
+      "fuente": "TradingEconomics (soya, trigo y maíz), 26 de octubre de 2026; cierres previos publicados en la página al 27 de octubre",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El arándano peruano se achica: el gremio baja a 366.000 t la proyección de la campaña 2026/27",
+      "resumen": "Proarándanos recortó su estimado a unas 366.000 t (−4,2% frente a septiembre, −4,4% frente a las 383.000 t de 2025/26) pese a tener 15% más hectáreas en producción. Las próximas ocho semanas serían 108.000 t contra 156.000 t del año pasado (−31,2%); el gremio atribuye el ajuste al calor de El Niño, que adelantó la cosecha y redujo el calibre.",
+      "fuente": "Gestión con datos de Proarándanos, 13 de octubre de 2026; Agraria.pe con Inform@cción, 26 de octubre de 2026",
+      "url": "https://gestion.pe/economia/empresas/arandanos-el-nino-golpea-exportaciones-y-peru-cerraria-campana-por-debajo-del-ano-pasado-noticia/",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El Brent se sostiene sobre US$ 115, su zona más alta desde junio de 2022, con la diplomacia como freno",
+      "resumen": "Según TradingEconomics, el 26 de octubre el crudo osciló entre 115 y 116 US$/bbl mientras se evaluaban gestiones diplomáticas para evitar una escalada entre EE.UU. e Irán y los flujos por el estrecho de Ormuz se recuperaban hacia niveles previos a la guerra. El cierre previo fue de 115,81 US$/bbl.",
+      "fuente": "TradingEconomics, 26 y 27 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Dos bodegas de ICE, dos señales opuestas: el cacao acumula inventario y el café sigue casi vacío",
+      "resumen": "TradingEconomics reporta que los inventarios de cacao en ICE llegaron a 3.593.964 sacos el 16 de octubre, el máximo en más de dos años. En café, el mismo medio citó el 20 de octubre unos 240.000 sacos certificados de arábica, el menor nivel en casi 27 años. Cacao NY cerró en 5.490 US$/t el 26 de octubre.",
+      "fuente": "TradingEconomics (cacao y café), 19 al 27 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "La agroexportación peruana suma US$ 8.334 millones hasta agosto, apenas 2,3% más",
+      "resumen": "Según el Midagri, el semestre largo sube US$ 183 millones: palta US$ 1.343 M (17,8% de lo no tradicional), arándano US$ 1.050 M, uva US$ 816 M y cacao en grano US$ 277 M. En agosto el total fue US$ 1.493 M (+0,9%) con el arándano +47,9%; la proyección oficial para 2026 es de unos US$ 15.000 M.",
+      "fuente": "Midagri vía Agraria.pe, 22 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/agroexportaciones-superan-los-us-8-300-millones-y-ee-uu-se-m-43327",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El Niño sigue subiendo en el Pacífico: Niño 3.4 en +2,5 °C y Niño 1+2 en +4,4 °C",
+      "resumen": "La actualización semanal del CPC/NOAA del 26 de octubre ubica el Niño 3.4 en +2,5 °C (+2,4 °C el 19 de octubre) y el Niño 1+2 en +4,4 °C. La discusión del 8 de octubre mantiene más de 83% de probabilidad de un Niño fuerte a muy fuerte hasta enero-marzo de 2027 y 83% de que octubre-diciembre sea un evento histórico.",
+      "fuente": "NOAA/CPC, actualización semanal del 26 de octubre de 2026 y discusión del 8 de octubre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El Drewry WCI marca US$ 4.585 por contenedor de 40 pies en su última evaluación",
+      "resumen": "La evaluación del 22 de octubre de 2026 es la última publicada; la próxima sale el 29 de octubre. El índice compuesto sube 2% semanal.",
+      "fuente": "Drewry World Container Index, evaluación del 22 de octubre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.4
+    }
+  ]
+}
