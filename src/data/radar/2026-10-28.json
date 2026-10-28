@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-28",
+  "items": [
+    {
+      "titular": "El río Paraguay vuelve a bajar en Ladário: 1,13 m el 26 de octubre, lejos de los 1,85 m que la Marina exige para calado pleno",
+      "resumen": "La Dirección de Meteorología e Hidrología de Paraguay registró 1,13 m en Ladário el 26 de octubre (−3 cm en el día), frente a 1,23 m el 13 de octubre. El Servicio Geológico do Brasil proyecta que el río se mantenga sobre 1 m toda la estiada, aunque con lluvia por debajo de lo esperado podría caer a 0,50 m. Con 1,85 m la Portaria n.º 19 (2 de octubre) libera ~2,90 m de calado: faltan 72 cm (cálculo Campiva).",
+      "fuente": "Dirección de Meteorología e Hidrología de Paraguay, 26 de octubre de 2026; JD1 Notícias con datos del SGB, 23 de octubre de 2026; Marinha do Brasil, Portaria n.º 19 del 2 de octubre de 2026",
+      "url": "https://www.meteorologia.gov.py/nivel-rio/indexconvencional.php",
+      "vertical": "logistica",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Bolivia procesa la mitad de lo que puede moler: 3 millones de toneladas de soya sobre una capacidad de 6 millones",
+      "resumen": "Según Caniob (declaraciones del 23 de octubre de 2026), la industria oleaginosa boliviana tiene capacidad para moler 6 M t de grano al año y produce unas 3 M t; el mercado interno absorbe cerca del 20%. El rendimiento de la última campaña de invierno fue de 2,2 t/ha, frente a más de 3 t/ha en Brasil y Argentina. Las exportaciones de soya y derivados hasta agosto suman US$ 753 M y 1,95 M t, US$ 50 M más que las de hidrocarburos.",
+      "fuente": "La Razón (Rodolfo Aliaga) con declaraciones de Jorge Amantegui, presidente de Caniob; republicado por eju.tv el 23 de octubre de 2026",
+      "url": "https://eju.tv/2026/10/exportaciones-de-soya-y-sus-derivados-hasta-agosto-superan-los-us-753-millones/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El crédito del biodiésel cae aunque el margen se mantiene: el RIN D4 baja a 194,75 centavos y a 2026 le faltan 1.050 millones de créditos por mes",
+      "resumen": "Fastmarkets (22 de octubre de 2026) calcula que la generación de RIN D4 de la añada 2026 llegó a 6.162 millones hasta septiembre, 70,9% de su estimación de la obligación de 8.686 millones. Cubrir el resto exigiría ~1.050 millones por mes de octubre a diciembre, contra 788,1 millones en septiembre. Aun así el D4 bajó de 202,50 a 194,75 centavos el 15 de octubre, y el margen del biodiésel con aceite de soya subió a US$ 2,70 por galón el 16 de octubre (mediana del año: ~1,67).",
+      "fuente": "Fastmarkets, 22 de octubre de 2026",
+      "url": "https://www.fastmarkets.com/insights/renewable-fuel-standards-2026-where-us-d4-supply-stands-against-the-biomass-based-diesel-requirement/",
+      "vertical": "biocombustibles",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El Brent cierra en US$ 113,88 con menos presión diplomática y más ataques a petroleros en Ormuz",
+      "resumen": "El crudo Brent cerró el 27 de octubre en 113,88 US$/bbl (−1,7% contra el día anterior) y el 28 de octubre operaba cerca de 114,7. TradingEconomics cita ataques iraníes a petroleros en el estrecho de Ormuz y un ataque a una refinería saudí; los inventarios de crudo de EE.UU. cayeron 2,031 M bbl en la semana al 23 de octubre (esperado: +0,8 M). El Brent acumula +19,3% en el mes.",
+      "fuente": "TradingEconomics (Brent), 27 y 28 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "En Ica la uva de mesa madura hasta tres semanas antes y algunos fundos prevén perder entre 5% y 8% del volumen",
+      "resumen": "La especialista Elizabeth Miranda, citada por Agraria.pe el 27 de octubre de 2026, atribuye el adelanto a las condiciones climáticas de la campaña y calcula caídas de 5% a 8% en productores que dejaron más racimos de los que el ciclo permite. Recomienda reforzar el programa de color en variedades rojas sin subir el etefón, que acorta la vida poscosecha. La nota no cuantifica el volumen regional.",
+      "fuente": "Agraria.pe, 27 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/ica-adelanta-hasta-tres-semanas-cosecha-de-uva-de-mesa-y-est-43354",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "Una plaga de la papa pone en riesgo 125.000 hectáreas peruanas y hasta US$ 109 millones, según el CIP",
+      "resumen": "El Centro Internacional de la Papa estima que el complejo «punta morada», transmitido por el insecto Bactericera cockerelli, podría afectar 125.000 ha (17,05% de la producción nacional) con pérdidas de hasta US$ 109 M; en los campos más afectados la pérdida podría ser total. El insecto, identificado en Piura en 2021 y hoy en Áncash, se detectó hasta 3.300 msnm y amenaza Huánuco, Junín, Pasco y el valle del Mantaro.",
+      "fuente": "Agraria.pe con estimaciones del Centro Internacional de la Papa (CIP) y CultiVida, 26 de octubre de 2026",
+      "url": "https://www.agraria.pe/noticias/amenaza-fitosanitaria-pone-en-riesgo-produccion-de-papa-en-e-43349",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El flete de granel seco cae por tercera rueda: el Baltic Dry baja a 2.603 puntos y los panamax tocan su piso desde fines de julio",
+      "resumen": "Según TradingEconomics, el Baltic Dry Index cerró el 27 de octubre en 2.603 puntos (−0,95%), su nivel más bajo desde el 20 de octubre. Los panamax, que cargan el grano sudamericano, cayeron cerca de 2,6% a su mínimo desde fines de julio; los capesize bajaron 0,6%.",
+      "fuente": "TradingEconomics (Baltic Dry Index), 27 y 28 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}
