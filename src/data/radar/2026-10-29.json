@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-10-29",
+  "items": [
+    {
+      "titular": "El Niño sigue creciendo: NOAA da más de 83% de probabilidad a un evento fuerte a muy fuerte hasta marzo de 2027",
+      "resumen": "La discusión del Climate Prediction Center del 8 de octubre de 2026 mantiene el aviso de El Niño activo, con Niño 3.4 en +2,1 °C y Niño 1+2 en +3,9 °C. Asigna 83% a un evento histórico (RONI trimestral de +2,5 °C o más) en octubre-diciembre. La próxima discusión está fijada para el 12 de noviembre de 2026.",
+      "fuente": "NOAA Climate Prediction Center, discusión ENSO del 8 de octubre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "Perú agroexporta US$ 8.334 millones hasta agosto, 2,3% más, con la palta y el arándano al frente",
+      "resumen": "Según Midagri (reportado el 21 de octubre de 2026), enero-agosto suma US$ 8.334 M: no tradicionales US$ 7.559 M (+2,2%) y tradicionales US$ 775 M (+3,1%). Palta US$ 1.343 M, arándano US$ 1.050 M, uva US$ 816 M; el cacao en grano suma US$ 277 M y el café sin tostar US$ 702 M. El superávit comercial agrario es de US$ 3.397 M.",
+      "fuente": "Revista Economía con datos de Midagri, 21 de octubre de 2026",
+      "url": "https://www.revistaeconomia.com/agroexportaciones-peruanas-sumaron-us-8-334-millones-entre-enero-y-agosto-de-2026/",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "Bruselas da por buena la sanidad avícola brasileña, pero el reinicio de los envíos de pollo a Europa sigue sin confirmarse",
+      "resumen": "La Comisión Europea publicó el 28 de septiembre de 2026 un informe que considera satisfactorio el sistema brasileño de aves y miel tras la auditoría del 24 de agosto al 4 de septiembre. Los embarques estaban suspendidos desde el 3 de septiembre y la decisión dependía del comité Scopaff del 20 y 21 de octubre; el resultado de esa reunión no pudo verificarse hoy.",
+      "fuente": "Brasil Agro, 29 de septiembre de 2026; Agência Brasil, 30 de septiembre de 2026",
+      "url": "https://brasilagro.com.br/conteudo/uniao-europeia-aprova-qualidade-da-carne-de-aves-e-do-mel-do-brasil.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Brasil exportó 500,3 mil t de pollo en septiembre: el volumen sube 3,7%, pero el ingreso sube 14,7%",
+      "resumen": "ABPA reporta para septiembre de 2026 US$ 984,2 M de ingreso (+14,7%) y 500,3 mil t (+3,7%). Enero-septiembre: 4,421 M t (+14%) y US$ 8.673 M (+21%). ABPA atribuye el alza hacia China y la UE a la base baja de septiembre de 2025; la UE no recibe certificados nuevos desde el 3 de septiembre.",
+      "fuente": "ABPA vía Brasil Agro, 8 de octubre de 2026",
+      "url": "https://brasilagro.com.br/conteudo/exportacoes-de-carne-de-frango-cresceram-37-em-setembro.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El Brent cierra el 28 de octubre en US$ 115,32 y el Baltic Dry sube a 2.652 puntos",
+      "resumen": "El Brent (ICE dic-26) cerró en US$ 115,32/bbl, +1,3% contra los US$ 113,88 del 27 de octubre en la serie propia. El Baltic Dry Index subió 49 puntos (+1,9%) hasta 2.652 el 28 de octubre.",
+      "fuente": "TradingEconomics, páginas de commodities y Baltic Dry, consultadas el 29 de octubre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El flete de contenedores toca su nivel más alto en 15 semanas: WCI de Drewry en US$ 4.585 por FEU",
+      "resumen": "La evaluación de Drewry del 22 de octubre de 2026 subió cerca de 2% semanal, segunda alza consecutiva. Es la última publicada; la siguiente corresponde al 29 de octubre.",
+      "fuente": "Drewry World Container Index, 22 de octubre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}
