@@ -6,7 +6,7 @@ tipo: cambio-regulatorio
 vertical: cafe
 pais: PE
 score: 7.7
-destacado: true
+destacado: false
 lectura: "La fecha europea no cae en un mes cualquiera para el café peruano: cae en el trimestre en que sale la mitad de lo que compra Europa. El 40% sin mapear no es un problema del 2027, es un problema de la cosecha que se está vendiendo ahora. El lote sin polígono no se pierde, pero se vende a otro mercado y con menos poder de negociación."
 cifras:
   - label: "Polígonos sin geolocalizar"
