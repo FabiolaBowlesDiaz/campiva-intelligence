@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: azucar
 pais: BR
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Datagro no proyecta una mala cosecha: proyecta una cosecha grande que se reparte distinto. Hay más caña y más azúcar recuperable, pero la mezcla se inclina al etanol. Para el azúcar, el dato que manda no es cuánta caña muele Brasil sino a qué lado de la planta decide mandarla, y esa decisión depende del petróleo y del contrato de etanol tanto como del precio del azúcar."
 cifras:
   - label: "Azúcar del Centro-Sur 2026/27"

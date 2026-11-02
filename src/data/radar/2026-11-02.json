@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-11-02",
+  "items": [
+    {
+      "titular": "China puso 1,63 millones de toneladas de las 2,58 millones que EE.UU. vendió de soya nueva en la semana al 22 de octubre",
+      "resumen": "El informe semanal del USDA del 16 al 22 de octubre de 2026 muestra ventas netas de soya 2026/27 de 2.576.400 t (−9% semanal) y 1.627.000 t a China, el 63%. Los embarques semanales fueron de 2.384.100 t, +18% en la semana y +72% sobre el promedio de cuatro semanas.",
+      "fuente": "USDA FAS, Export Sales Weekly Highlights, 16–22 de octubre de 2026",
+      "url": "https://apps.fas.usda.gov/esrqs/StaticReports/WeeklyHighlightsReport.pdf",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Los productores de Santa Cruz van a sembrar casi la misma soya de verano que el año pasado, con los costos en dólares empujando",
+      "resumen": "Anapo proyecta entre 1,3 y 1,35 millones de hectáreas de soya de verano 2026/27, contra 1.289.500 ha de la campaña anterior, más 100.000 ha de maíz. Su gerencia técnica dice que el dólar y el diésel encarecieron siembra, aplicaciones y transporte, y que la superficie podría no completarse.",
+      "fuente": "El Mundo (Bolivia), 30 de septiembre de 2026; Publiagro, octubre de 2026 (declaraciones del gerente de Anapo, Jaime Hernández)",
+      "url": "https://elmundo.com.bo/proyectan-siembra-de-13-millones-de-hectareas-de-soya-en-verano/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "Brasil ya sembró 40% de su soya 2026/27, cuatro puntos por encima del año pasado, con la lluvia dando tregua en el Sur y todavía irregular en parte del Centro-Oeste",
+      "resumen": "AgRural informó que el 22 de octubre de 2026 el avance era de 40% del área prevista, contra 26% una semana antes y 36% un año atrás. El maíz de primera cosecha del Centro-Sur va en 58% (48% la semana previa, 55% hace un año). Las lluvias irregulares y el calor siguen siendo la preocupación en parte de Mato Grosso.",
+      "fuente": "AgRural vía Reuters (GBM), 26 de octubre de 2026",
+      "url": "https://gbm.com/media/noticia/la-siembra-de-soja-en-brasil-alcanza-el-40-segun-agrural-2/",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Perú y China ponen en marcha el 1 de noviembre la versión actualizada de su TLC, con foco en aduanas, origen y sanidad",
+      "resumen": "El Decreto Supremo 012-2026-MINCETUR, publicado el 27 de octubre de 2026, fija la vigencia del Protocolo de Optimización: modifica 7 capítulos (origen, aduanas, servicios, inversión, sanidad y fitosanidad, entre otros) y agrega 5 (comercio electrónico, competencia, cadena de suministro, normas y ambiente). En el primer trimestre de 2026 los envíos no tradicionales a China sumaron US$ 297 M (+83,7%).",
+      "fuente": "Agraria.pe con datos de Mincetur, 30 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/productos-agropecuarios-impulsan-las-exportaciones-no-tradic-43380",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El café peruano exporta 2,8% más volumen y apenas 0,6% más valor de enero a agosto, y el tostado casi no cuenta",
+      "resumen": "Entre enero y agosto de 2026 el Perú exportó 102.336 t de café verde por US$ 701,74 M, con destino principal a EE.UU. (33,7% del valor), Alemania (13,7%) y Bélgica (9,4%). El café tostado suma solo US$ 1,58 M en el año, es decir 0,2% del valor del verde (cálculo Campiva).",
+      "fuente": "Agraria.pe, 30 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/cafe-peruano-marca-record-de-exportaciones-pero-el-valor-agr-43378",
+      "vertical": "cafe",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "La producción peruana de arándanos de agosto sube 29,8% a 58.731 toneladas, con Ica y Piura multiplicando por más de 2,5",
+      "resumen": "El INEI informó que en agosto de 2026 la producción de arándanos fue de 58.731 t, +29,8% interanual por más superficie cosechada y demanda externa. Ica creció 166,9% y Piura 160,0%; Moquegua (−39,5%) y Lambayeque (−5,5%) fueron las únicas regiones que cayeron.",
+      "fuente": "Agraria.pe con datos del INEI, 29 de octubre de 2026",
+      "url": "https://agraria.pe/noticias/produccion-de-arandanos-crecio-29-8-en-agosto-de-2026-43368",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.8
+    }
+  ]
+}
