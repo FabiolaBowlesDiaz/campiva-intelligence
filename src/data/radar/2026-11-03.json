@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-03",
+  "items": [
+    {
+      "titular": "El Niño sigue calentando el Pacífico: la región Niño 3.4 marca +2,5 °C y la Niño 1+2, +4,6 °C en la última semana",
+      "resumen": "La actualización semanal del CPC del 2 de noviembre de 2026 reporta anomalías de +2,5 °C en Niño 3.4, +3,7 °C en Niño 3 y +4,6 °C en Niño 1+2 (el 26/10 la Niño 1+2 estaba en +4,4 °C). La discusión del 8 de octubre mantiene más de 83% de probabilidad de un evento fuerte a muy fuerte hasta ene-mar 2027; la próxima discusión sale el 12 de noviembre.",
+      "fuente": "NOAA/CPC, ENSO: Recent Evolution, Current Status and Predictions, 2 de noviembre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "El mango peruano exportaría 40% menos en la campaña 2026/27 porque el calor impidió la floración",
+      "resumen": "La APEM proyecta 135.182 t para 2026/27 contra 223.686 t de la campaña anterior (−39,57%). Piura aportaría 94.382 t (69,8%), Lambayeque 21.000 t y Áncash 19.800 t; el potencial exportable aún depende de las lluvias de la temporada.",
+      "fuente": "Agraria.pe con declaraciones del presidente de la APEM, 2 de noviembre de 2026",
+      "url": "https://www.agraria.pe/noticias/exportaciones-peruanas-de-mango-fresco-alcanzarian-las-135-1-43385",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "La quinua peruana lleva casi diez años en torno a 50.000 toneladas y Bolivia ronda las 29.000",
+      "resumen": "Según las cifras que cita un especialista de JIWRA, Perú exportó 53.914 t en 2024 (rango de 50.000 a 55.000 t desde 2017, con caídas en 2022-2023) y Bolivia 29.435 t. Para 2024 el artículo asigna a Perú 44,7% del mercado mundial y a Bolivia 28%; el planteo es diversificar del grano perlado a granel hacia proteínas vegetales y almidones.",
+      "fuente": "Agraria.pe (cifras de Sierra Exportadora, repositorios académicos y análisis de mercado citadas por A. Garland, JIWRA), 2 de noviembre de 2026",
+      "url": "https://www.agraria.pe/noticias/peru-lidera-la-exportacion-mundial-de-quinua-pero-su-volumen-43389",
+      "vertical": "granos-andinos",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El Brent se desplomó 7,6% el lunes 2 de noviembre con señales de avance en las conversaciones EE.UU.–Irán",
+      "resumen": "El contrato enero 2027 cerró el 2 de noviembre en 104,77 US$/bbl, contra 113,43 el 30 de octubre (cálculo Campiva sobre el cierre previo de TradingEconomics). TradingEconomics atribuye la baja a la aprobación iraní de negociar y a la preferencia de Washington por la vía diplomática; el 3 de noviembre rebota sobre 105 US$ tras un reporte de ataque estadounidense a la isla de Qeshm. Mercado de energía: el diésel es costo directo del flete y la cosecha.",
+      "fuente": "TradingEconomics, Brent crude oil, 3 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El arábica rebota sobre 2,90 US$/lb desde mínimos de cuatro semanas con las existencias certificadas de ICE aún cerca de mínimos de 27 años",
+      "resumen": "El cierre del 2 de noviembre fue 2,921 US$/lb (+1,7% vs. 30/10, cálculo Campiva). TradingEconomics señala que el mercado oscila entre la escasez de corto plazo en los depósitos de ICE y la perspectiva de mayor producción en Brasil, con lluvia irregular y El Niño como riesgo; un real más débil presiona a la baja. El 27% de caída interanual sigue vigente.",
+      "fuente": "TradingEconomics, Coffee, 3 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El cacao se queda cerca de 5.400 US$/t con los inventarios de ICE en máximos de dos años y medio",
+      "resumen": "Nueva York cerró el 2 de noviembre en 5.435 US$/t (−0,3% vs. 30/10; cálculo Campiva) y cae 8,5% en un mes. TradingEconomics reporta que las existencias en bodegas de ICE llegaron a un máximo de 2,5 años al 29 de octubre y que la cosecha principal de Costa de Marfil se mantiene adecuada pese a la lluvia bajo lo normal; los pronósticos 2026/27 siguen apuntando a menor producción por El Niño.",
+      "fuente": "TradingEconomics, Cocoa, 3 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El azúcar toca mínimos de cuatro semanas: 19,06 ¢/lb al cierre del 2 de noviembre y 18,5 ¢/lb el martes",
+      "resumen": "El contrato marzo 2027 cae 1,5% en la rueda del 2/11 y otro 3% el 3/11 (intradía), con 11% menos en un mes. TradingEconomics lo liga a un real débil y al petróleo más barato (favorecen el azúcar sobre el etanol), mientras las lluvias retrasaron la molienda del Centro-Sur y la India espera una cosecha menor.",
+      "fuente": "TradingEconomics, Sugar, 3 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    }
+  ]
+}
