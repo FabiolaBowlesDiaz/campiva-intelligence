@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-04",
+  "items": [
+    {
+      "titular": "La EPA escucha hoy el reparto de 770 millones de RIN que definirá la demanda de aceite de soya de 2026 y 2027",
+      "resumen": "La audiencia pública del 4 de noviembre de 2026 evalúa reasignar 770 millones de RIN eximidos de 2025 entera a 2027 o mitad y mitad entre 2026 y 2027. Con la opción de 2027, la obligación de ese año subiría de unos 27.000 a unos 27.700 millones de RIN (Argus); los comentarios siguen abiertos hasta el 4 de diciembre.",
+      "fuente": "Argus Media, 26 de octubre de 2026",
+      "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2895916-epa-to-hold-public-hearing-on-rfs-reallocation",
+      "vertical": "biocombustibles",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El Brent vuelve sobre 104 US$ el 4 de noviembre, pero acumula una baja de 8% en la semana",
+      "resumen": "TradingEconomics reporta que el crudo sube el miércoles 4/11 por incertidumbre sobre las negociaciones EE.UU.–Irán (Qatar dice que ambas partes evalúan nuevas propuestas de los mediadores). El cierre del 3/11 fue 103,60 US$/bbl (cálculo Campiva sobre el cierre previo), contra 104,77 el 2/11 y 113,43 el 30/10.",
+      "fuente": "TradingEconomics, Brent crude oil, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "La soya de Chicago se acerca a su mínimo de tres meses: cosecha de EE.UU. al 88% y siembra brasileña al 53%",
+      "resumen": "El cierre del 3/11 fue 12,03 US$/bu (−0,1% vs. 2/11). TradingEconomics cita avance de cosecha estadounidense de 88% al 1/11 (+4 pp sobre el promedio de cinco años), siembra 2026/27 de Brasil en 53% (+6 pp vs. el año pasado), inventarios chinos de aceite de soya cerca de 1,5 M t (+4,3% i.a.) y una venta de 136.000 t a China en 2026/27.",
+      "fuente": "TradingEconomics, Soybeans, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El maíz toca mínimo de tres meses en Chicago mientras los embarques de EE.UU. caen 48% interanual",
+      "resumen": "El cierre del 3/11 fue 4,43 US$/bu (−1,3% vs. 2/11). Según TradingEconomics, la cosecha estadounidense llegó a 74% el 1/11 (tres puntos bajo el promedio) y los embarques de la semana al 29/10 fueron 884.766 t (−48,3% i.a.), con ventas nuevas de 315.000 t a México y 136.000 t a Corea del Sur en 2026/27.",
+      "fuente": "TradingEconomics, Corn, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/corn",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El azúcar cae a mínimo desde septiembre mientras la India adelanta su zafra y la lluvia frena la molienda brasileña",
+      "resumen": "Marzo 2027 cerró el 3/11 en 18,33 ¢/lb (−3,8% vs. 2/11) y opera cerca de 18,4 el 4/11. TradingEconomics reporta que la producción india de octubre fue de 845.000 t (+745% i.a., según una entidad del sector) porque los ingenios de Maharashtra adelantaron la molienda, mientras en Brasil la lluvia redujo molienda y producción de azúcar en la primera quincena de octubre.",
+      "fuente": "TradingEconomics, Sugar, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El cacao cotiza cerca de 5.400 US$/t con inventarios de ICE en máximo de 2,5 años y StoneX proyecta menos oferta en 2026/27",
+      "resumen": "Cierre del 3/11: 5.414 US$/t (−0,4% vs. 2/11), −8,4% en un mes. Las existencias en bodegas de ICE llegaron a 3.688.949 sacos el 29/10. StoneX proyecta producción mundial 2026/27 de 4,74 M t (−9,6%), lo que convertiría el superávit de 494.000 t de 2025/26 en un déficit de 64.000 t.",
+      "fuente": "TradingEconomics, Cocoa, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Las existencias certificadas de arábica siguen cerca de mínimos de 27 años: 225.068 sacos al 29 de octubre",
+      "resumen": "El arábica de ICE cerró el 3/11 en 2,84 US$/lb (−2,8% vs. 2/11). TradingEconomics señala que llegan más cafés brasileños a bodegas acreditadas, con casi 44.000 sacos pendientes de clasificación, pero el stock certificado se mantiene cerca del mínimo de mediados de septiembre mientras el mercado mira el clima de Brasil para la próxima cosecha.",
+      "fuente": "TradingEconomics, Coffee, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El trigo de Chicago rebota sobre 6 US$/bu tras tocar mínimo de 16 semanas, con China consultando compra de trigo rojo blando de EE.UU.",
+      "resumen": "TradingEconomics reporta un mínimo de 5,99 US$/bu el 28/10, desde el máximo de 3,5 años de 7,67 del 28/08, y una consulta de Cofco para entrega en 2027; no hay ventas de trigo ni maíz de EE.UU. a China en esta campaña. Cierre del 3/11: 6,00 US$/bu. Cosecha mundial prevista como la segunda mayor de la historia.",
+      "fuente": "TradingEconomics, Wheat, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/wheat",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    }
+  ]
+}
