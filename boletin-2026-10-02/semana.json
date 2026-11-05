@@ -1,0 +1,87 @@
+{
+ "desde": "2026-09-24",
+ "analisis": [
+  {
+   "title": "El USDA encontró maíz de más y el descuento no llega entero a la región",
+   "bajada": "Estados Unidos tenía al 1 de septiembre de 2026 173 millones de bushels de maíz más de lo que proyectaba el propio USDA. El maíz de Chicago cayó 4,1% en un día. El de la Matba, que abastece al Perú, cayó 2,2%. En Santa Cruz, el maíz y el sorgo siguieron subiendo. La ración no se compra en Chicago.",
+   "lectura": "La sorpresa del USDA es real y baja el piso del maíz mundial para 2026/27. Pero el importador andino compra maíz argentino y el productor boliviano compra maíz local: el primero recibe la mitad de la baja y el segundo, ninguna. El costo de la ración se negocia en la Matba y en el flete, no en el titular de Chicago.",
+   "score": 7.9,
+   "kicker": "Alerta de mercado · Nutrición animal · LATAM",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-01-usda-maiz-de-mas-descuento-no-llega-region/"
+  },
+  {
+   "title": "El crudo baja y el diésel no lo sigue: la crisis del barril se mudó a la refinería",
+   "bajada": "Entre el 15 y el 22 de septiembre de 2026 el Brent físico bajó 12,2% y el diésel del golfo de México, 4,1%. El margen del diésel sobre el crudo subió de 87,85 a 94,77 dólares por barril. Estados Unidos tiene más crudo que hace un año y 12,7% menos destilados. Para el agro que siembra, la baja del Brent llega al tanque a un tercio de la velocidad.",
+   "lectura": "El alivio del crudo es real: Arabia Saudita volvió a exportar desde el mar Rojo y el Brent cedió 2,6% el 29 de septiembre. Pero el diésel se fija por la capacidad de refinar, no por el barril. Mientras los destilados sigan 12,7% abajo y las refinerías al 94%, una baja del crudo no se traslada entera al gasoil de la siembra.",
+   "score": 7.8,
+   "kicker": "Análisis ejecutivo · Energía y biocombustibles · Global",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-09-30-crudo-baja-diesel-no-margen-refinacion/"
+  },
+  {
+   "title": "El café cae por Brasil y la prima del café lavado no se entera",
+   "bajada": "Entre el 1 y el 28 de septiembre de 2026 el indicador de la ICO para los 'Otros Suaves', el grupo del café peruano, bajó 26,70 centavos por libra. Los naturales brasileños bajaron 28,17. La diferencia entre los dos no se achicó: pasó de 37,38 a 38,85 centavos. Toda la caída vino de la base brasileña, y la prima del lavado quedó en pie, sostenida por una Colombia que produce 17% menos.",
+   "lectura": "El precio del café que cae en septiembre es el de Brasil: Conab confirmó una cosecha récord de 67,6 millones de sacas, con el arábica +34,8%. La prima del café lavado sobre el natural brasileño no bajó con él, porque el otro gran proveedor de lavados, Colombia, viene 17% abajo. Para el exportador peruano el riesgo del mes es el nivel de la bolsa, no su diferencial.",
+   "score": 7.8,
+   "kicker": "Dato estratégico · Café · Perú",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-09-29-cafe-cae-por-brasil-prima-lavado-se-sostiene/"
+  },
+  {
+   "title": "La Fed sube la tasa por primera vez en tres años y esperar precio pasa a costar más",
+   "bajada": "El 16 de septiembre de 2026 la Reserva Federal subió su tasa de referencia un cuarto de punto, a un rango de 3,75% a 4%, por unanimidad. Es la primera suba en más de tres años. El 23 de septiembre el gobernador Michael Barr dijo que probablemente harán falta más ajustes y el mercado pasó a descontar cerca de 70% de otra suba el 27-28 de octubre. El dólar cerró el viernes 25 en su nivel más alto en casi dos meses.",
+   "lectura": "Un cuarto de punto no mueve el precio de la tonelada: sobre una soja Matba de 382 US$/t equivale a menos de un dólar por tonelada al año. Lo que cambia es la dirección. Durante tres años el dinero para financiar la campaña y para guardar grano se abarató o quedó quieto; desde el 16 de septiembre se encarece, y el mercado ya descuenta el segundo paso. En esta etapa la variable que decide cuánto cuesta esperar precio es la tasa, no la bolsa.",
+   "score": 7.6,
+   "kicker": "Análisis ejecutivo · Macro y regulación · Global",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-09-28-fed-sube-tasa-costo-retener-grano/"
+  }
+ ],
+ "radar": [
+  {
+   "titular": "EE.UU. tenía 173 millones de bushels de maíz más de lo que proyectaba el USDA",
+   "resumen": "Las existencias de maíz al 1 de septiembre de 2026 sumaron 2.095 millones de bushels (53,2 M t), 35% más que un año antes y 173 millones por encima del cierre proyectado en el WASDE de septiembre. El maíz de diciembre cayó 21¼ centavos a 5,0075 US$/bu el 30 de septiembre (−4,1%).",
+   "fuente": "USDA NASS, Grain Stocks",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/grst0926.pdf",
+   "score": 7.9,
+   "vertical": "Cereales"
+  },
+  {
+   "titular": "El café baja por Brasil y la prima del café lavado se mantiene",
+   "resumen": "Entre el 1 y el 28 de septiembre de 2026 el indicador ICO de Otros Suaves, el grupo del café peruano, bajó de 352,86 a 326,16 ¢/lb y el de Naturales Brasileños de 315,48 a 287,31. El diferencial entre ambos pasó de 37,38 a 38,85 ¢/lb (cálculo Campiva).",
+   "fuente": "Organización Internacional del Café (ICO)",
+   "url": "https://icocoffee.org/documents/I-CIP.pdf",
+   "score": 7.8,
+   "vertical": "Café"
+  },
+  {
+   "titular": "El Brent físico baja 12% en una semana y el diésel del golfo solo 4%",
+   "resumen": "Entre el 15 y el 22 de septiembre de 2026 el Brent spot pasó de 130,80 a 114,89 US$/bbl y el ULSD de la costa del golfo de 5,206 a 4,992 US$/galón. El margen del diésel sobre el crudo subió de 87,85 a 94,77 US$/bbl (cálculo Campiva sobre datos de la EIA).",
+   "fuente": "EIA, precios spot",
+   "url": "https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm",
+   "score": 7.8,
+   "vertical": "Energía y biocombustibles"
+  },
+  {
+   "titular": "La Fed sube su tasa por primera vez en más de tres años y el mercado ya descuenta otra suba en octubre",
+   "resumen": "El 16 de septiembre de 2026 la Reserva Federal subió la tasa de referencia un cuarto de punto, a un rango de 3,75% a 4%, con voto 12-0. El 23 de septiembre el gobernador Michael Barr dijo que probablemente harán falta más ajustes, y la probabilidad de otra suba el 27-28 de octubre pasó a cerca de 70% (FedWatch).",
+   "fuente": "Reserva Federal y Yahoo Finance",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "score": 7.6,
+   "vertical": "Macro y regulación"
+  },
+  {
+   "titular": "China recorta aranceles a granos, harina y aceite de EE.UU., pero deja afuera a la soja",
+   "resumen": "El Ministerio de Comercio chino publicó el 28 de septiembre de 2026 una lista de recortes que incluye maíz, trigo, sorgo, aceite y harina de soya, carne y lácteos. El poroto de soja sigue con el arancel adicional de 10%; los estatales llevan más de 12 millones de toneladas compradas, casi la mitad del compromiso anual de 25 millones.",
+   "fuente": "Reuters, vía Business Recorder",
+   "url": "https://www.brecorder.com/news/40441563/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded",
+   "score": 7.6,
+   "vertical": "Soya y girasol"
+  },
+  {
+   "titular": "La cumbre Trump-Xi extiende la tregua comercial hasta el 10 de enero y no suma compromisos agrícolas",
+   "resumen": "La reunión del 24 de septiembre de 2026 en Washington terminó sin acuerdo integral: la tregua se extiende dos meses, hasta el 10 de enero de 2027. China va por más de la mitad de su compromiso de 25 millones de toneladas anuales de soja estadounidense y no compró maíz de EE.UU. en la campaña actual.",
+   "fuente": "The Bullet (WWBL)",
+   "url": "https://www.wwbl.com/2026/09/27/us-china-summit-delivers-more-promises-but-u-s-soybean-and-pork-producers-still-await-trade-breakthrough/",
+   "score": 7.4,
+   "vertical": "Soya y girasol"
+  }
+ ]
+}

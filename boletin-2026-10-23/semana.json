@@ -1,0 +1,79 @@
+{
+ "desde": "2026-10-16",
+ "analisis": [
+  {
+   "title": "El trigo toca mínimos y Argentina llena el granero: Bolivia, que compra casi todo afuera, mira la ventana",
+   "bajada": "El 21 de octubre la Bolsa de Comercio de Rosario estimó la cosecha argentina de trigo 2026/27 en 23,8 millones de toneladas, 2,8 millones más que un mes antes. El mismo día Chicago cayó a su nivel más bajo en más de tres meses por las conversaciones de paz en Ucrania. Bolivia produce, según Anapo, apenas 12% del trigo que consume, y su proveedor principal es Argentina.",
+   "lectura": "El precio del trigo lo está fijando el Mar Negro y el volumen de la región lo pone Argentina. Bolivia depende de los dos y cubre muy poco con producción propia. La cosecha argentina que entra en noviembre y diciembre, con Chicago en mínimos de tres meses, abre una ventana de compra. Pero es más chica que la del año pasado, y la paz en Ucrania todavía no está firmada.",
+   "score": 7.6,
+   "kicker": "Análisis ejecutivo · Cereales · LATAM",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-23-trigo-minimos-argentina-cosecha-bolivia-importa/"
+  },
+  {
+   "title": "India saca el azúcar del tanque y Bolivia le pide más caña, en la misma semana",
+   "bajada": "El 16 de octubre India excluyó el etanol de jugo de caña, jarabe y melaza B de su licitación 2026/27: en la última campaña esas vías aportaron 2.660 millones de litros, 27% del total. Tres días después Bolivia firmó subir la mezcla de etanol en la gasolina al 15% desde noviembre y al 18% en abril de 2027. Los dos países toman la misma decisión de fondo: quién se queda con la caña.",
+   "lectura": "La caña sirve para dos cosas: azúcar o etanol. Cuando el azúcar falta, India elige el azúcar y le pasa el tanque al grano, aunque el grano entregó solo dos tercios de lo que tenía asignado. Bolivia va en la dirección contraria y le pide más caña al tanque. Para el ingenio, la variable que manda deja de ser solo el precio del azúcar en Nueva York: también es el precio del contrato con YPFB, que se fija antes del 30 de octubre.",
+   "score": 7.7,
+   "kicker": "Cambio regulatorio · biocombustibles · Global",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-21-india-saca-azucar-del-tanque-bolivia-pide-mas-cana/"
+  },
+  {
+   "title": "La molienda de cacao vuelve a crecer, y crece donde el Perú ya vende",
+   "bajada": "Europa molió 348.215 toneladas de cacao en el tercer trimestre de 2026, 3,2% más que un año antes: su primera suba interanual desde el segundo trimestre de 2024. Asia creció 29,2% y marcó su mayor trimestre registrado. Para el grano peruano el dato importa por el destino: Malasia e Indonesia compraron casi un quinto de lo que el Perú exportó entre enero y septiembre.",
+   "lectura": "La demanda de cacao no desapareció: se reacomodó y ahora vuelve a crecer en las tres regiones que más muelen, con Asia a la cabeza. Para el origen americano la lectura útil no es el total europeo sino el mapa: el crecimiento está en los molinos asiáticos que ya le compran al Perú. El precio, en cambio, sigue mirando el stock de ICE y la próxima cosecha de África Occidental.",
+   "score": 7.6,
+   "kicker": "Dato estratégico · Cacao · Perú",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-20-cacao-molienda-crece-donde-peru-vende/"
+  }
+ ],
+ "radar": [
+  {
+   "titular": "India saca la caña de su licitación de etanol y deja el tanque al maíz y al arroz",
+   "resumen": "La licitación de 11.000 millones de litros para nov-2026/oct-2027, emitida por BPCL el 16 de octubre, excluye el etanol de jugo de caña, jarabe y melaza B. En 2025/26 esas tres vías aportaron 2.660 millones de litros, 27% de lo recibido (cálculo Campiva sobre datos de AIDA a septiembre).",
+   "fuente": "DT Next y Construction World (datos de AIDA), 19 de octubre de 2026",
+   "url": "https://www.dtnext.in/news/national/india-bars-sugar-based-ethanol-in-2026-27-tender-cuts-maize-incentive",
+   "score": 7.7,
+   "vertical": "biocombustibles"
+  },
+  {
+   "titular": "Europa vuelve a moler más cacao por primera vez desde 2024 y Asia marca su mayor trimestre",
+   "resumen": "La ECA informó una molienda europea de 348.215 toneladas en el tercer trimestre de 2026 (+3,2%), su primera suba interanual desde el segundo trimestre de 2024; el acumulado del año sigue en −3,1%. Asia molió 233.767 toneladas (+29,2%), su mayor trimestre registrado.",
+   "fuente": "European Cocoa Association (ECA), European Cocoa Bean Usage Q3 2026, 15 de octubre de 2026",
+   "url": "https://www.eurococoa.com/wp-content/uploads/WEBSITE-REPORT-WESTERN-STATS-Q3-2026.pdf",
+   "score": 7.6,
+   "vertical": "Cacao"
+  },
+  {
+   "titular": "Argentina sube a 23,8 millones de toneladas su primera estimación de trigo 2026/27",
+   "resumen": "La Bolsa de Comercio de Rosario estimó el 21 de octubre una cosecha de 23,8 M t, contra 21 M t proyectadas un mes antes: sería la segunda mayor en 17 años, detrás del récord de 28,5 M t de la campaña pasada. El cálculo usa 6,95 M ha sembradas y un rinde de 35,3 qq/ha, con dudas por un octubre frío y con poca radiación.",
+   "fuente": "Bolsa de Comercio de Rosario (GEA), Informe Especial N° 199, 21 de octubre de 2026",
+   "url": "https://www.bcr.com.ar/es/mercados/gea/estimaciones-nacionales-de-produccion/estimaciones",
+   "score": 7.6,
+   "vertical": "Cereales"
+  },
+  {
+   "titular": "Bolivia firma subir el etanol en la gasolina al 15% desde noviembre y al 18% en abril de 2027",
+   "resumen": "El Gobierno, YPFB, los ingenios y el sector cañero firmaron el 19 de octubre un acuerdo para llevar la mezcla al 15% desde el 1 de noviembre de 2026, sujeto a evaluación técnica, económica, financiera y legal. YPFB y los ingenios tienen hasta el 30 de octubre para firmar los contratos, y el precio del etanol sube desde noviembre.",
+   "fuente": "ABI vía El Día, 19 de octubre de 2026",
+   "url": "https://www.eldia.com.bo/2026-10-19/economia/acuerdo-con-sucroalcoholeros-impulsa-la-soberania-energetica-y-eleva-la-mezcla-de-etanol-al-15-en-la-gasolina.html",
+   "score": 7.2,
+   "vertical": "biocombustibles"
+  },
+  {
+   "titular": "El arábica sube 7% en dos ruedas con el stock certificado cerca de su mínimo de 27 años",
+   "resumen": "El arábica de ICE cerró el 19 de octubre en 3,157 US$/lb, contra 2,95 el 15 de octubre. Las existencias certificadas quedaron en 240.767 sacos, cerca del mínimo de 217.646 de septiembre, y operadores temen que el café brasileño no llegue a los depósitos de ICE antes del vencimiento del contrato de diciembre.",
+   "fuente": "Investing.com, 19 de octubre de 2026; cierres vía TradingEconomics",
+   "url": "https://ph.investing.com/news/stock-market-news/arabica-coffee-futures-reach-onemonth-high-on-supply-concerns-93CH-2636354",
+   "score": 6.9,
+   "vertical": "Café"
+  },
+  {
+   "titular": "El grano de cacao peruano pierde 55% de su valor en nueve meses, y un quinto ya va a Asia",
+   "resumen": "El Perú exportó US$ 303,3 millones en cacao en grano entre enero y septiembre de 2026 (−55,06%), con 74.310 toneladas (−21,2%) y 4,08 US$/kg (−42,9%). Malasia (13,85%) e Indonesia (5,95%) sumaron casi 20% del valor; Países Bajos lideró con 25,03%.",
+   "fuente": "Agraria.pe con datos de Agrodata, 7 de octubre de 2026",
+   "url": "https://agraria.pe/noticias/exportaciones-de-cacao-en-grano-caen-55-06-en-valor-y-21-11--43242",
+   "score": 6.7,
+   "vertical": "Cacao"
+  }
+ ]
+}

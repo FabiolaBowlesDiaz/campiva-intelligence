@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-11-05",
+  "items": [
+    {
+      "titular": "El Brent cae 8,7% en una rueda y cierra el 4 de noviembre en 94,62 US$/bbl, su mínimo en dos meses",
+      "resumen": "TradingEconomics atribuye la baja a que el resultado de las elecciones legislativas de EE.UU. alimenta la expectativa de mayor presión para cerrar la guerra con Irán. El crudo cerró el 3/11 en 103,60 y el 4/11 en 94,62; el 5/11 opera cerca de 96 (cálculo Campiva sobre el cierre previo publicado).",
+      "fuente": "TradingEconomics, Brent crude oil, 5 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "La soya de Chicago se acerca a su piso de tres meses con la cosecha de EE.UU. al 88% y la siembra brasileña al 53%",
+      "resumen": "El cierre del 4/11 fue 11,93 US$/bu (−0,8%) y el mes acumula −8,1%. Pesan la cosecha estadounidense, cuatro puntos adelantada al promedio de cinco años, los inventarios chinos de aceite de soya (~1,5 M t, +4,3% i.a.) y un real débil que abarata la soya brasileña; una venta de 136.000 t a China en 2026/27 da apoyo parcial.",
+      "fuente": "TradingEconomics, Soybeans, 5 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/soybeans",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Rusia recorta su proyección de exportación de trigo 2026/27 de 42 a 39,5 M t y el trigo rebota hacia 6 US$/bu",
+      "resumen": "IKAR (vía Interfax, citado por TradingEconomics) baja también la exportación total de granos de 52,8 a 49,5 M t por cuellos de botella en los corredores del Mar Negro; los exportadores rusos recurren más al tren y a los puertos del Báltico, que se acercan a su capacidad. El trigo de Chicago tocó el 4/11 un mínimo de casi cuatro meses y cerró en 5,99 US$/bu.",
+      "fuente": "TradingEconomics, Wheat, 5 de noviembre de 2026 (IKAR/Interfax)",
+      "url": "https://tradingeconomics.com/commodity/wheat",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El cacao se queda en 5.400 US$/t con las existencias de ICE en máximo de 2,5 años y una cosecha 2026/27 proyectada a la baja",
+      "resumen": "Las bodegas de ICE guardaban 3.688.949 sacos al 29/10, el nivel más alto en 2,5 años. StoneX proyecta una producción mundial 2026/27 de 4,74 M t (−9,6%) y un balance que pasaría de superávit de 494.000 t a déficit de 64.000 t. El cierre del 4/11 fue 5.456 US$/t (+0,8%).",
+      "fuente": "TradingEconomics, Cocoa, 5 de noviembre de 2026 (ICE, StoneX)",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Baltic Dry sube 4% a 2.694 puntos por los capesize, mientras los panamax de granos cortan 15 caídas seguidas",
+      "resumen": "El 4/11 el índice general subió 4,0%, el capesize 7,2% (4.097 pts) y el panamax, el buque típico del grano, 1,5% a 1.894 pts, un máximo de una semana tras 15 sesiones a la baja. El índice sigue 12,3% por debajo de hace un mes y 34,5% sobre el año anterior.",
+      "fuente": "TradingEconomics, Baltic Dry Index, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El pollo brasileño exporta 14,8% más por día en octubre, con el precio interno plano en São Paulo (dato parcial)",
+      "resumen": "Embarques de 395,68 mil t en los primeros 16 días hábiles de octubre (media diaria +14,79% vs. 2025) y 4,512 M t en el año, según Terra Investimentos. El 26/10 el congelado se cotizó a R$ 8,27/kg (Cepea). Cifra parcial al 27/10; el cierre mensual de ABPA aún no se publicó.",
+      "fuente": "aviNews Brasil (Terra Investimentos, Cepea), 27 de octubre de 2026",
+      "url": "https://avinews.com/pt-br/exportacoes-de-carne-de-frango-outubro-2026/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "bajo",
+      "score": 6.4
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+ "desde": "2026-10-02",
+ "analisis": [
+  {
+   "title": "India se queda sin azúcar para vender: el USDA le quita 4,1 millones de toneladas",
+   "bajada": "La oficina del USDA en Nueva Delhi bajó la producción india de azúcar 2026/27 de 33,6 a 29,5 millones de toneladas y el stock final de 6,5 a 4. El segundo productor del mundo consumirá 1,3 millones de toneladas más de lo que produce y ya importa sin arancel. Con Brasil también corto, la Bolsa de Nueva York bajó 3,3% el 8 de octubre por venta de fondos, no por más oferta.",
+   "lectura": "Los dos mayores proveedores de azúcar del mundo llegan cortos a la misma campaña: India pierde 4,1 millones de toneladas en el pronóstico y Brasil lleva 14,4% menos azúcar en el acumulado. La caída de Nueva York del 8 de octubre fue una venta de fondos con poco volumen. La curva de futuros dice otra cosa: el azúcar de marzo vale más que el de julio.",
+   "score": 7.5,
+   "kicker": "Análisis ejecutivo · azucar · Global",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-09-india-se-queda-sin-azucar-para-vender/"
+  },
+  {
+   "title": "La EIA sube 10 dólares el barril de 2027 y señala al diésel como el que empuja al crudo",
+   "bajada": "En su informe del 6 de octubre de 2026, la EIA elevó el Brent previsto para 2027 de 74 a 84 dólares por barril (+14%) y el del cuarto trimestre de 2026 de 91 a 105. La razón nueva es el diésel: la falta de destilados obliga a refinar más crudo. Pero el diésel de 2027 apenas sube 2% en el mismo pronóstico. El costo de la próxima campaña depende de una apuesta: que el margen de refinación se normalice.",
+   "lectura": "Hasta septiembre la lectura era que el crudo bajaba y el diésel no lo seguía. La EIA ahora describe el camino inverso: el diésel escaso tira del crudo hacia arriba. Para presupuestar 2027, la variable que decide no es el barril de 84 dólares, sino si el margen de refinación baja como supone el pronóstico.",
+   "score": 7.7,
+   "kicker": "Dato estratégico · Energía y biocombustibles · Global",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-07-eia-sube-barril-2027-diesel-empuja-crudo/"
+  },
+  {
+   "title": "El pollo frenó la inflación de septiembre y ya devolvió la rebaja",
+   "bajada": "Según el INE, el pollo bajó 19,21% en septiembre y fue el producto que más contuvo el IPC boliviano, que subió 0,85%. Cinco días después, el boletín de la ADA muestra el kilo al consumidor en Santa Cruz 22,9% más caro que el 30 de septiembre. La rebaja ya no existe, y el maíz y la harina de soya que alimentan al pollo están más caros que hace un mes.",
+   "lectura": "El dato de septiembre midió un piso, no una tendencia. El pollo se vendió barato mientras su ración se encarecía, y ese descalce se corrigió en una semana. Quien lea el IPC de septiembre como señal de proteína barata va a cotizar octubre con un precio que ya no está en el mercado.",
+   "score": 7.6,
+   "kicker": "Análisis ejecutivo · Proteína animal · Bolivia",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-06-pollo-freno-inflacion-y-ya-devolvio-la-rebaja/"
+  },
+  {
+   "title": "La soya le ganó al gas con volumen, no con precio",
+   "bajada": "Entre enero y agosto de 2026 el complejo soyero boliviano exportó 787 millones de dólares y superó a los hidrocarburos (733 millones), según el IBCE. El volumen creció 18% y el valor 13%: cada tonelada valió menos. En el campo la brecha es más grande: el precio promedio del grano acopiado bajó 25,5% frente al mismo período de 2025.",
+   "lectura": "Que la soya supere al gas en las exportaciones de Bolivia es un dato de composición, no de bonanza. El complejo creció porque vendió más toneladas, no porque cobró más por cada una. Con la cosecha de invierno destinada entera al mercado externo, el resultado de fin de año depende del volumen que pueda salir y del precio que acepte el comprador, no de la memoria de los precios de 2025.",
+   "score": 8.1,
+   "kicker": "Dato estratégico · Soya y girasol · Bolivia",
+   "url": "https://intelligence.campivacorp.com/analisis/2026-10-05-soya-le-gana-al-gas-con-volumen-no-con-precio/"
+  }
+ ],
+ "radar": [
+  {
+   "titular": "La soya boliviana exporta más que el gas, pero cobra menos por tonelada",
+   "resumen": "El complejo soya exportó 787 millones de dólares entre enero y agosto de 2026 (+13% en valor, +18% en volumen) y superó a los hidrocarburos (733 millones, −8%). El valor por tonelada bajó 4,2% (cálculo Campiva): la diferencia la hizo el volumen.",
+   "fuente": "IBCE, vía El Deber",
+   "url": "https://eldeber.com.bo/economia/exportacion-soya-supera-hidrocarburos-genera-us-787-millones-agosto_1790954900",
+   "score": 8.1,
+   "vertical": "Soya y girasol"
+  },
+  {
+   "titular": "La EIA sube a 84 dólares el barril de 2027 y apunta al diésel",
+   "resumen": "En su pronóstico del 6 de octubre de 2026, la EIA elevó el Brent de 2027 de 74 a 84 US$/bbl y el del cuarto trimestre de 2026 de 91 a 105. Dice que la escasez de diésel eleva la demanda de crudo; los destilados de la costa este de EE.UU. quedaron 32% bajo su promedio en septiembre.",
+   "fuente": "EIA, Short-Term Energy Outlook",
+   "url": "https://www.eia.gov/outlooks/steo/",
+   "score": 7.7,
+   "vertical": "Energía y biocombustibles"
+  },
+  {
+   "titular": "El pollo frenó la inflación de septiembre y en octubre ya devolvió la rebaja",
+   "resumen": "Según el INE, el pollo bajó 19,21% en septiembre y fue el producto que más contuvo el IPC (+0,85% en el mes). En Santa Cruz, el boletín de la ADA muestra el kilo al consumidor en 16,44 Bs el 5 de octubre, +22,9% frente a los 13,38 Bs del 30 de septiembre.",
+   "fuente": "INE Bolivia y ADA Santa Cruz",
+   "url": "https://www.ine.gob.bo/index.php/el-indice-de-precios-al-consumidor-en-bolivia-presento-una-variacion-positiva-de-085-en-septiembre-de-2026/",
+   "score": 7.6,
+   "vertical": "Proteína animal"
+  },
+  {
+   "titular": "El USDA le quita 4,1 millones de toneladas al azúcar de India y recorta su stock a 4",
+   "resumen": "La oficina del USDA en Nueva Delhi bajó la producción india de azúcar 2026/27 de 33,6 a 29,5 millones de t (valor crudo) por lluvia irregular y plagas; el consumo (30,83 M t) supera a la producción por 1,3 M t y el stock final cae de 6,5 a 4 M t. India abrió 1 M t de importación sin arancel hasta el 31 de octubre, la primera en casi una década.",
+   "fuente": "USDA FAS, Sugar Semi-annual India (IN2026-0051), 5 de octubre de 2026",
+   "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar%20Semi-annual_New%20Delhi_India_IN2026-0051.pdf",
+   "score": 7.5,
+   "vertical": "azucar"
+  },
+  {
+   "titular": "Anapo espera hasta 700.000 toneladas de soya de invierno, todas para afuera",
+   "resumen": "Anapo proyectó el 4 de octubre de 2026 una cosecha de invierno de 650.000 a 700.000 toneladas sobre unas 320.000 hectáreas. Como el verano cubrió la demanda interna, toda la producción irá a la exportación; la cosecha del norte va de fines de octubre a principios de noviembre.",
+   "fuente": "Anapo, vía La Razón y Eju",
+   "url": "https://eju.tv/2026/10/el-agro-proyecta-hasta-700-000-toneladas-de-soya-al-finalizar-campana-de-invierno/",
+   "score": 7.2,
+   "vertical": "Soya y girasol"
+  },
+  {
+   "titular": "El CPC eleva a 83% la chance de un El Niño histórico entre octubre y diciembre",
+   "resumen": "En su discusión del 8 de octubre de 2026, el CPC/NOAA da 83% de probabilidad de un evento histórico (RONI de +2,5 °C o más, por encima de todos desde 1950) para octubre-diciembre y más de 83% de un Niño fuerte a muy fuerte hasta enero-marzo de 2027. El Niño 3.4 marcó +2,1 °C y el Niño 1+2, frente a Sudamérica, +3,9 °C.",
+   "fuente": "NOAA/CPC, ENSO Diagnostic Discussion",
+   "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+   "score": 7.2,
+   "vertical": "Clima"
+  }
+ ]
+}
