@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: US
 score: 7.6
-destacado: true
+destacado: false
 lectura: "El récord de EE.UU. no es un exceso: el USDA lo dejó escrito en su balance con una exportación 11,9% mayor y el mismo stock final que el año pasado. Por eso la soya no se hunde. Pero tampoco tiene colchón: el balance solo cierra si el comprador que hoy pone cerca de dos tercios de las ventas semanales sigue comprando al mismo ritmo. Para Sudamérica, que empieza a sembrar con costos en dólares, el precio de referencia ya no premia el volumen."
 cifras:
   - label: "Existencia final EE.UU. 2026/27"

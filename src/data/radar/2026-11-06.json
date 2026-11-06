@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-06",
+  "items": [
+    {
+      "titular": "Costa de Marfil: la cosecha media 2026/27 podría casi partirse a la mitad y el precio del cacao baja igual",
+      "resumen": "Tres contadores de mazorcas y cinco exportadores esperan 300.000-350.000 t de cosecha media (contra ~600.000 t) y 1,5-1,6 M t de producción total, 25-30% bajo la campaña anterior. El cacao NY pasó de 5.456 a ~5.181 US$/t entre el 4 y el 5/11 con las existencias de ICE en máximo de 2,5 años. Hay análisis completo.",
+      "fuente": "Reuters (Ange Aboa) vía CNBC Africa, 4 de noviembre de 2026",
+      "url": "https://www.cnbcafrica.com/2026/ivory-coast-cocoa-mid-crop-forecast-cut-after-weak-rains-sources-say",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.8
+    },
+    {
+      "titular": "El Brent acumula una caída semanal de más de 13%, la mayor desde marzo de 2020, y opera cerca de 98 US$/bbl",
+      "resumen": "TradingEconomics atribuye la baja a la expectativa de una salida diplomática en Medio Oriente; Irán condiciona reabrir Ormuz al fin del bloqueo naval y de las sanciones, y los ataques a buques siguen cerca de máximos (UKMTO). Cierre del 5/11: 98,29 (cálculo Campiva sobre el cierre previo publicado).",
+      "fuente": "TradingEconomics, Brent crude oil, 6 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.2
+    },
+    {
+      "titular": "El aceite de palma malayo va a su peor semana en casi dos años, con inventarios récord y el reporte MPOB el 10 de noviembre",
+      "resumen": "Los futuros operan bajo 4.350 MYR/t, el menor nivel desde marzo, presionados por los aceites rivales y el crudo. Indonesia recortó 6% su precio de referencia de noviembre y bajó su tasa de exportación; los embarques de octubre subieron entre 45,4% y 73,5% frente a septiembre y las compras de India están en máximo de 14 meses.",
+      "fuente": "TradingEconomics, Palm oil, 6 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/palm-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "El trigo de Chicago baja de 6 US$/bu antes de las conversaciones Ucrania-Rusia del 10 y 11 de noviembre en Abu Dabi",
+      "resumen": "El contrato cayó a su menor nivel desde inicios de julio (cierre del 5/11: ~5,99 US$/bu, cálculo Campiva) con la expectativa de que un acuerdo restablezca embarques del Mar Negro. Lleva una baja sostenida desde el máximo de 3,5 años de 7,67 (28/08), con cosechas amplias en Australia y Argentina.",
+      "fuente": "TradingEconomics, Wheat, 6 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/wheat",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El azúcar cae a su menor nivel desde septiembre: la caña india llega antes y las lluvias frenan a Brasil",
+      "resumen": "El #11 opera cerca de 18,5 ¢/lb. La producción india de octubre habría subido 745% a 845.000 t por el adelanto de la zafra en Maharashtra, mientras la molienda del Centro-Sur brasileño cayó en la primera quincena de octubre por lluvias persistentes. El real débil y la baja del petróleo suman presión.",
+      "fuente": "TradingEconomics, Sugar, 6 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/sugar",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El café brasileño empieza a llegar a las bodegas de ICE: 83.678 sacos, máximo de 9 meses y cuarto",
+      "resumen": "Hay otros 55.396 sacos brasileños esperando clasificación, el nivel más alto en siete semanas, lo que sugiere más stock certificado. El arábica opera cerca de 2,80 US$/lb, su menor nivel desde el 24/09; Hedgepoint cita lluvias y temperaturas favorables para la cosecha 2027/28.",
+      "fuente": "TradingEconomics, Coffee, 6 de noviembre de 2026 (ICE)",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El etanol de EE.UU. sube cinco semanas seguidas a 1,143 M b/d mientras la exportación de maíz va 34% bajo el año anterior",
+      "resumen": "La producción de la semana al 30/10 es la mayor desde enero y sostiene la demanda interna de maíz, que opera bajo 4,40 US$/bu, cerca de su mínimo de tres meses. La cosecha estaba 74% completa al 1/11 (promedio de cinco años: 77%) y el mercado espera el WASDE de noviembre.",
+      "fuente": "TradingEconomics, Corn, 6 de noviembre de 2026 (EIA, USDA)",
+      "url": "https://tradingeconomics.com/commodity/corn",
+      "vertical": "cereales",
+      "pais": "US",
+      "impacto": "bajo",
+      "score": 6.6
+    }
+  ]
+}
