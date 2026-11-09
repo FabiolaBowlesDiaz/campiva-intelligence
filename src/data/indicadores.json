@@ -1,19 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-09",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "11,81",
+      "valor": "11,89",
       "unidad": "US$/bu",
-      "cambio": -1.0,
+      "cambio": 0.7,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (nov-26) via TradingEconomics (cierre previo)",
-      "asOf": "2026-11-05",
+      "fuente": "Chicago (nov-26) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        13.26,
         13.19,
         12.88,
         12.98,
@@ -42,21 +41,21 @@
         12.0475,
         12.03,
         11.9325,
-        11.81
+        11.81,
+        11.89
       ]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "2,77",
+      "valor": "2,80",
       "unidad": "US$/lb",
-      "cambio": -0.9,
+      "cambio": 1.0,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics",
-      "asOf": "2026-11-05",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        2.72,
         2.79,
         2.89,
         2.89,
@@ -85,21 +84,21 @@
         2.921,
         2.8395,
         2.7975,
-        2.7715
+        2.7715,
+        2.8
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "18,56",
+      "valor": "18,24",
       "unidad": "¢/lb",
-      "cambio": 0.5,
+      "cambio": -1.7,
       "cambioLabel": "diaria",
-      "fuente": "ICE (mar-27) via TradingEconomics",
-      "asOf": "2026-11-05",
+      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        17.59,
         17.5,
         17.46,
         17.82,
@@ -128,21 +127,21 @@
         19.06,
         18.33,
         18.47,
-        18.56
+        18.56,
+        18.24
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.181",
+      "valor": "5.155",
       "unidad": "US$/t",
-      "cambio": -5.0,
+      "cambio": -0.5,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics",
-      "asOf": "2026-11-05",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        5351,
         5402,
         5619,
         5589,
@@ -171,21 +170,21 @@
         5435.0,
         5414.0,
         5456.0,
-        5181.0
+        5181.0,
+        5155.0
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,40",
+      "valor": "4,42",
       "unidad": "US$/bu",
-      "cambio": -1.0,
+      "cambio": 0.3,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre previo)",
-      "asOf": "2026-11-05",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        5.37,
         5.28,
         5.23,
         5.22,
@@ -214,21 +213,21 @@
         4.4825,
         4.425,
         4.4425,
-        4.4
+        4.4,
+        4.415
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "5,99",
+      "valor": "5,91",
       "unidad": "US$/bu",
-      "cambio": 0.1,
+      "cambio": -1.3,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre previo)",
-      "asOf": "2026-11-05",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        7.17,
         7.03,
         6.89,
         6.92,
@@ -257,21 +256,21 @@
         6.065,
         5.9975,
         5.985,
-        5.9925
+        5.9925,
+        5.9125
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "98,29",
+      "valor": "98,32",
       "unidad": "US$/bbl",
-      "cambio": 3.9,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent via TradingEconomics (cierre del 05/11 despejado del precio y cambio publicados el 06/11)",
-      "asOf": "2026-11-05",
+      "fuente": "ICE Brent via TradingEconomics (cierre del 06/11 despejado del precio y cambio publicados el 09/11)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        99.25,
         104.32,
         105.28,
         102.59,
@@ -300,7 +299,8 @@
         104.77,
         103.6,
         94.62,
-        98.29
+        98.29,
+        98.32
       ]
     },
     {
@@ -424,15 +424,14 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.740",
+      "valor": "2.805",
       "unidad": "pts",
-      "cambio": 1.7,
+      "cambio": 2.4,
       "cambioLabel": "diaria",
-      "fuente": "Baltic Exchange via TradingEconomics (cierre 05/11: 2.740, +1,71%)",
-      "asOf": "2026-11-05",
+      "fuente": "Baltic Exchange via TradingEconomics (cierre 06/11: 2.805, +2,37%)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        3432,
         3426,
         3268,
         3178,
@@ -461,21 +460,21 @@
         2648,
         2590,
         2694,
-        2740
+        2740,
+        2805
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "101,55",
+      "valor": "102,30",
       "unidad": "pts",
-      "cambio": 0.0,
+      "cambio": 0.7,
       "cambioLabel": "diaria",
-      "fuente": "TradingEconomics (cierre del 05/11 despejado del cambio % del 06/11; aprox.)",
-      "asOf": "2026-11-05",
+      "fuente": "TradingEconomics (cierre del 06/11 despejado del cambio % del 09/11; aprox.)",
+      "asOf": "2026-11-06",
       "verificado": true,
       "serie": [
-        100.43,
         100.6,
         100.97,
         101.2,
@@ -504,7 +503,8 @@
         101.7455,
         101.87,
         101.57,
-        101.55
+        101.55,
+        102.3
       ]
     },
     {

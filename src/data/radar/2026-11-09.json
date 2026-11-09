@@ -1,0 +1,55 @@
+{
+  "fecha": "2026-11-09",
+  "items": [
+    {
+      "titular": "La soya de Chicago cierra la semana en su menor nivel en 11 semanas con compras chinas más lentas y real débil a favor de Brasil",
+      "resumen": "Global Agriculture (06/11) atribuye la baja al freno del ritmo de compras chinas pese a una venta de 136.000 t a China para 2026/27, a la cosecha estadounidense en 88% y a un real depreciado que mejora la competitividad brasileña. El contrato noviembre cayó de 12,22 (30/10) a 11,81 US$/bu (05/11, −3,4%, cálculo Campiva) y cerró el 06/11 en 11,89.",
+      "fuente": "Global Agriculture, 6 de noviembre de 2026; TradingEconomics (cierres)",
+      "url": "https://www.global-agriculture.com/global-agriculture/soybean-futures-fall-to-11-week-low-as-chinese-buying-slows/",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "Argentina arranca la siembra de soya con ventaja sobre el año pasado, mientras el girasol ya cubre casi tres cuartas partes del área",
+      "resumen": "La Bolsa de Cereales de Buenos Aires reporta soya en 4,7% de 17 M ha (+2,4 pp semanal; 2,9 pp sobre el año anterior) y girasol en 72,4% de 3,1 M ha (+13,7 pp semanal). Advierte que, si siguen las lluvias, podría haber pérdida de superficie por anegamiento en el centro de Buenos Aires.",
+      "fuente": "Bolsa de Cereales de Buenos Aires vía Valor Soja/Bichos de Campo, 5 de noviembre de 2026",
+      "url": "https://bichosdecampo.com/?p=302777",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "La agroexportación peruana lleva diez meses casi plana: el cacao pierde la mitad del valor y la uva lo compensa",
+      "resumen": "Estimación de la consultora Inform@cción (Agraria.pe, 05/11): ene-oct 2026 US$ 11.062,8 M, −1,05% vs. US$ 11.180,0 M. Cacao y derivados US$ 679,1 M (vs. 1.414,5 M); uvas US$ 1.274,5 M (vs. 873,4 M); café US$ 1.224,2 M (vs. 1.321,2 M). Es una estimación privada, no cifra oficial de SUNAT.",
+      "fuente": "Agraria.pe (Inform@cción), 5 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/agroexportaciones-caen-1-05-en-valor-a-octubre-de-2026-43415",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.3
+    },
+    {
+      "titular": "El empleo de EE.UU. sorprende al alza y el mercado ve 81% de probabilidad de una suba de tasas en diciembre; el dólar devuelve parte del avance",
+      "resumen": "TradingEconomics reporta 165.000 empleos no agrícolas contra 65.000 esperados y desempleo de 4,1%. El índice dólar cerró el 06/11 cerca de 102,30 (cálculo Campiva) y el 09/11 operaba bajo 102; el IPC de EE.UU. sale el martes.",
+      "fuente": "TradingEconomics, United States Dollar, 9 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/united-states/currency",
+      "vertical": "macro",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Brent acumula una semana de −7,4% y el trigo de Chicago, de −2,8%, antes de las conversaciones Ucrania-Rusia en Abu Dabi",
+      "resumen": "TradingEconomics muestra el Brent cerca de 97 US$/bbl el 09/11 (cierre del 06/11: 98,32, cálculo Campiva) y el trigo de Chicago cerca de 5,90 US$/bu (cierre del 06/11: 5,91). La caída del trigo en el mes es de 12,3%; las conversaciones están previstas para el 10 y 11 de noviembre.",
+      "fuente": "TradingEconomics, Commodities, 9 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodities",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    }
+  ]
+}
