@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-11-10",
+  "items": [
+    {
+      "titular": "El cacao de Nueva York toca su mínimo de cuatro meses y medio con los inventarios de ICE en récord de dos años y medio y las llegadas marfileñas a la mitad",
+      "resumen": "Barchart (10/11): el contrato diciembre cae 2,95% (−152 US$/t) y las existencias de ICE llegaron a 3.751.670 sacos el viernes 06/11. Costa de Marfil recibió 55.317 t en la semana al 08/11 (107.139 t un año atrás) y 228.475 t en la campaña hasta esa fecha (−45%). StoneX (29/10) ve un déficit de 64.000 t en 2026/27.",
+      "fuente": "Barchart (Rich Asplund), 10 de noviembre de 2026, vía Metro; Bloomberg y datos del Gobierno marfileño citados",
+      "url": "https://kolaking.substack.com/p/cocoa-prices-sink-as-supply-concerns",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Bolivia pasa los 10.000 millones de dólares exportados entre enero y septiembre, con el valor creciendo seis veces más rápido que el volumen",
+      "resumen": "El gerente del IBCE, Gary Rodríguez, informó (Prensa Latina, 09/11) que las ventas de bienes de enero a septiembre de 2026 superaron los US$ 10.000 millones, con +54% en valor y +9% en volumen. El récord anual es de unos US$ 14.000 millones, en 2022. Es una cifra citada por el IBCE, sin desglose por producto en la nota.",
+      "fuente": "Prensa Latina (declaraciones del IBCE), 9 de noviembre de 2026",
+      "url": "https://www.prensa-latina.cu/2026/11/09/bolivia-aumenta-exportaciones-de-bienes-y-se-acerca-a-record/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Brent cae 5,8% en una rueda hasta 92,57 dólares y acumula −15% en un mes, en vísperas de la ronda de paz de Abu Dabi",
+      "resumen": "El cierre del 09/11 despejado de TradingEconomics (92,57 US$/bbl) compara con 98,32 del 06/11 (cálculo Campiva); el 10/11 operaba cerca de 90,5. El Kremlin confirmó negociaciones tripartidas Rusia-Ucrania-EE.UU. en Abu Dabi el 10 y 11 de noviembre. La nota no atribuye la baja de una rueda a una causa única.",
+      "fuente": "TradingEconomics, Brent, 10 de noviembre de 2026; Nation Thailand, 4 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El arábica de Nueva York cotiza 35% por debajo de hace un año, en 2,74 dólares la libra",
+      "resumen": "TradingEconomics (10/11): el café marca 273,80 ¢/lb, −5,8% en un mes y −35,2% interanual. El cierre del 09/11, despejado del cambio publicado, fue 273,60 ¢/lb (−2,3% frente al 06/11, cálculo Campiva).",
+      "fuente": "TradingEconomics, Coffee, 10 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.6
+    }
+  ]
+}
