@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-11",
+  "items": [
+    {
+      "titular": "El USDA le quita 3,6 millones de toneladas al maíz de EE.UU. y se las suma a Sudamérica: Argentina y Brasil ganan 2 millones cada uno",
+      "resumen": "WASDE del 10/11: la cosecha de EE.UU. baja de 16.034 a 15.893 M bu (rinde 179,6 bu/acre, −1,6) y el stock final de 1.849 a 1.758 M bu. Argentina sube a 57 M t y su exportación a 40 M t; Brasil a 141 M t. El stock mundial termina igual más alto: 281,9 M t (+1,5).",
+      "fuente": "USDA, WASDE n.º 677, 10 de noviembre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "La soya de Chicago sube 3,4% en una rueda porque el USDA bajó el stock final de EE.UU. a 300 millones de bushels",
+      "resumen": "WASDE del 10/11: producción 4.574 M bu (+12), exportación 1.720 M bu (+25) y stock final 300 M bu (−15). TradingEconomics informa +3,4% en la rueda del 10/11; el cierre despejado fue 12,245 US$/bu (cálculo Campiva). El USDA mantuvo sin cambio la soya sudamericana.",
+      "fuente": "USDA, WASDE n.º 677, 10 de noviembre de 2026; TradingEconomics, 11 de noviembre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "vertical": "soya",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "India produjo cuatro veces más azúcar que hace un año en el primer mes de zafra y el #11 baja a su mínimo desde mediados de septiembre",
+      "resumen": "La ISMA informó 12,85 lakh t (1,285 M t) al 05/11/2026 contra 3,20 lakh t en la misma fecha de 2025, con 184 ingenios moliendo (154 un año atrás). El azúcar #11 cerró el 10/11 en 18,09 ¢/lb, despejado de TradingEconomics (cálculo Campiva).",
+      "fuente": "ISMA vía PTI (The Week), 6 de noviembre de 2026; TradingEconomics, 11 de noviembre de 2026",
+      "url": "https://www.theweek.in/wire-updates/business/2026/11/06/sugar-output-jumps-to-nearly-13-lakh-tonnes-so-far-in-2026-27-market-year-isma.html",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "Los destilados de EE.UU. caen 3,6 millones de barriles en una semana y quedan 11% abajo del año pasado, mientras el diésel minorista baja",
+      "resumen": "EIA: inventario de destilados en 99,259 M bbl al 30/10 (−3,5% semanal; −11,0% interanual). El diésel minorista bajó de 6,292 a 6,127 US$/gal entre el 02/11 y el 09/11 (−2,6%). El reporte de la semana siguiente se publica el 12/11 por el feriado del 11/11.",
+      "fuente": "U.S. Energy Information Administration (WPSR tabla 1 y precios minoristas semanales), 10 de noviembre de 2026",
+      "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W",
+      "vertical": "energia",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El Brent cierra en su menor nivel en diez semanas, 91,49 dólares, y rebota el miércoles hacia 93",
+      "resumen": "Cierre del 10/11 despejado de TradingEconomics: 91,49 US$/bbl, −1,2% frente a 92,57 del 09/11 (cálculo Campiva). El 11/11 opera en 93,41 (+2,1%). La fuente menciona como sostén el riesgo de navegación en el estrecho de Ormuz.",
+      "fuente": "TradingEconomics, Brent, 11 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El USDA sube el trigo argentino a 23 millones de toneladas y el stock mundial gana 4,8 millones",
+      "resumen": "WASDE del 10/11: Argentina y Australia +1,5 M t cada una (23,0 y 32,5 M t); exportación de Rusia y Ucrania −1,0 M t cada una (39,0 y 11,5 M t). Stock final mundial 2026/27 en 280,8 M t. El trigo de Chicago cerró el 10/11 en 5,93 US$/bu (despeje TE).",
+      "fuente": "USDA, WASDE n.º 677, 10 de noviembre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El Niño sigue subiendo en la costa sudamericana: Niño 1+2 en +4,7 °C",
+      "resumen": "Actualización semanal de la NOAA/CPC del 09/11: Niño 3.4 +2,3 °C, Niño 3 +3,5 °C y Niño 1+2 +4,7 °C (la semana anterior: +2,5, +3,7 y +4,6). La discusión mensual de octubre mantiene más de 83% de probabilidad de un evento fuerte a muy fuerte hasta enero-marzo de 2027; la próxima sale el 12/11.",
+      "fuente": "NOAA/CPC, ENSO: Recent Evolution, Current Status and Predictions, 9 de noviembre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El Baltic Dry sube cinco ruedas seguidas y el índice panamax, el de los graneleros de granos, toca su máximo desde el 26 de octubre",
+      "resumen": "El índice Baltic Dry cerró el 10/11 en 2.862 puntos (+0,3%), máximo desde el 09/10. El panamax subió 1,9% a 2.075 puntos y el capesize quedó en 4.457. El supramax bajó 0,2% a 1.806.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 11 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.5
+    }
+  ]
+}

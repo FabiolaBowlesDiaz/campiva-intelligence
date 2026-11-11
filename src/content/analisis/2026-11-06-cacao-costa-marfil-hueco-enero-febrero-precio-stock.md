@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: cacao
 pais: GLOBAL
 score: 7.8
-destacado: true
+destacado: false
 lectura: "Cuando una mala noticia de oferta baja el precio, la pregunta útil es cuándo se siente. Los exportadores de Abiyán esperan 700.000 toneladas de llegadas a puerto entre noviembre y diciembre y solo 150.000-200.000 en enero y febrero. Mientras llegue grano y los inventarios de ICE estén en máximos de dos años y medio, el precio mira el presente. El recorte es un evento de calendario: pesa cuando las llegadas semanales caigan, no antes. Para quien compra o vende cacao, la decisión no es si la cosecha es chica, sino en qué mes se nota."
 cifras:
   - label: "Cosecha media marfileña 2026/27"

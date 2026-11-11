@@ -1,19 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "11,82",
+      "valor": "12,25",
       "unidad": "US$/bu",
-      "cambio": -0.6,
+      "cambio": 3.4,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (nov-26) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "Chicago (contrato de referencia de TE, en rotación nov-26 → ene-27) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11); +3,4% según la fuente, tras el WASDE del 10/11",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        12.88,
         12.98,
         12.93,
         12.84,
@@ -42,21 +41,21 @@
         11.9325,
         11.81,
         11.89,
-        11.8225
+        11.8225,
+        12.245
       ]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "2,74",
+      "valor": "2,71",
       "unidad": "US$/lb",
-      "cambio": -2.3,
+      "cambio": -0.8,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        2.89,
         2.89,
         2.91,
         2.88,
@@ -85,21 +84,21 @@
         2.7975,
         2.7715,
         2.8,
-        2.736
+        2.736,
+        2.714
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "18,21",
+      "valor": "18,09",
       "unidad": "¢/lb",
-      "cambio": -0.2,
+      "cambio": -0.7,
       "cambioLabel": "diaria",
-      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        17.46,
         17.82,
         18.61,
         18.94,
@@ -128,21 +127,21 @@
         18.47,
         18.56,
         18.24,
-        18.21
+        18.21,
+        18.09
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.004",
+      "valor": "4.871",
       "unidad": "US$/t",
-      "cambio": -2.9,
+      "cambio": -2.7,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        5619,
         5589,
         5408,
         5367,
@@ -171,21 +170,21 @@
         5456.0,
         5181.0,
         5155.0,
-        5004.0
+        5004.0,
+        4871.0
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,39",
+      "valor": "4,49",
       "unidad": "US$/bu",
-      "cambio": -0.5,
+      "cambio": 2.2,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        5.23,
         5.22,
         5.01,
         5.02,
@@ -214,21 +213,21 @@
         4.4425,
         4.4,
         4.415,
-        4.3925
+        4.3925,
+        4.49
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "5,88",
+      "valor": "5,93",
       "unidad": "US$/bu",
-      "cambio": -0.5,
+      "cambio": 0.8,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        6.89,
         6.92,
         6.76,
         6.83,
@@ -257,21 +256,21 @@
         5.985,
         5.9925,
         5.9125,
-        5.88
+        5.88,
+        5.9275
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "92,57",
+      "valor": "91,49",
       "unidad": "US$/bbl",
-      "cambio": -5.8,
+      "cambio": -1.2,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent via TradingEconomics (cierre del 09/11 despejado del precio y cambio publicados el 10/11)",
-      "asOf": "2026-11-09",
+      "fuente": "ICE Brent via TradingEconomics (cierre del 10/11 despejado del precio y cambio publicados el 11/11); mínimo de 10 semanas",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        105.28,
         102.59,
         98.03,
         102.31,
@@ -300,7 +299,8 @@
         94.62,
         98.29,
         98.32,
-        92.57
+        92.57,
+        91.49
       ]
     },
     {
@@ -424,15 +424,14 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.854",
+      "valor": "2.862",
       "unidad": "pts",
-      "cambio": 1.7,
+      "cambio": 0.3,
       "cambioLabel": "diaria",
-      "fuente": "Baltic Exchange via TradingEconomics (cierre 09/11: 2.854, +1,75%)",
-      "asOf": "2026-11-09",
+      "fuente": "Baltic Exchange via TradingEconomics (cierre 10/11: 2.862, +0,3%)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        3268,
         3178,
         3113,
         3140,
@@ -461,21 +460,21 @@
         2694,
         2740,
         2805,
-        2854
+        2854,
+        2862
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "101,64",
+      "valor": "102,23",
       "unidad": "pts",
-      "cambio": -0.6,
+      "cambio": 0.6,
       "cambioLabel": "diaria",
-      "fuente": "TradingEconomics (cierre del 09/11 despejado del cambio % del 10/11; aprox.)",
-      "asOf": "2026-11-09",
+      "fuente": "TradingEconomics (cierre del 10/11 despejado del cambio del 11/11; aprox.)",
+      "asOf": "2026-11-10",
       "verificado": true,
       "serie": [
-        100.97,
         101.2,
         101.37,
         101.45,
@@ -504,7 +503,8 @@
         101.57,
         101.55,
         102.3,
-        101.64
+        101.64,
+        102.23
       ]
     },
     {
@@ -514,8 +514,8 @@
       "unidad": "",
       "cambio": 0,
       "cambioLabel": "estado",
-      "fuente": "NOAA/CPC (actualización semanal 02/11 · Niño 3.4 +2,5 °C, Niño 3 +3,7 °C, Niño 1+2 +4,6 °C; discusión 08/10: >83% Niño fuerte a muy fuerte hasta ene-mar 2027 y 83% de evento histórico en oct-dic; próxima discusión 12/11)",
-      "asOf": "2026-11-02",
+      "fuente": "NOAA/CPC (actualización semanal 09/11 · Niño 3.4 +2,3 °C, Niño 3 +3,5 °C, Niño 1+2 +4,7 °C; discusión 08/10: >83% Niño fuerte a muy fuerte hasta ene-mar 2027; próxima discusión 12/11)",
+      "asOf": "2026-11-09",
       "verificado": true,
       "serie": []
     }
