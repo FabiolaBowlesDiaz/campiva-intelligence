@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-12",
+  "items": [
+    {
+      "titular": "La harina de pescado deja de subir en Hamburgo, pero se queda en 3.298 US$/t: 80% más que hace un año y sin segunda temporada de anchoveta a la vista",
+      "resumen": "El BCRP registra la harina de pescado en Hamburgo en 3.298 US$/t de promedio en octubre de 2026, contra 3.300 en septiembre y 1.832 en octubre de 2025 (+80,0%, cálculo Campiva). Produce descartó el 16/10 la segunda temporada norte-centro y el ENFEN (30/10) ve El Niño costero extraordinario hasta febrero de 2027.",
+      "fuente": "BCRP, serie PN01649XM, consultada el 12 de noviembre de 2026; Produce vía Forbes Perú, 16 de octubre de 2026",
+      "url": "https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PN01649XM/html",
+      "vertical": "nutricion-animal",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Brasil exporta en octubre su mayor volumen de pollo del año y cobra 12% más por tonelada, aun con el foco de Newcastle del 21 de octubre",
+      "resumen": "Según la ABPA, Brasil embarcó 512,8 mil t de carne de pollo en octubre de 2026 (+2,3%) por US$ 994,1 M (+14,9%): unos 1.939 US$/t contra 1.726 un año antes (+12,3%, cálculo Campiva). Enero-octubre: 4,9 M t (+12,7%). Emiratos lideró el mes (53,2 mil t); China, Arabia Saudita y Chile restringen solo a Santa Catarina.",
+      "fuente": "ABPA vía Canal Rural, noviembre de 2026; Ministerio de Agricultura de Brasil vía Itatiaia, 21 de octubre de 2026",
+      "url": "https://www.canalrural.com.br/aves-e-suinos/exportacoes-de-frango-registram-em-outubro-o-maior-volume-mensal-de-2026/",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.4
+    },
+    {
+      "titular": "El cerdo brasileño embarca más y cobra menos: en octubre el volumen sube 2,4% y el ingreso cae 8,2%",
+      "resumen": "La ABPA informa 147,5 mil t de carne de cerdo exportadas en octubre de 2026 (144,1 mil un año antes) por US$ 315,7 M (343,7 M en 2025). El precio implícito baja de unos 2.385 a 2.140 US$/t (−10,3%, cálculo Campiva). Filipinas lideró (34,7 mil t, −25,1%); Chile compró 12,4 mil t (+57,1%).",
+      "fuente": "ABPA vía Boca Notícias, 9 de noviembre de 2026",
+      "url": "https://boca.com.br/agronegocio/exportacoes-brasileiras-carne-suina-crescem-outubro",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El USDA recorta la exportación de cerdo de EE.UU. y baja su precio, mientras sube la importación de carne vacuna",
+      "resumen": "WASDE del 10/11: la exportación de cerdo de EE.UU. 2026 baja de 7.050 a 6.979 M lb por debilidad en mercados del hemisferio occidental y más competencia, y el precio del cerdo se recorta hasta el primer semestre de 2027. La importación de carne vacuna sube de 6.347 a 6.436 M lb.",
+      "fuente": "USDA, WASDE n.º 677, 10 de noviembre de 2026",
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "El pollo vivo en Santa Cruz vale 29% más que a comienzos de octubre, con el maíz casi quieto",
+      "resumen": "La ADA registró el pollo vivo al productor en 11,25 Bs/kg el 11 de noviembre de 2026 (11,38 el 10/11), contra 8,75 el 1 de octubre. Al consumidor, el pollo a mano con menudo promedió 15,88 Bs/kg (16,00 el día anterior). El maíz quedó en 105-110 Bs/qq y el sorgo en 75-77.",
+      "fuente": "ADA Santa Cruz, Boletín Referencial de Precios Avícolas, 11 de noviembre de 2026",
+      "url": "https://www.adascz.com.bo/images/boletin-precios/Boletin-Precios-Avicolas-11nov2026.pdf",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "La soja de Matba sube a 352 US$/t y la harina de soya de Chicago cierra casi en el mismo número, 9% por debajo de septiembre",
+      "resumen": "El Informe Diario de la SAGyP del 06/11 cierra la soja Matba noviembre en 352,00 US$/t (+2,70) y el maíz en 180,00 (−1,00). La harina de soya de Chicago diciembre cerró en 351,85 US$/t (+2,20), contra 385,47 el 14 de septiembre.",
+      "fuente": "Matba-Rofex y CBOT vía Informe Diario del Mercado de Granos, SAGyP, 6 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "nutricion-animal",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El Baltic Dry sube 3,4% en una rueda y llega a 2.959 puntos",
+      "resumen": "El índice de fletes de graneles secos cerró el 11 de noviembre de 2026 en 2.959 puntos, contra 2.862 el día anterior. TradingEconomics lo ubica 3,75% arriba en el mes y 45,76% arriba en el año.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 12 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.4
+    },
+    {
+      "titular": "El cacao rebota 3,6% y el azúcar 2,2% en la rueda del 11 de noviembre, después de varios días de baja",
+      "resumen": "Cierres del 11/11 despejados de TradingEconomics (cálculo Campiva): cacao de Nueva York 5.046 US$/t (4.871 el 10/11) y azúcar #11 18,48 ¢/lb (18,09). El arábica bajó 2,5% a 2,65 US$/lb y el Brent subió 1,4% a 92,76 US$/bbl.",
+      "fuente": "ICE vía TradingEconomics, 12 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodities",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.3
+    }
+  ]
+}

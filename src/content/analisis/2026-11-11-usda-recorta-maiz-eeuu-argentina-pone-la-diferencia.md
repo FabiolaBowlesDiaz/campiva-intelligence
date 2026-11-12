@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: cereales
 pais: LATAM
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Un recorte en EE.UU. sube el precio de referencia, pero no siempre encarece el grano que compra la región. En noviembre el USDA movió la oferta de maíz de un hemisferio al otro: EE.UU. pierde 3,57 millones de toneladas y Argentina y Brasil ganan 4,0 millones. El stock mundial sube 1,5 millones. Para el comprador peruano de maíz amarillo, la variable no es Chicago sola: es la prima de Argentina sobre Chicago. Si esa prima se achica, la suba de Chicago llega diluida a la ración."
 cifras:
   - label: "Cosecha de maíz de EE.UU. 2026/27"
