@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: nutricion-animal
 pais: PE
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa, la noticia no es que la harina de pescado dejó de subir; es que el faltante todavía no llegó. El precio de Hamburgo ya descuenta una temporada perdida, pero el bache físico se abre recién entre diciembre y febrero, cuando el Perú suele embarcar lo que pescó en la segunda temporada. Mientras tanto la harina de soya bajó 9% desde septiembre: una tonelada de harina de pescado cuesta hoy lo que 9,4 de soya. La sustitución tiene límites técnicos, pero la cuenta empuja hacia la proteína vegetal en cada dieta donde se pueda."
 cifras:
   - label: "Harina de pescado en Hamburgo, octubre"

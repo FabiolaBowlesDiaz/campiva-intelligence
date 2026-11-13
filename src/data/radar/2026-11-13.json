@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-13",
+  "items": [
+    {
+      "titular": "La quinua se parte en dos: el Perú crece por los valles y el Altiplano vende menos justo cuando El Niño seca la siembra",
+      "resumen": "El Perú exportó 42.869 t de quinua al 18/09 (+27,7%), con Ayacucho en 28.802 t (+33,8%) y Puno en 3.898 t (−29,5%); Bolivia embarcó 11.456 t en enero-julio (−35%, IBCE/INE). El Senamhi de Puno ve lluvias 30% a 60% bajo lo normal en noviembre, en plena siembra.",
+      "fuente": "Inform@cción vía Agraria.pe, 16 de octubre de 2026; IBCE Cifras N.° 1.448; Senamhi Puno vía El Búho, 8 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/ayacucho-lidera-las-exportaciones-de-quinua-de-peru-al-18-de-43287",
+      "vertical": "granos-andinos",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "La NOAA sube el Niño 3.4 a +2,5 °C y da 60% de chances a un evento récord desde 1950",
+      "resumen": "Discusión mensual del 12/11: Niño 3.4 en +2,5 °C, Niño 3 en +3,6 °C y Niño 1+2 en +4,4 °C. La probabilidad de El Niño fuerte a muy fuerte hasta enero-marzo de 2027 sigue sobre 79%, y la de superar todos los eventos desde 1950 es de ~60% en octubre-diciembre y noviembre-enero.",
+      "fuente": "NOAA / Climate Prediction Center, ENSO Diagnostic Discussion, 12 de noviembre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "La agroexportación peruana crece 1,2% a septiembre: la fruta compensa el derrumbe del cacao",
+      "resumen": "Según el Mincetur, el Perú exportó US$ 9.933 M en productos agro en enero-septiembre de 2026 (+1,2%). Frutas sumaron US$ 5.317 M (+13,8%; arándano 1.573 M, +24,1%); el cacao y derivados cayeron a 701 M (−46,5%) y el café a 973 M (−2,9%). Quinua en grano: 131 M (+21,1%); etanol: 125 M (+78,1%).",
+      "fuente": "Mincetur vía Agraria.pe, 12 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/agroexportaciones-sumaron-us-9-933-millones-a-septiembre-de--43458",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "El trigo de Chicago sube 1,3% por el ataque a un puerto ruso del Báltico y al día siguiente devuelve 2,5%",
+      "resumen": "El 11/11 el trigo de Chicago subió 1,3% tras un ataque con drones al puerto de Ust-Luga, una de las terminales más usadas por Rusia desde que se frenaron los envíos por el mar Negro en agosto (SAGyP). El 12/11 cerró en 5,84 US$/bu, 2,5% abajo (TradingEconomics, cálculo Campiva).",
+      "fuente": "Informe Diario del Mercado de Granos, SAGyP, 11 de noviembre de 2026; TradingEconomics, 13 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El cacao peruano exporta 47,7% menos en valor hasta octubre y saldrá del club de los mil millones",
+      "resumen": "Inform@cción registra US$ 741,1 M en exportaciones peruanas de cacao y derivados en enero-octubre de 2026, contra 1.416,8 M un año antes (−47,7%). Octubre: 76,2 M contra 139,6 M. Proyecta cerrar 2026 entre 825 y 881 M, lejos del récord de 1.578 M de 2025.",
+      "fuente": "Inform@cción (Fernando Cillóniz) vía Agraria.pe, 11 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-peruanas-de-cacao-y-derivados-caen-47-69-en-va-43450",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "Rabobank ve la producción mundial de carne vacuna en baja por segundo año, con Brasil a la cabeza de la caída",
+      "resumen": "Rabobank estima que la producción mundial de carne de res caerá 0,1% en 2027 tras −1,5% en 2026. Brasil bajaría 3%; Australia (+3,5%) y Nueva Zelanda (+8,8%) no alcanzan a compensar. Con precios récord, el banco ve límites para trasladar más costos al consumidor.",
+      "fuente": "Rabobank vía Agraria.pe, 12 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/rabobank-preve-una-segunda-caida-consecutiva-de-la-produccio-43459",
+      "vertical": "proteina-animal",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "La soja de Matba sube a 356 US$/t y el aceite de soja de Chicago gana 1,8% en una rueda",
+      "resumen": "Al cierre del 11/11, la soja Matba-Rofex noviembre pasó de 352,00 a 356,00 US$/t (+1,1%) y el maíz de 180,00 a 181,50. En Chicago, el aceite de soja diciembre subió a 1.408,30 US$/t (+1,8%) y la harina a 363,43 US$/t (+1,0%), sostenidos por el último informe del USDA.",
+      "fuente": "Matba-Rofex y CBOT vía Informe Diario del Mercado de Granos, SAGyP, 11 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El flete de contenedores baja 2% y la ruta Shanghái-Nueva York toca su mínimo desde agosto",
+      "resumen": "El Drewry WCI cayó 2% a 4.305 US$/FEU el 12/11. Shanghái-Nueva York bajó 3% a 9.020 US$ (mínimo desde agosto de 2026) y Shanghái-Los Ángeles 2% a 7.416 US$ (mínimo desde septiembre). Las navieras anuncian ocho viajes cancelados para la semana próxima, contra cuatro esta semana.",
+      "fuente": "Drewry World Container Index, 12 de noviembre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.3
+    },
+    {
+      "titular": "El Perú fija los requisitos fitosanitarios para importar trigo en grano de Brasil",
+      "resumen": "La Resolución Directoral N.° D000043-2026-MIDAGRI-SENASA-DSV exige permiso fitosanitario del Senasa, certificado del país de origen libre de seis plagas de almacén y tratamiento previo al embarque con bromuro de metilo o fosfina. Abre una vía formal de origen para el trigo que importa el Perú.",
+      "fuente": "Senasa Perú vía Agraria.pe, 12 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/establecen-requisitos-fitosanitarios-para-la-importacion-de--43463",
+      "vertical": "cereales",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 6.1
+    }
+  ]
+}
