@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-16",
+  "items": [
+    {
+      "titular": "El petróleo desplaza a la harina de soja como primer producto de exportación de Argentina, y la causa también está en el aceite",
+      "resumen": "En enero-septiembre de 2026 Argentina exportó US$ 7.753 M de crudo (+58,6%) y US$ 6.971 M de harina de soja (+7,4%), según la BCR con datos del INDEC. La harina vale tres cuartas partes de lo que valía en 2021: los mandatos de biocombustibles dejaron al mundo con harina de sobra.",
+      "fuente": "Bolsa de Comercio de Rosario, Informativo Semanal, 13 de noviembre de 2026",
+      "url": "https://www.bcr.com.ar/es/mercados/investigacion-y-desarrollo/informativo-semanal/noticias-informativo-semanal/el-petroleo-ya",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "Argentina pasa los 100 millones de toneladas exportadas en diez meses, pero tiene vendida la menor parte de su cosecha en la serie",
+      "resumen": "Entre enero y octubre de 2026 embarcó más de 101 Mt de granos y subproductos (+13%): maíz 37,1 Mt, trigo 14,5 Mt y complejo girasol 6,7 Mt. Como la cosecha 2025/26 creció 24%, solo 68,8% está comprometida, el valor más bajo de la serie para la fecha.",
+      "fuente": "Bolsa de Comercio de Rosario, Informativo Semanal, 13 de noviembre de 2026",
+      "url": "https://www.bcr.com.ar/es/mercados/investigacion-y-desarrollo/informativo-semanal/noticias-informativo-semanal/rompiendo-la",
+      "vertical": "cereales",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.2
+    },
+    {
+      "titular": "El Paraná en Rosario llega a su nivel más alto para noviembre desde 1998 y queda a 53 cm de la cota de alerta",
+      "resumen": "El hidrómetro de Rosario marcó 4,47 m el 11/11, casi 1,9 m sobre el promedio de cinco años para la misma semana; el caudal que entra a Yacyretá (28.000 m³/s) supera su umbral de alerta. La BCR advierte que el río alto no da más calado: el límite sigue en los canales del Río de la Plata.",
+      "fuente": "Bolsa de Comercio de Rosario con datos del INA, 13 de noviembre de 2026",
+      "url": "https://www.bcr.com.ar/es/mercados/investigacion-y-desarrollo/informativo-semanal/noticias-informativo-semanal/el-parana-en",
+      "vertical": "logistica",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "La Conab deja la soya de Brasil en 181,6 millones de toneladas y recorta el trigo un tercio por el clima en el sur",
+      "resumen": "El 2.º levantamiento 2026/27 (13/11) estima 366,1 Mt de granos; la soya sigue en 181,6 Mt con 49,3 M ha, y la siembra llegaba a 66,8% (95,6% en Mato Grosso) con cautela por El Niño. El trigo cae 33,2% a 5,3 Mt y la exportación de maíz 2025/26 baja a 40,9 Mt (−6,8%).",
+      "fuente": "Conab, 2.º Levantamento de Grãos 2026/27, vía Agência Gov, 13 de noviembre de 2026",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/nova-estimativa-da-conab-para-safra-de-graos-2026-27-e-de-366-1-milhoes-de-toneladas",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "La soja de Matba sube a 358,40 US$/t y Chicago toca su máximo en dos semanas tras el recorte de stocks del USDA",
+      "resumen": "La posición noviembre de Matba-Rofex pasó de 355,00 a 358,40 US$/t el 13/11 y el maíz de 181,10 a 184,00. En Chicago la soja subió 1,3% en la rueda; la SAGyP también registra al dólar en máximos de 19 meses durante la semana.",
+      "fuente": "Secretaría de Agricultura, Ganadería y Pesca de Argentina — Informe Diario del Mercado de Granos, 13 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 6.6
+    },
+    {
+      "titular": "El mango de Piura llega a la campaña con poca floración y lluvias que traen antracnosis",
+      "resumen": "Promango estima que solo 35% a 40% de las áreas de mango de Piura florecieron a tiempo por el calor, y que las lluvias de noviembre favorecen la antracnosis. La fruta que no califique para exportar irá a congelado o a la industria; el volumen 2026/27 sigue sin proyección.",
+      "fuente": "Promango (Ángel Gamarra), vía Agraria.pe, 12 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/promango-las-lluvias-son-el-principal-problema-de-los-produc-43457",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "El Perú exporta 146 millones de kilos de banano fresco hasta octubre, con Países Bajos como primer destino",
+      "resumen": "Entre enero y octubre de 2026 el Perú embarcó 146,0 millones de kg de banano fresco por US$ 127,8 M FOB, según Agrodata. Países Bajos compró US$ 35,2 M, seguido de EE.UU. (US$ 19,4 M) e Italia (US$ 18,2 M).",
+      "fuente": "Agrodata, vía Agraria.pe, 13 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/peru-exporto-mas-de-146-millones-de-kilos-de-banano-fresco-h-43467",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "Una granizada destruye cultivos de papa, maíz y hortalizas de 230 familias en Culpina, Chuquisaca",
+      "resumen": "La granizada y la riada del sábado 14/11 afectaron a las comunidades Quisana y La Cueva, con 230 familias damnificadas según el primer conteo. Las pérdidas golpean cultivos que abastecen mercados locales, en un año con emergencia nacional declarada por El Niño.",
+      "fuente": "Unitel, vía eju.tv, 15 de noviembre de 2026",
+      "url": "https://eju.tv/2026/11/intensa-granizada-provoca-perdidas-en-comunidades-de-chuquisaca/",
+      "vertical": "clima",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.7
+    }
+  ]
+}

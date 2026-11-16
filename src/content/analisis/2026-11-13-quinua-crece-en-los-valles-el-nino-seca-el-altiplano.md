@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: granos-andinos
 pais: LATAM
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Para esta casa, la oferta de quinua ya se partió en dos geografías. Los valles interandinos del Perú crecen; el Altiplano de Puno y de Bolivia retrocede. El Niño no golpea parejo: pega donde la oferta ya venía débil. Por eso el riesgo para 2027 no es de volumen total, que los valles pueden sostener, sino de origen: la quinua real del Altiplano sur y el grano de Puno son los que pueden faltar."
 cifras:
   - label: "Perú, quinua exportada al 18 de septiembre"
