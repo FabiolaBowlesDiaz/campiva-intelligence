@@ -6,7 +6,7 @@ tipo: tendencia-estructural
 vertical: soya
 pais: LATAM
 score: 7.9
-destacado: true
+destacado: false
 lectura: "Para esta casa, la molienda de soja cambió de motor. Hasta hace pocos años la harina pagaba la mayor parte del negocio; con los precios que proyecta el USDA para 2026/27, el aceite ya aporta la mitad del valor de cada tonelada molida. EE.UU. se queda con su aceite para el biodiésel y sale a vender harina. El resultado es un mercado de harina con oferta de sobra y un mercado de aceite firme. Quien exporta torta compite con más vendedores; quien la compra para alimento balanceado tiene a favor el tiempo."
 cifras:
   - label: "Argentina, exportación enero-septiembre de 2026"

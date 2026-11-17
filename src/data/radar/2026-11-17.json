@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-17",
+  "items": [
+    {
+      "titular": "Brasil exporta el mayor volumen de café de su historia en un mes, y cobra menos por cada saca",
+      "resumen": "En octubre de 2026 Brasil embarcó 5.326.944 sacas de 60 kg (+28,4%) por US$ 1.786 M (+7,8%), récord mensual de la serie del Cecafé desde 1990. El precio medio de enero-octubre es US$ 345,64 por saca, 9,5% menos que en 2025.",
+      "fuente": "Cecafé, informe estadístico mensual, vía Revista Cultivar, 11 de noviembre de 2026",
+      "url": "https://revistacultivar.com.br/noticias/brasil-exporta-recorde-de-5-3-milhoes-de-sacas-de-cafe-em-outubro",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El ENFEN extiende El Niño costero hasta julio de 2027, con magnitud extraordinaria hasta febrero",
+      "resumen": "El Comunicado Oficial ENFEN N.° 20-2026 (13/11) prevé lluvias sobre lo normal en la costa norte de noviembre a enero y caudales muy superiores en los ríos Tumbes y Piura. Anticipa temperaturas récord en la costa hacia el verano y lluvias bajo lo normal en la región del Titicaca.",
+      "fuente": "ENFEN, Comunicado Oficial N.° 20-2026, 13 de noviembre de 2026",
+      "url": "https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-20-2026/?wpdmdl=2218",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.1
+    },
+    {
+      "titular": "El clima le quita 79.000 toneladas al arándano peruano pese a tener 17% más hectáreas",
+      "resumen": "Proarándanos baja su proyección de exportación 2026/27 a 304.000 t, 21% menos que las 383.000 t de la campaña anterior y 11% menos que su estimado de octubre. Hasta la semana 45 (8/11) se exportaron 217.800 t (−15%).",
+      "fuente": "Proarándanos, séptima proyección, vía Agraria.pe, 16 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-de-arandanos-frescos-cerrarian-la-campana-2026-43479",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El calor adelanta la uva de mesa peruana: 48% más cajas hasta la semana 45",
+      "resumen": "Entre las semanas 27 y 45 de la campaña 2026/27 Perú exportó 21,7 millones de cajas de 8,2 kg (+48%), según Provid. El gremio lo explica por las altas temperaturas, que aceleraron el ciclo de las plantas; Piura concentró 64% de los envíos.",
+      "fuente": "Provid, vía Agraria.pe, 16 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/exportaciones-de-uva-de-mesa-crecieron-en-volumen-48-hasta-l-43475",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El cacao sube del mínimo de cuatro meses, pero las bodegas de ICE tienen más grano que en dos años y medio",
+      "resumen": "Los stocks vigilados por ICE llegaron a 3.751.670 sacos, máximo en 2,5 años. La agencia meteorológica marfileña Sodexam advierte una caída de 21% a 25% en la producción 2026/27 por El Niño; el cacao NY cerró en 5.184 US$/t el 16/11.",
+      "fuente": "TradingEconomics, notas de mercado de cacao, 12 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "El crudo cae 3% y arrastra al aceite de soja; la harina sube en la misma rueda",
+      "resumen": "El 16/11 el aceite de soja en Chicago (dic-26) bajó de 1.405,87 a 1.371,04 US$/t (−2,5%) y la harina subió de 363,54 a 368,83 US$/t (+1,5%). La soja en Matba (nov-26) cerró en 356,00 US$/t (−0,7%).",
+      "fuente": "Secretaría de Agricultura, Ganadería y Pesca de Argentina, Informe Diario del Mercado de Granos, 16 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "El trigo de Chicago sigue cerca de mínimos y EE.UU. vende la menor cantidad semanal de la campaña",
+      "resumen": "El trigo dic-26 cerró en 215,69 US$/t el 16/11 (−1,1%). El USDA informó ventas de exportación por 182.800 t, el registro semanal más bajo de la campaña, con el dólar en su nivel más alto desde abril de 2025.",
+      "fuente": "Secretaría de Agricultura, Ganadería y Pesca de Argentina, Informe Diario del Mercado de Granos, 16 de noviembre de 2026",
+      "url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/areas/granos/_archivos/000061_Informes/000003_Informe%20Diario%20del%20Mercado%20de%20Granos/000001_Informe%20Diario%20del%20Mercado%20de%20Granos-%20Actual.pdf",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "La castaña es la segunda exportación del Beni, detrás del oro",
+      "resumen": "Según el IBCE con datos preliminares del INE, el Beni exportó US$ 342,3 M en 2025 y US$ 433 M hasta septiembre de 2026. La nuez del Brasil sin cáscara aportó US$ 150,60 M en 2025; el oro en bruto, US$ 187,07 M.",
+      "fuente": "IBCE, Boletín Electrónico Bisemanal N.° 1.464, vía eju.tv (La Razón), 16 de noviembre de 2026",
+      "url": "https://eju.tv/2026/11/el-oro-y-la-castana-sostienen-el-99-de-las-exportaciones-del-beni/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.2
+    }
+  ]
+}
