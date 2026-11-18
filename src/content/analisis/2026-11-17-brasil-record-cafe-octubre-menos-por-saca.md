@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: cafe
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa, octubre marca el cambio de tono del mercado del café. Durante dos años el precio pagó escasez de grano disponible. Ahora la cosecha brasileña, que llegó tarde por las lluvias, sale toda junta: récord de embarques, más café en las bodegas de ICE y un real débil que empuja al productor a vender. El volumen sube y el precio por saca baja. Para el exportador peruano, la referencia de Nueva York pierde soporte justo cuando cierra su campaña."
 cifras:
   - label: "Brasil, exportación de café en octubre de 2026"

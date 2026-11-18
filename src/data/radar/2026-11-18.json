@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-18",
+  "items": [
+    {
+      "titular": "El crudo vuelve a sobrar según la IEA, pero el margen del diésel sigue cuatro veces arriba de enero",
+      "resumen": "La IEA (13/11) prevé superávit de 1,7 millones de barriles diarios en el 4T26, el primero desde el inicio de la guerra con Irán, y llama a la escasez de diésel la 'preocupación dominante'. Con precios spot de la EIA, el margen simple del diésel fue 80,31 US$/bbl el 11/11, contra unos 21 en la primera semana de enero.",
+      "fuente": "IEA, Oil Market Report, 13 de noviembre de 2026; EIA, precios spot al 11 de noviembre de 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-november-2026",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "Trump y Xi se reúnen en Shenzhen con la soya sobre la mesa",
+      "resumen": "La reunión bilateral en la cumbre APEC está prevista para esta semana. China se comprometió a comprar 25 millones de toneladas de soya de EE.UU. por año en 2026-2028 y US$ 17.000 millones anuales en productos agrícolas; según Al Jazeera (18/11), esas compras van rezagadas.",
+      "fuente": "Al Jazeera, 18 de noviembre de 2026; SAGyP, Informe Diario del Mercado de Granos, 17 de noviembre de 2026",
+      "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "Ucrania evalúa sembrar 6,3 millones de hectáreas menos y el trigo de Chicago sube 1,4%",
+      "resumen": "El ministro Taras Vysotskyi (13/11) dijo que, sin acceso a los puertos de aguas profundas hasta julio de 2027, la producción de grano podría caer 24-25 millones de toneladas. El 17/11 el trigo diciembre cerró en 218,72 US$/t (+1,4%) tras nuevos ataques al puente de Crimea.",
+      "fuente": "UNN, 13 de noviembre de 2026; SAGyP, Informe Diario del Mercado de Granos, 17 de noviembre de 2026",
+      "url": "https://unn.ua/en/news/ukraine-warns-of-a-possible-loss-of-up-to-25-million-tonnes-of-grain-for-export-next-year",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El stock certificado de arábica en ICE baja a su mínimo en 27 años pese al café brasileño que llega",
+      "resumen": "Las existencias certificadas de arábica en ICE cayeron a 186.414 sacos al 16 de noviembre, mínimo en 27 años. El arábica diciembre cerró el 17/11 en 2,81 US$/lb (+2,4%), aún 11% abajo de su nivel de un mes atrás.",
+      "fuente": "TradingEconomics, nota de mercado del café (consultada el 18 de noviembre de 2026); Reuters, 16 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/coffee",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Perú suma US$ 9.898 millones de agroexportaciones a septiembre y el Midagri proyecta cerca de US$ 15.000 millones en 2026",
+      "resumen": "Entre enero y septiembre de 2026 las agroexportaciones crecieron 1,2%; las no tradicionales sumaron US$ 8.845 millones (+1,5%). Arándanos (US$ 1.534 M), paltas (US$ 1.431 M) y uvas (US$ 873 M) encabezan; el café verde aporta US$ 969 M.",
+      "fuente": "Midagri, vía Agencia Andina, 16 de noviembre de 2026",
+      "url": "https://andina.pe/agencia/noticia-midagri-exportaciones-agrarias-bordearian-los-15000-millones-al-cierre-2026-1100295.aspx",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "El Brent cierra en 93,14 dólares tras una rueda con ataques a buques cerca de Ormuz",
+      "resumen": "El 17/11 el Brent enero subió 0,8% después de moverse en un rango de unos 3 dólares, con reportes de ataques a buques en el estrecho de Ormuz. En el último mes el Brent acumula una baja de 15%, según TradingEconomics.",
+      "fuente": "Bloomberg, vía Rigzone, 17 de noviembre de 2026",
+      "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.7
+    },
+    {
+      "titular": "Bolivia vuelve a exportar fibra de algodón después de 15 años, con un primer envío a Paraguay",
+      "resumen": "El despacho del 17/11 es de 110 fardos, unas 23 toneladas, por cerca de US$ 50.000. El sector proyecta pasar de 2.000 a 6.000 hectáreas en la próxima campaña.",
+      "fuente": "El Deber, vía eju.tv, 17 de noviembre de 2026",
+      "url": "https://eju.tv/2026/11/bolivia-retoma-la-exportacion-de-algodon-despues-de-15-anos-con-un-primer-envio-a-paraguay/",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.2
+    }
+  ]
+}
