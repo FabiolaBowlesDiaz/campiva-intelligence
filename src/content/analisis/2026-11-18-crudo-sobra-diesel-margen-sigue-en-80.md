@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: energia
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa, la baja del crudo de noviembre sí llegó al diésel, dólar por dólar. Lo que no bajó es la prima de refinación: el diésel sigue costando unos 80 dólares por barril más que el crudo, cuando en enero costaba unos 21. El agro de la región presupuesta su campaña con ese margen, no con el precio del Brent."
 cifras:
   - label: "Margen simple del diésel"

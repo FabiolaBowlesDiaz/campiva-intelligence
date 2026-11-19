@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-19",
+  "items": [
+    {
+      "titular": "El cupo chino de carne de 2027 ya zarpó: Brasil lo llenaría antes de abril",
+      "resumen": "China le asigna a Brasil 1,128 millones de toneladas para 2027 (+2,0%) y la ABIEC prevé llenarlas entre fines de marzo y abril; en octubre Brasil ya embarcó 45.600 t a China (+253,6% contra septiembre). Bolivia comparte el contingente de 'todos los demás', que sube de 172.000 a 175.000 t.",
+      "fuente": "USDA ERS, LDP-M-389, 17 de noviembre de 2026; ABIEC vía BP Money, 9 de noviembre de 2026; USDA FAS, GAIN CH2026-0001",
+      "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+      "vertical": "proteina-animal",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El dólar en máximo de 19 meses tumba al maíz y al trigo de Chicago",
+      "resumen": "Con el índice del dólar en su nivel más alto desde abril de 2025 (103,86 al cierre del 18/11), el maíz diciembre cayó 2,5% a 4,36 US$/bu, mínimo en 4,5 meses, y el trigo 4,2% a 5,70 US$/bu, mínimo en ocho meses. El mercado descuenta una suba de tasas de la Fed en diciembre.",
+      "fuente": "Pro Farmer, First Thing Today, 19 de noviembre de 2026; TradingEconomics, cierres del 18 de noviembre de 2026",
+      "url": "https://www.profarmer.com/news/first-thing-today/first-thing-today-trump-asks-xi-do-some-more-our-farmers",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.5
+    },
+    {
+      "titular": "Trump le pide a Xi 'algo más para los agricultores' en Shenzhen",
+      "resumen": "En la reunión de APEC del 19/11, Trump pidió a China comprar más productos agrícolas de EE.UU. Según Pro Farmer, China va en camino de cumplir las 25 millones de toneladas de soya de 2026, pero está rezagada en los US$ 17.000 millones de otros productos; Pekín condiciona más compras a aplicar el recorte arancelario acordado en septiembre.",
+      "fuente": "Pro Farmer, First Thing Today, 19 de noviembre de 2026",
+      "url": "https://www.profarmer.com/news/first-thing-today/first-thing-today-trump-asks-xi-do-some-more-our-farmers",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "Estados Unidos importa carne vacuna récord y el USDA baja el precio del novillo",
+      "resumen": "Las importaciones de carne de EE.UU. sumaron 1.629 millones de libras en el 3T26, récord para el trimestre; el USDA proyecta 6.436 millones en 2026 (+19%) y 6.280 en 2027 (−2%). El novillo gordo del 4T26 baja US$ 5, a 220 US$/cwt, por precios mayoristas más flojos.",
+      "fuente": "USDA ERS, Livestock, Dairy, and Poultry Outlook, 17 de noviembre de 2026",
+      "url": "https://ers.usda.gov/media/30379/ldp-m-389.pdf",
+      "vertical": "proteina-animal",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Lluvias en el Centro-Oeste de Brasil, todavía por debajo de lo normal",
+      "resumen": "World Weather reporta más lluvia en los últimos 7-10 días en el norte y Centro-Oeste brasileño, aunque bajo lo normal; prevé 3 a 7 pulgadas desde Mato Grosso a Minas Gerais hasta fines de la próxima semana. Advierte que no habrá recarga completa de humedad y que se necesitan lluvias a tiempo hasta inicios de diciembre.",
+      "fuente": "World Weather vía Pro Farmer, 19 de noviembre de 2026",
+      "url": "https://www.profarmer.com/news/first-thing-today/first-thing-today-trump-asks-xi-do-some-more-our-farmers",
+      "vertical": "clima",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "El cacao rompe hacia 5.000 dólares con el stock de ICE en máximo de dos años y medio",
+      "resumen": "El cacao NY cerró el 18/11 en 5.002 US$/t (−3,4%), cerca de niveles de junio. Las existencias de ICE llegaron a 3.815.074 sacos, máximo en 2,5 años, y los fondos venden antes de que los índices S&P GSCI y Bloomberg reduzcan su peso en cacao a inicios de 2027.",
+      "fuente": "TradingEconomics, nota de mercado del cacao, 19 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/cocoa",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.5
+    },
+    {
+      "titular": "Sube el crudo almacenado en EE.UU. y el Brent cierra en 91,95 dólares",
+      "resumen": "El inventario comercial de crudo de EE.UU. subió 3,38 millones de barriles a 417,8 millones en la semana al 13/11; los destilados, 1,57 millones a 104,9 millones (−5,6% interanual). El Brent cerró el 18/11 en 91,95 US$/bbl (−1,3%), cerca de sus mínimos desde fines de agosto.",
+      "fuente": "EIA, Weekly Petroleum Status Report, tabla 1, 18 de noviembre de 2026; TradingEconomics",
+      "url": "https://ir.eia.gov/wpsr/table1.csv",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.0
+    },
+    {
+      "titular": "Perú: el agro exportador crece en 13 de 24 regiones; Tumbes se dispara con arroz y premezclas",
+      "resumen": "Las agroexportaciones peruanas sumaron US$ 9.898 millones a septiembre (+1,2%); la costa creció 5,3%, Piura 16,7% y Tumbes 269,6% con arroz, premezclas para alimentación animal y maní. Los alimentos para animales sumaron US$ 155 millones en el período.",
+      "fuente": "Midagri vía Agraria.pe, 17 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/agroexportaciones-crecieron-en-13-departamentos-a-septiembre-43488",
+      "vertical": "nutricion-animal",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 5.2
+    }
+  ]
+}
