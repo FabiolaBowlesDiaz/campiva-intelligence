@@ -1,19 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "12,17",
+      "valor": "12,08",
       "unidad": "US$/bu",
-      "cambio": -0.7,
+      "cambio": -0.8,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (ene-27) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11); SAGyP no respondió hoy (sin contraste)",
-      "asOf": "2026-11-18",
+      "fuente": "Chicago (ene-27) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (443,68 US$/t)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        12.98,
         12.88,
         12.92,
         12.88,
@@ -42,21 +41,21 @@
         12.3153,
         12.29,
         12.2547,
-        12.1675
+        12.1675,
+        12.075
       ]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "2,75",
+      "valor": "2,76",
       "unidad": "US$/lb",
-      "cambio": -2.1,
+      "cambio": 0.2,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11)",
-      "asOf": "2026-11-18",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        2.93,
         2.89,
         2.87,
         2.91,
@@ -85,21 +84,21 @@
         2.735,
         2.749,
         2.8141,
-        2.7545
+        2.7545,
+        2.76
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "18,04",
+      "valor": "17,16",
       "unidad": "¢/lb",
-      "cambio": -0.7,
+      "cambio": -4.9,
       "cambioLabel": "diaria",
-      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11)",
-      "asOf": "2026-11-18",
+      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); CMB confirma el settle de 17,16 (−0,88 ¢ contra 18,04), mínimo de siete semanas",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        20.83,
         20.15,
         20.25,
         20.85,
@@ -128,21 +127,21 @@
         18.4065,
         18.1,
         18.165,
-        18.04
+        18.04,
+        17.16
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.002",
+      "valor": "5.201",
       "unidad": "US$/t",
-      "cambio": -3.4,
+      "cambio": 4.0,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11)",
-      "asOf": "2026-11-18",
+      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); rebote de ~4% sin segunda fuente que lo confirme",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        5700,
         5582,
         5665,
         5676,
@@ -171,21 +170,21 @@
         5260,
         5184,
         5177,
-        5002
+        5002,
+        5201.0
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,36",
+      "valor": "4,39",
       "unidad": "US$/bu",
-      "cambio": -2.5,
+      "cambio": 0.8,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11); Pro Farmer (19/11) confirma mínimo de 4,5 meses del maíz diciembre; SAGyP no respondió hoy",
-      "asOf": "2026-11-18",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (172,83 US$/t)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        5.02,
         5.0,
         4.8,
         4.83,
@@ -214,21 +213,21 @@
         4.4549,
         4.4875,
         4.4676,
-        4.355
+        4.355,
+        4.39
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "5,70",
+      "valor": "5,78",
       "unidad": "US$/bu",
-      "cambio": -4.2,
+      "cambio": 1.4,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11); −4,2% con el dólar en máximo desde abril de 2025. Pro Farmer (19/11) confirma mínimos de 8 meses en Chicago y Kansas City; SAGyP no respondió hoy",
-      "asOf": "2026-11-18",
+      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (212,47 US$/t). IGC (GMR582, 19/11): subíndice trigo −7% en cinco semanas",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        6.87,
         6.83,
         6.71,
         6.72,
@@ -257,21 +256,21 @@
         5.9326,
         5.87,
         5.9523,
-        5.7
+        5.7,
+        5.7825
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "91,95",
+      "valor": "91,98",
       "unidad": "US$/bbl",
-      "cambio": -1.3,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent via TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11)",
-      "asOf": "2026-11-18",
+      "fuente": "ICE Brent via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        100.2,
         104.28,
         104.72,
         106.65,
@@ -300,22 +299,21 @@
         95.8413,
         92.44,
         93.14,
-        91.95
+        91.95,
+        91.98
       ]
     },
     {
       "id": "soja-matba",
       "nombre": "Soja Matba (Arg.)",
-      "valor": "361,70",
+      "valor": "357,40",
       "unidad": "US$/t",
-      "cambio": 0.6,
+      "cambio": -0.2,
       "cambioLabel": "diaria",
-      "fuente": "Matba-Rofex pos. ENE2027 via Informe Diario SAGyP (17/11); rota desde NOV2026, que ya no figura en el informe. Cambio diario de la misma posición (359,50 → 361,70)",
-      "asOf": "2026-11-17",
+      "fuente": "Matba-Rofex pos. ENE2027 via Informe Diario SAGyP (19/11). Se agrega también el cierre del 18/11 (358,20), que faltaba porque SAGyP no respondió ayer; cambio diario 358,20 → 357,40",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        375.0,
-        374.0,
         369.9,
         369.9,
         370.5,
@@ -343,7 +341,9 @@
         356.0,
         358.4,
         356.0,
-        361.7
+        361.7,
+        358.2,
+        357.4
       ]
     },
     {
@@ -351,14 +351,12 @@
       "nombre": "Maíz Matba (Arg.)",
       "valor": "185,00",
       "unidad": "US$/t",
-      "cambio": -1.3,
+      "cambio": 0.8,
       "cambioLabel": "diaria",
-      "fuente": "Matba-Rofex pos. DIC2026 via Informe Diario SAGyP (17/11); rota desde NOV2026, que ya no figura en el informe. Cambio diario de la misma posición (187,50 → 185,00)",
-      "asOf": "2026-11-17",
+      "fuente": "Matba-Rofex pos. DIC2026 via Informe Diario SAGyP (19/11). Se agrega también el cierre del 18/11 (183,60), que faltaba porque SAGyP no respondió ayer; cambio diario 183,60 → 185,00",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        198.0,
-        194.0,
         194.0,
         195.5,
         196.0,
@@ -386,18 +384,20 @@
         181.5,
         184.0,
         183.0,
+        185.0,
+        183.6,
         185.0
       ]
     },
     {
       "id": "drewry-wci",
       "nombre": "Drewry WCI",
-      "valor": "4.305",
+      "valor": "4.176",
       "unidad": "US$/FEU",
-      "cambio": -1.9,
+      "cambio": -3.0,
       "cambioLabel": "semanal",
-      "fuente": "Drewry World Container Index",
-      "asOf": "2026-11-12",
+      "fuente": "Drewry World Container Index (19/11: −3%; Shanghai–Nueva York 8.194, Shanghai–Rotterdam 3.496 US$/FEU; +126% interanual)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
         4530,
@@ -419,21 +419,21 @@
         4585,
         4429,
         4389,
-        4305
+        4305,
+        4176
       ]
     },
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.914",
+      "valor": "2.901",
       "unidad": "pts",
-      "cambio": 0.7,
+      "cambio": -0.4,
       "cambioLabel": "diaria",
-      "fuente": "Baltic Exchange via TradingEconomics (cierre 18/11: 2.914, +0,73%)",
-      "asOf": "2026-11-18",
+      "fuente": "Baltic Exchange via TradingEconomics (cierre 19/11: 2.901, −0,45%; capesize 4.514, panamax 2.132)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        2994,
         2973,
         2917,
         2852,
@@ -462,21 +462,21 @@
         2980,
         2921,
         2893,
-        2914
+        2914,
+        2901.0
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "103,86",
+      "valor": "103,90",
       "unidad": "pts",
-      "cambio": 0.4,
+      "cambio": 0.0,
       "cambioLabel": "diaria",
-      "fuente": "TradingEconomics (cierre del 18/11 = último menos cambio publicado el 19/11; máximo desde abril de 2025)",
-      "asOf": "2026-11-18",
+      "fuente": "TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cerca del máximo desde abril de 2025)",
+      "asOf": "2026-11-19",
       "verificado": true,
       "serie": [
-        101.83,
         102.24,
         102.14,
         102.21,
@@ -505,7 +505,8 @@
         103.4102,
         103.55,
         103.48,
-        103.863
+        103.863,
+        103.9
       ]
     },
     {

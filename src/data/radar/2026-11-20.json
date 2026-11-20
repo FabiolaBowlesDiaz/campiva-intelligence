@@ -1,0 +1,85 @@
+{
+  "fecha": "2026-11-20",
+  "items": [
+    {
+      "titular": "El azúcar cae 5% en un día con el déficit en alza: la India llegó temprano",
+      "resumen": "El azúcar #11 marzo cerró el 19/11 en 17,16 ¢/lb (−4,9%), mínimo de siete semanas, aunque la ISO subió el déficit 2026/27 de 0,2 a 1,0 millón de toneladas. La India produjo 2,36 Mt al 15/11, el doble que un año atrás, porque Maharashtra empezó a moler el 8 de octubre.",
+      "fuente": "CMB, 20 de noviembre de 2026; ISMA vía ETV Bharat, 16 de noviembre de 2026; ISO vía Reuters/NovaCana, 13 de noviembre de 2026",
+      "url": "https://commodity-board.com/sugar-no-11-slides-below-18-as-funds-exit-tight-but-nervous-market",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El IGC sube los stocks de granos por tercer mes y su índice de precios toca mínimo de tres meses",
+      "resumen": "En su informe del 19/11 el Consejo Internacional de Cereales eleva el stock final mundial de granos 2026/27 en 7 Mt, a 626 Mt, y deja la producción en 2.428 Mt (+1 Mt). Su índice GOI cae 4%: trigo −7% y maíz −7% en cinco semanas; el arroz sube 8%, cerca de un pico de dos años.",
+      "fuente": "International Grains Council, Grain Market Report GMR582, 19 de noviembre de 2026",
+      "url": "https://www.igc.int/en/gmr_summary.aspx",
+      "vertical": "cereales",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.8
+    },
+    {
+      "titular": "Perú: El Niño ya se siente en el mercado mayorista de Lima",
+      "resumen": "La AGAP cita a Midagri: la producción agrícola de septiembre cayó 9,8% interanual, y el BCRP estima un impacto de 1,5% en el PBI agrario. Al 17/11, en el Mercado Mayorista de Lima la zanahoria sube 191% interanual, la papa Canchán 190% y la cebolla blanca 121%.",
+      "fuente": "Agraria.pe (AGAP, Midagri, BCRP), 19 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/agap-el-nino-presiona-a-la-baja-la-produccion-agraria-y-sus--43504",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 6.6
+    },
+    {
+      "titular": "Grupo Gloria evaluaría comprar Iansa, el único productor de azúcar de Chile",
+      "resumen": "Según reportes de Semana Económica y Peru Retail recogidos por la ISO, el grupo peruano analiza una oferta que podría superar los US$ 100 millones; la deuda de Iansa, de US$ 242 millones, sería el principal obstáculo. Grupos azucareros de Argentina y Guatemala también habrían mostrado interés.",
+      "fuente": "ISO, Press Release (26)37 (Sugaronline), 20 de noviembre de 2026",
+      "url": "https://www.isosugar.org/content/pages/Press%20Release(26)37%20-%20Various%20sugar%20related%20articles-62d8d5.pdf",
+      "vertical": "azucar",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.0
+    },
+    {
+      "titular": "Francia cosecha un tercio menos de remolacha y China produce más azúcar",
+      "resumen": "Agreste estima la remolacha francesa 2026 en 23,95 Mt, 33,3% menos que en 2025, con rinde de 64,3 t/ha contra 90,3. En sentido contrario, China sube su producción de azúcar 2026/27 a 13,6 Mt (+670.000 t) y mantiene la importación prevista en 4,8 Mt.",
+      "fuente": "ISO, Press Release (26)37 (Agreste, 17/11; Ministerio de Agricultura de China, 10/11), 20 de noviembre de 2026",
+      "url": "https://www.isosugar.org/content/pages/Press%20Release(26)37%20-%20Various%20sugar%20related%20articles-62d8d5.pdf",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.8
+    },
+    {
+      "titular": "Bolivia come más huevo: 263 unidades por persona en 2026",
+      "resumen": "La Asociación Nacional de Avicultores reporta un consumo de 263 huevos por persona al año en 2026, contra 232 en 2025 (+13,4%). La ADA fijó el 19/11 precios a productor de Bs 75 por 100 huevos extra y Bs 64 por primera; en octubre informó costos de producción 20% a 25% más altos.",
+      "fuente": "El Deber (ANA, ADA), 19 de noviembre de 2026",
+      "url": "https://eldeber.com.bo/economia/bolivia-gana-huevo-oro-consumo-este-alimento-crece-13-4_1795128127",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "Perú importa 15,9% menos fertilizante en volumen y paga 3,2% menos",
+      "resumen": "Entre enero y septiembre de 2026 el Perú importó fertilizantes por US$ 466 millones (−3,2%), con un volumen 15,9% menor. La urea sumó US$ 87 millones por 193.000 t (−19,9% en volumen); el fosfato diamónico, US$ 91 millones (+8,3% en valor, −8,5% en volumen).",
+      "fuente": "Agraria.pe (Mincetur, Reporte Mensual de Comercio – Septiembre 2026), 19 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/importaciones-de-fertilizantes-sumaron-us-466-millones-en-lo-43500",
+      "vertical": "macro",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.6
+    },
+    {
+      "titular": "El flete de contenedores baja 3% y el Transpacífico encadena siete semanas en baja",
+      "resumen": "El Drewry WCI cayó 3% el 19/11, a US$ 4.176 por FEU (+126% interanual). Shanghái–Nueva York bajó 9%, a US$ 8.194, mínimo en 15 semanas; Shanghái–Génova subió 6%, a US$ 4.436, y las navieras anuncian recargos de US$ 1.000-1.600 en Asia–Europa desde diciembre.",
+      "fuente": "Drewry, World Container Index, 19 de noviembre de 2026",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.3
+    }
+  ]
+}

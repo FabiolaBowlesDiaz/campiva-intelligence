@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: proteina-animal
 pais: LATAM
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Para la casa, 2027 repite el calendario de 2026 con unas semanas de adelanto. Si Brasil llena su cupo en cuatro meses, China recibiría unas 282.000 toneladas de carne brasileña por mes con arancel de 12%: cerca de 1,8 veces el mayor embarque mensual a China de 2026. Ese primer cuatrimestre es el de más competencia para cualquier otro origen. Después de abril la ecuación se invierte y el importador chino vuelve a buscar carne con cupo libre. Para el exportador boliviano, el dato que decide no es el precio de enero sino cuánto del contingente compartido queda en mayo."
 cifras:
   - label: "Cupo de Brasil 2027"
