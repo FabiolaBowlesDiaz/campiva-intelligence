@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-23",
+  "items": [
+    {
+      "titular": "China compró 23% menos soja en octubre y Brasil siembra la cosecha más grande",
+      "resumen": "Según la aduana china (vía Reuters, 20/11), China importó 7,3 Mt de soja en octubre (−23% interanual); Brasil aportó 6,6 Mt y EE.UU. 180.000 t. La Conab (13/11) proyecta 181,6 Mt de soja brasileña 2026/27 y StoneX habla de 185 Mt: el descuento lo absorbe el precio físico sudamericano.",
+      "fuente": "Aduana de China vía Reuters (China-Global South Project), 20 de noviembre de 2026; Conab vía Canal Rural, 13 de noviembre de 2026",
+      "url": "https://chinaglobalsouth.com/2026/11/20/china-soybean-imports-october-2026/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 7.7
+    },
+    {
+      "titular": "El girasol argentino exporta 82% más y su aceite vale 51% sobre el promedio previo a la guerra",
+      "resumen": "Según ASAGIR (informe de noviembre), el complejo girasolero exportó US$ 3.025,7 M en enero-septiembre de 2026 (+81,9%) y la industria molió 4,406 Mt (+21,7%). El aceite CIF Rotterdam cotiza 1.475,55 US$/t para noviembre; la siembra 2026/27 llega al 92,1% de 3,1 M ha.",
+      "fuente": "ASAGIR vía Infobae, 19 de noviembre de 2026; Bolsa de Cereales de Buenos Aires vía Ruralnet, 21 de noviembre de 2026",
+      "url": "https://www.infobae.com/revista-chacra/2026/11/19/el-girasol-argentino-atraviesa-un-boom-exportador-los-ingresos-de-divisas-crecieron-casi-82/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "La siembra de verano en Santa Cruz pasa el 10%; la soya va en 100.000 de 1,25 M ha",
+      "resumen": "Anapo informó el 20/11 que la soya lleva 100.000 de 1.250.000 ha proyectadas, el maíz 32.000 de 111.000 y el sorgo 20.000 de 103.000. La ventana recomendada va del 20 de noviembre al 31 de diciembre; por los costos, Anapo no espera más área de soya que el verano anterior.",
+      "fuente": "Anapo vía Agro Sinergia, 20 de noviembre de 2026",
+      "url": "https://agrosinergia.com.bo/siembra-de-verano-supera-el-10-de-avance-y-en-san-ignacio-se-proyectan-220-000-hectareas-de-soya/",
+      "vertical": "soya",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "La cosecha brasileña aprieta el precio físico de la soja paraguaya aunque Chicago repunte",
+      "resumen": "StoneX (vía Valor Agro, 21/11) estima la soja de Brasil 2026/27 en 185 Mt y advierte que los descuentos (basis) en Paraguay no mejoran pese a la recuperación de Chicago. Semanas atrás, con mayo-27 cerca de 1.360 ¢/bu, el productor paraguayo cobraba entre 410 y 415 US$/t.",
+      "fuente": "StoneX vía Valor Agro y Agro Sinergia, 21 de noviembre de 2026",
+      "url": "https://agrosinergia.com.bo/la-gigantesca-cosecha-de-brasil-amenaza-con-presionar-los-precios-de-la-soja-paraguaya/",
+      "vertical": "soya",
+      "pais": "PY",
+      "impacto": "medio",
+      "score": 6.9
+    },
+    {
+      "titular": "Perú exporta 3,2% menos agro al 18 de noviembre: El Niño frena el arándano",
+      "resumen": "Entre el 1 de enero y el 18 de noviembre de 2026 el Perú exportó 4,48 Mt de productos agrarios por US$ 11.662 M (−1,1% en volumen, −3,2% en valor). En lo que va de noviembre el volumen cae 9,5% y el arándano explica tres de cada cuatro toneladas perdidas; sin cacao ni café, el valor sube 6,5%.",
+      "fuente": "FreshFruit (datos de declaraciones de exportación), 20 de noviembre de 2026",
+      "url": "https://freshfruit.pe/2026/11/20/agroexportaciones-al-18-de-noviembre-el-arandano-cae-a-la-mitad-y-la-uva-toma-la-posta/",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "Argentina siembra 30% de la soja 2026/27 con 99% de los lotes en buena humedad",
+      "resumen": "La Bolsa de Cereales de Buenos Aires informa que la siembra de soja llegó al 30,4% de 17 M ha proyectadas, tras avanzar 12,6 puntos en una semana. El 99% de la soja de primera tiene humedad adecuada u óptima; el maíz va en 51,5%.",
+      "fuente": "Bolsa de Cereales de Buenos Aires vía Ruralnet, 20 de noviembre de 2026",
+      "url": "https://ruralnet.com.ar/siembra-soja-2026-27/",
+      "vertical": "soya",
+      "pais": "AR",
+      "impacto": "bajo",
+      "score": 6.1
+    },
+    {
+      "titular": "Wall Street entra en corrección y el oro cae 3%; la soja sube igual",
+      "resumen": "El 20/11 el S&P 500 cayó 3,70% a 6.910 puntos y entró en corrección técnica; el Nasdaq perdió 5,28% y el oro 3,02%, a 3.517,24 US$/oz. Ese mismo día la soja enero de Chicago subió 13¼ ¢ a 12,2075 US$/bu y la harina 8,70 US$ a 341 US$/t corta.",
+      "fuente": "The Motley Fool, 20 de noviembre de 2026; Brownfield Ag News (cierres del 20/11)",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/",
+      "vertical": "macro",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "Los arroceros de Santa Cruz y Beni reportan la mitad del área sembrada",
+      "resumen": "La Asociación de Productores Arroceros estima una reducción de alrededor del 50% en la superficie de arroz 2026-2027 en Santa Cruz y Beni, por clima adverso, costos altos e ingreso de arroz de contrabando. En Santa Cruz el sector ve difícil llegar a las 100.000 ha proyectadas.",
+      "fuente": "Asociación de Productores Arroceros vía Unitel y Agro Sinergia, 22 de noviembre de 2026",
+      "url": "https://agrosinergia.com.bo/superficie-de-siembra-de-arroz-podria-reducirse-hasta-un-50-en-santa-cruz-y-beni/",
+      "vertical": "cereales",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.5
+    },
+    {
+      "titular": "Bolivia tiene entre 10% y 15% más pollo del que compra el mercado",
+      "resumen": "La Asociación Nacional de Avicultores informó el 21/11 una sobreoferta de pollo de entre 10% y 15%: la producción crece al ritmo habitual de 3% a 5% anual y la demanda interna se contrae. Según la ANA, el precio al productor no cubre costos desde hace más de 10 meses.",
+      "fuente": "Asociación Nacional de Avicultores vía Agro Sinergia, 21 de noviembre de 2026",
+      "url": "https://agrosinergia.com.bo/avicultores-reportan-sobreoferta-de-pollo-del-15-y-perdidas-economicas/",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.5
+    }
+  ]
+}

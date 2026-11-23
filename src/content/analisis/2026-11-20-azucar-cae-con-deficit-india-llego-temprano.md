@@ -6,7 +6,7 @@ tipo: alerta-mercado
 vertical: azucar
 pais: GLOBAL
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para la casa, el mercado del azúcar cotiza hoy el calendario y no el balance del año. La India adelantó la zafra, el azúcar nueva aparece antes y los fondos venden. Pero la ISO no le agregó azúcar a la India: le quitó un millón de toneladas. Lo que llegó antes no es azúcar de más. Si el balance de la ISO se confirma, la presión de noviembre debería agotarse cuando la producción india deje de compararse contra un año que arrancó tarde."
 cifras:
   - label: "Azúcar #11 (mar-27)"

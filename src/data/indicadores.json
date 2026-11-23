@@ -1,19 +1,18 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-23",
   "items": [
     {
       "id": "soya-cbot",
       "nombre": "Soya CBOT",
-      "valor": "12,08",
+      "valor": "12,21",
       "unidad": "US$/bu",
-      "cambio": -0.8,
+      "cambio": 1.1,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (ene-27) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (443,68 US$/t)",
-      "asOf": "2026-11-19",
+      "fuente": "Chicago (ene-27): cierre del 20/11 de 12,2075 US$/bu (+13¼ ¢) según Brownfield \"Closing Commodity Numbers\"; coincide con el despeje del cambio % de TradingEconomics (12,208). Cambio contra la serie propia. SAGyP sin informe nuevo (último: 19/11)",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        12.88,
         12.92,
         12.88,
         12.84,
@@ -42,21 +41,21 @@
         12.29,
         12.2547,
         12.1675,
-        12.075
+        12.075,
+        12.2075
       ]
     },
     {
       "id": "cafe-arabica",
       "nombre": "Café arábica ICE",
-      "valor": "2,76",
+      "valor": "2,69",
       "unidad": "US$/lb",
-      "cambio": 0.2,
+      "cambio": -2.7,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia)",
-      "asOf": "2026-11-19",
+      "fuente": "ICE (dic-26) via TradingEconomics: cierre del 20/11 despejado del cambio % publicado el 23/11 (268,98 ¢ / 1,0018); cambio contra la serie propia",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        2.89,
         2.87,
         2.91,
         2.93,
@@ -85,21 +84,21 @@
         2.749,
         2.8141,
         2.7545,
-        2.76
+        2.76,
+        2.685
       ]
     },
     {
       "id": "azucar-11",
       "nombre": "Azúcar #11",
-      "valor": "17,16",
+      "valor": "17,03",
       "unidad": "¢/lb",
-      "cambio": -4.9,
+      "cambio": -0.8,
       "cambioLabel": "diaria",
-      "fuente": "ICE (mar-27) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); CMB confirma el settle de 17,16 (−0,88 ¢ contra 18,04), mínimo de siete semanas",
-      "asOf": "2026-11-19",
+      "fuente": "ICE (mar-27) via TradingEconomics: cierre del 20/11 despejado del cambio % publicado el 23/11 (17,35 / 1,0187); cambio contra la serie propia",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        20.15,
         20.25,
         20.85,
         21.11,
@@ -128,21 +127,21 @@
         18.1,
         18.165,
         18.04,
-        17.16
+        17.16,
+        17.03
       ]
     },
     {
       "id": "cacao-ny",
       "nombre": "Cacao NY",
-      "valor": "5.201",
+      "valor": "5.270",
       "unidad": "US$/t",
-      "cambio": 4.0,
+      "cambio": 1.3,
       "cambioLabel": "diaria",
-      "fuente": "ICE (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); rebote de ~4% sin segunda fuente que lo confirme",
-      "asOf": "2026-11-19",
+      "fuente": "ICE (dic-26) via TradingEconomics: cierre del 20/11 despejado del cambio % publicado el 23/11 (5.266,63 / 0,9994); cambio contra la serie propia",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        5582,
         5665,
         5676,
         5733,
@@ -171,21 +170,21 @@
         5184,
         5177,
         5002,
-        5201.0
+        5201.0,
+        5270
       ]
     },
     {
       "id": "maiz-cbot",
       "nombre": "Maíz CBOT",
-      "valor": "4,39",
+      "valor": "4,34",
       "unidad": "US$/bu",
-      "cambio": 0.8,
+      "cambio": -1.1,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (172,83 US$/t)",
-      "asOf": "2026-11-19",
+      "fuente": "Chicago (dic-26): cierre del 20/11 de 4,3425 US$/bu (−4½ ¢) según Brownfield \"Closing Commodity Numbers\"; coincide con el despeje de TradingEconomics (4,345). Cambio contra la serie propia. SAGyP sin informe nuevo (último: 19/11)",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        5.0,
         4.8,
         4.83,
         4.83,
@@ -214,21 +213,21 @@
         4.4875,
         4.4676,
         4.355,
-        4.39
+        4.39,
+        4.3425
       ]
     },
     {
       "id": "trigo-cbot",
       "nombre": "Trigo CBOT",
-      "valor": "5,78",
+      "valor": "5,74",
       "unidad": "US$/bu",
-      "cambio": 1.4,
+      "cambio": -0.7,
       "cambioLabel": "diaria",
-      "fuente": "Chicago (dic-26) via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia); coincide con Informe Diario SAGyP del 19/11 (212,47 US$/t). IGC (GMR582, 19/11): subíndice trigo −7% en cinco semanas",
-      "asOf": "2026-11-19",
+      "fuente": "Chicago (dic-26): cierre del 20/11 de 5,7425 US$/bu (−4 ¢) según Brownfield \"Closing Commodity Numbers\"; coincide con el despeje de TradingEconomics (5,7425). Cambio contra la serie propia",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        6.83,
         6.71,
         6.72,
         6.69,
@@ -257,21 +256,21 @@
         5.87,
         5.9523,
         5.7,
-        5.7825
+        5.7825,
+        5.7425
       ]
     },
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "91,98",
+      "valor": "92,57",
       "unidad": "US$/bbl",
-      "cambio": 0.0,
+      "cambio": 0.6,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent via TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cambio contra la serie propia)",
-      "asOf": "2026-11-19",
+      "fuente": "ICE Brent via TradingEconomics: cierre del 20/11 despejado del cambio % publicado el 23/11 (90,46 / 0,9772); cambio contra la serie propia. El 20/11 el WTI dic subió 0,88 US$ (Brownfield)",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        104.28,
         104.72,
         106.65,
         105.69,
@@ -300,7 +299,8 @@
         92.44,
         93.14,
         91.95,
-        91.98
+        91.98,
+        92.57
       ]
     },
     {
@@ -426,15 +426,14 @@
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "2.901",
+      "valor": "2.898",
       "unidad": "pts",
-      "cambio": -0.4,
+      "cambio": -0.1,
       "cambioLabel": "diaria",
-      "fuente": "Baltic Exchange via TradingEconomics (cierre 19/11: 2.901, −0,45%; capesize 4.514, panamax 2.132)",
-      "asOf": "2026-11-19",
+      "fuente": "Baltic Exchange via TradingEconomics (cierre 20/11: 2.898, −0,10%)",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        2973,
         2917,
         2852,
         2801,
@@ -463,21 +462,21 @@
         2921,
         2893,
         2914,
-        2901.0
+        2901.0,
+        2898.0
       ]
     },
     {
       "id": "dxy",
       "nombre": "Dólar DXY",
-      "valor": "103,90",
+      "valor": "103,81",
       "unidad": "pts",
-      "cambio": 0.0,
+      "cambio": -0.1,
       "cambioLabel": "diaria",
-      "fuente": "TradingEconomics (cierre del 19/11 = \"Previous\" de la ficha al 20/11; cerca del máximo desde abril de 2025)",
-      "asOf": "2026-11-19",
+      "fuente": "TradingEconomics: cierre del 20/11 despejado del cambio % publicado el 23/11 (104,1638 / 1,0034); cambio contra la serie propia",
+      "asOf": "2026-11-20",
       "verificado": true,
       "serie": [
-        102.24,
         102.14,
         102.21,
         102.59,
@@ -506,7 +505,8 @@
         103.55,
         103.48,
         103.863,
-        103.9
+        103.9,
+        103.81
       ]
     },
     {
