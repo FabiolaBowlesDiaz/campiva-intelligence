@@ -6,7 +6,7 @@ tipo: analisis-ejecutivo
 vertical: soya
 pais: LATAM
 score: 7.7
-destacado: true
+destacado: false
 lectura: "Para esta casa, la soja sudamericana entra en su cosecha con dos precios que se separan. Chicago tiene soporte: EE.UU. ya colocó en China buena parte de su meta de la campaña. El precio físico de Sudamérica no tiene ese soporte: China importa menos y Brasil siembra una cosecha muy grande. El riesgo de la campaña 2026/27 no está en la pizarra de Chicago, está en el descuento que el comprador aplica en el puerto."
 cifras:
   - label: "Importación de soja de China, octubre de 2026"

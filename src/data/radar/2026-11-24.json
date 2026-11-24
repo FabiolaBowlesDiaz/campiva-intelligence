@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-11-24",
+  "items": [
+    {
+      "titular": "Brasil cosechó el café más grande de su historia y terminará con menos stock del previsto",
+      "resumen": "El USDA FAS (Brasilia, 16/11) eleva la cosecha 2026/27 a 72,5 M de sacas (+15,1%; arábica 49,2 M) y mantiene la exportación récord de 49,07 M. El stock final baja a 3,42 M de sacas, 22,7% menos que lo previsto en junio: la cosecha récord sale casi entera.",
+      "fuente": "USDA FAS, Coffee Semi-annual Brasil (BR2026-0050), 16 de noviembre de 2026",
+      "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Semi-annual_Brasilia_Brazil_BR2026-0050.pdf",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "alto",
+      "score": 7.6
+    },
+    {
+      "titular": "El stock de arábica de ICE toca un mínimo de 27 años mientras el café brasileño hace fila para entrar",
+      "resumen": "Según Barchart (20/11), el stock certificado de arábica en ICE cayó a 186.414 sacas el 16/11, mínimo en 27 años, y 251.230 sacas esperaban clasificación el 20/11, máximo en 3,75 años. Vietnam proyecta robusta 2026/27 en 2,1 Mt (+5%) y el robusta tocó mínimo de 2,75 años.",
+      "fuente": "Barchart vía TradingView News, 20 de noviembre de 2026",
+      "url": "https://www.tradingview.com/news/barchart:c265a50d4094b:0-coffee-prices-fall-on-expectations-of-abundant-supplies/",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.0
+    },
+    {
+      "titular": "La selva peruana exporta 22,7% menos: el cacao en grano vende menos de la mitad",
+      "resumen": "Según el Mincetur (reporte regional de septiembre, vía Agraria.pe 20/11), la agroexportación de la selva sumó US$ 1.614 M en enero-septiembre de 2026 (−22,7%). El cacao en grano cayó a US$ 361 M (−55,6%) y el café a US$ 941 M (−3,9%); el total agro creció 1,2% gracias a la costa.",
+      "fuente": "Mincetur vía Agraria.pe, 20 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/crecen-en-valor-las-agroexportaciones-de-la-costa-y-la-sierr-43509",
+      "vertical": "cacao",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.3
+    },
+    {
+      "titular": "Costa de Marfil entrega 47% menos cacao en puerto y Ecuador suma inundaciones",
+      "resumen": "Los arribos marfileños del 1/10 al 22/11 suman 330.843 t, contra 618.899 t un año antes (−47%; datos oficiales vía Bloomberg y Barchart, 23/11). Analistas estiman la cosecha de Ecuador en 580.000 t, 7% menos tras lluvias extremas; el stock de ICE está en máximo de 2,5 años (3.849.600 sacas).",
+      "fuente": "Barchart vía TradingView News, 23 de noviembre de 2026",
+      "url": "https://www.tradingview.com/news/barchart:a9e104e91094b:0-cocoa-prices-supported-by-reduced-ivory-coast-shipments/",
+      "vertical": "cacao",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 7.1
+    },
+    {
+      "titular": "Los gremios agrarios del Perú prevén menos uva, arándano y palta por El Niño hasta 2027",
+      "resumen": "AGAP (19/11) estima caídas de hasta 25% en uva de mesa, 20-30% en arándano y hasta 40% en palta; el Midagri reporta producción agrícola −9,8% en septiembre. Al 17/11, en el Mercado Mayorista de Lima la zanahoria subía 191% y la papa canchán 190% interanual.",
+      "fuente": "AGAP vía Agraria.pe, 19 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/agap-el-nino-presiona-a-la-baja-la-produccion-agraria-y-sus--43504",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 7.0
+    },
+    {
+      "titular": "El Niño se calienta en la costa sudamericana: Niño 1+2 llega a +4,9 °C",
+      "resumen": "La actualización semanal de NOAA/CPC del 23/11 registra anomalías de +4,9 °C en Niño 1+2, +3,9 °C en Niño 3 y +2,4 °C en Niño 3.4. Sigue vigente la alerta de El Niño, con más de 79% de probabilidad de un evento fuerte a muy fuerte hasta enero-marzo de 2027.",
+      "fuente": "NOAA/CPC, ENSO: Recent Evolution, Current Status and Predictions, 23 de noviembre de 2026",
+      "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf",
+      "vertical": "clima",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.8
+    },
+    {
+      "titular": "El Brent cae 3,5% en un día y vuelve a niveles de fines de agosto",
+      "resumen": "El Brent perdió 3,5% el 23/11 y cerró cerca de 89,4 US$/bbl, su nivel más bajo desde el 28/08, con señales de contactos diplomáticos entre EE.UU. e Irán (TradingEconomics, 24/11). El WTI de diciembre cerró en 80,17 US$ (−3,24), según Brownfield.",
+      "fuente": "TradingEconomics, 24 de noviembre de 2026; Brownfield Ag News, 23 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.4
+    },
+    {
+      "titular": "La bichera le cuesta a la ganadería andina US$ 240 millones al año; Bolivia, US$ 66 millones",
+      "resumen": "Un estudio preliminar de GBADs (Universidad de Edimburgo), presentado en la Comunidad Andina, estima el costo directo del gusano barrenador en US$ 240,6 M anuales para Bolivia, Colombia, Ecuador y Perú. Bolivia carga US$ 65,9 M; 60% del costo es prevención, no animales enfermos.",
+      "fuente": "GBADs / Comunidad Andina vía Agraria.pe, 23 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/gusano-barrenador-del-ganado-cuesta-unos-us-240-millones-al--43522",
+      "vertical": "proteina-animal",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Perú importa 16% menos fertilizante en volumen; la urea cae 20%",
+      "resumen": "Según el Mincetur (vía Agraria.pe, 19/11), Perú importó fertilizantes por US$ 466 M en enero-septiembre de 2026 (−3,2% en valor, −15,9% en volumen). La urea sumó 193.000 t (−19,9%) y el fosfato diamónico 122.000 t (−8,5%) con valor en alza de 8,3%.",
+      "fuente": "Mincetur vía Agraria.pe, 19 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/importaciones-de-fertilizantes-sumaron-us-466-millones-en-lo-43500",
+      "vertical": "insumos",
+      "pais": "PE",
+      "impacto": "bajo",
+      "score": 6.0
+    },
+    {
+      "titular": "Santa Cruz pasa de 39 °C a un frente frío con lluvias a mitad de semana",
+      "resumen": "El pronóstico publicado por Agro Sinergia (22/11) marca máximas de 39 °C en la Chiquitania y 37 °C en Cordillera hasta el 24/11, con ráfagas del norte de más de 70 km/h. Desde el 25/11 entra un frente frío con lluvias moderadas a fuertes en todo el departamento, en plena siembra de verano.",
+      "fuente": "Agro Sinergia, 22 de noviembre de 2026",
+      "url": "https://agrosinergia.com.bo/altas-temperaturas-fuertes-vientos-del-norte-y-sur-leve-con-lluvias/",
+      "vertical": "clima",
+      "pais": "BO",
+      "impacto": "bajo",
+      "score": 5.6
+    }
+  ]
+}
