@@ -12,16 +12,6 @@
       "score": 7.6
     },
     {
-      "titular": "El stock de arábica de ICE toca un mínimo de 27 años mientras el café brasileño hace fila para entrar",
-      "resumen": "Según Barchart (20/11), el stock certificado de arábica en ICE cayó a 186.414 sacas el 16/11, mínimo en 27 años, y 251.230 sacas esperaban clasificación el 20/11, máximo en 3,75 años. Vietnam proyecta robusta 2026/27 en 2,1 Mt (+5%) y el robusta tocó mínimo de 2,75 años.",
-      "fuente": "Barchart vía TradingView News, 20 de noviembre de 2026",
-      "url": "https://www.tradingview.com/news/barchart:c265a50d4094b:0-coffee-prices-fall-on-expectations-of-abundant-supplies/",
-      "vertical": "cafe",
-      "pais": "GLOBAL",
-      "impacto": "medio",
-      "score": 7.0
-    },
-    {
       "titular": "La selva peruana exporta 22,7% menos: el cacao en grano vende menos de la mitad",
       "resumen": "Según el Mincetur (reporte regional de septiembre, vía Agraria.pe 20/11), la agroexportación de la selva sumó US$ 1.614 M en enero-septiembre de 2026 (−22,7%). El cacao en grano cayó a US$ 361 M (−55,6%) y el café a US$ 941 M (−3,9%); el total agro creció 1,2% gracias a la costa.",
       "fuente": "Mincetur vía Agraria.pe, 20 de noviembre de 2026",
@@ -29,7 +19,17 @@
       "vertical": "cacao",
       "pais": "PE",
       "impacto": "alto",
-      "score": 7.3
+      "score": 7.2
+    },
+    {
+      "titular": "El stock de arábica de ICE toca un mínimo de 27 años mientras el café brasileño hace fila para entrar",
+      "resumen": "Según Barchart (20/11), el stock certificado de arábica en ICE cayó a 186.414 sacas el 16/11, mínimo en 27 años, y 251.230 sacas esperaban clasificación el 20/11, máximo en 3,75 años. Vietnam proyecta robusta 2026/27 en 2,1 Mt (+5%) y el robusta tocó mínimo de 2,75 años.",
+      "fuente": "Barchart vía TradingView News, 20 de noviembre de 2026",
+      "url": "https://www.tradingview.com/news/barchart:c265a50d4094b:0-coffee-prices-fall-on-expectations-of-abundant-supplies/",
+      "vertical": "cafe",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.9
     },
     {
       "titular": "Costa de Marfil entrega 47% menos cacao en puerto y Ecuador suma inundaciones",
@@ -39,7 +39,7 @@
       "vertical": "cacao",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 7.1
+      "score": 6.9
     },
     {
       "titular": "Los gremios agrarios del Perú prevén menos uva, arándano y palta por El Niño hasta 2027",
@@ -49,7 +49,7 @@
       "vertical": "clima",
       "pais": "PE",
       "impacto": "alto",
-      "score": 7.0
+      "score": 6.8
     },
     {
       "titular": "El Niño se calienta en la costa sudamericana: Niño 1+2 llega a +4,9 °C",
@@ -59,7 +59,7 @@
       "vertical": "clima",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 6.8
+      "score": 6.7
     },
     {
       "titular": "El Brent cae 3,5% en un día y vuelve a niveles de fines de agosto",
@@ -69,7 +69,7 @@
       "vertical": "energia",
       "pais": "GLOBAL",
       "impacto": "medio",
-      "score": 6.4
+      "score": 6.2
     },
     {
       "titular": "La bichera le cuesta a la ganadería andina US$ 240 millones al año; Bolivia, US$ 66 millones",
@@ -89,7 +89,7 @@
       "vertical": "insumos",
       "pais": "PE",
       "impacto": "bajo",
-      "score": 6.0
+      "score": 5.9
     },
     {
       "titular": "Santa Cruz pasa de 39 °C a un frente frío con lluvias a mitad de semana",
@@ -99,7 +99,7 @@
       "vertical": "clima",
       "pais": "BO",
       "impacto": "bajo",
-      "score": 5.6
+      "score": 5.4
     }
   ]
 }
