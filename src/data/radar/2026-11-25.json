@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-25",
+  "items": [
+    {
+      "titular": "El diésel boliviano sube 14,6% y queda segundo más caro de Sudamérica",
+      "resumen": "La ANH elevó el diésel de Bs 17,95 a Bs 20,57 por litro desde el 24/11, en aplicación del Decreto Supremo 5716 (banda de 5% sobre la referencia del ULSD de Houston). Al tipo de cambio oficial son US$ 1,75 por litro; solo el Perú está más alto en la región (US$ 1,99), según Red Uno.",
+      "fuente": "ANH vía Bloomberg Línea, 24 de noviembre de 2026",
+      "url": "https://www.bloomberglinea.com/latinoamerica/bolivia/precio-del-diesel-en-bolivia-sube-a-bs-2057-el-litro-y-un-exministro-anticipa-cuando-podria-bajar/",
+      "vertical": "energia",
+      "pais": "BO",
+      "impacto": "alto",
+      "score": 8.2
+    },
+    {
+      "titular": "El boliviano pierde 21,1% desde la flotación: el oficial llega a Bs 11,78",
+      "resumen": "Según Bloomberg Línea (vía El Día, 24/11), el tipo de cambio oficial del martes fue Bs 11,78 por dólar, contra Bs 9,73 al inicio del régimen flexible el 29/06 (−21,1%; −41,53% contra la referencia de Bs 6,96). El BCB mantiene su previsión de inflación 2026 en 9,2%; la acumulada a octubre es 6,03%.",
+      "fuente": "Bloomberg Línea y BCB vía El Día, 24 de noviembre de 2026",
+      "url": "https://www.eldia.com.bo/2026-11-24/economia/bloomberg-con--4153-el-boliviano-es-el-que-mas-se-deprecio-frente-al-dolar-en-el-2026.html",
+      "vertical": "macro",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.7
+    },
+    {
+      "titular": "El USDA deja el stock mundial de azúcar en su mínimo desde 2011/12",
+      "resumen": "En su informe semestral del 17/11, el USDA recorta el superávit 2026/27 de 4,9 a 1,6 M t y estima el stock final en 39,8 M t (−12%). La relación stock/consumo cae a 22,6%, la menor en 15 años, según la lectura de Itaú BBA (23/11).",
+      "fuente": "USDA, Sugar: World Markets and Trade, vía Itaú BBA (Notícias Agrícolas), 23 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/sucroenergetico/431792-acucar-oferta-global-encolhe-e-estoques-atingem-menor-nivel-em-15-anos-aponta-itau-bba.html",
+      "vertical": "azucar",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.5
+    },
+    {
+      "titular": "J.P. Morgan ve sobra de crudo en 2027 y un Brent por debajo de 80",
+      "resumen": "El banco proyecta un superávit de 1,6 M de barriles diarios en 2027 aun con China reponiendo stocks, compatible con un Brent en la parte alta de los 70 dólares en el primer semestre y de los 60 en el segundo (Rigzone, 25/11). El Brent cerró el 24/11 en 91,40 US$/bbl (+2,3%); la OPEP+ se reúne el 29/11.",
+      "fuente": "J.P. Morgan vía Rigzone, 25 de noviembre de 2026; TradingEconomics",
+      "url": "https://www.rigzone.com/news/jp_morgan_outlines_oil_outlook_for_2027_2028-25-nov-2026-185163-article/",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "Las lluvias frenan la zafra de Guabirá: molienda recortada a 3,3 M t",
+      "resumen": "El ingenio cruceño suma más de 50 días de interrupciones por suelos saturados en el norte integrado y bajó su meta de 3,5 a 3,3 M t de caña (−5,7%). Llevaba unas 3,08 M t procesadas y muele cerca de 20.000 t diarias, según AgroLatam (24/11).",
+      "fuente": "AgroLatam, 24 de noviembre de 2026",
+      "url": "https://www.agrolatam.com/agricultura-latam/las-lluvias-golpean-la-zafra-azucarera-de-bolivia-y-obligan-a-reducir-las-metas/",
+      "vertical": "azucar",
+      "pais": "BO",
+      "impacto": "medio",
+      "score": 6.1
+    },
+    {
+      "titular": "La harina de soja sube otra rueda y el aceite cede en Chicago",
+      "resumen": "El 24/11 la harina de soja dic cerró en 353,00 US$/t corta (+7,30) y el aceite dic en 58,11 ¢/lb (−125 puntos); la soja ene ganó 5¼ ¢ a 12,34 US$/bu por compras de fondos, según Brownfield.",
+      "fuente": "Brownfield Ag News, Closing Commodity Numbers, 24 de noviembre de 2026",
+      "url": "https://www.brownfieldagnews.com/ag-markets/",
+      "vertical": "soya",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 6.0
+    },
+    {
+      "titular": "El ENFEN ve un Niño Costero extraordinario hasta febrero de 2027",
+      "resumen": "Según el comunicado del ENFEN del 13/11, citado por Agraria.pe (24/11), El Niño Costero seguiría con magnitud extraordinaria hasta febrero de 2027, con lluvias por encima de lo normal en la costa norte y central y en la sierra occidental del Perú.",
+      "fuente": "ENFEN vía Agraria.pe, 24 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/cinco-desafios-que-enfrenta-el-agro-peruano-ante-el-fenomeno-43527",
+      "vertical": "clima",
+      "pais": "PE",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El Baltic Dry toca su máximo desde el 5 de octubre",
+      "resumen": "El índice de fletes a granel sólido subió 2,27% el 24/11 a 3.068 puntos, segunda suba seguida. El capesize ganó 3,4% (4.942) y el panamax, que lleva granos, 1,4% (2.179), según TradingEconomics.",
+      "fuente": "Baltic Exchange vía TradingEconomics, 24 de noviembre de 2026",
+      "url": "https://tradingeconomics.com/commodity/baltic",
+      "vertical": "logistica",
+      "pais": "GLOBAL",
+      "impacto": "bajo",
+      "score": 5.8
+    },
+    {
+      "titular": "Brasil acelera la compra de fertilizantes en la segunda mitad de noviembre",
+      "resumen": "Con datos de la Secex del 23/11, Brasil importó en promedio unas 189.800 t diarias de fertilizantes en los primeros 13 días hábiles de noviembre, 7,3% más que un año antes; en los primeros cuatro días hábiles iba 26,3% abajo (AgroLatam).",
+      "fuente": "Secex vía AgroLatam, 23 de noviembre de 2026",
+      "url": "https://www.agrolatam.com/mercados-latam/brasil-acelera-la-compra-de-fertilizantes-las-importaciones-crecen-7-3-en-noviembre/",
+      "vertical": "insumos",
+      "pais": "BR",
+      "impacto": "bajo",
+      "score": 5.7
+    }
+  ]
+}
