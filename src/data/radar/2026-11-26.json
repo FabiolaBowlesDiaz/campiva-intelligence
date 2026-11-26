@@ -1,0 +1,105 @@
+{
+  "fecha": "2026-11-26",
+  "items": [
+    {
+      "titular": "La harina de soya sube 13% en noviembre y Bolivia ya ajustó su referencia",
+      "resumen": "En Chicago, la harina para diciembre pasó de 351,85 US$/t (06/11) a 398,59 US$/t (25/11), +13,3%, según el Informe Diario SAGyP; el 25/11 subió 2,5%. En Bolivia, el precio referencial de la harina solvente de noviembre quedó en 379 US$/t, contra 362 en octubre (+4,7%, MDPRyA, datos preliminares).",
+      "fuente": "SAGyP, Informe Diario del Mercado de Granos, 25 de noviembre de 2026; MDPRyA (data-bolivia)",
+      "url": "https://data-bolivia.produccion.gob.bo/producto/soya",
+      "vertical": "nutricion-animal",
+      "pais": "LATAM",
+      "impacto": "alto",
+      "score": 7.9
+    },
+    {
+      "titular": "El Perú podría cosechar hasta 45% menos palta Hass en 2027 por El Niño",
+      "resumen": "ProHass atribuye a temperaturas con anomalías de más de 6 °C durante la floración y el cuajado el daño en los huertos; la caída frente a la campaña 2026 sería de hasta 45%. El mayor impacto se concentra en el norte, donde está cerca de 40% del área cultivada.",
+      "fuente": "ProHass vía Agraria.pe, 25 de noviembre de 2026",
+      "url": "https://agraria.pe/noticias/el-nino-produccion-de-palta-hass-de-peru-caeria-hasta-en-45--43530",
+      "vertical": "frutas",
+      "pais": "PE",
+      "impacto": "alto",
+      "score": 6.7
+    },
+    {
+      "titular": "El Brent sube 3,5% tras el ataque a la refinería saudita de Ras Tanura",
+      "resumen": "El Brent cerró el 25/11 en 94,61 US$/bbl (+3,21) y el WTI en 83,68 (+1,63), después de que los hutíes de Yemen reivindicaran el ataque a Ras Tanura, la mayor refinería de Arabia Saudita y terminal de exportación. Ambos ya habían subido más de 2% el 24/11.",
+      "fuente": "Reuters vía Notícias Agrícolas, 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/petroleo/431982-petroleo-sobe-apos-houthis-assumirem-autoria-de-ataque-a-refinaria-saudita.html",
+      "vertical": "energia",
+      "pais": "GLOBAL",
+      "impacto": "alto",
+      "score": 6.6
+    },
+    {
+      "titular": "EE.UU. propone cobrar por tonelada el azúcar que entre fuera de cuota",
+      "resumen": "El USTR propuso el 25/11, dentro de la revisión de la Sección 301, reemplazar el adicional de 25% por montos fijos: US$ 440/t para el azúcar crudo de caña y US$ 600/t para el refinado y el de remolacha. Con los aranceles regulares, el total llegaría a US$ 778,70 y US$ 957,40 por tonelada.",
+      "fuente": "USTR vía Notícias Agrícolas, 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/sucroenergetico/431957-eua-propoem-novas-tarifas-sobre-acucar-importado-e-podem-elevar-custo-de-entrada-do-produto-brasileiro.html",
+      "vertical": "azucar",
+      "pais": "US",
+      "impacto": "medio",
+      "score": 6.3
+    },
+    {
+      "titular": "El azúcar rebota 3,5% con una India que producirá menos",
+      "resumen": "El azúcar crudo marzo subió 68 pts (+3,51%) el 25/11, hasta 18,34 ¢/lb, después de que la ISMA proyectara la producción india 2026/27 en 26,5 M t, 5,4% menos que los 28 M t del ciclo anterior. El viernes previo había tocado un mínimo de tres meses y medio.",
+      "fuente": "ISMA vía Notícias Agrícolas, 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/sucroenergetico/431963-acucar-fecha-em-forte-alta-com-previsao-de-queda-na-producao-da-india.html",
+      "vertical": "azucar",
+      "pais": "IN",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Europa tiene parada 28% de su capacidad de amoníaco por el gas caro",
+      "resumen": "Según el Financial Times (24/11), al menos 5 M t anuales de capacidad de amoníaco siguen paralizadas en Europa, 28% del total, y la cifra podría llegar a 35%. El gas natural explica cerca de 70% del costo de fabricar fertilizantes nitrogenados, lo que presiona la oferta mundial.",
+      "fuente": "Financial Times vía AgroLatam, 25 de noviembre de 2026",
+      "url": "https://www.agrolatam.com/actualidad-latam/europa-paraliza-fabricas-de-fertilizantes-y-amenaza-los-costos-del-agro-latinoamericano/",
+      "vertical": "insumos",
+      "pais": "GLOBAL",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "Mato Grosso crecerá en soya por rinde más que por área hasta 2036",
+      "resumen": "El IMEA proyecta la cosecha de soya de Mato Grosso en 69,95 M t para 2035/36 (+35,66% frente a 2025/26), con un área de 16,41 M ha (+26,10%). El área crecerá 2,35% al año, contra 3,4% anual en la década previa, por menos pasturas aptas para convertir.",
+      "fuente": "IMEA vía Reuters / Notícias Agrícolas, 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/soja/431958-imea-projeta-aumento-de-3566-na-safra-de-soja-de-mato-grosso-em-dez-anos.html",
+      "vertical": "soya",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 6.2
+    },
+    {
+      "titular": "JBS espera que el pollo brasileño vuelva a la Unión Europea en diciembre",
+      "resumen": "El CEO global de JBS estimó el 25/11 que la UE reabrirá en diciembre las compras de carne de pollo de Brasil, suspendidas en septiembre por el tema de antimicrobianos prohibidos. La reapertura se esperaba para mediados de noviembre y las autoridades europeas la postergaron; en carne bovina el plazo sería mayor.",
+      "fuente": "Reuters vía Notícias Agrícolas, 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/granjeiros/431974-ceo-da-jbs-espera-retomada-de-vendas-de-frango-do-brasil-a-ue-em-dezembro.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "medio",
+      "score": 5.9
+    },
+    {
+      "titular": "El arábica sube 740 puntos por el exceso de lluvia previsto en Minas Gerais",
+      "resumen": "El arábica marzo cerró el 25/11 en 270,00 ¢/lb (+2,82%) por recompra de posiciones ante pronósticos de lluvias intensas por diez días en Minas Gerais. En el físico brasileño las alzas llegaron a 2,29% (Machado, R$ 1.790 la saca), pese a un dólar 1,59% más bajo.",
+      "fuente": "Notícias Agrícolas (con Barchart), 25 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/cafe/431970-cafe-sobe-mais-de-700-pontos-em-ny-e-impulsiona-altas-de-ate-2-3-no-brasil-nesta-4.html",
+      "vertical": "cafe",
+      "pais": "BR",
+      "impacto": "bajo",
+      "score": 5.6
+    },
+    {
+      "titular": "Brasil retiene hembras: la vaca vale R$ 34,80 menos por arroba que el novillo",
+      "resumen": "Según el Cepea, en noviembre (hasta el 24/11) la arroba de la novilla promedió R$ 21,24 menos que la del buey gordo en São Paulo y la de la vaca R$ 34,80 menos. Menos hembras a faena restringe la oferta de corto plazo y anticipa más terneros en los ciclos siguientes.",
+      "fuente": "Cepea vía Notícias Agrícolas, 26 de noviembre de 2026",
+      "url": "https://www.noticiasagricolas.com.br/noticias/boi/431984-boi-cepea-diferenca-de-precos-entre-boi-gordo-e-femeas-sinaliza-mudancas-no-ciclo-pecuario.html",
+      "vertical": "proteina-animal",
+      "pais": "BR",
+      "impacto": "bajo",
+      "score": 5.5
+    }
+  ]
+}

@@ -6,7 +6,7 @@ tipo: dato-estrategico
 vertical: cafe
 pais: BR
 score: 7.6
-destacado: true
+destacado: false
 lectura: "Para esta casa, el informe del USDA corrige una parte de la lectura de noviembre. El café que llega al puerto es mucho, pero casi nada queda guardado: Brasil cerrará la campaña con stock para unas dos semanas y media de uso. El precio bajó por el flujo de embarques. Si la floración de 2027/28 falla con El Niño, no habrá reservas que amortigüen el golpe. Para el café peruano, la baja de hoy no es un piso firme ni un techo firme: es un mercado sin colchón."
 cifras:
   - label: "Brasil, cosecha de café 2026/27"
