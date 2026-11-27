@@ -1,6 +1,6 @@
 {
   "_pipeline": "Actualizado por la corrida diaria del Campiva Intelligence Desk. Cada corrida appendea el cierre a 'serie' (máx. 30 puntos) — los sparklines aparecen solos cuando hay ≥ 2 días acumulados. Ninguna cifra entra sin fuente verificada en la misma corrida.",
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "items": [
     {
       "id": "soya-cbot",
@@ -263,15 +263,14 @@
     {
       "id": "brent",
       "nombre": "Brent",
-      "valor": "94,61",
+      "valor": "96,57",
       "unidad": "US$/bbl",
-      "cambio": 3.5,
+      "cambio": 2.1,
       "cambioLabel": "diaria",
-      "fuente": "ICE Brent: cierre del 25/11 de 94,61 US$/bbl (+3,21; +3,5%) según Reuters (vía Notícias Agrícolas), tras el ataque reivindicado por los hutíes a la refinería saudita de Ras Tanura; coincide con TradingEconomics (Previous 94,61). WTI ene 83,68 (+1,63). Cambio contra la serie propia",
-      "asOf": "2026-11-25",
+      "fuente": "ICE Brent: cierre del 26/11 de 96,57 US$/bbl (+1,96) según Reuters (vía Notícias Agrícolas), tras el reporte iraní de dos petroleros que chocaron con minas en el estrecho de Ormuz; el WTI no tuvo cierre por el feriado de Acción de Gracias en EE.UU. TradingEconomics (CFD) da 96,39 como cierre previo, probable efecto del cambio de contrato de fin de mes; se usa el settle de Reuters. Cambio contra la serie propia",
+      "asOf": "2026-11-26",
       "verificado": true,
       "serie": [
-        106.06,
         105.92,
         109.55,
         108.79,
@@ -300,21 +299,21 @@
         92.57,
         89.37,
         91.4,
-        94.61
+        94.61,
+        96.57
       ]
     },
     {
       "id": "soja-matba",
       "nombre": "Soja Matba (Arg.)",
-      "valor": "361,00",
+      "valor": "359,00",
       "unidad": "US$/t",
-      "cambio": -0.1,
+      "cambio": -0.6,
       "cambioLabel": "diaria",
-      "fuente": "Matba-Rofex pos. ENE2027 via Informe Diario SAGyP (25/11: 361,00; anterior 361,40). Cambio diario 361,40 → 361,00",
-      "asOf": "2026-11-25",
+      "fuente": "Matba-Rofex pos. ENE2027 via Informe Diario SAGyP (26/11: 359,00; anterior 361,00). Cambio diario 361,00 → 359,00",
+      "asOf": "2026-11-26",
       "verificado": true,
       "serie": [
-        373.4,
         374.2,
         373.5,
         374.2,
@@ -343,21 +342,21 @@
         357.4,
         360.2,
         361.4,
-        361.0
+        361.0,
+        359.0
       ]
     },
     {
       "id": "maiz-matba",
       "nombre": "Maíz Matba (Arg.)",
-      "valor": "179,20",
+      "valor": "177,00",
       "unidad": "US$/t",
-      "cambio": -0.7,
+      "cambio": -1.2,
       "cambioLabel": "diaria",
-      "fuente": "Matba-Rofex pos. DIC2026 via Informe Diario SAGyP (25/11: 179,20; anterior 180,50). Cambio diario 180,50 → 179,20",
-      "asOf": "2026-11-25",
+      "fuente": "Matba-Rofex pos. DIC2026 via Informe Diario SAGyP (26/11: 177,00; anterior 179,20). Cambio diario 179,20 → 177,00",
+      "asOf": "2026-11-26",
       "verificado": true,
       "serie": [
-        200.0,
         199.0,
         199.0,
         196.0,
@@ -386,18 +385,19 @@
         185.0,
         182.2,
         180.5,
-        179.2
+        179.2,
+        177.0
       ]
     },
     {
       "id": "drewry-wci",
       "nombre": "Drewry WCI",
-      "valor": "4.176",
+      "valor": "4.032",
       "unidad": "US$/FEU",
-      "cambio": -3.0,
+      "cambio": -3.4,
       "cambioLabel": "semanal",
-      "fuente": "Drewry World Container Index (19/11: −3%; Shanghai–Nueva York 8.194, Shanghai–Rotterdam 3.496 US$/FEU; +126% interanual)",
-      "asOf": "2026-11-19",
+      "fuente": "Drewry World Container Index (26/11: −3%; Shanghai–Nueva York 7.615 (−7%), Shanghai–Los Ángeles 6.437 (−8%) US$/FEU; Transpacífico ocho semanas en baja). Cambio contra la serie propia",
+      "asOf": "2026-11-26",
       "verificado": true,
       "serie": [
         4530,
@@ -420,21 +420,21 @@
         4429,
         4389,
         4305,
-        4176
+        4176,
+        4032
       ]
     },
     {
       "id": "baltic-dry",
       "nombre": "Baltic Dry",
-      "valor": "3.107",
+      "valor": "3.152",
       "unidad": "pts",
-      "cambio": 1.3,
+      "cambio": 1.4,
       "cambioLabel": "diaria",
-      "fuente": "Baltic Exchange via TradingEconomics (cierre 25/11: 3.107, +39 puntos, +1,27%)",
-      "asOf": "2026-11-25",
+      "fuente": "Baltic Exchange via TradingEconomics (cierre 26/11: 3.152, +45 puntos, +1,45%)",
+      "asOf": "2026-11-26",
       "verificado": true,
       "serie": [
-        2667,
         2545,
         2546,
         2593,
@@ -463,7 +463,8 @@
         2898.0,
         3000,
         3068,
-        3107
+        3107,
+        3152
       ]
     },
     {
